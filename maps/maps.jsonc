@@ -1,13 +1,13 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
-    "name": "techs and civics",
+    "name": "map1",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/map.png"
   },
   {
-    "name": "boosts",
+    "name": "map2",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/map.png"
