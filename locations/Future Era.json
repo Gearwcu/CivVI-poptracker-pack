@@ -1,0 +1,1324 @@
+[
+    {
+        "name": "Future Era - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "BOOST NUCLEAR_FUSION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_nuclear_fusion_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "851",
+                        "y": "2091",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST BUTTRESS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_buttress_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1261",
+                        "y": "1610",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST REFINING - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_refining_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "970",
+                        "y": "995",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SEASTEADS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_seasteads_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "153",
+                        "y": "528",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ADVANCED_AI - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_advanced_ai_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1164",
+                        "y": "1004",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ADVANCED_POWER_CELLS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_advanced_power_cells_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "895",
+                        "y": "1380",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CYBERNETICS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_cybernetics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2387",
+                        "y": "1569",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SMART_MATERIALS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_smart_materials_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "777",
+                        "y": "1511",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST PREDICTIVE_SYSTEMS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_predictive_systems_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "823",
+                        "y": "1831",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST OFFWORLD_MISSION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_boost_offworld_mission_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1570",
+                        "y": "79",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Seasteads - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_seasteads_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2195",
+                        "y": "159",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Advanced AI - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_advanced_ai_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "279",
+                        "y": "1405",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Advanced Power Cells - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_advanced_power_cells_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2254",
+                        "y": "382",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Offworld Mission - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_offworld_mission_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "524",
+                        "y": "594",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Smart Materials - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_smart_materials_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1910",
+                        "y": "572",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Predictive Systems - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_predictive_systems_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2366",
+                        "y": "735",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Future Tech - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_future_tech_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "588",
+                        "y": "441",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Cybernetics - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_cybernetics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1733",
+                        "y": "66",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Smart Power Doctrine - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_smart_power_doctrine_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "152",
+                        "y": "1901",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Global Warming Mitigation - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_global_warming_mitigation_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1173",
+                        "y": "366",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Future Civic - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_future_civic_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1621",
+                        "y": "472",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Information Warfare - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_information_warfare_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "157",
+                        "y": "1041",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Exodus Imperative - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_exodus_imperative_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "674",
+                        "y": "138",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Cultural Hegemony - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_cultural_hegemony_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1818",
+                        "y": "321",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Future Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "future_era_future_era_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1969",
+                        "y": "2370",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Future Era",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "BOOST NUCLEAR_FUSION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "851",
+                        "y": "2091",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST BUTTRESS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1261",
+                        "y": "1610",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST REFINING",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "970",
+                        "y": "995",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SEASTEADS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "153",
+                        "y": "528",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ADVANCED_AI",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1164",
+                        "y": "1004",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ADVANCED_POWER_CELLS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "895",
+                        "y": "1380",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CYBERNETICS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2387",
+                        "y": "1569",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SMART_MATERIALS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "777",
+                        "y": "1511",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST PREDICTIVE_SYSTEMS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "823",
+                        "y": "1831",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST OFFWORLD_MISSION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1570",
+                        "y": "79",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Seasteads",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2195",
+                        "y": "159",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Advanced AI",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "279",
+                        "y": "1405",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Advanced Power Cells",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2254",
+                        "y": "382",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Offworld Mission",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "524",
+                        "y": "594",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Smart Materials",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1910",
+                        "y": "572",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Predictive Systems",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "2366",
+                        "y": "735",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Future Tech",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "588",
+                        "y": "441",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Cybernetics",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1733",
+                        "y": "66",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Smart Power Doctrine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "152",
+                        "y": "1901",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Global Warming Mitigation",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1173",
+                        "y": "366",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Future Civic",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1621",
+                        "y": "472",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Information Warfare",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "157",
+                        "y": "1041",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Exodus Imperative",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "674",
+                        "y": "138",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Cultural Hegemony",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1818",
+                        "y": "321",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Future Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Future Era",
+                        "x": "1969",
+                        "y": "2370",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

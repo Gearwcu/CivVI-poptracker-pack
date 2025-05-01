@@ -1,0 +1,2590 @@
+[
+    {
+        "name": "Overworld Hints",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Ancient Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Pottery -  - hint",
+                        "ref": "Ancient Era - hint/Pottery - hint/ - hint"
+                    },
+                    {
+                        "name": "Animal Husbandry -  - hint",
+                        "ref": "Ancient Era - hint/Animal Husbandry - hint/ - hint"
+                    },
+                    {
+                        "name": "Mining -  - hint",
+                        "ref": "Ancient Era - hint/Mining - hint/ - hint"
+                    },
+                    {
+                        "name": "Sailing -  - hint",
+                        "ref": "Ancient Era - hint/Sailing - hint/ - hint"
+                    },
+                    {
+                        "name": "Astrology -  - hint",
+                        "ref": "Ancient Era - hint/Astrology - hint/ - hint"
+                    },
+                    {
+                        "name": "Irigation -  - hint",
+                        "ref": "Ancient Era - hint/Irigation - hint/ - hint"
+                    },
+                    {
+                        "name": "Writing -  - hint",
+                        "ref": "Ancient Era - hint/Writing - hint/ - hint"
+                    },
+                    {
+                        "name": "Archery -  - hint",
+                        "ref": "Ancient Era - hint/Archery - hint/ - hint"
+                    },
+                    {
+                        "name": "Masonry -  - hint",
+                        "ref": "Ancient Era - hint/Masonry - hint/ - hint"
+                    },
+                    {
+                        "name": "Bronze Working -  - hint",
+                        "ref": "Ancient Era - hint/Bronze Working - hint/ - hint"
+                    },
+                    {
+                        "name": "Wheel -  - hint",
+                        "ref": "Ancient Era - hint/Wheel - hint/ - hint"
+                    },
+                    {
+                        "name": "Code Of Laws -  - hint",
+                        "ref": "Ancient Era - hint/Code Of Laws - hint/ - hint"
+                    },
+                    {
+                        "name": "Craftmanship -  - hint",
+                        "ref": "Ancient Era - hint/Craftmanship - hint/ - hint"
+                    },
+                    {
+                        "name": "Foreign Trade -  - hint",
+                        "ref": "Ancient Era - hint/Foreign Trade - hint/ - hint"
+                    },
+                    {
+                        "name": "Military Tradition -  - hint",
+                        "ref": "Ancient Era - hint/Military Tradition - hint/ - hint"
+                    },
+                    {
+                        "name": "State Workforce -  - hint",
+                        "ref": "Ancient Era - hint/State Workforce - hint/ - hint"
+                    },
+                    {
+                        "name": "Early Empire -  - hint",
+                        "ref": "Ancient Era - hint/Early Empire - hint/ - hint"
+                    },
+                    {
+                        "name": "Mysticism -  - hint",
+                        "ref": "Ancient Era - hint/Mysticism - hint/ - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 1 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/1 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 2 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/2 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 3 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/3 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 4 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/4 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 5 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/5 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 6 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/6 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 7 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/7 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 8 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/8 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 9 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/9 - hint"
+                    },
+                    {
+                        "name": "Goody Huts - 10 - hint",
+                        "ref": "Ancient Era - hint/Goody Huts - hint/10 - hint"
+                    },
+                    {
+                        "name": "BOOST SAILING -  - hint",
+                        "ref": "Ancient Era - hint/BOOST SAILING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ASTROLOGY -  - hint",
+                        "ref": "Ancient Era - hint/BOOST ASTROLOGY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST IRRIGATION -  - hint",
+                        "ref": "Ancient Era - hint/BOOST IRRIGATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ARCHERY -  - hint",
+                        "ref": "Ancient Era - hint/BOOST ARCHERY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST WRITING -  - hint",
+                        "ref": "Ancient Era - hint/BOOST WRITING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MASONRY -  - hint",
+                        "ref": "Ancient Era - hint/BOOST MASONRY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST BRONZE_WORKING -  - hint",
+                        "ref": "Ancient Era - hint/BOOST BRONZE_WORKING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST THE_WHEEL -  - hint",
+                        "ref": "Ancient Era - hint/BOOST THE_WHEEL - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CRAFTSMANSHIP -  - hint",
+                        "ref": "Ancient Era - hint/BOOST CRAFTSMANSHIP - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST FOREIGN_TRADE -  - hint",
+                        "ref": "Ancient Era - hint/BOOST FOREIGN_TRADE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MILITARY_TRADITION -  - hint",
+                        "ref": "Ancient Era - hint/BOOST MILITARY_TRADITION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST STATE_WORKFORCE -  - hint",
+                        "ref": "Ancient Era - hint/BOOST STATE_WORKFORCE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST EARLY_EMPIRE -  - hint",
+                        "ref": "Ancient Era - hint/BOOST EARLY_EMPIRE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MYSTICISM -  - hint",
+                        "ref": "Ancient Era - hint/BOOST MYSTICISM - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "833",
+                        "y": "1936",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Atomic Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST ADVANCED_FLIGHT -  - hint",
+                        "ref": "Atomic Era - hint/BOOST ADVANCED_FLIGHT - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ROCKETRY -  - hint",
+                        "ref": "Atomic Era - hint/BOOST ROCKETRY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ADVANCED_BALLISTICS -  - hint",
+                        "ref": "Atomic Era - hint/BOOST ADVANCED_BALLISTICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST COMBINED_ARMS -  - hint",
+                        "ref": "Atomic Era - hint/BOOST COMBINED_ARMS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST PLASTICS -  - hint",
+                        "ref": "Atomic Era - hint/BOOST PLASTICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST COMPUTERS -  - hint",
+                        "ref": "Atomic Era - hint/BOOST COMPUTERS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST NUCLEAR_FISSION -  - hint",
+                        "ref": "Atomic Era - hint/BOOST NUCLEAR_FISSION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SYNTHETIC_MATERIALS -  - hint",
+                        "ref": "Atomic Era - hint/BOOST SYNTHETIC_MATERIALS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST COLD_WAR -  - hint",
+                        "ref": "Atomic Era - hint/BOOST COLD_WAR - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST PROFESSIONAL_SPORTS -  - hint",
+                        "ref": "Atomic Era - hint/BOOST PROFESSIONAL_SPORTS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CULTURAL_HERITAGE -  - hint",
+                        "ref": "Atomic Era - hint/BOOST CULTURAL_HERITAGE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST RAPID_DEPLOYMENT -  - hint",
+                        "ref": "Atomic Era - hint/BOOST RAPID_DEPLOYMENT - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SPACE_RACE -  - hint",
+                        "ref": "Atomic Era - hint/BOOST SPACE_RACE - hint/ - hint"
+                    },
+                    {
+                        "name": "Advanced Flight -  - hint",
+                        "ref": "Atomic Era - hint/Advanced Flight - hint/ - hint"
+                    },
+                    {
+                        "name": "Rocketry -  - hint",
+                        "ref": "Atomic Era - hint/Rocketry - hint/ - hint"
+                    },
+                    {
+                        "name": "Advanced Ballistics -  - hint",
+                        "ref": "Atomic Era - hint/Advanced Ballistics - hint/ - hint"
+                    },
+                    {
+                        "name": "Combined Arms -  - hint",
+                        "ref": "Atomic Era - hint/Combined Arms - hint/ - hint"
+                    },
+                    {
+                        "name": "Plastics -  - hint",
+                        "ref": "Atomic Era - hint/Plastics - hint/ - hint"
+                    },
+                    {
+                        "name": "Computers -  - hint",
+                        "ref": "Atomic Era - hint/Computers - hint/ - hint"
+                    },
+                    {
+                        "name": "Nuclear Fission -  - hint",
+                        "ref": "Atomic Era - hint/Nuclear Fission - hint/ - hint"
+                    },
+                    {
+                        "name": "Synthetic Materials -  - hint",
+                        "ref": "Atomic Era - hint/Synthetic Materials - hint/ - hint"
+                    },
+                    {
+                        "name": "Cultural Heritage -  - hint",
+                        "ref": "Atomic Era - hint/Cultural Heritage - hint/ - hint"
+                    },
+                    {
+                        "name": "Cold War -  - hint",
+                        "ref": "Atomic Era - hint/Cold War - hint/ - hint"
+                    },
+                    {
+                        "name": "Professional Sports -  - hint",
+                        "ref": "Atomic Era - hint/Professional Sports - hint/ - hint"
+                    },
+                    {
+                        "name": "Rapid Deployment -  - hint",
+                        "ref": "Atomic Era - hint/Rapid Deployment - hint/ - hint"
+                    },
+                    {
+                        "name": "Space Race -  - hint",
+                        "ref": "Atomic Era - hint/Space Race - hint/ - hint"
+                    },
+                    {
+                        "name": "Atomic Era -  - hint",
+                        "ref": "Atomic Era - hint/Atomic Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1771",
+                        "y": "1695",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Classical Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST CELESTIAL_NAVIGATION -  - hint",
+                        "ref": "Classical Era - hint/BOOST CELESTIAL_NAVIGATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CURRENCY -  - hint",
+                        "ref": "Classical Era - hint/BOOST CURRENCY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST HORSEBACK_RIDING -  - hint",
+                        "ref": "Classical Era - hint/BOOST HORSEBACK_RIDING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST IRON_WORKING -  - hint",
+                        "ref": "Classical Era - hint/BOOST IRON_WORKING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SHIPBUILDING -  - hint",
+                        "ref": "Classical Era - hint/BOOST SHIPBUILDING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MATHEMATICS -  - hint",
+                        "ref": "Classical Era - hint/BOOST MATHEMATICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CONSTRUCTION -  - hint",
+                        "ref": "Classical Era - hint/BOOST CONSTRUCTION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ENGINEERING -  - hint",
+                        "ref": "Classical Era - hint/BOOST ENGINEERING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST GAMES_RECREATION -  - hint",
+                        "ref": "Classical Era - hint/BOOST GAMES_RECREATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST POLITICAL_PHILOSOPHY -  - hint",
+                        "ref": "Classical Era - hint/BOOST POLITICAL_PHILOSOPHY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST DRAMA_POETRY -  - hint",
+                        "ref": "Classical Era - hint/BOOST DRAMA_POETRY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MILITARY_TRAINING -  - hint",
+                        "ref": "Classical Era - hint/BOOST MILITARY_TRAINING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST DEFENSIVE_TACTICS -  - hint",
+                        "ref": "Classical Era - hint/BOOST DEFENSIVE_TACTICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST RECORDED_HISTORY -  - hint",
+                        "ref": "Classical Era - hint/BOOST RECORDED_HISTORY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST THEOLOGY -  - hint",
+                        "ref": "Classical Era - hint/BOOST THEOLOGY - hint/ - hint"
+                    },
+                    {
+                        "name": "Celestial Navigation -  - hint",
+                        "ref": "Classical Era - hint/Celestial Navigation - hint/ - hint"
+                    },
+                    {
+                        "name": "Currency -  - hint",
+                        "ref": "Classical Era - hint/Currency - hint/ - hint"
+                    },
+                    {
+                        "name": "Horseback Riding -  - hint",
+                        "ref": "Classical Era - hint/Horseback Riding - hint/ - hint"
+                    },
+                    {
+                        "name": "Iron Working -  - hint",
+                        "ref": "Classical Era - hint/Iron Working - hint/ - hint"
+                    },
+                    {
+                        "name": "Shipbuilding -  - hint",
+                        "ref": "Classical Era - hint/Shipbuilding - hint/ - hint"
+                    },
+                    {
+                        "name": "Mathematics -  - hint",
+                        "ref": "Classical Era - hint/Mathematics - hint/ - hint"
+                    },
+                    {
+                        "name": "Construction -  - hint",
+                        "ref": "Classical Era - hint/Construction - hint/ - hint"
+                    },
+                    {
+                        "name": "Engineering -  - hint",
+                        "ref": "Classical Era - hint/Engineering - hint/ - hint"
+                    },
+                    {
+                        "name": "Games And Recreation -  - hint",
+                        "ref": "Classical Era - hint/Games And Recreation - hint/ - hint"
+                    },
+                    {
+                        "name": "Political Philosophy -  - hint",
+                        "ref": "Classical Era - hint/Political Philosophy - hint/ - hint"
+                    },
+                    {
+                        "name": "Drama And Poetry -  - hint",
+                        "ref": "Classical Era - hint/Drama And Poetry - hint/ - hint"
+                    },
+                    {
+                        "name": "Military Training -  - hint",
+                        "ref": "Classical Era - hint/Military Training - hint/ - hint"
+                    },
+                    {
+                        "name": "Defensive Tactics -  - hint",
+                        "ref": "Classical Era - hint/Defensive Tactics - hint/ - hint"
+                    },
+                    {
+                        "name": "Recorded History -  - hint",
+                        "ref": "Classical Era - hint/Recorded History - hint/ - hint"
+                    },
+                    {
+                        "name": "Theology -  - hint",
+                        "ref": "Classical Era - hint/Theology - hint/ - hint"
+                    },
+                    {
+                        "name": "Classical Era -  - hint",
+                        "ref": "Classical Era - hint/Classical Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2368",
+                        "y": "45",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Future Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST NUCLEAR_FUSION -  - hint",
+                        "ref": "Future Era - hint/BOOST NUCLEAR_FUSION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST BUTTRESS -  - hint",
+                        "ref": "Future Era - hint/BOOST BUTTRESS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST REFINING -  - hint",
+                        "ref": "Future Era - hint/BOOST REFINING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SEASTEADS -  - hint",
+                        "ref": "Future Era - hint/BOOST SEASTEADS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ADVANCED_AI -  - hint",
+                        "ref": "Future Era - hint/BOOST ADVANCED_AI - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ADVANCED_POWER_CELLS -  - hint",
+                        "ref": "Future Era - hint/BOOST ADVANCED_POWER_CELLS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CYBERNETICS -  - hint",
+                        "ref": "Future Era - hint/BOOST CYBERNETICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SMART_MATERIALS -  - hint",
+                        "ref": "Future Era - hint/BOOST SMART_MATERIALS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST PREDICTIVE_SYSTEMS -  - hint",
+                        "ref": "Future Era - hint/BOOST PREDICTIVE_SYSTEMS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST OFFWORLD_MISSION -  - hint",
+                        "ref": "Future Era - hint/BOOST OFFWORLD_MISSION - hint/ - hint"
+                    },
+                    {
+                        "name": "Seasteads -  - hint",
+                        "ref": "Future Era - hint/Seasteads - hint/ - hint"
+                    },
+                    {
+                        "name": "Advanced AI -  - hint",
+                        "ref": "Future Era - hint/Advanced AI - hint/ - hint"
+                    },
+                    {
+                        "name": "Advanced Power Cells -  - hint",
+                        "ref": "Future Era - hint/Advanced Power Cells - hint/ - hint"
+                    },
+                    {
+                        "name": "Offworld Mission -  - hint",
+                        "ref": "Future Era - hint/Offworld Mission - hint/ - hint"
+                    },
+                    {
+                        "name": "Smart Materials -  - hint",
+                        "ref": "Future Era - hint/Smart Materials - hint/ - hint"
+                    },
+                    {
+                        "name": "Predictive Systems -  - hint",
+                        "ref": "Future Era - hint/Predictive Systems - hint/ - hint"
+                    },
+                    {
+                        "name": "Future Tech -  - hint",
+                        "ref": "Future Era - hint/Future Tech - hint/ - hint"
+                    },
+                    {
+                        "name": "Cybernetics -  - hint",
+                        "ref": "Future Era - hint/Cybernetics - hint/ - hint"
+                    },
+                    {
+                        "name": "Smart Power Doctrine -  - hint",
+                        "ref": "Future Era - hint/Smart Power Doctrine - hint/ - hint"
+                    },
+                    {
+                        "name": "Global Warming Mitigation -  - hint",
+                        "ref": "Future Era - hint/Global Warming Mitigation - hint/ - hint"
+                    },
+                    {
+                        "name": "Future Civic -  - hint",
+                        "ref": "Future Era - hint/Future Civic - hint/ - hint"
+                    },
+                    {
+                        "name": "Information Warfare -  - hint",
+                        "ref": "Future Era - hint/Information Warfare - hint/ - hint"
+                    },
+                    {
+                        "name": "Exodus Imperative -  - hint",
+                        "ref": "Future Era - hint/Exodus Imperative - hint/ - hint"
+                    },
+                    {
+                        "name": "Cultural Hegemony -  - hint",
+                        "ref": "Future Era - hint/Cultural Hegemony - hint/ - hint"
+                    },
+                    {
+                        "name": "Future Era -  - hint",
+                        "ref": "Future Era - hint/Future Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2435",
+                        "y": "1298",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Industrial Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST INDUSTRIALIZATION -  - hint",
+                        "ref": "Industrial Era - hint/BOOST INDUSTRIALIZATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SCIENTIFIC_THEORY -  - hint",
+                        "ref": "Industrial Era - hint/BOOST SCIENTIFIC_THEORY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST BALLISTICS -  - hint",
+                        "ref": "Industrial Era - hint/BOOST BALLISTICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MILITARY_SCIENCE -  - hint",
+                        "ref": "Industrial Era - hint/BOOST MILITARY_SCIENCE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST STEAM_POWER -  - hint",
+                        "ref": "Industrial Era - hint/BOOST STEAM_POWER - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SANITATION -  - hint",
+                        "ref": "Industrial Era - hint/BOOST SANITATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ECONOMICS -  - hint",
+                        "ref": "Industrial Era - hint/BOOST ECONOMICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST RIFLING -  - hint",
+                        "ref": "Industrial Era - hint/BOOST RIFLING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST COLONIALISM -  - hint",
+                        "ref": "Industrial Era - hint/BOOST COLONIALISM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CIVIL_ENGINEERING -  - hint",
+                        "ref": "Industrial Era - hint/BOOST CIVIL_ENGINEERING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST NATIONALISM -  - hint",
+                        "ref": "Industrial Era - hint/BOOST NATIONALISM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST OPERA_BALLET -  - hint",
+                        "ref": "Industrial Era - hint/BOOST OPERA_BALLET - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST NATURAL_HISTORY -  - hint",
+                        "ref": "Industrial Era - hint/BOOST NATURAL_HISTORY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SCORCHED_EARTH -  - hint",
+                        "ref": "Industrial Era - hint/BOOST SCORCHED_EARTH - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST URBANIZATION -  - hint",
+                        "ref": "Industrial Era - hint/BOOST URBANIZATION - hint/ - hint"
+                    },
+                    {
+                        "name": "Industrialization -  - hint",
+                        "ref": "Industrial Era - hint/Industrialization - hint/ - hint"
+                    },
+                    {
+                        "name": "Scientific Theory -  - hint",
+                        "ref": "Industrial Era - hint/Scientific Theory - hint/ - hint"
+                    },
+                    {
+                        "name": "Ballistics -  - hint",
+                        "ref": "Industrial Era - hint/Ballistics - hint/ - hint"
+                    },
+                    {
+                        "name": "Military Science -  - hint",
+                        "ref": "Industrial Era - hint/Military Science - hint/ - hint"
+                    },
+                    {
+                        "name": "Steam Power -  - hint",
+                        "ref": "Industrial Era - hint/Steam Power - hint/ - hint"
+                    },
+                    {
+                        "name": "Sanitation -  - hint",
+                        "ref": "Industrial Era - hint/Sanitation - hint/ - hint"
+                    },
+                    {
+                        "name": "Economics -  - hint",
+                        "ref": "Industrial Era - hint/Economics - hint/ - hint"
+                    },
+                    {
+                        "name": "Rifling -  - hint",
+                        "ref": "Industrial Era - hint/Rifling - hint/ - hint"
+                    },
+                    {
+                        "name": "Colonialism -  - hint",
+                        "ref": "Industrial Era - hint/Colonialism - hint/ - hint"
+                    },
+                    {
+                        "name": "Civil Engineering -  - hint",
+                        "ref": "Industrial Era - hint/Civil Engineering - hint/ - hint"
+                    },
+                    {
+                        "name": "Nationalism -  - hint",
+                        "ref": "Industrial Era - hint/Nationalism - hint/ - hint"
+                    },
+                    {
+                        "name": "Opera And Ballet -  - hint",
+                        "ref": "Industrial Era - hint/Opera And Ballet - hint/ - hint"
+                    },
+                    {
+                        "name": "Natural History -  - hint",
+                        "ref": "Industrial Era - hint/Natural History - hint/ - hint"
+                    },
+                    {
+                        "name": "Urbanization -  - hint",
+                        "ref": "Industrial Era - hint/Urbanization - hint/ - hint"
+                    },
+                    {
+                        "name": "Scorched Earth -  - hint",
+                        "ref": "Industrial Era - hint/Scorched Earth - hint/ - hint"
+                    },
+                    {
+                        "name": "Industrial Era -  - hint",
+                        "ref": "Industrial Era - hint/Industrial Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "347",
+                        "y": "964",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Information Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST TELECOMMUNICATIONS -  - hint",
+                        "ref": "Information Era - hint/BOOST TELECOMMUNICATIONS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SATELLITES -  - hint",
+                        "ref": "Information Era - hint/BOOST SATELLITES - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST GUIDANCE_SYSTEMS -  - hint",
+                        "ref": "Information Era - hint/BOOST GUIDANCE_SYSTEMS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST LASERS -  - hint",
+                        "ref": "Information Era - hint/BOOST LASERS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST COMPOSITES -  - hint",
+                        "ref": "Information Era - hint/BOOST COMPOSITES - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST STEALTH_TECHNOLOGY -  - hint",
+                        "ref": "Information Era - hint/BOOST STEALTH_TECHNOLOGY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ROBOTICS -  - hint",
+                        "ref": "Information Era - hint/BOOST ROBOTICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST NANOTECHNOLOGY -  - hint",
+                        "ref": "Information Era - hint/BOOST NANOTECHNOLOGY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST GLOBALIZATION -  - hint",
+                        "ref": "Information Era - hint/BOOST GLOBALIZATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SOCIAL_MEDIA -  - hint",
+                        "ref": "Information Era - hint/BOOST SOCIAL_MEDIA - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ENVIRONMENTALISM -  - hint",
+                        "ref": "Information Era - hint/BOOST ENVIRONMENTALISM - hint/ - hint"
+                    },
+                    {
+                        "name": "Telecommunications -  - hint",
+                        "ref": "Information Era - hint/Telecommunications - hint/ - hint"
+                    },
+                    {
+                        "name": "Satellites -  - hint",
+                        "ref": "Information Era - hint/Satellites - hint/ - hint"
+                    },
+                    {
+                        "name": "Guidance Systems -  - hint",
+                        "ref": "Information Era - hint/Guidance Systems - hint/ - hint"
+                    },
+                    {
+                        "name": "Lasers -  - hint",
+                        "ref": "Information Era - hint/Lasers - hint/ - hint"
+                    },
+                    {
+                        "name": "Composites -  - hint",
+                        "ref": "Information Era - hint/Composites - hint/ - hint"
+                    },
+                    {
+                        "name": "Stealth Technology -  - hint",
+                        "ref": "Information Era - hint/Stealth Technology - hint/ - hint"
+                    },
+                    {
+                        "name": "Robotics -  - hint",
+                        "ref": "Information Era - hint/Robotics - hint/ - hint"
+                    },
+                    {
+                        "name": "Nuclear Fusion -  - hint",
+                        "ref": "Information Era - hint/Nuclear Fusion - hint/ - hint"
+                    },
+                    {
+                        "name": "Nanotechnology -  - hint",
+                        "ref": "Information Era - hint/Nanotechnology - hint/ - hint"
+                    },
+                    {
+                        "name": "Environmentalism -  - hint",
+                        "ref": "Information Era - hint/Environmentalism - hint/ - hint"
+                    },
+                    {
+                        "name": "Globalization -  - hint",
+                        "ref": "Information Era - hint/Globalization - hint/ - hint"
+                    },
+                    {
+                        "name": "Social Media -  - hint",
+                        "ref": "Information Era - hint/Social Media - hint/ - hint"
+                    },
+                    {
+                        "name": "Near Future Governance -  - hint",
+                        "ref": "Information Era - hint/Near Future Governance - hint/ - hint"
+                    },
+                    {
+                        "name": "Venture Politics -  - hint",
+                        "ref": "Information Era - hint/Venture Politics - hint/ - hint"
+                    },
+                    {
+                        "name": "Distributed Sovereignty -  - hint",
+                        "ref": "Information Era - hint/Distributed Sovereignty - hint/ - hint"
+                    },
+                    {
+                        "name": "Optimization Imperative -  - hint",
+                        "ref": "Information Era - hint/Optimization Imperative - hint/ - hint"
+                    },
+                    {
+                        "name": "Information Era -  - hint",
+                        "ref": "Information Era - hint/Information Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "756",
+                        "y": "1037",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Medieval Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST MILITARY_TACTICS -  - hint",
+                        "ref": "Medieval Era - hint/BOOST MILITARY_TACTICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST APPRENTICESHIP -  - hint",
+                        "ref": "Medieval Era - hint/BOOST APPRENTICESHIP - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MACHINERY -  - hint",
+                        "ref": "Medieval Era - hint/BOOST MACHINERY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST EDUCATION -  - hint",
+                        "ref": "Medieval Era - hint/BOOST EDUCATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST STIRRUPS -  - hint",
+                        "ref": "Medieval Era - hint/BOOST STIRRUPS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MILITARY_ENGINEERING -  - hint",
+                        "ref": "Medieval Era - hint/BOOST MILITARY_ENGINEERING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CASTLES -  - hint",
+                        "ref": "Medieval Era - hint/BOOST CASTLES - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST NAVAL_TRADITION -  - hint",
+                        "ref": "Medieval Era - hint/BOOST NAVAL_TRADITION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST FEUDALISM -  - hint",
+                        "ref": "Medieval Era - hint/BOOST FEUDALISM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CIVIL_SERVICE -  - hint",
+                        "ref": "Medieval Era - hint/BOOST CIVIL_SERVICE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MERCENARIES -  - hint",
+                        "ref": "Medieval Era - hint/BOOST MERCENARIES - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MEDIEVAL_FAIRES -  - hint",
+                        "ref": "Medieval Era - hint/BOOST MEDIEVAL_FAIRES - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST GUILDS -  - hint",
+                        "ref": "Medieval Era - hint/BOOST GUILDS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST DIVINE_RIGHT -  - hint",
+                        "ref": "Medieval Era - hint/BOOST DIVINE_RIGHT - hint/ - hint"
+                    },
+                    {
+                        "name": "Buttress -  - hint",
+                        "ref": "Medieval Era - hint/Buttress - hint/ - hint"
+                    },
+                    {
+                        "name": "Military Tactics -  - hint",
+                        "ref": "Medieval Era - hint/Military Tactics - hint/ - hint"
+                    },
+                    {
+                        "name": "Apprenticeship -  - hint",
+                        "ref": "Medieval Era - hint/Apprenticeship - hint/ - hint"
+                    },
+                    {
+                        "name": "Machinery -  - hint",
+                        "ref": "Medieval Era - hint/Machinery - hint/ - hint"
+                    },
+                    {
+                        "name": "Education -  - hint",
+                        "ref": "Medieval Era - hint/Education - hint/ - hint"
+                    },
+                    {
+                        "name": "Stirrups -  - hint",
+                        "ref": "Medieval Era - hint/Stirrups - hint/ - hint"
+                    },
+                    {
+                        "name": "Military Engineering -  - hint",
+                        "ref": "Medieval Era - hint/Military Engineering - hint/ - hint"
+                    },
+                    {
+                        "name": "Castles -  - hint",
+                        "ref": "Medieval Era - hint/Castles - hint/ - hint"
+                    },
+                    {
+                        "name": "Naval Tradition -  - hint",
+                        "ref": "Medieval Era - hint/Naval Tradition - hint/ - hint"
+                    },
+                    {
+                        "name": "Feudalism -  - hint",
+                        "ref": "Medieval Era - hint/Feudalism - hint/ - hint"
+                    },
+                    {
+                        "name": "Civil Service -  - hint",
+                        "ref": "Medieval Era - hint/Civil Service - hint/ - hint"
+                    },
+                    {
+                        "name": "Mercenaries -  - hint",
+                        "ref": "Medieval Era - hint/Mercenaries - hint/ - hint"
+                    },
+                    {
+                        "name": "Medieval Fairies -  - hint",
+                        "ref": "Medieval Era - hint/Medieval Fairies - hint/ - hint"
+                    },
+                    {
+                        "name": "Guilds -  - hint",
+                        "ref": "Medieval Era - hint/Guilds - hint/ - hint"
+                    },
+                    {
+                        "name": "Divine Rights -  - hint",
+                        "ref": "Medieval Era - hint/Divine Rights - hint/ - hint"
+                    },
+                    {
+                        "name": "Medieval Era -  - hint",
+                        "ref": "Medieval Era - hint/Medieval Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1321",
+                        "y": "968",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Modern Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST FLIGHT -  - hint",
+                        "ref": "Modern Era - hint/BOOST FLIGHT - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST REPLACEABLE_PARTS -  - hint",
+                        "ref": "Modern Era - hint/BOOST REPLACEABLE_PARTS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST STEEL -  - hint",
+                        "ref": "Modern Era - hint/BOOST STEEL - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ELECTRICITY -  - hint",
+                        "ref": "Modern Era - hint/BOOST ELECTRICITY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST RADIO -  - hint",
+                        "ref": "Modern Era - hint/BOOST RADIO - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CHEMISTRY -  - hint",
+                        "ref": "Modern Era - hint/BOOST CHEMISTRY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST COMBUSTION -  - hint",
+                        "ref": "Modern Era - hint/BOOST COMBUSTION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CONSERVATION -  - hint",
+                        "ref": "Modern Era - hint/BOOST CONSERVATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CAPITALISM -  - hint",
+                        "ref": "Modern Era - hint/BOOST CAPITALISM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST NUCLEAR_PROGRAM -  - hint",
+                        "ref": "Modern Era - hint/BOOST NUCLEAR_PROGRAM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MASS_MEDIA -  - hint",
+                        "ref": "Modern Era - hint/BOOST MASS_MEDIA - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MOBILIZATION -  - hint",
+                        "ref": "Modern Era - hint/BOOST MOBILIZATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SUFFRAGE -  - hint",
+                        "ref": "Modern Era - hint/BOOST SUFFRAGE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST TOTALITARIANISM -  - hint",
+                        "ref": "Modern Era - hint/BOOST TOTALITARIANISM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST CLASS_STRUGGLE -  - hint",
+                        "ref": "Modern Era - hint/BOOST CLASS_STRUGGLE - hint/ - hint"
+                    },
+                    {
+                        "name": "Flight -  - hint",
+                        "ref": "Modern Era - hint/Flight - hint/ - hint"
+                    },
+                    {
+                        "name": "Replaceable Parts -  - hint",
+                        "ref": "Modern Era - hint/Replaceable Parts - hint/ - hint"
+                    },
+                    {
+                        "name": "Steel -  - hint",
+                        "ref": "Modern Era - hint/Steel - hint/ - hint"
+                    },
+                    {
+                        "name": "Refining -  - hint",
+                        "ref": "Modern Era - hint/Refining - hint/ - hint"
+                    },
+                    {
+                        "name": "Electricity -  - hint",
+                        "ref": "Modern Era - hint/Electricity - hint/ - hint"
+                    },
+                    {
+                        "name": "Radio -  - hint",
+                        "ref": "Modern Era - hint/Radio - hint/ - hint"
+                    },
+                    {
+                        "name": "Chemistry -  - hint",
+                        "ref": "Modern Era - hint/Chemistry - hint/ - hint"
+                    },
+                    {
+                        "name": "Combustion -  - hint",
+                        "ref": "Modern Era - hint/Combustion - hint/ - hint"
+                    },
+                    {
+                        "name": "Conservation -  - hint",
+                        "ref": "Modern Era - hint/Conservation - hint/ - hint"
+                    },
+                    {
+                        "name": "Mass Media -  - hint",
+                        "ref": "Modern Era - hint/Mass Media - hint/ - hint"
+                    },
+                    {
+                        "name": "Mobilization -  - hint",
+                        "ref": "Modern Era - hint/Mobilization - hint/ - hint"
+                    },
+                    {
+                        "name": "Capitalism -  - hint",
+                        "ref": "Modern Era - hint/Capitalism - hint/ - hint"
+                    },
+                    {
+                        "name": "Ideology -  - hint",
+                        "ref": "Modern Era - hint/Ideology - hint/ - hint"
+                    },
+                    {
+                        "name": "Nuclear Program -  - hint",
+                        "ref": "Modern Era - hint/Nuclear Program - hint/ - hint"
+                    },
+                    {
+                        "name": "Suffrage -  - hint",
+                        "ref": "Modern Era - hint/Suffrage - hint/ - hint"
+                    },
+                    {
+                        "name": "Totalitarianism -  - hint",
+                        "ref": "Modern Era - hint/Totalitarianism - hint/ - hint"
+                    },
+                    {
+                        "name": "Class Struggle -  - hint",
+                        "ref": "Modern Era - hint/Class Struggle - hint/ - hint"
+                    },
+                    {
+                        "name": "Modern Era -  - hint",
+                        "ref": "Modern Era - hint/Modern Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2372",
+                        "y": "856",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Renaissance Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST CARTOGRAPHY -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST CARTOGRAPHY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MASS_PRODUCTION -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST MASS_PRODUCTION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST BANKING -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST BANKING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST GUNPOWDER -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST GUNPOWDER - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST PRINTING -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST PRINTING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SQUARE_RIGGING -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST SQUARE_RIGGING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST ASTRONOMY -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST ASTRONOMY - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST METAL_CASTING -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST METAL_CASTING - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST SIEGE_TACTICS -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST SIEGE_TACTICS - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST EXPLORATION -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST EXPLORATION - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST HUMANISM -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST HUMANISM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST DIPLOMATIC_SERVICE -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST DIPLOMATIC_SERVICE - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST REFORMED_CHURCH -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST REFORMED_CHURCH - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST MERCANTILISM -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST MERCANTILISM - hint/ - hint"
+                    },
+                    {
+                        "name": "BOOST THE_ENLIGHTENMENT -  - hint",
+                        "ref": "Renaissance Era - hint/BOOST THE_ENLIGHTENMENT - hint/ - hint"
+                    },
+                    {
+                        "name": "Cartography -  - hint",
+                        "ref": "Renaissance Era - hint/Cartography - hint/ - hint"
+                    },
+                    {
+                        "name": "Mass Production -  - hint",
+                        "ref": "Renaissance Era - hint/Mass Production - hint/ - hint"
+                    },
+                    {
+                        "name": "Banking -  - hint",
+                        "ref": "Renaissance Era - hint/Banking - hint/ - hint"
+                    },
+                    {
+                        "name": "Gunpowder -  - hint",
+                        "ref": "Renaissance Era - hint/Gunpowder - hint/ - hint"
+                    },
+                    {
+                        "name": "Printing -  - hint",
+                        "ref": "Renaissance Era - hint/Printing - hint/ - hint"
+                    },
+                    {
+                        "name": "Square Rigging -  - hint",
+                        "ref": "Renaissance Era - hint/Square Rigging - hint/ - hint"
+                    },
+                    {
+                        "name": "Astronomy -  - hint",
+                        "ref": "Renaissance Era - hint/Astronomy - hint/ - hint"
+                    },
+                    {
+                        "name": "Metal Casting -  - hint",
+                        "ref": "Renaissance Era - hint/Metal Casting - hint/ - hint"
+                    },
+                    {
+                        "name": "Siege Tactics -  - hint",
+                        "ref": "Renaissance Era - hint/Siege Tactics - hint/ - hint"
+                    },
+                    {
+                        "name": "Exploration -  - hint",
+                        "ref": "Renaissance Era - hint/Exploration - hint/ - hint"
+                    },
+                    {
+                        "name": "Humanism -  - hint",
+                        "ref": "Renaissance Era - hint/Humanism - hint/ - hint"
+                    },
+                    {
+                        "name": "Diplomatic Service -  - hint",
+                        "ref": "Renaissance Era - hint/Diplomatic Service - hint/ - hint"
+                    },
+                    {
+                        "name": "Reformed Church -  - hint",
+                        "ref": "Renaissance Era - hint/Reformed Church - hint/ - hint"
+                    },
+                    {
+                        "name": "Mercantilism -  - hint",
+                        "ref": "Renaissance Era - hint/Mercantilism - hint/ - hint"
+                    },
+                    {
+                        "name": "Enlightenment -  - hint",
+                        "ref": "Renaissance Era - hint/Enlightenment - hint/ - hint"
+                    },
+                    {
+                        "name": "Renaissance Era -  - hint",
+                        "ref": "Renaissance Era - hint/Renaissance Era - hint/ - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1136",
+                        "y": "1502",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Ancient Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Pottery - ",
+                        "ref": "Ancient Era/Pottery/"
+                    },
+                    {
+                        "name": "Animal Husbandry - ",
+                        "ref": "Ancient Era/Animal Husbandry/"
+                    },
+                    {
+                        "name": "Mining - ",
+                        "ref": "Ancient Era/Mining/"
+                    },
+                    {
+                        "name": "Sailing - ",
+                        "ref": "Ancient Era/Sailing/"
+                    },
+                    {
+                        "name": "Astrology - ",
+                        "ref": "Ancient Era/Astrology/"
+                    },
+                    {
+                        "name": "Irigation - ",
+                        "ref": "Ancient Era/Irigation/"
+                    },
+                    {
+                        "name": "Writing - ",
+                        "ref": "Ancient Era/Writing/"
+                    },
+                    {
+                        "name": "Archery - ",
+                        "ref": "Ancient Era/Archery/"
+                    },
+                    {
+                        "name": "Masonry - ",
+                        "ref": "Ancient Era/Masonry/"
+                    },
+                    {
+                        "name": "Bronze Working - ",
+                        "ref": "Ancient Era/Bronze Working/"
+                    },
+                    {
+                        "name": "Wheel - ",
+                        "ref": "Ancient Era/Wheel/"
+                    },
+                    {
+                        "name": "Code Of Laws - ",
+                        "ref": "Ancient Era/Code Of Laws/"
+                    },
+                    {
+                        "name": "Craftmanship - ",
+                        "ref": "Ancient Era/Craftmanship/"
+                    },
+                    {
+                        "name": "Foreign Trade - ",
+                        "ref": "Ancient Era/Foreign Trade/"
+                    },
+                    {
+                        "name": "Military Tradition - ",
+                        "ref": "Ancient Era/Military Tradition/"
+                    },
+                    {
+                        "name": "State Workforce - ",
+                        "ref": "Ancient Era/State Workforce/"
+                    },
+                    {
+                        "name": "Early Empire - ",
+                        "ref": "Ancient Era/Early Empire/"
+                    },
+                    {
+                        "name": "Mysticism - ",
+                        "ref": "Ancient Era/Mysticism/"
+                    },
+                    {
+                        "name": "Goody Huts - 1",
+                        "ref": "Ancient Era/Goody Huts/1"
+                    },
+                    {
+                        "name": "Goody Huts - 2",
+                        "ref": "Ancient Era/Goody Huts/2"
+                    },
+                    {
+                        "name": "Goody Huts - 3",
+                        "ref": "Ancient Era/Goody Huts/3"
+                    },
+                    {
+                        "name": "Goody Huts - 4",
+                        "ref": "Ancient Era/Goody Huts/4"
+                    },
+                    {
+                        "name": "Goody Huts - 5",
+                        "ref": "Ancient Era/Goody Huts/5"
+                    },
+                    {
+                        "name": "Goody Huts - 6",
+                        "ref": "Ancient Era/Goody Huts/6"
+                    },
+                    {
+                        "name": "Goody Huts - 7",
+                        "ref": "Ancient Era/Goody Huts/7"
+                    },
+                    {
+                        "name": "Goody Huts - 8",
+                        "ref": "Ancient Era/Goody Huts/8"
+                    },
+                    {
+                        "name": "Goody Huts - 9",
+                        "ref": "Ancient Era/Goody Huts/9"
+                    },
+                    {
+                        "name": "Goody Huts - 10",
+                        "ref": "Ancient Era/Goody Huts/10"
+                    },
+                    {
+                        "name": "BOOST SAILING - ",
+                        "ref": "Ancient Era/BOOST SAILING/"
+                    },
+                    {
+                        "name": "BOOST ASTROLOGY - ",
+                        "ref": "Ancient Era/BOOST ASTROLOGY/"
+                    },
+                    {
+                        "name": "BOOST IRRIGATION - ",
+                        "ref": "Ancient Era/BOOST IRRIGATION/"
+                    },
+                    {
+                        "name": "BOOST ARCHERY - ",
+                        "ref": "Ancient Era/BOOST ARCHERY/"
+                    },
+                    {
+                        "name": "BOOST WRITING - ",
+                        "ref": "Ancient Era/BOOST WRITING/"
+                    },
+                    {
+                        "name": "BOOST MASONRY - ",
+                        "ref": "Ancient Era/BOOST MASONRY/"
+                    },
+                    {
+                        "name": "BOOST BRONZE_WORKING - ",
+                        "ref": "Ancient Era/BOOST BRONZE_WORKING/"
+                    },
+                    {
+                        "name": "BOOST THE_WHEEL - ",
+                        "ref": "Ancient Era/BOOST THE_WHEEL/"
+                    },
+                    {
+                        "name": "BOOST CRAFTSMANSHIP - ",
+                        "ref": "Ancient Era/BOOST CRAFTSMANSHIP/"
+                    },
+                    {
+                        "name": "BOOST FOREIGN_TRADE - ",
+                        "ref": "Ancient Era/BOOST FOREIGN_TRADE/"
+                    },
+                    {
+                        "name": "BOOST MILITARY_TRADITION - ",
+                        "ref": "Ancient Era/BOOST MILITARY_TRADITION/"
+                    },
+                    {
+                        "name": "BOOST STATE_WORKFORCE - ",
+                        "ref": "Ancient Era/BOOST STATE_WORKFORCE/"
+                    },
+                    {
+                        "name": "BOOST EARLY_EMPIRE - ",
+                        "ref": "Ancient Era/BOOST EARLY_EMPIRE/"
+                    },
+                    {
+                        "name": "BOOST MYSTICISM - ",
+                        "ref": "Ancient Era/BOOST MYSTICISM/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "833",
+                        "y": "1936",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Atomic Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST ADVANCED_FLIGHT - ",
+                        "ref": "Atomic Era/BOOST ADVANCED_FLIGHT/"
+                    },
+                    {
+                        "name": "BOOST ROCKETRY - ",
+                        "ref": "Atomic Era/BOOST ROCKETRY/"
+                    },
+                    {
+                        "name": "BOOST ADVANCED_BALLISTICS - ",
+                        "ref": "Atomic Era/BOOST ADVANCED_BALLISTICS/"
+                    },
+                    {
+                        "name": "BOOST COMBINED_ARMS - ",
+                        "ref": "Atomic Era/BOOST COMBINED_ARMS/"
+                    },
+                    {
+                        "name": "BOOST PLASTICS - ",
+                        "ref": "Atomic Era/BOOST PLASTICS/"
+                    },
+                    {
+                        "name": "BOOST COMPUTERS - ",
+                        "ref": "Atomic Era/BOOST COMPUTERS/"
+                    },
+                    {
+                        "name": "BOOST NUCLEAR_FISSION - ",
+                        "ref": "Atomic Era/BOOST NUCLEAR_FISSION/"
+                    },
+                    {
+                        "name": "BOOST SYNTHETIC_MATERIALS - ",
+                        "ref": "Atomic Era/BOOST SYNTHETIC_MATERIALS/"
+                    },
+                    {
+                        "name": "BOOST COLD_WAR - ",
+                        "ref": "Atomic Era/BOOST COLD_WAR/"
+                    },
+                    {
+                        "name": "BOOST PROFESSIONAL_SPORTS - ",
+                        "ref": "Atomic Era/BOOST PROFESSIONAL_SPORTS/"
+                    },
+                    {
+                        "name": "BOOST CULTURAL_HERITAGE - ",
+                        "ref": "Atomic Era/BOOST CULTURAL_HERITAGE/"
+                    },
+                    {
+                        "name": "BOOST RAPID_DEPLOYMENT - ",
+                        "ref": "Atomic Era/BOOST RAPID_DEPLOYMENT/"
+                    },
+                    {
+                        "name": "BOOST SPACE_RACE - ",
+                        "ref": "Atomic Era/BOOST SPACE_RACE/"
+                    },
+                    {
+                        "name": "Advanced Flight - ",
+                        "ref": "Atomic Era/Advanced Flight/"
+                    },
+                    {
+                        "name": "Rocketry - ",
+                        "ref": "Atomic Era/Rocketry/"
+                    },
+                    {
+                        "name": "Advanced Ballistics - ",
+                        "ref": "Atomic Era/Advanced Ballistics/"
+                    },
+                    {
+                        "name": "Combined Arms - ",
+                        "ref": "Atomic Era/Combined Arms/"
+                    },
+                    {
+                        "name": "Plastics - ",
+                        "ref": "Atomic Era/Plastics/"
+                    },
+                    {
+                        "name": "Computers - ",
+                        "ref": "Atomic Era/Computers/"
+                    },
+                    {
+                        "name": "Nuclear Fission - ",
+                        "ref": "Atomic Era/Nuclear Fission/"
+                    },
+                    {
+                        "name": "Synthetic Materials - ",
+                        "ref": "Atomic Era/Synthetic Materials/"
+                    },
+                    {
+                        "name": "Cultural Heritage - ",
+                        "ref": "Atomic Era/Cultural Heritage/"
+                    },
+                    {
+                        "name": "Cold War - ",
+                        "ref": "Atomic Era/Cold War/"
+                    },
+                    {
+                        "name": "Professional Sports - ",
+                        "ref": "Atomic Era/Professional Sports/"
+                    },
+                    {
+                        "name": "Rapid Deployment - ",
+                        "ref": "Atomic Era/Rapid Deployment/"
+                    },
+                    {
+                        "name": "Space Race - ",
+                        "ref": "Atomic Era/Space Race/"
+                    },
+                    {
+                        "name": "Atomic Era - ",
+                        "ref": "Atomic Era/Atomic Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1771",
+                        "y": "1695",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Classical Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST CELESTIAL_NAVIGATION - ",
+                        "ref": "Classical Era/BOOST CELESTIAL_NAVIGATION/"
+                    },
+                    {
+                        "name": "BOOST CURRENCY - ",
+                        "ref": "Classical Era/BOOST CURRENCY/"
+                    },
+                    {
+                        "name": "BOOST HORSEBACK_RIDING - ",
+                        "ref": "Classical Era/BOOST HORSEBACK_RIDING/"
+                    },
+                    {
+                        "name": "BOOST IRON_WORKING - ",
+                        "ref": "Classical Era/BOOST IRON_WORKING/"
+                    },
+                    {
+                        "name": "BOOST SHIPBUILDING - ",
+                        "ref": "Classical Era/BOOST SHIPBUILDING/"
+                    },
+                    {
+                        "name": "BOOST MATHEMATICS - ",
+                        "ref": "Classical Era/BOOST MATHEMATICS/"
+                    },
+                    {
+                        "name": "BOOST CONSTRUCTION - ",
+                        "ref": "Classical Era/BOOST CONSTRUCTION/"
+                    },
+                    {
+                        "name": "BOOST ENGINEERING - ",
+                        "ref": "Classical Era/BOOST ENGINEERING/"
+                    },
+                    {
+                        "name": "BOOST GAMES_RECREATION - ",
+                        "ref": "Classical Era/BOOST GAMES_RECREATION/"
+                    },
+                    {
+                        "name": "BOOST POLITICAL_PHILOSOPHY - ",
+                        "ref": "Classical Era/BOOST POLITICAL_PHILOSOPHY/"
+                    },
+                    {
+                        "name": "BOOST DRAMA_POETRY - ",
+                        "ref": "Classical Era/BOOST DRAMA_POETRY/"
+                    },
+                    {
+                        "name": "BOOST MILITARY_TRAINING - ",
+                        "ref": "Classical Era/BOOST MILITARY_TRAINING/"
+                    },
+                    {
+                        "name": "BOOST DEFENSIVE_TACTICS - ",
+                        "ref": "Classical Era/BOOST DEFENSIVE_TACTICS/"
+                    },
+                    {
+                        "name": "BOOST RECORDED_HISTORY - ",
+                        "ref": "Classical Era/BOOST RECORDED_HISTORY/"
+                    },
+                    {
+                        "name": "BOOST THEOLOGY - ",
+                        "ref": "Classical Era/BOOST THEOLOGY/"
+                    },
+                    {
+                        "name": "Celestial Navigation - ",
+                        "ref": "Classical Era/Celestial Navigation/"
+                    },
+                    {
+                        "name": "Currency - ",
+                        "ref": "Classical Era/Currency/"
+                    },
+                    {
+                        "name": "Horseback Riding - ",
+                        "ref": "Classical Era/Horseback Riding/"
+                    },
+                    {
+                        "name": "Iron Working - ",
+                        "ref": "Classical Era/Iron Working/"
+                    },
+                    {
+                        "name": "Shipbuilding - ",
+                        "ref": "Classical Era/Shipbuilding/"
+                    },
+                    {
+                        "name": "Mathematics - ",
+                        "ref": "Classical Era/Mathematics/"
+                    },
+                    {
+                        "name": "Construction - ",
+                        "ref": "Classical Era/Construction/"
+                    },
+                    {
+                        "name": "Engineering - ",
+                        "ref": "Classical Era/Engineering/"
+                    },
+                    {
+                        "name": "Games And Recreation - ",
+                        "ref": "Classical Era/Games And Recreation/"
+                    },
+                    {
+                        "name": "Political Philosophy - ",
+                        "ref": "Classical Era/Political Philosophy/"
+                    },
+                    {
+                        "name": "Drama And Poetry - ",
+                        "ref": "Classical Era/Drama And Poetry/"
+                    },
+                    {
+                        "name": "Military Training - ",
+                        "ref": "Classical Era/Military Training/"
+                    },
+                    {
+                        "name": "Defensive Tactics - ",
+                        "ref": "Classical Era/Defensive Tactics/"
+                    },
+                    {
+                        "name": "Recorded History - ",
+                        "ref": "Classical Era/Recorded History/"
+                    },
+                    {
+                        "name": "Theology - ",
+                        "ref": "Classical Era/Theology/"
+                    },
+                    {
+                        "name": "Classical Era - ",
+                        "ref": "Classical Era/Classical Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2368",
+                        "y": "45",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Future Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST NUCLEAR_FUSION - ",
+                        "ref": "Future Era/BOOST NUCLEAR_FUSION/"
+                    },
+                    {
+                        "name": "BOOST BUTTRESS - ",
+                        "ref": "Future Era/BOOST BUTTRESS/"
+                    },
+                    {
+                        "name": "BOOST REFINING - ",
+                        "ref": "Future Era/BOOST REFINING/"
+                    },
+                    {
+                        "name": "BOOST SEASTEADS - ",
+                        "ref": "Future Era/BOOST SEASTEADS/"
+                    },
+                    {
+                        "name": "BOOST ADVANCED_AI - ",
+                        "ref": "Future Era/BOOST ADVANCED_AI/"
+                    },
+                    {
+                        "name": "BOOST ADVANCED_POWER_CELLS - ",
+                        "ref": "Future Era/BOOST ADVANCED_POWER_CELLS/"
+                    },
+                    {
+                        "name": "BOOST CYBERNETICS - ",
+                        "ref": "Future Era/BOOST CYBERNETICS/"
+                    },
+                    {
+                        "name": "BOOST SMART_MATERIALS - ",
+                        "ref": "Future Era/BOOST SMART_MATERIALS/"
+                    },
+                    {
+                        "name": "BOOST PREDICTIVE_SYSTEMS - ",
+                        "ref": "Future Era/BOOST PREDICTIVE_SYSTEMS/"
+                    },
+                    {
+                        "name": "BOOST OFFWORLD_MISSION - ",
+                        "ref": "Future Era/BOOST OFFWORLD_MISSION/"
+                    },
+                    {
+                        "name": "Seasteads - ",
+                        "ref": "Future Era/Seasteads/"
+                    },
+                    {
+                        "name": "Advanced AI - ",
+                        "ref": "Future Era/Advanced AI/"
+                    },
+                    {
+                        "name": "Advanced Power Cells - ",
+                        "ref": "Future Era/Advanced Power Cells/"
+                    },
+                    {
+                        "name": "Offworld Mission - ",
+                        "ref": "Future Era/Offworld Mission/"
+                    },
+                    {
+                        "name": "Smart Materials - ",
+                        "ref": "Future Era/Smart Materials/"
+                    },
+                    {
+                        "name": "Predictive Systems - ",
+                        "ref": "Future Era/Predictive Systems/"
+                    },
+                    {
+                        "name": "Future Tech - ",
+                        "ref": "Future Era/Future Tech/"
+                    },
+                    {
+                        "name": "Cybernetics - ",
+                        "ref": "Future Era/Cybernetics/"
+                    },
+                    {
+                        "name": "Smart Power Doctrine - ",
+                        "ref": "Future Era/Smart Power Doctrine/"
+                    },
+                    {
+                        "name": "Global Warming Mitigation - ",
+                        "ref": "Future Era/Global Warming Mitigation/"
+                    },
+                    {
+                        "name": "Future Civic - ",
+                        "ref": "Future Era/Future Civic/"
+                    },
+                    {
+                        "name": "Information Warfare - ",
+                        "ref": "Future Era/Information Warfare/"
+                    },
+                    {
+                        "name": "Exodus Imperative - ",
+                        "ref": "Future Era/Exodus Imperative/"
+                    },
+                    {
+                        "name": "Cultural Hegemony - ",
+                        "ref": "Future Era/Cultural Hegemony/"
+                    },
+                    {
+                        "name": "Future Era - ",
+                        "ref": "Future Era/Future Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2435",
+                        "y": "1298",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Industrial Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST INDUSTRIALIZATION - ",
+                        "ref": "Industrial Era/BOOST INDUSTRIALIZATION/"
+                    },
+                    {
+                        "name": "BOOST SCIENTIFIC_THEORY - ",
+                        "ref": "Industrial Era/BOOST SCIENTIFIC_THEORY/"
+                    },
+                    {
+                        "name": "BOOST BALLISTICS - ",
+                        "ref": "Industrial Era/BOOST BALLISTICS/"
+                    },
+                    {
+                        "name": "BOOST MILITARY_SCIENCE - ",
+                        "ref": "Industrial Era/BOOST MILITARY_SCIENCE/"
+                    },
+                    {
+                        "name": "BOOST STEAM_POWER - ",
+                        "ref": "Industrial Era/BOOST STEAM_POWER/"
+                    },
+                    {
+                        "name": "BOOST SANITATION - ",
+                        "ref": "Industrial Era/BOOST SANITATION/"
+                    },
+                    {
+                        "name": "BOOST ECONOMICS - ",
+                        "ref": "Industrial Era/BOOST ECONOMICS/"
+                    },
+                    {
+                        "name": "BOOST RIFLING - ",
+                        "ref": "Industrial Era/BOOST RIFLING/"
+                    },
+                    {
+                        "name": "BOOST COLONIALISM - ",
+                        "ref": "Industrial Era/BOOST COLONIALISM/"
+                    },
+                    {
+                        "name": "BOOST CIVIL_ENGINEERING - ",
+                        "ref": "Industrial Era/BOOST CIVIL_ENGINEERING/"
+                    },
+                    {
+                        "name": "BOOST NATIONALISM - ",
+                        "ref": "Industrial Era/BOOST NATIONALISM/"
+                    },
+                    {
+                        "name": "BOOST OPERA_BALLET - ",
+                        "ref": "Industrial Era/BOOST OPERA_BALLET/"
+                    },
+                    {
+                        "name": "BOOST NATURAL_HISTORY - ",
+                        "ref": "Industrial Era/BOOST NATURAL_HISTORY/"
+                    },
+                    {
+                        "name": "BOOST SCORCHED_EARTH - ",
+                        "ref": "Industrial Era/BOOST SCORCHED_EARTH/"
+                    },
+                    {
+                        "name": "BOOST URBANIZATION - ",
+                        "ref": "Industrial Era/BOOST URBANIZATION/"
+                    },
+                    {
+                        "name": "Industrialization - ",
+                        "ref": "Industrial Era/Industrialization/"
+                    },
+                    {
+                        "name": "Scientific Theory - ",
+                        "ref": "Industrial Era/Scientific Theory/"
+                    },
+                    {
+                        "name": "Ballistics - ",
+                        "ref": "Industrial Era/Ballistics/"
+                    },
+                    {
+                        "name": "Military Science - ",
+                        "ref": "Industrial Era/Military Science/"
+                    },
+                    {
+                        "name": "Steam Power - ",
+                        "ref": "Industrial Era/Steam Power/"
+                    },
+                    {
+                        "name": "Sanitation - ",
+                        "ref": "Industrial Era/Sanitation/"
+                    },
+                    {
+                        "name": "Economics - ",
+                        "ref": "Industrial Era/Economics/"
+                    },
+                    {
+                        "name": "Rifling - ",
+                        "ref": "Industrial Era/Rifling/"
+                    },
+                    {
+                        "name": "Colonialism - ",
+                        "ref": "Industrial Era/Colonialism/"
+                    },
+                    {
+                        "name": "Civil Engineering - ",
+                        "ref": "Industrial Era/Civil Engineering/"
+                    },
+                    {
+                        "name": "Nationalism - ",
+                        "ref": "Industrial Era/Nationalism/"
+                    },
+                    {
+                        "name": "Opera And Ballet - ",
+                        "ref": "Industrial Era/Opera And Ballet/"
+                    },
+                    {
+                        "name": "Natural History - ",
+                        "ref": "Industrial Era/Natural History/"
+                    },
+                    {
+                        "name": "Urbanization - ",
+                        "ref": "Industrial Era/Urbanization/"
+                    },
+                    {
+                        "name": "Scorched Earth - ",
+                        "ref": "Industrial Era/Scorched Earth/"
+                    },
+                    {
+                        "name": "Industrial Era - ",
+                        "ref": "Industrial Era/Industrial Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "347",
+                        "y": "964",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Information Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST TELECOMMUNICATIONS - ",
+                        "ref": "Information Era/BOOST TELECOMMUNICATIONS/"
+                    },
+                    {
+                        "name": "BOOST SATELLITES - ",
+                        "ref": "Information Era/BOOST SATELLITES/"
+                    },
+                    {
+                        "name": "BOOST GUIDANCE_SYSTEMS - ",
+                        "ref": "Information Era/BOOST GUIDANCE_SYSTEMS/"
+                    },
+                    {
+                        "name": "BOOST LASERS - ",
+                        "ref": "Information Era/BOOST LASERS/"
+                    },
+                    {
+                        "name": "BOOST COMPOSITES - ",
+                        "ref": "Information Era/BOOST COMPOSITES/"
+                    },
+                    {
+                        "name": "BOOST STEALTH_TECHNOLOGY - ",
+                        "ref": "Information Era/BOOST STEALTH_TECHNOLOGY/"
+                    },
+                    {
+                        "name": "BOOST ROBOTICS - ",
+                        "ref": "Information Era/BOOST ROBOTICS/"
+                    },
+                    {
+                        "name": "BOOST NANOTECHNOLOGY - ",
+                        "ref": "Information Era/BOOST NANOTECHNOLOGY/"
+                    },
+                    {
+                        "name": "BOOST GLOBALIZATION - ",
+                        "ref": "Information Era/BOOST GLOBALIZATION/"
+                    },
+                    {
+                        "name": "BOOST SOCIAL_MEDIA - ",
+                        "ref": "Information Era/BOOST SOCIAL_MEDIA/"
+                    },
+                    {
+                        "name": "BOOST ENVIRONMENTALISM - ",
+                        "ref": "Information Era/BOOST ENVIRONMENTALISM/"
+                    },
+                    {
+                        "name": "Telecommunications - ",
+                        "ref": "Information Era/Telecommunications/"
+                    },
+                    {
+                        "name": "Satellites - ",
+                        "ref": "Information Era/Satellites/"
+                    },
+                    {
+                        "name": "Guidance Systems - ",
+                        "ref": "Information Era/Guidance Systems/"
+                    },
+                    {
+                        "name": "Lasers - ",
+                        "ref": "Information Era/Lasers/"
+                    },
+                    {
+                        "name": "Composites - ",
+                        "ref": "Information Era/Composites/"
+                    },
+                    {
+                        "name": "Stealth Technology - ",
+                        "ref": "Information Era/Stealth Technology/"
+                    },
+                    {
+                        "name": "Robotics - ",
+                        "ref": "Information Era/Robotics/"
+                    },
+                    {
+                        "name": "Nuclear Fusion - ",
+                        "ref": "Information Era/Nuclear Fusion/"
+                    },
+                    {
+                        "name": "Nanotechnology - ",
+                        "ref": "Information Era/Nanotechnology/"
+                    },
+                    {
+                        "name": "Environmentalism - ",
+                        "ref": "Information Era/Environmentalism/"
+                    },
+                    {
+                        "name": "Globalization - ",
+                        "ref": "Information Era/Globalization/"
+                    },
+                    {
+                        "name": "Social Media - ",
+                        "ref": "Information Era/Social Media/"
+                    },
+                    {
+                        "name": "Near Future Governance - ",
+                        "ref": "Information Era/Near Future Governance/"
+                    },
+                    {
+                        "name": "Venture Politics - ",
+                        "ref": "Information Era/Venture Politics/"
+                    },
+                    {
+                        "name": "Distributed Sovereignty - ",
+                        "ref": "Information Era/Distributed Sovereignty/"
+                    },
+                    {
+                        "name": "Optimization Imperative - ",
+                        "ref": "Information Era/Optimization Imperative/"
+                    },
+                    {
+                        "name": "Information Era - ",
+                        "ref": "Information Era/Information Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "756",
+                        "y": "1037",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Medieval Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST MILITARY_TACTICS - ",
+                        "ref": "Medieval Era/BOOST MILITARY_TACTICS/"
+                    },
+                    {
+                        "name": "BOOST APPRENTICESHIP - ",
+                        "ref": "Medieval Era/BOOST APPRENTICESHIP/"
+                    },
+                    {
+                        "name": "BOOST MACHINERY - ",
+                        "ref": "Medieval Era/BOOST MACHINERY/"
+                    },
+                    {
+                        "name": "BOOST EDUCATION - ",
+                        "ref": "Medieval Era/BOOST EDUCATION/"
+                    },
+                    {
+                        "name": "BOOST STIRRUPS - ",
+                        "ref": "Medieval Era/BOOST STIRRUPS/"
+                    },
+                    {
+                        "name": "BOOST MILITARY_ENGINEERING - ",
+                        "ref": "Medieval Era/BOOST MILITARY_ENGINEERING/"
+                    },
+                    {
+                        "name": "BOOST CASTLES - ",
+                        "ref": "Medieval Era/BOOST CASTLES/"
+                    },
+                    {
+                        "name": "BOOST NAVAL_TRADITION - ",
+                        "ref": "Medieval Era/BOOST NAVAL_TRADITION/"
+                    },
+                    {
+                        "name": "BOOST FEUDALISM - ",
+                        "ref": "Medieval Era/BOOST FEUDALISM/"
+                    },
+                    {
+                        "name": "BOOST CIVIL_SERVICE - ",
+                        "ref": "Medieval Era/BOOST CIVIL_SERVICE/"
+                    },
+                    {
+                        "name": "BOOST MERCENARIES - ",
+                        "ref": "Medieval Era/BOOST MERCENARIES/"
+                    },
+                    {
+                        "name": "BOOST MEDIEVAL_FAIRES - ",
+                        "ref": "Medieval Era/BOOST MEDIEVAL_FAIRES/"
+                    },
+                    {
+                        "name": "BOOST GUILDS - ",
+                        "ref": "Medieval Era/BOOST GUILDS/"
+                    },
+                    {
+                        "name": "BOOST DIVINE_RIGHT - ",
+                        "ref": "Medieval Era/BOOST DIVINE_RIGHT/"
+                    },
+                    {
+                        "name": "Buttress - ",
+                        "ref": "Medieval Era/Buttress/"
+                    },
+                    {
+                        "name": "Military Tactics - ",
+                        "ref": "Medieval Era/Military Tactics/"
+                    },
+                    {
+                        "name": "Apprenticeship - ",
+                        "ref": "Medieval Era/Apprenticeship/"
+                    },
+                    {
+                        "name": "Machinery - ",
+                        "ref": "Medieval Era/Machinery/"
+                    },
+                    {
+                        "name": "Education - ",
+                        "ref": "Medieval Era/Education/"
+                    },
+                    {
+                        "name": "Stirrups - ",
+                        "ref": "Medieval Era/Stirrups/"
+                    },
+                    {
+                        "name": "Military Engineering - ",
+                        "ref": "Medieval Era/Military Engineering/"
+                    },
+                    {
+                        "name": "Castles - ",
+                        "ref": "Medieval Era/Castles/"
+                    },
+                    {
+                        "name": "Naval Tradition - ",
+                        "ref": "Medieval Era/Naval Tradition/"
+                    },
+                    {
+                        "name": "Feudalism - ",
+                        "ref": "Medieval Era/Feudalism/"
+                    },
+                    {
+                        "name": "Civil Service - ",
+                        "ref": "Medieval Era/Civil Service/"
+                    },
+                    {
+                        "name": "Mercenaries - ",
+                        "ref": "Medieval Era/Mercenaries/"
+                    },
+                    {
+                        "name": "Medieval Fairies - ",
+                        "ref": "Medieval Era/Medieval Fairies/"
+                    },
+                    {
+                        "name": "Guilds - ",
+                        "ref": "Medieval Era/Guilds/"
+                    },
+                    {
+                        "name": "Divine Rights - ",
+                        "ref": "Medieval Era/Divine Rights/"
+                    },
+                    {
+                        "name": "Medieval Era - ",
+                        "ref": "Medieval Era/Medieval Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1321",
+                        "y": "968",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Modern Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST FLIGHT - ",
+                        "ref": "Modern Era/BOOST FLIGHT/"
+                    },
+                    {
+                        "name": "BOOST REPLACEABLE_PARTS - ",
+                        "ref": "Modern Era/BOOST REPLACEABLE_PARTS/"
+                    },
+                    {
+                        "name": "BOOST STEEL - ",
+                        "ref": "Modern Era/BOOST STEEL/"
+                    },
+                    {
+                        "name": "BOOST ELECTRICITY - ",
+                        "ref": "Modern Era/BOOST ELECTRICITY/"
+                    },
+                    {
+                        "name": "BOOST RADIO - ",
+                        "ref": "Modern Era/BOOST RADIO/"
+                    },
+                    {
+                        "name": "BOOST CHEMISTRY - ",
+                        "ref": "Modern Era/BOOST CHEMISTRY/"
+                    },
+                    {
+                        "name": "BOOST COMBUSTION - ",
+                        "ref": "Modern Era/BOOST COMBUSTION/"
+                    },
+                    {
+                        "name": "BOOST CONSERVATION - ",
+                        "ref": "Modern Era/BOOST CONSERVATION/"
+                    },
+                    {
+                        "name": "BOOST CAPITALISM - ",
+                        "ref": "Modern Era/BOOST CAPITALISM/"
+                    },
+                    {
+                        "name": "BOOST NUCLEAR_PROGRAM - ",
+                        "ref": "Modern Era/BOOST NUCLEAR_PROGRAM/"
+                    },
+                    {
+                        "name": "BOOST MASS_MEDIA - ",
+                        "ref": "Modern Era/BOOST MASS_MEDIA/"
+                    },
+                    {
+                        "name": "BOOST MOBILIZATION - ",
+                        "ref": "Modern Era/BOOST MOBILIZATION/"
+                    },
+                    {
+                        "name": "BOOST SUFFRAGE - ",
+                        "ref": "Modern Era/BOOST SUFFRAGE/"
+                    },
+                    {
+                        "name": "BOOST TOTALITARIANISM - ",
+                        "ref": "Modern Era/BOOST TOTALITARIANISM/"
+                    },
+                    {
+                        "name": "BOOST CLASS_STRUGGLE - ",
+                        "ref": "Modern Era/BOOST CLASS_STRUGGLE/"
+                    },
+                    {
+                        "name": "Flight - ",
+                        "ref": "Modern Era/Flight/"
+                    },
+                    {
+                        "name": "Replaceable Parts - ",
+                        "ref": "Modern Era/Replaceable Parts/"
+                    },
+                    {
+                        "name": "Steel - ",
+                        "ref": "Modern Era/Steel/"
+                    },
+                    {
+                        "name": "Refining - ",
+                        "ref": "Modern Era/Refining/"
+                    },
+                    {
+                        "name": "Electricity - ",
+                        "ref": "Modern Era/Electricity/"
+                    },
+                    {
+                        "name": "Radio - ",
+                        "ref": "Modern Era/Radio/"
+                    },
+                    {
+                        "name": "Chemistry - ",
+                        "ref": "Modern Era/Chemistry/"
+                    },
+                    {
+                        "name": "Combustion - ",
+                        "ref": "Modern Era/Combustion/"
+                    },
+                    {
+                        "name": "Conservation - ",
+                        "ref": "Modern Era/Conservation/"
+                    },
+                    {
+                        "name": "Mass Media - ",
+                        "ref": "Modern Era/Mass Media/"
+                    },
+                    {
+                        "name": "Mobilization - ",
+                        "ref": "Modern Era/Mobilization/"
+                    },
+                    {
+                        "name": "Capitalism - ",
+                        "ref": "Modern Era/Capitalism/"
+                    },
+                    {
+                        "name": "Ideology - ",
+                        "ref": "Modern Era/Ideology/"
+                    },
+                    {
+                        "name": "Nuclear Program - ",
+                        "ref": "Modern Era/Nuclear Program/"
+                    },
+                    {
+                        "name": "Suffrage - ",
+                        "ref": "Modern Era/Suffrage/"
+                    },
+                    {
+                        "name": "Totalitarianism - ",
+                        "ref": "Modern Era/Totalitarianism/"
+                    },
+                    {
+                        "name": "Class Struggle - ",
+                        "ref": "Modern Era/Class Struggle/"
+                    },
+                    {
+                        "name": "Modern Era - ",
+                        "ref": "Modern Era/Modern Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2372",
+                        "y": "856",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Renaissance Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "BOOST CARTOGRAPHY - ",
+                        "ref": "Renaissance Era/BOOST CARTOGRAPHY/"
+                    },
+                    {
+                        "name": "BOOST MASS_PRODUCTION - ",
+                        "ref": "Renaissance Era/BOOST MASS_PRODUCTION/"
+                    },
+                    {
+                        "name": "BOOST BANKING - ",
+                        "ref": "Renaissance Era/BOOST BANKING/"
+                    },
+                    {
+                        "name": "BOOST GUNPOWDER - ",
+                        "ref": "Renaissance Era/BOOST GUNPOWDER/"
+                    },
+                    {
+                        "name": "BOOST PRINTING - ",
+                        "ref": "Renaissance Era/BOOST PRINTING/"
+                    },
+                    {
+                        "name": "BOOST SQUARE_RIGGING - ",
+                        "ref": "Renaissance Era/BOOST SQUARE_RIGGING/"
+                    },
+                    {
+                        "name": "BOOST ASTRONOMY - ",
+                        "ref": "Renaissance Era/BOOST ASTRONOMY/"
+                    },
+                    {
+                        "name": "BOOST METAL_CASTING - ",
+                        "ref": "Renaissance Era/BOOST METAL_CASTING/"
+                    },
+                    {
+                        "name": "BOOST SIEGE_TACTICS - ",
+                        "ref": "Renaissance Era/BOOST SIEGE_TACTICS/"
+                    },
+                    {
+                        "name": "BOOST EXPLORATION - ",
+                        "ref": "Renaissance Era/BOOST EXPLORATION/"
+                    },
+                    {
+                        "name": "BOOST HUMANISM - ",
+                        "ref": "Renaissance Era/BOOST HUMANISM/"
+                    },
+                    {
+                        "name": "BOOST DIPLOMATIC_SERVICE - ",
+                        "ref": "Renaissance Era/BOOST DIPLOMATIC_SERVICE/"
+                    },
+                    {
+                        "name": "BOOST REFORMED_CHURCH - ",
+                        "ref": "Renaissance Era/BOOST REFORMED_CHURCH/"
+                    },
+                    {
+                        "name": "BOOST MERCANTILISM - ",
+                        "ref": "Renaissance Era/BOOST MERCANTILISM/"
+                    },
+                    {
+                        "name": "BOOST THE_ENLIGHTENMENT - ",
+                        "ref": "Renaissance Era/BOOST THE_ENLIGHTENMENT/"
+                    },
+                    {
+                        "name": "Cartography - ",
+                        "ref": "Renaissance Era/Cartography/"
+                    },
+                    {
+                        "name": "Mass Production - ",
+                        "ref": "Renaissance Era/Mass Production/"
+                    },
+                    {
+                        "name": "Banking - ",
+                        "ref": "Renaissance Era/Banking/"
+                    },
+                    {
+                        "name": "Gunpowder - ",
+                        "ref": "Renaissance Era/Gunpowder/"
+                    },
+                    {
+                        "name": "Printing - ",
+                        "ref": "Renaissance Era/Printing/"
+                    },
+                    {
+                        "name": "Square Rigging - ",
+                        "ref": "Renaissance Era/Square Rigging/"
+                    },
+                    {
+                        "name": "Astronomy - ",
+                        "ref": "Renaissance Era/Astronomy/"
+                    },
+                    {
+                        "name": "Metal Casting - ",
+                        "ref": "Renaissance Era/Metal Casting/"
+                    },
+                    {
+                        "name": "Siege Tactics - ",
+                        "ref": "Renaissance Era/Siege Tactics/"
+                    },
+                    {
+                        "name": "Exploration - ",
+                        "ref": "Renaissance Era/Exploration/"
+                    },
+                    {
+                        "name": "Humanism - ",
+                        "ref": "Renaissance Era/Humanism/"
+                    },
+                    {
+                        "name": "Diplomatic Service - ",
+                        "ref": "Renaissance Era/Diplomatic Service/"
+                    },
+                    {
+                        "name": "Reformed Church - ",
+                        "ref": "Renaissance Era/Reformed Church/"
+                    },
+                    {
+                        "name": "Mercantilism - ",
+                        "ref": "Renaissance Era/Mercantilism/"
+                    },
+                    {
+                        "name": "Enlightenment - ",
+                        "ref": "Renaissance Era/Enlightenment/"
+                    },
+                    {
+                        "name": "Renaissance Era - ",
+                        "ref": "Renaissance Era/Renaissance Era/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1136",
+                        "y": "1502",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

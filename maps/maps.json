@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ancient Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech1.jpg"
+    },
+    {
+        "name": "Atomic Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech7.png"
+    },
+    {
+        "name": "Classical Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech2.png"
+    },
+    {
+        "name": "Future Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech9.png"
+    },
+    {
+        "name": "Goodyhuts",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech1.png"
+    },
+    {
+        "name": "Industrial Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech5.png"
+    },
+    {
+        "name": "Information Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech8.png"
+    },
+    {
+        "name": "Medieval Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech3.png"
+    },
+    {
+        "name": "Modern Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech6.png"
+    },
+    {
+        "name": "Renaissance Era",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Tech4.png"
+    }
+]

@@ -1,0 +1,1584 @@
+[
+    {
+        "name": "Medieval Era - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "BOOST MILITARY_TACTICS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_military_tactics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "306",
+                        "y": "549",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST APPRENTICESHIP - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_apprenticeship_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1064",
+                        "y": "2063",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MACHINERY - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_machinery_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1681",
+                        "y": "454",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST EDUCATION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_education_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1964",
+                        "y": "1185",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST STIRRUPS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_stirrups_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1336",
+                        "y": "2039",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MILITARY_ENGINEERING - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_military_engineering_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "873",
+                        "y": "2100",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CASTLES - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_castles_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2451",
+                        "y": "1857",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NAVAL_TRADITION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_naval_tradition_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "440",
+                        "y": "1776",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST FEUDALISM - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_feudalism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1862",
+                        "y": "834",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CIVIL_SERVICE - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_civil_service_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1825",
+                        "y": "535",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MERCENARIES - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_mercenaries_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1815",
+                        "y": "300",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MEDIEVAL_FAIRES - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_medieval_faires_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "543",
+                        "y": "2413",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST GUILDS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_guilds_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "928",
+                        "y": "594",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST DIVINE_RIGHT - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_boost_divine_right_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1105",
+                        "y": "1132",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Buttress - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_buttress_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1663",
+                        "y": "1788",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Military Tactics - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_military_tactics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2107",
+                        "y": "2308",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Apprenticeship - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_apprenticeship_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1723",
+                        "y": "1548",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Machinery - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_machinery_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "96",
+                        "y": "1813",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Education - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_education_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2304",
+                        "y": "2148",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Stirrups - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_stirrups_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2297",
+                        "y": "1331",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Military Engineering - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_military_engineering_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "577",
+                        "y": "1103",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Castles - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_castles_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2030",
+                        "y": "1695",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Naval Tradition - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_naval_tradition_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1212",
+                        "y": "329",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Feudalism - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_feudalism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1620",
+                        "y": "2233",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Civil Service - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_civil_service_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2167",
+                        "y": "2387",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Mercenaries - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_mercenaries_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1667",
+                        "y": "298",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Medieval Fairies - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_medieval_fairies_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "983",
+                        "y": "2180",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Guilds - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_guilds_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1401",
+                        "y": "1080",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Divine Rights - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_divine_rights_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "665",
+                        "y": "508",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Medieval Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "medieval_era_medieval_era_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1284",
+                        "y": "424",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Medieval Era",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "BOOST MILITARY_TACTICS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "306",
+                        "y": "549",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST APPRENTICESHIP",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1064",
+                        "y": "2063",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MACHINERY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1681",
+                        "y": "454",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST EDUCATION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1964",
+                        "y": "1185",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST STIRRUPS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1336",
+                        "y": "2039",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MILITARY_ENGINEERING",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "873",
+                        "y": "2100",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CASTLES",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2451",
+                        "y": "1857",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NAVAL_TRADITION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "440",
+                        "y": "1776",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST FEUDALISM",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1862",
+                        "y": "834",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CIVIL_SERVICE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1825",
+                        "y": "535",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MERCENARIES",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1815",
+                        "y": "300",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MEDIEVAL_FAIRES",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "543",
+                        "y": "2413",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST GUILDS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "928",
+                        "y": "594",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST DIVINE_RIGHT",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1105",
+                        "y": "1132",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Buttress",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1663",
+                        "y": "1788",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Military Tactics",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2107",
+                        "y": "2308",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Apprenticeship",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1723",
+                        "y": "1548",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Machinery",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "96",
+                        "y": "1813",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Education",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2304",
+                        "y": "2148",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Stirrups",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2297",
+                        "y": "1331",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Military Engineering",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "577",
+                        "y": "1103",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Castles",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2030",
+                        "y": "1695",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Naval Tradition",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1212",
+                        "y": "329",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Feudalism",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1620",
+                        "y": "2233",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Civil Service",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "2167",
+                        "y": "2387",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Mercenaries",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1667",
+                        "y": "298",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Medieval Fairies",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "983",
+                        "y": "2180",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Guilds",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1401",
+                        "y": "1080",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Divine Rights",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "665",
+                        "y": "508",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Medieval Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "1284",
+                        "y": "424",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

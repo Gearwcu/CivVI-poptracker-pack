@@ -1,0 +1,1480 @@
+[
+    {
+        "name": "Information Era - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "BOOST TELECOMMUNICATIONS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_telecommunications_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2340",
+                        "y": "1254",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SATELLITES - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_satellites_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1945",
+                        "y": "1576",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST GUIDANCE_SYSTEMS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_guidance_systems_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1461",
+                        "y": "1871",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST LASERS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_lasers_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1552",
+                        "y": "566",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST COMPOSITES - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_composites_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2082",
+                        "y": "2192",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST STEALTH_TECHNOLOGY - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_stealth_technology_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1044",
+                        "y": "617",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ROBOTICS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_robotics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "223",
+                        "y": "343",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NANOTECHNOLOGY - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_nanotechnology_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1379",
+                        "y": "1811",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST GLOBALIZATION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_globalization_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "546",
+                        "y": "461",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SOCIAL_MEDIA - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_social_media_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1387",
+                        "y": "1269",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ENVIRONMENTALISM - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_boost_environmentalism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2065",
+                        "y": "2342",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Telecommunications - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_telecommunications_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2433",
+                        "y": "141",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Satellites - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_satellites_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "962",
+                        "y": "120",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Guidance Systems - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_guidance_systems_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1150",
+                        "y": "378",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lasers - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_lasers_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "644",
+                        "y": "1912",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Composites - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_composites_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1567",
+                        "y": "1746",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Stealth Technology - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_stealth_technology_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2266",
+                        "y": "1810",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Robotics - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_robotics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1455",
+                        "y": "415",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Nuclear Fusion - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_nuclear_fusion_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "272",
+                        "y": "460",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Nanotechnology - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_nanotechnology_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1158",
+                        "y": "769",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Environmentalism - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_environmentalism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "257",
+                        "y": "226",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Globalization - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_globalization_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1879",
+                        "y": "989",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Social Media - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_social_media_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "954",
+                        "y": "1525",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Near Future Governance - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_near_future_governance_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1250",
+                        "y": "2063",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Venture Politics - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_venture_politics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "767",
+                        "y": "2115",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Distributed Sovereignty - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_distributed_sovereignty_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "14",
+                        "y": "1349",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Optimization Imperative - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_optimization_imperative_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1713",
+                        "y": "954",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Information Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "information_era_information_era_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "683",
+                        "y": "1780",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Information Era",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "BOOST TELECOMMUNICATIONS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2340",
+                        "y": "1254",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SATELLITES",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1945",
+                        "y": "1576",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST GUIDANCE_SYSTEMS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1461",
+                        "y": "1871",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST LASERS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1552",
+                        "y": "566",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST COMPOSITES",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2082",
+                        "y": "2192",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST STEALTH_TECHNOLOGY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1044",
+                        "y": "617",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ROBOTICS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "223",
+                        "y": "343",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NANOTECHNOLOGY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1379",
+                        "y": "1811",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST GLOBALIZATION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "546",
+                        "y": "461",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SOCIAL_MEDIA",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1387",
+                        "y": "1269",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ENVIRONMENTALISM",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2065",
+                        "y": "2342",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Telecommunications",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2433",
+                        "y": "141",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Satellites",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "962",
+                        "y": "120",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Guidance Systems",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1150",
+                        "y": "378",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lasers",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "644",
+                        "y": "1912",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Composites",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1567",
+                        "y": "1746",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Stealth Technology",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "2266",
+                        "y": "1810",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Robotics",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1455",
+                        "y": "415",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Nuclear Fusion",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "272",
+                        "y": "460",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Nanotechnology",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1158",
+                        "y": "769",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Environmentalism",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "257",
+                        "y": "226",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Globalization",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1879",
+                        "y": "989",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Social Media",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "954",
+                        "y": "1525",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Near Future Governance",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1250",
+                        "y": "2063",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Venture Politics",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "767",
+                        "y": "2115",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Distributed Sovereignty",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "14",
+                        "y": "1349",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Optimization Imperative",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "1713",
+                        "y": "954",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Information Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "683",
+                        "y": "1780",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1636 @@
+[
+    {
+        "name": "Industrial Era - hint",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "{}"
+        ],
+        "children": [
+            {
+                "name": "BOOST INDUSTRIALIZATION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_industrialization_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1027",
+                        "y": "1285",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SCIENTIFIC_THEORY - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_scientific_theory_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1205",
+                        "y": "2462",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST BALLISTICS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_ballistics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "830",
+                        "y": "1006",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MILITARY_SCIENCE - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_military_science_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "698",
+                        "y": "2220",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST STEAM_POWER - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_steam_power_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1078",
+                        "y": "924",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SANITATION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_sanitation_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2028",
+                        "y": "2033",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ECONOMICS - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_economics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "438",
+                        "y": "663",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST RIFLING - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_rifling_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2488",
+                        "y": "185",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST COLONIALISM - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_colonialism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "401",
+                        "y": "75",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CIVIL_ENGINEERING - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_civil_engineering_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1289",
+                        "y": "1127",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NATIONALISM - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_nationalism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1123",
+                        "y": "2352",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST OPERA_BALLET - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_opera_ballet_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2363",
+                        "y": "614",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NATURAL_HISTORY - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_natural_history_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1404",
+                        "y": "118",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SCORCHED_EARTH - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_scorched_earth_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "884",
+                        "y": "768",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "BOOST URBANIZATION - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_boost_urbanization_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1042",
+                        "y": "592",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Industrialization - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_industrialization_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "976",
+                        "y": "2405",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Scientific Theory - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_scientific_theory_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "318",
+                        "y": "323",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Ballistics - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_ballistics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "449",
+                        "y": "342",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Military Science - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_military_science_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2276",
+                        "y": "879",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Steam Power - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_steam_power_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2331",
+                        "y": "2193",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Sanitation - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_sanitation_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2308",
+                        "y": "2092",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Economics - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_economics_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "396",
+                        "y": "2330",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Rifling - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_rifling_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1887",
+                        "y": "2387",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Colonialism - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_colonialism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1064",
+                        "y": "2052",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Civil Engineering - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_civil_engineering_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1978",
+                        "y": "1428",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Nationalism - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_nationalism_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1255",
+                        "y": "2390",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Opera And Ballet - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_opera_and_ballet_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "133",
+                        "y": "977",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Natural History - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_natural_history_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1712",
+                        "y": "1028",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Urbanization - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_urbanization_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1354",
+                        "y": "2320",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Scorched Earth - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_scorched_earth_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "977",
+                        "y": "2097",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Industrial Era - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": " - hint",
+                        "access_rules": [],
+                        "visibility_rules": [
+                            "industrial_era_industrial_era_"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "969",
+                        "y": "2169",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Industrial Era",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "BOOST INDUSTRIALIZATION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1027",
+                        "y": "1285",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SCIENTIFIC_THEORY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1205",
+                        "y": "2462",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST BALLISTICS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "830",
+                        "y": "1006",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST MILITARY_SCIENCE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "698",
+                        "y": "2220",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST STEAM_POWER",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1078",
+                        "y": "924",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SANITATION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2028",
+                        "y": "2033",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST ECONOMICS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "438",
+                        "y": "663",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST RIFLING",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2488",
+                        "y": "185",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST COLONIALISM",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "401",
+                        "y": "75",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CIVIL_ENGINEERING",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1289",
+                        "y": "1127",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NATIONALISM",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1123",
+                        "y": "2352",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST OPERA_BALLET",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2363",
+                        "y": "614",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST NATURAL_HISTORY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1404",
+                        "y": "118",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST SCORCHED_EARTH",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "884",
+                        "y": "768",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "BOOST URBANIZATION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1042",
+                        "y": "592",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Industrialization",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "976",
+                        "y": "2405",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scientific Theory",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "318",
+                        "y": "323",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Ballistics",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "449",
+                        "y": "342",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Military Science",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2276",
+                        "y": "879",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Steam Power",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2331",
+                        "y": "2193",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sanitation",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "2308",
+                        "y": "2092",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Economics",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "396",
+                        "y": "2330",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rifling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1887",
+                        "y": "2387",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Colonialism",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1064",
+                        "y": "2052",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Civil Engineering",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1978",
+                        "y": "1428",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Nationalism",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1255",
+                        "y": "2390",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Opera And Ballet",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "133",
+                        "y": "977",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Natural History",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1712",
+                        "y": "1028",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Urbanization",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1354",
+                        "y": "2320",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Scorched Earth",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "977",
+                        "y": "2097",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Industrial Era",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "969",
+                        "y": "2169",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]
