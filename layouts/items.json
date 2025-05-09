@@ -19,7 +19,7 @@
                         "item_width": 55,
                         "rows": [
                             [
-                                "Era"
+                                "Progressive Era"
                             ],
                             [
                                 "disCount"
@@ -27,22 +27,22 @@
                             [
                                 "Campus",
                                 "Theater",
-                                "Holy"
+                                "Holy Site"
                             ],
                             [
-                                "Encamp",
-                                "Commerce",
+                                "Encampment",
+                                "Commercial Hub",
                                 "Harbor"
                             ],
                             [
-                                "Industry",
-                                "Neighbor",
-                                "Entertain"
+                                "Industrial Zone",
+                                "Neighborhood",
+                                "Entertainment Complex"
                             ],
                             [
-                                "Aero",
-                                "Space",
-                                "Diplo"
+                                "Aerodrome",
+                                "Space Port",
+                                "Government/Diplo Quarter"
                             ]
                         ]
                     }

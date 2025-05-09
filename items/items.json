@@ -1,15 +1,11 @@
 [
     {
       "name": "Campus",
-      "type": "progressive",
+      "type": "progressive_toggle",
       "codes": "Campus",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/Campus1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/Campus1.png",
         "codes": "campus1"
         },
@@ -23,15 +19,11 @@
     },
     {
       "name": "Theater Square",
-      "type": "progressive",
+      "type": "progressive_toggle",
       "codes": "Theater",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/theater1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/theater1.png",
       "codes": "theater1"
         },
@@ -45,15 +37,11 @@
     },
     {
       "name": "Holy Site",
-      "type": "progressive",
-      "codes": "Holy",
+      "type": "progressive_toggle",
+      "codes": "Holy Site",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/holy1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/holy1.png",
         "codes": "holy1"
         },
@@ -64,15 +52,11 @@
     },
     {
       "name": "Encampment",
-      "type": "progressive",
-      "codes": "Encamp",
+      "type": "progressive_toggle",
+      "codes": "Encampment",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/encamp1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/encamp1.png",
         "codes": "encamp1"
         },
@@ -86,15 +70,11 @@
     },
     {
       "name": "Commercial Hub",
-      "type": "progressive",
-      "codes": "Commerce",
+      "type": "progressive_toggle",
+      "codes": "Commercial Hub",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/commerce1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/commerce1.png",
       "codes": "commerce1"
         },
@@ -108,15 +88,11 @@
     },
     {
       "name": "Harbor",
-      "type": "progressive",
+      "type": "progressive_toggle",
       "codes": "Harbor",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/harbor1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/harbor1.png",
         "codes": "harbor1"
         },
@@ -127,15 +103,11 @@
     },
     {
       "name": "Industrial Zone",
-      "type": "progressive",
-      "codes": "Industry",
+      "type": "progressive_toggle",
+      "codes": "Industrial Zone",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/industry1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/industry1.png",
       "codes": "industry1"
         },
@@ -152,15 +124,11 @@
     },
     {
       "name": "Preserve",
-      "type": "progressive",
+      "type": "progressive_toggle",
       "codes": "Preserve",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/preserve1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/preserve1.png",
       "codes": "preserve1"
         },
@@ -171,15 +139,11 @@
     },
     {
       "name": "Entertainment Complex",
-      "type": "progressive",
-      "codes": "Entertain",
+      "type": "progressive_toggle",
+      "codes": "Entertainment Complex",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/entertain1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/entertain1.png",
       "codes": "entertain1"
         },
@@ -193,15 +157,11 @@
     },
     {
       "name": "Neighborhood",
-      "type": "progressive",
-      "codes": "Neighbor",
+      "type": "progressive_toggle",
+      "codes": "Neighborhood",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/neighbor1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/neighbor1.png",
       "codes": "neighbor1"
         },
@@ -214,16 +174,12 @@
       ]
     },
     {
-      "name": "Aerodome",
-      "type": "progressive",
-      "codes": "Aero",
+      "name": "Aerodrome",
+      "type": "progressive_toggle",
+      "codes": "Aerodrome",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/aerodome1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/aerodome1.png",
       "codes": "aerodome1"
         },
@@ -234,15 +190,11 @@
     },
     {
       "name": "Diplomatic Quarter",
-      "type": "progressive",
-      "codes": "Diplo",
+      "type": "progressive_toggle",
+      "codes": "Government/Diplo Quarter",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/diplo1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/diplo1.png",
         "codes": "diplo1"
         },
@@ -253,15 +205,11 @@
     },
     {
       "name": "Space Port",
-      "type": "progressive",
-      "codes": "Space",
+      "type": "progressive_toggle",
+      "codes": "Space Port",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/space1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/space1.png",
         "codes": "space1"
         },
@@ -280,16 +228,12 @@
       ]
     },
     {
-      "name": "Progressive Era",
-      "type": "progressive",
-      "codes": "Era",
+      "name": "progressive Era",
+      "type": "progressive_toggle",
+      "codes": "Progressive Era",
       "loop": false,
-      "allow_disabled": false,
+      "allow_disabled": true,
       "stages":[
-        {"img": "images/items/era1.png",
-        "img_mods": "@disabled",
-        "codes": "campus1"
-        },
         {"img": "images/items/era1.png",
         "codes": "Era1"
         },
@@ -324,7 +268,7 @@
         "type": "consumable",
         "codes": "disCount",
         "loop": false,
-        "allow_disabled": false,
+        "allow_disabled": true,
         "img": "images/items/disCount.png",
 		"max_quantity": 18
     }
