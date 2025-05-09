@@ -330,7 +330,7 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "491",
+                        "x": "490",
                         "y": "614",
                         "size": 18
                     }
@@ -355,7 +355,7 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "491",
+                        "x": "490",
                         "y": "857",
                         "size": 18
                     }
@@ -2132,12 +2132,6 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
-                    {
-                        "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"246",
-                        "size": 22
                     }
                 ],
                 "map_locations": [
@@ -4434,7 +4428,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Future Era",
+                        "map": "Modern Era",
                         "x": "970",
                         "y": "995",
                         "size": 18
@@ -6175,7 +6169,7 @@
                         "size": 18
                     },
                     {
-                        "map": "Civic Boosts",
+                        "map": "Tech Boosts",
                         "x": "115",
                         "y":"100",
                         "size": 22
