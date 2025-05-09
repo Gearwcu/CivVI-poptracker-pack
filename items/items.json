@@ -7,13 +7,13 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/Campus1.png",
-        "codes": "campus1"
+        "codes": "writing"
         },
         {"img": "images/items/Campus2.png",
-        "codes": "campus2,campus1"
+        "codes": "education"
         },
         {"img": "images/items/Campus3.png",
-        "codes": "campus3,campus2,campus1"
+        "codes": "chemistry"
         }
       ]
     },
@@ -25,13 +25,13 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/theater1.png",
-      "codes": "theater1"
+      "codes": "drama poetry"
         },
         {"img": "images/items/theater2.png",
-      "codes": "theater2,theater1"
+      "codes": "humanism"
         },
         {"img": "images/items/theater3.png",
-      "codes": "theater3,theater2,theater1"
+      "codes": "radio"
         }
       ]
     },
@@ -43,10 +43,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/holy1.png",
-        "codes": "holy1"
+        "codes": "astrology"
         },
         {"img": "images/items/holy2.png",
-        "codes": "holy2,holy1"
+        "codes": "theology"
         }
       ]
     },
@@ -58,13 +58,13 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/encamp1.png",
-        "codes": "encamp1"
+        "codes": "bronze working"
         },
         {"img": "images/items/encamp2.png",
-        "codes": "encamp2,encamp1"
+        "codes": "military engineering"
         },
         {"img": "images/items/encamp3.png",
-        "codes": "encamp3,encamp2,encamp1"
+        "codes": "military science"
         }
       ]
     },
@@ -76,13 +76,13 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/commerce1.png",
-      "codes": "commerce1"
+      "codes": "currency"
         },
         {"img": "images/items/commerce2.png",
-      "codes": "commerce2,commerce1"
+      "codes": "banking"
         },
         {"img": "images/items/commerce3.png",
-      "codes": "commerce3,commerce2,commerce1"
+      "codes": "economics"
         }
       ]
     },
@@ -94,10 +94,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/harbor1.png",
-        "codes": "harbor1"
+        "codes": "celestial navigation"
         },
         {"img": "images/items/harbor2.png",
-        "codes": "harbor2,harbor1"
+        "codes": "mass production"
         }
       ]
     },
@@ -109,16 +109,16 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/industry1.png",
-      "codes": "industry1"
+      "codes": "apprenticeship"
         },
         {"img": "images/items/industry2.png",
-      "codes": "industry2,industry1"
+      "codes": "industrialization"
         },
         {"img": "images/items/industry3.png",
-      "codes": "industry3,industry2,industry1"
+      "codes": "electricity"
         },
         {"img": "images/items/industry4.png",
-      "codes": "industry4,industry3,industry2,industry1"
+      "codes": "nuclear fission"
         }
       ]
     },
@@ -130,10 +130,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/preserve1.png",
-      "codes": "preserve1"
+      "codes": "mysticism"
         },
         {"img": "images/items/preserve2.png",
-      "codes": "preserve2,preserve1"
+      "codes": "conservation"
         }
       ]
     },
@@ -145,13 +145,13 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/entertain1.png",
-      "codes": "entertain1"
+      "codes": "games recreation"
         },
         {"img": "images/items/entertain2.png",
-      "codes": "entertain2,entertain1"
+      "codes": "natural history"
         },
         {"img": "images/items/entertain3.png",
-      "codes": "entertain3,entertain2,entertain1"
+      "codes": "professional sports"
         }
       ]
     },
@@ -163,13 +163,13 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/neighbor1.png",
-      "codes": "neighbor1"
+      "codes": "urbanization"
         },
         {"img": "images/items/neighbor2.png",
-      "codes": "neighbor,neighbor1"
+      "codes": "replaceable parts"
         },
         {"img": "images/items/neighbor3.png",
-      "codes": "neighbor3,neighbor2,neighbor1"
+      "codes": "capitalism"
         }
       ]
     },
@@ -181,10 +181,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/aerodome1.png",
-      "codes": "aerodome1"
+      "codes": "flight"
         },
         {"img": "images/items/aerodome2.png",
-      "codes": "aerodome2,aerodome1"
+      "codes": "advanced flight"
         }
       ]
     },
@@ -196,10 +196,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/diplo1.png",
-        "codes": "diplo1"
+        "codes": "mathematics"
         },
         {"img": "images/items/diplo2.png",
-        "codes": "diplo2,diplo1"
+        "codes": "diplomatic service"
         }
       ]
     },
@@ -211,19 +211,19 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/space1.png",
-        "codes": "space1"
+        "codes": "rocketry"
         },
         {"img": "images/items/space2.png",
-        "codes": "space2,space1"
+        "codes": "satellites"
         },
         {"img": "images/items/space3.png",
-        "codes": "space3,space2,space1"
+        "codes": "nanotechnology"
         },
         {"img": "images/items/space4.png",
-        "codes": "space4,space3,space2,space1"
+        "codes": "smart materials"
         },
         {"img": "images/items/space5.png",
-        "codes": "space5,space4,space3,space2,space1"
+        "codes": "offworld mission"
         }
       ]
     },
@@ -232,34 +232,33 @@
       "type": "progressive_toggle",
       "codes": "Progressive Era",
       "loop": false,
-      "allow_disabled": true,
+      "allow_disabled": false,
       "stages":[
-        {"img": "images/items/era1.png",
-        "codes": "Era1"
+        {"img": "images/items/era1.png"
         },
         {"img": "images/items/era2.png",
-        "codes": "era2,era1"
+        "codes": "classical Era"
         },
         {"img": "images/items/era3.png",
-        "codes": "era3,era2,era1"
+        "codes": "medieval Era"
         },
         {"img": "images/items/era4.png",
-        "codes": "era4,era3,era2,era1"
+        "codes": "renaissance Era"
         },
         {"img": "images/items/era5.png",
-        "codes": "era5,era4,era3,era2,era1"
+        "codes": "industrial era"
         },
         {"img": "images/items/era6.png",
-        "codes": "era6,era5,era4,era3,era2,era1"
+        "codes": "modern Era"
         },
         {"img": "images/items/era7.png",
-        "codes": "era7,era6,era5,era4,era3,era2,era1"
+        "codes": "atomic Era"
         },
         {"img": "images/items/era8.png",
-        "codes": "era8,era7,era6,era5,era4,era3,era2,era1"
+        "codes": "information Era"
         },
         {"img": "images/items/era9.png",
-        "codes": "era9,era8,era7,era6,era5,era4,era3,era2,era1"
+        "codes": "future Era"
         }
       ]
     },
