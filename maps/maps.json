@@ -58,5 +58,17 @@
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/Tech4.png"
+    },
+    {
+        "name": "Tech Boosts",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/BoostsT.png"
+    },
+    {
+        "name": "Civic Boosts",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/BoostsC.png"
     }
 ]

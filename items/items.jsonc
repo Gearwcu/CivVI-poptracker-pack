@@ -2,7 +2,7 @@
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
     "name": "Campus",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/Campus1.png",
@@ -18,7 +18,7 @@
   },
   {
     "name": "Theater Square",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/theater1.png",
@@ -34,7 +34,7 @@
   },
   {
     "name": "Holy Site",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/holy1.png",
@@ -47,7 +47,7 @@
   },
   {
     "name": "Encampment",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/encamp1.png",
@@ -63,7 +63,7 @@
   },
   {
     "name": "Commercial Hub",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/commerce1.png",
@@ -79,7 +79,7 @@
   },
   {
     "name": "Harbor",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/harbor1.png",
@@ -92,7 +92,7 @@
   },
   {
     "name": "Industrial Zone",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/industry1.png",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Preserve",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/preserve1.png",
@@ -124,7 +124,7 @@
   },
   {
     "name": "Entertainment Complex",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/entertain1.png",
@@ -140,7 +140,7 @@
   },
   {
     "name": "Neighborhood",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/neighbor.png",
@@ -156,7 +156,7 @@
   },
   {
     "name": "Aerodome",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/aerodome.png",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Diplomatic Quarter",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/diplo1.png",
@@ -182,7 +182,7 @@
   },
   {
     "name": "Space Port",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/space1.png",
@@ -204,7 +204,7 @@
   },
   {
     "name": "Progressive Era",
-    "type": "progressive",
+    "type": "progressive_toggle",
     "loop": false,
     "stages":[
       {"img": "images/items/era1.png",
@@ -235,37 +235,6 @@
     "codes": "era9,era8,era7,era6,era5,era4,era3,era2,era1"
       }
     ]
-  },
-
-  {
-    "name": "Progressive",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_2",
-        "inherit_codes": false
-      }
-    ]
-  },
-  {
-    "name": "Consumable",
-    "type": "consumable",
-    "img": "images/items/consumable.png",
-    "max_quantity": 8,
-    "increment": 1,
-    "decrement": 1,
-    "initial_quantity": 1,
-    "overlay_background": "#000000",
-    "overlay_font_size": 8,
-    "codes": "consumable"
   },
   {
     "name": "Progressive Toggle",

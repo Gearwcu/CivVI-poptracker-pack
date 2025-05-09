@@ -1,1532 +1,332 @@
 [
     {
-        "name": "irrigation",
-        "type": "toggle",
-        "img": "images/items/irrigation.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "irrigation"
-    },
-    {
-        "name": "guidancesystems",
-        "type": "toggle",
-        "img": "images/items/guidancesystems.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "guidancesystems"
-    },
-    {
-        "name": "buttress",
-        "type": "toggle",
-        "img": "images/items/buttress.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "buttress"
-    },
-    {
-        "name": "advancedai",
-        "type": "toggle",
-        "img": "images/items/advancedai.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "advancedai"
-    },
-    {
-        "name": "progressivecommercialhub",
-        "type": "toggle",
-        "img": "images/items/progressivecommercialhub.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressivecommercialhub"
-    },
-    {
-        "name": "machinery",
-        "type": "toggle",
-        "img": "images/items/machinery.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "machinery"
-    },
-    {
-        "name": "globalization",
-        "type": "toggle",
-        "img": "images/items/globalization.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "globalization"
-    },
-    {
-        "name": "culturalheritage",
-        "type": "toggle",
-        "img": "images/items/culturalheritage.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "culturalheritage"
-    },
-    {
-        "name": "reformedchurch",
-        "type": "toggle",
-        "img": "images/items/reformedchurch.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "reformedchurch"
-    },
-    {
-        "name": "construction",
-        "type": "toggle",
-        "img": "images/items/construction.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "construction"
-    },
-    {
-        "name": "scientifictheory",
-        "type": "toggle",
-        "img": "images/items/scientifictheory.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "scientifictheory"
-    },
-    {
-        "name": "militarytradition",
-        "type": "toggle",
-        "img": "images/items/militarytradition.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "militarytradition"
-    },
-    {
-        "name": "gunpowder",
-        "type": "toggle",
-        "img": "images/items/gunpowder.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "gunpowder"
-    },
-    {
-        "name": "dramaandpoetry",
-        "type": "toggle",
-        "img": "images/items/dramaandpoetry.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "dramaandpoetry"
-    },
-    {
-        "name": "militaryengineering",
-        "type": "toggle",
-        "img": "images/items/militaryengineering.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "militaryengineering"
-    },
-    {
-        "name": "flight",
-        "type": "toggle",
-        "img": "images/items/flight.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "flight"
-    },
-    {
-        "name": "banking",
-        "type": "toggle",
-        "img": "images/items/banking.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "banking"
-    },
-    {
-        "name": "refining",
-        "type": "toggle",
-        "img": "images/items/refining.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "refining"
-    },
-    {
-        "name": "progressiveaerodrome",
-        "type": "toggle",
-        "img": "images/items/progressiveaerodrome.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveaerodrome"
-    },
-    {
-        "name": "civilservice",
-        "type": "toggle",
-        "img": "images/items/civilservice.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "civilservice"
-    },
-    {
-        "name": "offworldmission",
-        "type": "toggle",
-        "img": "images/items/offworldmission.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "offworldmission"
-    },
-    {
-        "name": "urbanization",
-        "type": "toggle",
-        "img": "images/items/urbanization.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "urbanization"
-    },
-    {
-        "name": "animalhusbandry",
-        "type": "toggle",
-        "img": "images/items/animalhusbandry.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "animalhusbandry"
-    },
-    {
-        "name": "coldwar",
-        "type": "toggle",
-        "img": "images/items/coldwar.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "coldwar"
-    },
-    {
-        "name": "rocketry",
-        "type": "toggle",
-        "img": "images/items/rocketry.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "rocketry"
-    },
-    {
-        "name": "seasteads",
-        "type": "toggle",
-        "img": "images/items/seasteads.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "seasteads"
-    },
-    {
-        "name": "codeoflaws",
-        "type": "toggle",
-        "img": "images/items/codeoflaws.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "codeoflaws"
-    },
-    {
-        "name": "plastics",
-        "type": "toggle",
-        "img": "images/items/plastics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "plastics"
-    },
-    {
-        "name": "theenlightenment",
-        "type": "toggle",
-        "img": "images/items/theenlightenment.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "theenlightenment"
-    },
-    {
-        "name": "capitalism",
-        "type": "toggle",
-        "img": "images/items/capitalism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "capitalism"
-    },
-    {
-        "name": "nuclearprogram",
-        "type": "toggle",
-        "img": "images/items/nuclearprogram.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "nuclearprogram"
-    },
-    {
-        "name": "satellites",
-        "type": "toggle",
-        "img": "images/items/satellites.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "satellites"
-    },
-    {
-        "name": "composites",
-        "type": "toggle",
-        "img": "images/items/composites.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "composites"
-    },
-    {
-        "name": "smartmaterials",
-        "type": "toggle",
-        "img": "images/items/smartmaterials.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "smartmaterials"
-    },
-    {
-        "name": "futurecivic",
-        "type": "toggle",
-        "img": "images/items/futurecivic.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "futurecivic"
-    },
-    {
-        "name": "scorchedearth",
-        "type": "toggle",
-        "img": "images/items/scorchedearth.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "scorchedearth"
-    },
-    {
-        "name": "ballistics",
-        "type": "toggle",
-        "img": "images/items/ballistics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "ballistics"
-    },
-    {
-        "name": "advancedflight",
-        "type": "toggle",
-        "img": "images/items/advancedflight.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "advancedflight"
-    },
-    {
-        "name": "syntheticmaterials",
-        "type": "toggle",
-        "img": "images/items/syntheticmaterials.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "syntheticmaterials"
-    },
-    {
-        "name": "lasers",
-        "type": "toggle",
-        "img": "images/items/lasers.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "lasers"
-    },
-    {
-        "name": "currency",
-        "type": "toggle",
-        "img": "images/items/currency.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "currency"
-    },
-    {
-        "name": "bronzeworking",
-        "type": "toggle",
-        "img": "images/items/bronzeworking.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "bronzeworking"
-    },
-    {
-        "name": "progressiveera",
-        "type": "toggle",
-        "img": "images/items/progressiveera.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveera"
-    },
-    {
-        "name": "metalcasting",
-        "type": "toggle",
-        "img": "images/items/metalcasting.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "metalcasting"
-    },
-    {
-        "name": "craftsmanship",
-        "type": "toggle",
-        "img": "images/items/craftsmanship.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "craftsmanship"
-    },
-    {
-        "name": "masonry",
-        "type": "toggle",
-        "img": "images/items/masonry.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "masonry"
-    },
-    {
-        "name": "steampower",
-        "type": "toggle",
-        "img": "images/items/steampower.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "steampower"
-    },
-    {
-        "name": "suffrage",
-        "type": "toggle",
-        "img": "images/items/suffrage.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "suffrage"
-    },
-    {
-        "name": "ideology",
-        "type": "toggle",
-        "img": "images/items/ideology.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "ideology"
-    },
-    {
-        "name": "replaceableparts",
-        "type": "toggle",
-        "img": "images/items/replaceableparts.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "replaceableparts"
-    },
-    {
-        "name": "industrialization",
-        "type": "toggle",
-        "img": "images/items/industrialization.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "industrialization"
-    },
-    {
-        "name": "cybernetics",
-        "type": "toggle",
-        "img": "images/items/cybernetics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "cybernetics"
-    },
-    {
-        "name": "siegetactics",
-        "type": "toggle",
-        "img": "images/items/siegetactics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "siegetactics"
-    },
-    {
-        "name": "environmentalism",
-        "type": "toggle",
-        "img": "images/items/environmentalism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "environmentalism"
-    },
-    {
-        "name": "conservation",
-        "type": "toggle",
-        "img": "images/items/conservation.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "conservation"
-    },
-    {
-        "name": "writing",
-        "type": "toggle",
-        "img": "images/items/writing.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "writing"
-    },
-    {
-        "name": "sailing",
-        "type": "toggle",
-        "img": "images/items/sailing.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "sailing"
-    },
-    {
-        "name": "economics",
-        "type": "toggle",
-        "img": "images/items/economics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "economics"
-    },
-    {
-        "name": "recordedhistory",
-        "type": "toggle",
-        "img": "images/items/recordedhistory.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "recordedhistory"
-    },
-    {
-        "name": "stateworkforce",
-        "type": "toggle",
-        "img": "images/items/stateworkforce.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "stateworkforce"
-    },
-    {
-        "name": "feudalism",
-        "type": "toggle",
-        "img": "images/items/feudalism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "feudalism"
-    },
-    {
-        "name": "thewheel",
-        "type": "toggle",
-        "img": "images/items/thewheel.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "thewheel"
-    },
-    {
-        "name": "socialmedia",
-        "type": "toggle",
-        "img": "images/items/socialmedia.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "socialmedia"
-    },
-    {
-        "name": "ironworking",
-        "type": "toggle",
-        "img": "images/items/ironworking.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "ironworking"
-    },
-    {
-        "name": "naturalhistory",
-        "type": "toggle",
-        "img": "images/items/naturalhistory.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "naturalhistory"
-    },
-    {
-        "name": "digitaldemocracy",
-        "type": "toggle",
-        "img": "images/items/digitaldemocracy.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "digitaldemocracy"
-    },
-    {
-        "name": "earlyempire",
-        "type": "toggle",
-        "img": "images/items/earlyempire.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "earlyempire"
-    },
-    {
-        "name": "rapiddeployment",
-        "type": "toggle",
-        "img": "images/items/rapiddeployment.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "rapiddeployment"
-    },
-    {
-        "name": "professionalsports",
-        "type": "toggle",
-        "img": "images/items/professionalsports.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "professionalsports"
-    },
-    {
-        "name": "radio",
-        "type": "toggle",
-        "img": "images/items/radio.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "radio"
-    },
-    {
-        "name": "archery",
-        "type": "toggle",
-        "img": "images/items/archery.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "archery"
-    },
-    {
-        "name": "progressiveentertainmentcomplex",
-        "type": "toggle",
-        "img": "images/items/progressiveentertainmentcomplex.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveentertainmentcomplex"
-    },
-    {
-        "name": "medievalfaires",
-        "type": "toggle",
-        "img": "images/items/medievalfaires.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "medievalfaires"
-    },
-    {
-        "name": "printing",
-        "type": "toggle",
-        "img": "images/items/printing.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "printing"
-    },
-    {
-        "name": "apprenticeship",
-        "type": "toggle",
-        "img": "images/items/apprenticeship.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "apprenticeship"
-    },
-    {
-        "name": "nuclearfission",
-        "type": "toggle",
-        "img": "images/items/nuclearfission.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "nuclearfission"
-    },
-    {
-        "name": "sanitation",
-        "type": "toggle",
-        "img": "images/items/sanitation.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "sanitation"
-    },
-    {
-        "name": "totalitarianism",
-        "type": "toggle",
-        "img": "images/items/totalitarianism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "totalitarianism"
-    },
-    {
-        "name": "predictivesystems",
-        "type": "toggle",
-        "img": "images/items/predictivesystems.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "predictivesystems"
-    },
-    {
-        "name": "progressiveharbor",
-        "type": "toggle",
-        "img": "images/items/progressiveharbor.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveharbor"
-    },
-    {
-        "name": "civilengineering",
-        "type": "toggle",
-        "img": "images/items/civilengineering.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "civilengineering"
-    },
-    {
-        "name": "combustion",
-        "type": "toggle",
-        "img": "images/items/combustion.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "combustion"
-    },
-    {
-        "name": "defensivetactics",
-        "type": "toggle",
-        "img": "images/items/defensivetactics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "defensivetactics"
-    },
-    {
-        "name": "smartpowerdoctrine",
-        "type": "toggle",
-        "img": "images/items/smartpowerdoctrine.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "smartpowerdoctrine"
-    },
-    {
-        "name": "spacerace",
-        "type": "toggle",
-        "img": "images/items/spacerace.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "spacerace"
-    },
-    {
-        "name": "diplomaticservice",
-        "type": "toggle",
-        "img": "images/items/diplomaticservice.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "diplomaticservice"
-    },
-    {
-        "name": "informationwarfare",
-        "type": "toggle",
-        "img": "images/items/informationwarfare.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "informationwarfare"
-    },
-    {
-        "name": "castles",
-        "type": "toggle",
-        "img": "images/items/castles.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "castles"
-    },
-    {
-        "name": "progressivediplomaticquarter",
-        "type": "toggle",
-        "img": "images/items/progressivediplomaticquarter.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressivediplomaticquarter"
-    },
-    {
-        "name": "culturalhegemony",
-        "type": "toggle",
-        "img": "images/items/culturalhegemony.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "culturalhegemony"
-    },
-    {
-        "name": "telecommunications",
-        "type": "toggle",
-        "img": "images/items/telecommunications.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "telecommunications"
-    },
-    {
-        "name": "pottery",
-        "type": "toggle",
-        "img": "images/items/pottery.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "pottery"
-    },
-    {
-        "name": "foreigntrade",
-        "type": "toggle",
-        "img": "images/items/foreigntrade.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "foreigntrade"
-    },
-    {
-        "name": "theology",
-        "type": "toggle",
-        "img": "images/items/theology.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "theology"
-    },
-    {
-        "name": "astrology",
-        "type": "toggle",
-        "img": "images/items/astrology.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "astrology"
-    },
-    {
-        "name": "education",
-        "type": "toggle",
-        "img": "images/items/education.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "education"
-    },
-    {
-        "name": "exploration",
-        "type": "toggle",
-        "img": "images/items/exploration.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "exploration"
-    },
-    {
-        "name": "divineright",
-        "type": "toggle",
-        "img": "images/items/divineright.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "divineright"
-    },
-    {
-        "name": "massproduction",
-        "type": "toggle",
-        "img": "images/items/massproduction.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "massproduction"
-    },
-    {
-        "name": "robotics",
-        "type": "toggle",
-        "img": "images/items/robotics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "robotics"
-    },
-    {
-        "name": "mobilization",
-        "type": "toggle",
-        "img": "images/items/mobilization.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "mobilization"
-    },
-    {
-        "name": "advancedballistics",
-        "type": "toggle",
-        "img": "images/items/advancedballistics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "advancedballistics"
-    },
-    {
-        "name": "progressivespaceport",
-        "type": "toggle",
-        "img": "images/items/progressivespaceport.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressivespaceport"
-    },
-    {
-        "name": "shipbuilding",
-        "type": "toggle",
-        "img": "images/items/shipbuilding.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "shipbuilding"
-    },
-    {
-        "name": "computers",
-        "type": "toggle",
-        "img": "images/items/computers.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "computers"
-    },
-    {
-        "name": "colonialism",
-        "type": "toggle",
-        "img": "images/items/colonialism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "colonialism"
-    },
-    {
-        "name": "gamesandrecreation",
-        "type": "toggle",
-        "img": "images/items/gamesandrecreation.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "gamesandrecreation"
-    },
-    {
-        "name": "mercenaries",
-        "type": "toggle",
-        "img": "images/items/mercenaries.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "mercenaries"
-    },
-    {
-        "name": "celestialnavigation",
-        "type": "toggle",
-        "img": "images/items/celestialnavigation.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "celestialnavigation"
-    },
-    {
-        "name": "mining",
-        "type": "toggle",
-        "img": "images/items/mining.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "mining"
-    },
-    {
-        "name": "globalwarmingmitigation",
-        "type": "toggle",
-        "img": "images/items/globalwarmingmitigation.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "globalwarmingmitigation"
-    },
-    {
-        "name": "militarytactics",
-        "type": "toggle",
-        "img": "images/items/militarytactics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "militarytactics"
-    },
-    {
-        "name": "humanism",
-        "type": "toggle",
-        "img": "images/items/humanism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "humanism"
-    },
-    {
-        "name": "militarytraining",
-        "type": "toggle",
-        "img": "images/items/militarytraining.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "militarytraining"
-    },
-    {
-        "name": "stirrups",
-        "type": "toggle",
-        "img": "images/items/stirrups.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "stirrups"
-    },
-    {
-        "name": "mercantilism",
-        "type": "toggle",
-        "img": "images/items/mercantilism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "mercantilism"
-    },
-    {
-        "name": "guilds",
-        "type": "toggle",
-        "img": "images/items/guilds.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "guilds"
-    },
-    {
-        "name": "progressiveindustrialzone",
-        "type": "toggle",
-        "img": "images/items/progressiveindustrialzone.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveindustrialzone"
-    },
-    {
-        "name": "navaltradition",
-        "type": "toggle",
-        "img": "images/items/navaltradition.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "navaltradition"
-    },
-    {
-        "name": "nanotechnology",
-        "type": "toggle",
-        "img": "images/items/nanotechnology.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "nanotechnology"
-    },
-    {
-        "name": "mathematics",
-        "type": "toggle",
-        "img": "images/items/mathematics.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "mathematics"
-    },
-    {
-        "name": "mysticism",
-        "type": "toggle",
-        "img": "images/items/mysticism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "mysticism"
-    },
-    {
-        "name": "progressivetheater",
-        "type": "toggle",
-        "img": "images/items/progressivetheater.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressivetheater"
-    },
-    {
-        "name": "progressivecampus",
-        "type": "toggle",
-        "img": "images/items/progressivecampus.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressivecampus"
-    },
-    {
-        "name": "engineering",
-        "type": "toggle",
-        "img": "images/items/engineering.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "engineering"
-    },
-    {
-        "name": "astronomy",
-        "type": "toggle",
-        "img": "images/items/astronomy.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "astronomy"
-    },
-    {
-        "name": "nationalism",
-        "type": "toggle",
-        "img": "images/items/nationalism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "nationalism"
-    },
-    {
-        "name": "electricity",
-        "type": "toggle",
-        "img": "images/items/electricity.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "electricity"
-    },
-    {
-        "name": "politicalphilosophy",
-        "type": "toggle",
-        "img": "images/items/politicalphilosophy.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "politicalphilosophy"
-    },
-    {
-        "name": "massmedia",
-        "type": "toggle",
-        "img": "images/items/massmedia.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "massmedia"
-    },
-    {
-        "name": "rifling",
-        "type": "toggle",
-        "img": "images/items/rifling.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "rifling"
-    },
-    {
-        "name": "chemistry",
-        "type": "toggle",
-        "img": "images/items/chemistry.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "chemistry"
-    },
-    {
-        "name": "corporatelibertarianism",
-        "type": "toggle",
-        "img": "images/items/corporatelibertarianism.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "corporatelibertarianism"
-    },
-    {
-        "name": "stealthtechnology",
-        "type": "toggle",
-        "img": "images/items/stealthtechnology.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "stealthtechnology"
-    },
-    {
-        "name": "operaandballet",
-        "type": "toggle",
-        "img": "images/items/operaandballet.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "operaandballet"
-    },
-    {
-        "name": "combinedarms",
-        "type": "toggle",
-        "img": "images/items/combinedarms.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "combinedarms"
-    },
-    {
-        "name": "progressiveholysite",
-        "type": "toggle",
-        "img": "images/items/progressiveholysite.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveholysite"
-    },
-    {
-        "name": "synthetictechnocracy",
-        "type": "toggle",
-        "img": "images/items/synthetictechnocracy.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "synthetictechnocracy"
-    },
-    {
-        "name": "futuretech",
-        "type": "toggle",
-        "img": "images/items/futuretech.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "futuretech"
-    },
-    {
-        "name": "squarerigging",
-        "type": "toggle",
-        "img": "images/items/squarerigging.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "squarerigging"
-    },
-    {
-        "name": "militaryscience",
-        "type": "toggle",
-        "img": "images/items/militaryscience.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "militaryscience"
-    },
-    {
-        "name": "progressivepreserve",
-        "type": "toggle",
-        "img": "images/items/progressivepreserve.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressivepreserve"
-    },
-    {
-        "name": "progressiveencampment",
-        "type": "toggle",
-        "img": "images/items/progressiveencampment.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveencampment"
-    },
-    {
-        "name": "advancedpowercells",
-        "type": "toggle",
-        "img": "images/items/advancedpowercells.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "advancedpowercells"
-    },
-    {
-        "name": "exodusimperative",
-        "type": "toggle",
-        "img": "images/items/exodusimperative.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "exodusimperative"
-    },
-    {
-        "name": "nuclearfusion",
-        "type": "toggle",
-        "img": "images/items/nuclearfusion.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "nuclearfusion"
-    },
-    {
-        "name": "cartography",
-        "type": "toggle",
-        "img": "images/items/cartography.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "cartography"
-    },
-    {
-        "name": "nearfuturegovernance",
-        "type": "toggle",
-        "img": "images/items/nearfuturegovernance.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "nearfuturegovernance"
-    },
-    {
-        "name": "progressiveneighborhood",
-        "type": "toggle",
-        "img": "images/items/progressiveneighborhood.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "progressiveneighborhood"
-    },
-    {
-        "name": "steel",
-        "type": "toggle",
-        "img": "images/items/steel.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "steel"
-    },
-    {
-        "name": "horsebackriding",
-        "type": "toggle",
-        "img": "images/items/horsebackriding.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "horsebackriding"
-    },
-    {
-        "name": "classstruggle",
-        "type": "toggle",
-        "img": "images/items/classstruggle.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "classstruggle"
-    },
-    {
-        "name": "update",
-        "type": "toggle",
-        "img": "images/items/update.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "overlay_align": true,
-        "codes": "update"
+      "name": "Campus",
+      "type": "progressive",
+      "codes": "Campus",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/Campus1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/Campus1.png",
+        "codes": "campus1"
+        },
+        {"img": "images/items/Campus2.png",
+        "codes": "campus2,campus1"
+        },
+        {"img": "images/items/Campus3.png",
+        "codes": "campus3,campus2,campus1"
+        }
+      ]
+    },
+    {
+      "name": "Theater Square",
+      "type": "progressive",
+      "codes": "Theater",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/theater1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/theater1.png",
+      "codes": "theater1"
+        },
+        {"img": "images/items/theater2.png",
+      "codes": "theater2,theater1"
+        },
+        {"img": "images/items/theater3.png",
+      "codes": "theater3,theater2,theater1"
+        }
+      ]
+    },
+    {
+      "name": "Holy Site",
+      "type": "progressive",
+      "codes": "Holy",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/holy1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/holy1.png",
+        "codes": "holy1"
+        },
+        {"img": "images/items/holy2.png",
+        "codes": "holy2,holy1"
+        }
+      ]
+    },
+    {
+      "name": "Encampment",
+      "type": "progressive",
+      "codes": "Encamp",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/encamp1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/encamp1.png",
+        "codes": "encamp1"
+        },
+        {"img": "images/items/encamp2.png",
+        "codes": "encamp2,encamp1"
+        },
+        {"img": "images/items/encamp3.png",
+        "codes": "encamp3,encamp2,encamp1"
+        }
+      ]
+    },
+    {
+      "name": "Commercial Hub",
+      "type": "progressive",
+      "codes": "Commerce",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/commerce1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/commerce1.png",
+      "codes": "commerce1"
+        },
+        {"img": "images/items/commerce2.png",
+      "codes": "commerce2,commerce1"
+        },
+        {"img": "images/items/commerce3.png",
+      "codes": "commerce3,commerce2,commerce1"
+        }
+      ]
+    },
+    {
+      "name": "Harbor",
+      "type": "progressive",
+      "codes": "Harbor",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/harbor1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/harbor1.png",
+        "codes": "harbor1"
+        },
+        {"img": "images/items/harbor2.png",
+        "codes": "harbor2,harbor1"
+        }
+      ]
+    },
+    {
+      "name": "Industrial Zone",
+      "type": "progressive",
+      "codes": "Industry",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/industry1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/industry1.png",
+      "codes": "industry1"
+        },
+        {"img": "images/items/industry2.png",
+      "codes": "industry2,industry1"
+        },
+        {"img": "images/items/industry3.png",
+      "codes": "industry3,industry2,industry1"
+        },
+        {"img": "images/items/industry4.png",
+      "codes": "industry4,industry3,industry2,industry1"
+        }
+      ]
+    },
+    {
+      "name": "Preserve",
+      "type": "progressive",
+      "codes": "Preserve",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/preserve1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/preserve1.png",
+      "codes": "preserve1"
+        },
+        {"img": "images/items/preserve2.png",
+      "codes": "preserve2,preserve1"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment Complex",
+      "type": "progressive",
+      "codes": "Entertain",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/entertain1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/entertain1.png",
+      "codes": "entertain1"
+        },
+        {"img": "images/items/entertain2.png",
+      "codes": "entertain2,entertain1"
+        },
+        {"img": "images/items/entertain3.png",
+      "codes": "entertain3,entertain2,entertain1"
+        }
+      ]
+    },
+    {
+      "name": "Neighborhood",
+      "type": "progressive",
+      "codes": "Neighbor",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/neighbor1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/neighbor1.png",
+      "codes": "neighbor1"
+        },
+        {"img": "images/items/neighbor2.png",
+      "codes": "neighbor,neighbor1"
+        },
+        {"img": "images/items/neighbor3.png",
+      "codes": "neighbor3,neighbor2,neighbor1"
+        }
+      ]
+    },
+    {
+      "name": "Aerodome",
+      "type": "progressive",
+      "codes": "Aero",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/aerodome1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/aerodome1.png",
+      "codes": "aerodome1"
+        },
+        {"img": "images/items/aerodome2.png",
+      "codes": "aerodome2,aerodome1"
+        }
+      ]
+    },
+    {
+      "name": "Diplomatic Quarter",
+      "type": "progressive",
+      "codes": "Diplo",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/diplo1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/diplo1.png",
+        "codes": "diplo1"
+        },
+        {"img": "images/items/diplo2.png",
+        "codes": "diplo2,diplo1"
+        }
+      ]
+    },
+    {
+      "name": "Space Port",
+      "type": "progressive",
+      "codes": "Space",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/space1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/space1.png",
+        "codes": "space1"
+        },
+        {"img": "images/items/space2.png",
+        "codes": "space2,space1"
+        },
+        {"img": "images/items/space3.png",
+        "codes": "space3,space2,space1"
+        },
+        {"img": "images/items/space4.png",
+        "codes": "space4,space3,space2,space1"
+        },
+        {"img": "images/items/space5.png",
+        "codes": "space5,space4,space3,space2,space1"
+        }
+      ]
+    },
+    {
+      "name": "Progressive Era",
+      "type": "progressive",
+      "codes": "Era",
+      "loop": false,
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/items/era1.png",
+        "img_mods": "@disabled",
+        "codes": "campus1"
+        },
+        {"img": "images/items/era1.png",
+        "codes": "Era1"
+        },
+        {"img": "images/items/era2.png",
+        "codes": "era2,era1"
+        },
+        {"img": "images/items/era3.png",
+        "codes": "era3,era2,era1"
+        },
+        {"img": "images/items/era4.png",
+        "codes": "era4,era3,era2,era1"
+        },
+        {"img": "images/items/era5.png",
+        "codes": "era5,era4,era3,era2,era1"
+        },
+        {"img": "images/items/era6.png",
+        "codes": "era6,era5,era4,era3,era2,era1"
+        },
+        {"img": "images/items/era7.png",
+        "codes": "era7,era6,era5,era4,era3,era2,era1"
+        },
+        {"img": "images/items/era8.png",
+        "codes": "era8,era7,era6,era5,era4,era3,era2,era1"
+        },
+        {"img": "images/items/era9.png",
+        "codes": "era9,era8,era7,era6,era5,era4,era3,era2,era1"
+        }
+      ]
+    },
+    {
+        "name": "District Count",
+        "type": "consumable",
+        "codes": "disCount",
+        "loop": false,
+        "allow_disabled": false,
+        "img": "images/items/disCount.png",
+		"max_quantity": 18
     }
-]
+  ]
+  
