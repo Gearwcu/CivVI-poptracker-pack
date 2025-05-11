@@ -659,7 +659,7 @@
                     {
                         "map": "Tech Boosts",
                         "x": "115",
-                        "y":"244",
+                        "y":"290",
                         "size": 22
                     }
                 ]
@@ -690,7 +690,7 @@
                     {
                         "map": "Tech Boosts",
                         "x": "115",
-                        "y":"290",
+                        "y":"244",
                         "size": 22
                     }
                 ]
@@ -1007,6 +1007,12 @@
                         "x": "1193",
                         "y": "1831",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 552,
+                        "size": 22
                     }
                 ]
             },
@@ -1032,6 +1038,12 @@
                         "x": "495",
                         "y": "736",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 690,
+                        "size": 22
                     }
                 ]
             },
@@ -1057,6 +1069,12 @@
                         "x": "1259",
                         "y": "68",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 736,
+                        "size": 22
                     }
                 ]
             },
@@ -1082,6 +1100,12 @@
                         "x": "2340",
                         "y": "1559",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 827,
+                        "size": 22
                     }
                 ]
             },
@@ -1107,6 +1131,12 @@
                         "x": "1449",
                         "y": "495",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 599,
+                        "size": 22
                     }
                 ]
             },
@@ -1116,7 +1146,575 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "currency, bronze working, celestial navigation",
+                    "currency, bronze working, writing",
+                    "currency, bronze working, apprenticeship",
+                    "currency, bronze working, flight",
+                    "currency, bronze working, games and recreation",
+                    "currency, bronze working, drama poetry",
+                    "currency, celestial navigation, writing",
+                    "currency, celestial navigation, apprenticeship",
+                    "currency, celestial navigation, flight",
+                    "currency, celestial navigation, games and recreation",
+                    "currency, celestial navigation, drama poetry",
+                    "currency, writing, apprenticeship",
+                    "currency, writing, flight",
+                    "currency, writing, games and recreation",
+                    "currency, writing, drama poetry",
+                    "currency, apprenticeship, flight",
+                    "currency, apprenticeship, games and recreation",
+                    "currency, apprenticeship, drama poetry",
+                    "currency, flight, games and recreation",
+                    "currency, flight, drama poetry",
+                    "currency, games and recreation, drama poetry",
+                    "bronze working, celestial navigation, apprenticeship",
+                    "bronze working, celestial navigation, writing",
+                    "bronze working, celestial navigation, flight",
+                    "bronze working, celestial navigation, games and recreation",
+                    "bronze working, celestial navigation, drama poetry",
+                    "bronze working, writing, apprenticeship",
+                    "bronze working, writing, flight",
+                    "bronze working, writing, games and recreation",
+                    "bronze working, writing, drama poetry",
+                    "bronze working, apprenticeship, flight",
+                    "bronze working, apprenticeship, games and recreation",
+                    "bronze working, apprenticeship, drama poetry",
+                    "bronze working, flight, games and recreation",
+                    "bronze working, flight, drama poetry",
+                    "bronze working, games and recreation, drama poetry",
+                    "celestial navigation, writing, apprenticeship",
+                    "celestial navigation, writing, flight",
+                    "celestial navigation, writing, games and recreation",
+                    "celestial navigation, writing, drama poetry",
+                    "celestial navigation, apprenticeship, flight",
+                    "celestial navigation, apprenticeship, games and recreation",
+                    "celestial navigation, apprenticeship, drama poetry",
+                    "celestial navigation, flight, games and recreation",
+                    "celestial navigation, flight, drama poetry",
+                    "celestial navigation, games and recreation, drama poetry",
+                    "writing, apprenticeship, flight",
+                    "writing, apprenticeship, games and recreation",
+                    "writing, apprenticeship, drama poetry",
+                    "writing, flight, games and recreation",
+                    "writing, flight, drama poetry",
+                    "writing, games and recreation, drama poetry",
+                    "apprenticeship, flight, games and recreation",
+                    "apprenticeship, flight, drama poetry",
+                    "apprenticeship, games and recreation, drama poetry",
+                    "flight, games and recreation, drama poetry",
+
+                    "currency, bronze working, [celestial navigation], astrology",
+                    "currency, bronze working, [writing], astrology",
+                    "currency, bronze working, [apprenticeship], astrology",
+                    "currency, bronze working, [flight], astrology",
+                    "currency, bronze working, [games and recreation], astrology",
+                    "currency, bronze working, [drama poetry], astrology",
+                    "currency, celestial navigation, [writing], astrology",
+                    "currency, celestial navigation, [apprenticeship], astrology",
+                    "currency, celestial navigation, [flight], astrology",
+                    "currency, celestial navigation, [games and recreation], astrology",
+                    "currency, celestial navigation, [drama poetry], astrology",
+                    "currency, writing, [apprenticeship], astrology",
+                    "currency, writing, [flight], astrology",
+                    "currency, writing, [games and recreation], astrology",
+                    "currency, writing, [drama poetry], astrology",
+                    "currency, apprenticeship, [flight], astrology",
+                    "currency, apprenticeship, [games and recreation], astrology",
+                    "currency, apprenticeship, [drama poetry], astrology",
+                    "currency, flight, [games and recreation], astrology",
+                    "currency, flight, [drama poetry], astrology",
+                    "currency, games and recreation, [drama poetry], astrology",
+                    "bronze working, celestial navigation, [apprenticeship], astrology",
+                    "bronze working, celestial navigation, [writing], astrology",
+                    "bronze working, celestial navigation, [flight], astrology",
+                    "bronze working, celestial navigation, [games and recreation], astrology",
+                    "bronze working, celestial navigation, [drama poetry], astrology",
+                    "bronze working, writing, [apprenticeship], astrology",
+                    "bronze working, writing, [flight], astrology",
+                    "bronze working, writing, [games and recreation], astrology",
+                    "bronze working, writing, [drama poetry], astrology",
+                    "bronze working, apprenticeship, [flight], astrology",
+                    "bronze working, apprenticeship, [games and recreation], astrology",
+                    "bronze working, apprenticeship, [drama poetry], astrology",
+                    "bronze working, flight, [games and recreation], astrology",
+                    "bronze working, flight, [drama poetry], astrology",
+                    "bronze working, games and recreation, drama poetry], astrology",
+                    "celestial navigation, writing, [apprenticeship], astrology",
+                    "celestial navigation, writing, [flight], astrology",
+                    "celestial navigation, writing, [games and recreation], astrology",
+                    "celestial navigation, writing, [drama poetry], astrology",
+                    "celestial navigation, apprenticeship, [flight], astrology",
+                    "celestial navigation, apprenticeship, [games and recreation], astrology",
+                    "celestial navigation, apprenticeship, [drama poetry], astrology",
+                    "celestial navigation, flight, [games and recreation], astrology",
+                    "celestial navigation, flight, [drama poetry], astrology",
+                    "celestial navigation, games and recreation, [drama poetry], astrology",
+                    "writing, apprenticeship, [flight], astrology",
+                    "writing, apprenticeship, [games and recreation], astrology",
+                    "writing, apprenticeship, [drama poetry], astrology",
+                    "writing, flight, [games and recreation], astrology",
+                    "writing, flight, [drama poetry], astrology",
+                    "writing, games and recreation, [drama poetry], astrology",
+                    "apprenticeship, flight, [games and recreation], astrology",
+                    "apprenticeship, flight, [drama poetry], astrology",
+                    "apprenticeship, games and recreation, [drama poetry], astrology",
+                    "flight, games and recreation, [drama poetry], astrology",
+
+                    "currency, bronze working, [celestial navigation], mathematics",
+                    "currency, bronze working, [writing], mathematics",
+                    "currency, bronze working, [apprenticeship], mathematics",
+                    "currency, bronze working, [flight], mathematics",
+                    "currency, bronze working, [games and recreation], mathematics",
+                    "currency, bronze working, [drama poetry], mathematics",
+                    "currency, celestial navigation, [writing], mathematics",
+                    "currency, celestial navigation, [apprenticeship], mathematics",
+                    "currency, celestial navigation, [flight], mathematics",
+                    "currency, celestial navigation, [games and recreation], mathematics",
+                    "currency, celestial navigation, [drama poetry], mathematics",
+                    "currency, writing, [apprenticeship], mathematics",
+                    "currency, writing, [flight], mathematics",
+                    "currency, writing, [games and recreation], mathematics",
+                    "currency, writing, [drama poetry], mathematics",
+                    "currency, apprenticeship, [flight], mathematics",
+                    "currency, apprenticeship, [games and recreation], mathematics",
+                    "currency, apprenticeship, [drama poetry], mathematics",
+                    "currency, flight, [games and recreation], mathematics",
+                    "currency, flight, [drama poetry], mathematics",
+                    "currency, games and recreation, [drama poetry], mathematics",
+                    "bronze working, celestial navigation, [apprenticeship], mathematics",
+                    "bronze working, celestial navigation, [writing], mathematics",
+                    "bronze working, celestial navigation, [flight], mathematics",
+                    "bronze working, celestial navigation, [games and recreation], mathematics",
+                    "bronze working, celestial navigation, [drama poetry], mathematics",
+                    "bronze working, writing, [apprenticeship], mathematics",
+                    "bronze working, writing, [flight], mathematics",
+                    "bronze working, writing, [games and recreation], mathematics",
+                    "bronze working, writing, [drama poetry], mathematics",
+                    "bronze working, apprenticeship, [flight], mathematics",
+                    "bronze working, apprenticeship, [games and recreation], mathematics",
+                    "bronze working, apprenticeship, [drama poetry], mathematics",
+                    "bronze working, flight, [games and recreation], mathematics",
+                    "bronze working, flight, [drama poetry], mathematics",
+                    "bronze working, games and recreation, drama poetry], mathematics",
+                    "celestial navigation, writing, [apprenticeship], mathematics",
+                    "celestial navigation, writing, [flight], mathematics",
+                    "celestial navigation, writing, [games and recreation], mathematics",
+                    "celestial navigation, writing, [drama poetry], mathematics",
+                    "celestial navigation, apprenticeship, [flight], mathematics",
+                    "celestial navigation, apprenticeship, [games and recreation], mathematics",
+                    "celestial navigation, apprenticeship, [drama poetry], mathematics",
+                    "celestial navigation, flight, [games and recreation], mathematics",
+                    "celestial navigation, flight, [drama poetry], mathematics",
+                    "celestial navigation, games and recreation, [drama poetry], mathematics",
+                    "writing, apprenticeship, [flight], mathematics",
+                    "writing, apprenticeship, [games and recreation], mathematics",
+                    "writing, apprenticeship, [drama poetry], mathematics",
+                    "writing, flight, [games and recreation], mathematics",
+                    "writing, flight, [drama poetry], mathematics",
+                    "writing, games and recreation, [drama poetry], mathematics",
+                    "apprenticeship, flight, [games and recreation], mathematics",
+                    "apprenticeship, flight, [drama poetry], mathematics",
+                    "apprenticeship, games and recreation, [drama poetry], mathematics",
+                    "flight, games and recreation, [drama poetry], mathematics",
+
+                    "currency, bronze working, [celestial navigation], buttress",
+                    "currency, bronze working, [writing], buttress",
+                    "currency, bronze working, [apprenticeship], buttress",
+                    "currency, bronze working, [flight], buttress",
+                    "currency, bronze working, [games and recreation], buttress",
+                    "currency, bronze working, [drama poetry], buttress",
+                    "currency, celestial navigation, [writing], buttress",
+                    "currency, celestial navigation, [apprenticeship], buttress",
+                    "currency, celestial navigation, [flight], buttress",
+                    "currency, celestial navigation, [games and recreation], buttress",
+                    "currency, celestial navigation, [drama poetry], buttress",
+                    "currency, writing, [apprenticeship], buttress",
+                    "currency, writing, [flight], buttress",
+                    "currency, writing, [games and recreation], buttress",
+                    "currency, writing, [drama poetry], buttress",
+                    "currency, apprenticeship, [flight], buttress",
+                    "currency, apprenticeship, [games and recreation], buttress",
+                    "currency, apprenticeship, [drama poetry], buttress",
+                    "currency, flight, [games and recreation], buttress",
+                    "currency, flight, [drama poetry], buttress",
+                    "currency, games and recreation, [drama poetry], buttress",
+                    "bronze working, celestial navigation, [apprenticeship], buttress",
+                    "bronze working, celestial navigation, [writing], buttress",
+                    "bronze working, celestial navigation, [flight], buttress",
+                    "bronze working, celestial navigation, [games and recreation], buttress",
+                    "bronze working, celestial navigation, [drama poetry], buttress",
+                    "bronze working, writing, [apprenticeship], buttress",
+                    "bronze working, writing, [flight], buttress",
+                    "bronze working, writing, [games and recreation], buttress",
+                    "bronze working, writing, [drama poetry], buttress",
+                    "bronze working, apprenticeship, [flight], buttress",
+                    "bronze working, apprenticeship, [games and recreation], buttress",
+                    "bronze working, apprenticeship, [drama poetry], buttress",
+                    "bronze working, flight, [games and recreation], buttress",
+                    "bronze working, flight, [drama poetry], buttress",
+                    "bronze working, games and recreation, drama poetry], buttress",
+                    "celestial navigation, writing, [apprenticeship], buttress",
+                    "celestial navigation, writing, [flight], buttress",
+                    "celestial navigation, writing, [games and recreation], buttress",
+                    "celestial navigation, writing, [drama poetry], buttress",
+                    "celestial navigation, apprenticeship, [flight], buttress",
+                    "celestial navigation, apprenticeship, [games and recreation], buttress",
+                    "celestial navigation, apprenticeship, [drama poetry], buttress",
+                    "celestial navigation, flight, [games and recreation], buttress",
+                    "celestial navigation, flight, [drama poetry], buttress",
+                    "celestial navigation, games and recreation, [drama poetry], buttress",
+                    "writing, apprenticeship, [flight], buttress",
+                    "writing, apprenticeship, [games and recreation], buttress",
+                    "writing, apprenticeship, [drama poetry], buttress",
+                    "writing, flight, [games and recreation], buttress",
+                    "writing, flight, [drama poetry], buttress",
+                    "writing, games and recreation, [drama poetry], buttress",
+                    "apprenticeship, flight, [games and recreation], buttress",
+                    "apprenticeship, flight, [drama poetry], buttress",
+                    "apprenticeship, games and recreation, [drama poetry], buttress",
+                    "flight, games and recreation, [drama poetry], buttress",
+
+                    "currency, bronze working, [celestial navigation], steam power",
+                    "currency, bronze working, [writing], steam power",
+                    "currency, bronze working, [apprenticeship], steam power",
+                    "currency, bronze working, [flight], steam power",
+                    "currency, bronze working, [games and recreation], steam power",
+                    "currency, bronze working, [drama poetry], steam power",
+                    "currency, celestial navigation, [writing], steam power",
+                    "currency, celestial navigation, [apprenticeship], steam power",
+                    "currency, celestial navigation, [flight], steam power",
+                    "currency, celestial navigation, [games and recreation], steam power",
+                    "currency, celestial navigation, [drama poetry], steam power",
+                    "currency, writing, [apprenticeship], steam power",
+                    "currency, writing, [flight], steam power",
+                    "currency, writing, [games and recreation], steam power",
+                    "currency, writing, [drama poetry], steam power",
+                    "currency, apprenticeship, [flight], steam power",
+                    "currency, apprenticeship, [games and recreation], steam power",
+                    "currency, apprenticeship, [drama poetry], steam power",
+                    "currency, flight, [games and recreation], steam power",
+                    "currency, flight, [drama poetry], steam power",
+                    "currency, games and recreation, [drama poetry], steam power",
+                    "bronze working, celestial navigation, [apprenticeship], steam power",
+                    "bronze working, celestial navigation, [writing], steam power",
+                    "bronze working, celestial navigation, [flight], steam power",
+                    "bronze working, celestial navigation, [games and recreation], steam power",
+                    "bronze working, celestial navigation, [drama poetry], steam power",
+                    "bronze working, writing, [apprenticeship], steam power",
+                    "bronze working, writing, [flight], steam power",
+                    "bronze working, writing, [games and recreation], steam power",
+                    "bronze working, writing, [drama poetry], steam power",
+                    "bronze working, apprenticeship, [flight], steam power",
+                    "bronze working, apprenticeship, [games and recreation], steam power",
+                    "bronze working, apprenticeship, [drama poetry], steam power",
+                    "bronze working, flight, [games and recreation], steam power",
+                    "bronze working, flight, [drama poetry], steam power",
+                    "bronze working, games and recreation, drama poetry], steam power",
+                    "celestial navigation, writing, [apprenticeship], steam power",
+                    "celestial navigation, writing, [flight], steam power",
+                    "celestial navigation, writing, [games and recreation], steam power",
+                    "celestial navigation, writing, [drama poetry], steam power",
+                    "celestial navigation, apprenticeship, [flight], steam power",
+                    "celestial navigation, apprenticeship, [games and recreation], steam power",
+                    "celestial navigation, apprenticeship, [drama poetry], steam power",
+                    "celestial navigation, flight, [games and recreation], steam power",
+                    "celestial navigation, flight, [drama poetry], steam power",
+                    "celestial navigation, games and recreation, [drama poetry], steam power",
+                    "writing, apprenticeship, [flight], steam power",
+                    "writing, apprenticeship, [games and recreation], steam power",
+                    "writing, apprenticeship, [drama poetry], steam power",
+                    "writing, flight, [games and recreation], steam power",
+                    "writing, flight, [drama poetry], steam power",
+                    "writing, games and recreation, [drama poetry], steam power",
+                    "apprenticeship, flight, [games and recreation], steam power",
+                    "apprenticeship, flight, [drama poetry], steam power",
+                    "apprenticeship, games and recreation, [drama poetry], steam power",
+                    "flight, games and recreation, [drama poetry], steam power",
+
+                    "currency, bronze working, [celestial navigation], rocketry",
+                    "currency, bronze working, [writing], rocketry",
+                    "currency, bronze working, [apprenticeship], rocketry",
+                    "currency, bronze working, [flight], rocketry",
+                    "currency, bronze working, [games and recreation], rocketry",
+                    "currency, bronze working, [drama poetry], rocketry",
+                    "currency, celestial navigation, [writing], rocketry",
+                    "currency, celestial navigation, [apprenticeship], rocketry",
+                    "currency, celestial navigation, [flight], rocketry",
+                    "currency, celestial navigation, [games and recreation], rocketry",
+                    "currency, celestial navigation, [drama poetry], rocketry",
+                    "currency, writing, [apprenticeship], rocketry",
+                    "currency, writing, [flight], rocketry",
+                    "currency, writing, [games and recreation], rocketry",
+                    "currency, writing, [drama poetry], rocketry",
+                    "currency, apprenticeship, [flight], rocketry",
+                    "currency, apprenticeship, [games and recreation], rocketry",
+                    "currency, apprenticeship, [drama poetry], rocketry",
+                    "currency, flight, [games and recreation], rocketry",
+                    "currency, flight, [drama poetry], rocketry",
+                    "currency, games and recreation, [drama poetry], rocketry",
+                    "bronze working, celestial navigation, [apprenticeship], rocketry",
+                    "bronze working, celestial navigation, [writing], rocketry",
+                    "bronze working, celestial navigation, [flight], rocketry",
+                    "bronze working, celestial navigation, [games and recreation], rocketry",
+                    "bronze working, celestial navigation, [drama poetry], rocketry",
+                    "bronze working, writing, [apprenticeship], rocketry",
+                    "bronze working, writing, [flight], rocketry",
+                    "bronze working, writing, [games and recreation], rocketry",
+                    "bronze working, writing, [drama poetry], rocketry",
+                    "bronze working, apprenticeship, [flight], rocketry",
+                    "bronze working, apprenticeship, [games and recreation], rocketry",
+                    "bronze working, apprenticeship, [drama poetry], rocketry",
+                    "bronze working, flight, [games and recreation], rocketry",
+                    "bronze working, flight, [drama poetry], rocketry",
+                    "bronze working, games and recreation, drama poetry], rocketry",
+                    "celestial navigation, writing, [apprenticeship], rocketry",
+                    "celestial navigation, writing, [flight], rocketry",
+                    "celestial navigation, writing, [games and recreation], rocketry",
+                    "celestial navigation, writing, [drama poetry], rocketry",
+                    "celestial navigation, apprenticeship, [flight], rocketry",
+                    "celestial navigation, apprenticeship, [games and recreation], rocketry",
+                    "celestial navigation, apprenticeship, [drama poetry], rocketry",
+                    "celestial navigation, flight, [games and recreation], rocketry",
+                    "celestial navigation, flight, [drama poetry], rocketry",
+                    "celestial navigation, games and recreation, [drama poetry], rocketry",
+                    "writing, apprenticeship, [flight], rocketry",
+                    "writing, apprenticeship, [games and recreation], rocketry",
+                    "writing, apprenticeship, [drama poetry], rocketry",
+                    "writing, flight, [games and recreation], rocketry",
+                    "writing, flight, [drama poetry], rocketry",
+                    "writing, games and recreation, [drama poetry], rocketry",
+                    "apprenticeship, flight, [games and recreation], rocketry",
+                    "apprenticeship, flight, [drama poetry], rocketry",
+                    "apprenticeship, games and recreation, [drama poetry], rocketry",
+                    "flight, games and recreation, [drama poetry], rocketry",
+
+                    "currency, bronze working, [celestial navigation], state workforce",
+                    "currency, bronze working, [writing], state workforce",
+                    "currency, bronze working, [apprenticeship], state workforce",
+                    "currency, bronze working, [flight], state workforce",
+                    "currency, bronze working, [games and recreation], state workforce",
+                    "currency, bronze working, [drama poetry], state workforce",
+                    "currency, celestial navigation, [writing], state workforce",
+                    "currency, celestial navigation, [apprenticeship], state workforce",
+                    "currency, celestial navigation, [flight], state workforce",
+                    "currency, celestial navigation, [games and recreation], state workforce",
+                    "currency, celestial navigation, [drama poetry], state workforce",
+                    "currency, writing, [apprenticeship], state workforce",
+                    "currency, writing, [flight], state workforce",
+                    "currency, writing, [games and recreation], state workforce",
+                    "currency, writing, [drama poetry], state workforce",
+                    "currency, apprenticeship, [flight], state workforce",
+                    "currency, apprenticeship, [games and recreation], state workforce",
+                    "currency, apprenticeship, [drama poetry], state workforce",
+                    "currency, flight, [games and recreation], state workforce",
+                    "currency, flight, [drama poetry], state workforce",
+                    "currency, games and recreation, [drama poetry], state workforce",
+                    "bronze working, celestial navigation, [apprenticeship], state workforce",
+                    "bronze working, celestial navigation, [writing], state workforce",
+                    "bronze working, celestial navigation, [flight], state workforce",
+                    "bronze working, celestial navigation, [games and recreation], state workforce",
+                    "bronze working, celestial navigation, [drama poetry], state workforce",
+                    "bronze working, writing, [apprenticeship], state workforce",
+                    "bronze working, writing, [flight], state workforce",
+                    "bronze working, writing, [games and recreation], state workforce",
+                    "bronze working, writing, [drama poetry], state workforce",
+                    "bronze working, apprenticeship, [flight], state workforce",
+                    "bronze working, apprenticeship, [games and recreation], state workforce",
+                    "bronze working, apprenticeship, [drama poetry], state workforce",
+                    "bronze working, flight, [games and recreation], state workforce",
+                    "bronze working, flight, [drama poetry], state workforce",
+                    "bronze working, games and recreation, drama poetry], state workforce",
+                    "celestial navigation, writing, [apprenticeship], state workforce",
+                    "celestial navigation, writing, [flight], state workforce",
+                    "celestial navigation, writing, [games and recreation], state workforce",
+                    "celestial navigation, writing, [drama poetry], state workforce",
+                    "celestial navigation, apprenticeship, [flight], state workforce",
+                    "celestial navigation, apprenticeship, [games and recreation], state workforce",
+                    "celestial navigation, apprenticeship, [drama poetry], state workforce",
+                    "celestial navigation, flight, [games and recreation], state workforce",
+                    "celestial navigation, flight, [drama poetry], state workforce",
+                    "celestial navigation, games and recreation, [drama poetry], state workforce",
+                    "writing, apprenticeship, [flight], state workforce",
+                    "writing, apprenticeship, [games and recreation], state workforce",
+                    "writing, apprenticeship, [drama poetry], state workforce",
+                    "writing, flight, [games and recreation], state workforce",
+                    "writing, flight, [drama poetry], state workforce",
+                    "writing, games and recreation, [drama poetry], state workforce",
+                    "apprenticeship, flight, [games and recreation], state workforce",
+                    "apprenticeship, flight, [drama poetry], state workforce",
+                    "apprenticeship, games and recreation, [drama poetry], state workforce",
+                    "flight, games and recreation, [drama poetry], state workforce",
+
+                    "currency, bronze working, [celestial navigation], mysticism",
+                    "currency, bronze working, [writing], mysticism",
+                    "currency, bronze working, [apprenticeship], mysticism",
+                    "currency, bronze working, [flight], mysticism",
+                    "currency, bronze working, [games and recreation], mysticism",
+                    "currency, bronze working, [drama poetry], mysticism",
+                    "currency, celestial navigation, [writing], mysticism",
+                    "currency, celestial navigation, [apprenticeship], mysticism",
+                    "currency, celestial navigation, [flight], mysticism",
+                    "currency, celestial navigation, [games and recreation], mysticism",
+                    "currency, celestial navigation, [drama poetry], mysticism",
+                    "currency, writing, [apprenticeship], mysticism",
+                    "currency, writing, [flight], mysticism",
+                    "currency, writing, [games and recreation], mysticism",
+                    "currency, writing, [drama poetry], mysticism",
+                    "currency, apprenticeship, [flight], mysticism",
+                    "currency, apprenticeship, [games and recreation], mysticism",
+                    "currency, apprenticeship, [drama poetry], mysticism",
+                    "currency, flight, [games and recreation], mysticism",
+                    "currency, flight, [drama poetry], mysticism",
+                    "currency, games and recreation, [drama poetry], mysticism",
+                    "bronze working, celestial navigation, [apprenticeship], mysticism",
+                    "bronze working, celestial navigation, [writing], mysticism",
+                    "bronze working, celestial navigation, [flight], mysticism",
+                    "bronze working, celestial navigation, [games and recreation], mysticism",
+                    "bronze working, celestial navigation, [drama poetry], mysticism",
+                    "bronze working, writing, [apprenticeship], mysticism",
+                    "bronze working, writing, [flight], mysticism",
+                    "bronze working, writing, [games and recreation], mysticism",
+                    "bronze working, writing, [drama poetry], mysticism",
+                    "bronze working, apprenticeship, [flight], mysticism",
+                    "bronze working, apprenticeship, [games and recreation], mysticism",
+                    "bronze working, apprenticeship, [drama poetry], mysticism",
+                    "bronze working, flight, [games and recreation], mysticism",
+                    "bronze working, flight, [drama poetry], mysticism",
+                    "bronze working, games and recreation, drama poetry], mysticism",
+                    "celestial navigation, writing, [apprenticeship], mysticism",
+                    "celestial navigation, writing, [flight], mysticism",
+                    "celestial navigation, writing, [games and recreation], mysticism",
+                    "celestial navigation, writing, [drama poetry], mysticism",
+                    "celestial navigation, apprenticeship, [flight], mysticism",
+                    "celestial navigation, apprenticeship, [games and recreation], mysticism",
+                    "celestial navigation, apprenticeship, [drama poetry], mysticism",
+                    "celestial navigation, flight, [games and recreation], mysticism",
+                    "celestial navigation, flight, [drama poetry], mysticism",
+                    "celestial navigation, games and recreation, [drama poetry], mysticism",
+                    "writing, apprenticeship, [flight], mysticism",
+                    "writing, apprenticeship, [games and recreation], mysticism",
+                    "writing, apprenticeship, [drama poetry], mysticism",
+                    "writing, flight, [games and recreation], mysticism",
+                    "writing, flight, [drama poetry], mysticism",
+                    "writing, games and recreation, [drama poetry], mysticism",
+                    "apprenticeship, flight, [games and recreation], mysticism",
+                    "apprenticeship, flight, [drama poetry], mysticism",
+                    "apprenticeship, games and recreation, [drama poetry], mysticism",
+                    "flight, games and recreation, [drama poetry], mysticism",
+
+                    "currency, bronze working, [celestial navigation], natural history",
+                    "currency, bronze working, [writing], natural history",
+                    "currency, bronze working, [apprenticeship], natural history",
+                    "currency, bronze working, [flight], natural history",
+                    "currency, bronze working, [games and recreation], natural history",
+                    "currency, bronze working, [drama poetry], natural history",
+                    "currency, celestial navigation, [writing], natural history",
+                    "currency, celestial navigation, [apprenticeship], natural history",
+                    "currency, celestial navigation, [flight], natural history",
+                    "currency, celestial navigation, [games and recreation], natural history",
+                    "currency, celestial navigation, [drama poetry], natural history",
+                    "currency, writing, [apprenticeship], natural history",
+                    "currency, writing, [flight], natural history",
+                    "currency, writing, [games and recreation], natural history",
+                    "currency, writing, [drama poetry], natural history",
+                    "currency, apprenticeship, [flight], natural history",
+                    "currency, apprenticeship, [games and recreation], natural history",
+                    "currency, apprenticeship, [drama poetry], natural history",
+                    "currency, flight, [games and recreation], natural history",
+                    "currency, flight, [drama poetry], natural history",
+                    "currency, games and recreation, [drama poetry], natural history",
+                    "bronze working, celestial navigation, [apprenticeship], natural history",
+                    "bronze working, celestial navigation, [writing], natural history",
+                    "bronze working, celestial navigation, [flight], natural history",
+                    "bronze working, celestial navigation, [games and recreation], natural history",
+                    "bronze working, celestial navigation, [drama poetry], natural history",
+                    "bronze working, writing, [apprenticeship], natural history",
+                    "bronze working, writing, [flight], natural history",
+                    "bronze working, writing, [games and recreation], natural history",
+                    "bronze working, writing, [drama poetry], natural history",
+                    "bronze working, apprenticeship, [flight], natural history",
+                    "bronze working, apprenticeship, [games and recreation], natural history",
+                    "bronze working, apprenticeship, [drama poetry], natural history",
+                    "bronze working, flight, [games and recreation], natural history",
+                    "bronze working, flight, [drama poetry], natural history",
+                    "bronze working, games and recreation, drama poetry], natural history",
+                    "celestial navigation, writing, [apprenticeship], natural history",
+                    "celestial navigation, writing, [flight], natural history",
+                    "celestial navigation, writing, [games and recreation], natural history",
+                    "celestial navigation, writing, [drama poetry], natural history",
+                    "celestial navigation, apprenticeship, [flight], natural history",
+                    "celestial navigation, apprenticeship, [games and recreation], natural history",
+                    "celestial navigation, apprenticeship, [drama poetry], natural history",
+                    "celestial navigation, flight, [games and recreation], natural history",
+                    "celestial navigation, flight, [drama poetry], natural history",
+                    "celestial navigation, games and recreation, [drama poetry], natural history",
+                    "writing, apprenticeship, [flight], natural history",
+                    "writing, apprenticeship, [games and recreation], natural history",
+                    "writing, apprenticeship, [drama poetry], natural history",
+                    "writing, flight, [games and recreation], natural history",
+                    "writing, flight, [drama poetry], natural history",
+                    "writing, games and recreation, [drama poetry], natural history",
+                    "apprenticeship, flight, [games and recreation], natural history",
+                    "apprenticeship, flight, [drama poetry], natural history",
+                    "apprenticeship, games and recreation, [drama poetry], natural history",
+                    "flight, games and recreation, [drama poetry], natural history",
+
+                    "currency, bronze working, [celestial navigation], urbanization",
+                    "currency, bronze working, [writing], urbanization",
+                    "currency, bronze working, [apprenticeship], urbanization",
+                    "currency, bronze working, [flight], urbanization",
+                    "currency, bronze working, [games and recreation], urbanization",
+                    "currency, bronze working, [drama poetry], urbanization",
+                    "currency, celestial navigation, [writing], urbanization",
+                    "currency, celestial navigation, [apprenticeship], urbanization",
+                    "currency, celestial navigation, [flight], urbanization",
+                    "currency, celestial navigation, [games and recreation], urbanization",
+                    "currency, celestial navigation, [drama poetry], urbanization",
+                    "currency, writing, [apprenticeship], urbanization",
+                    "currency, writing, [flight], urbanization",
+                    "currency, writing, [games and recreation], urbanization",
+                    "currency, writing, [drama poetry], urbanization",
+                    "currency, apprenticeship, [flight], urbanization",
+                    "currency, apprenticeship, [games and recreation], urbanization",
+                    "currency, apprenticeship, [drama poetry], urbanization",
+                    "currency, flight, [games and recreation], urbanization",
+                    "currency, flight, [drama poetry], urbanization",
+                    "currency, games and recreation, [drama poetry], urbanization",
+                    "bronze working, celestial navigation, [apprenticeship], urbanization",
+                    "bronze working, celestial navigation, [writing], urbanization",
+                    "bronze working, celestial navigation, [flight], urbanization",
+                    "bronze working, celestial navigation, [games and recreation], urbanization",
+                    "bronze working, celestial navigation, [drama poetry], urbanization",
+                    "bronze working, writing, [apprenticeship], urbanization",
+                    "bronze working, writing, [flight], urbanization",
+                    "bronze working, writing, [games and recreation], urbanization",
+                    "bronze working, writing, [drama poetry], urbanization",
+                    "bronze working, apprenticeship, [flight], urbanization",
+                    "bronze working, apprenticeship, [games and recreation], urbanization",
+                    "bronze working, apprenticeship, [drama poetry], urbanization",
+                    "bronze working, flight, [games and recreation], urbanization",
+                    "bronze working, flight, [drama poetry], urbanization",
+                    "bronze working, games and recreation, drama poetry], urbanization",
+                    "celestial navigation, writing, [apprenticeship], urbanization",
+                    "celestial navigation, writing, [flight], urbanization",
+                    "celestial navigation, writing, [games and recreation], urbanization",
+                    "celestial navigation, writing, [drama poetry], urbanization",
+                    "celestial navigation, apprenticeship, [flight], urbanization",
+                    "celestial navigation, apprenticeship, [games and recreation], urbanization",
+                    "celestial navigation, apprenticeship, [drama poetry], urbanization",
+                    "celestial navigation, flight, [games and recreation], urbanization",
+                    "celestial navigation, flight, [drama poetry], urbanization",
+                    "celestial navigation, games and recreation, [drama poetry], urbanization",
+                    "writing, apprenticeship, [flight], urbanization",
+                    "writing, apprenticeship, [games and recreation], urbanization",
+                    "writing, apprenticeship, [drama poetry], urbanization",
+                    "writing, flight, [games and recreation], urbanization",
+                    "writing, flight, [drama poetry], urbanization",
+                    "writing, games and recreation, [drama poetry], urbanization",
+                    "apprenticeship, flight, [games and recreation], urbanization",
+                    "apprenticeship, flight, [drama poetry], urbanization",
+                    "apprenticeship, games and recreation, [drama poetry], urbanization",
+                    "flight, games and recreation, [drama poetry], urbanization"
                 ],
                 "sections": [
                     {
@@ -1132,6 +1730,12 @@
                         "x": "684",
                         "y": "177",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 644,
+                        "size": 22
                     }
                 ]
             },
@@ -1157,6 +1761,12 @@
                         "x": "227",
                         "y": "447",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 781,
+                        "size": 22
                     }
                 ]
             },
@@ -1182,6 +1792,12 @@
                         "x": "1423",
                         "y": "2484",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 872,
+                        "size": 22
                     }
                 ]
             },
@@ -1835,6 +2451,12 @@
                         "x": "1",
                         "y": "10",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 997,
+                        "size": 22
                     }
                 ]
             },
@@ -1860,6 +2482,12 @@
                         "x": "306",
                         "y": "549",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 1043,
+                        "size": 22
                     }
                 ]
             },
@@ -1885,6 +2513,18 @@
                         "x": "1064",
                         "y": "2063",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 872,
+                        "size": 22
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 1134,
+                        "size": 22
                     }
                 ]
             },
@@ -1910,6 +2550,12 @@
                         "x": "1681",
                         "y": "454",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 1316,
+                        "size": 22
                     }
                 ]
             },
@@ -1935,6 +2581,12 @@
                         "x": "1",
                         "y": "1185",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 1088,
+                        "size": 22
                     }
                 ]
             },
@@ -1960,6 +2612,12 @@
                         "x": "1336",
                         "y": "2039",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 1180,
+                        "size": 22
                     }
                 ]
             },
@@ -1985,6 +2643,12 @@
                         "x": "873",
                         "y": "2100",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 1225,
+                        "size": 22
                     }
                 ]
             },
@@ -1994,7 +2658,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era, divine right", "medieval Era, exploration, [divine right]", "medieval Era, reformed church, [divine right]"
                 ],
                 "sections": [
                     {
@@ -2010,6 +2674,12 @@
                         "x": "2451",
                         "y": "1857",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 115,
+                        "y": 1270,
+                        "size": 22
                     }
                 ]
             },
@@ -2411,7 +3081,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    ""
                 ],
                 "sections": [
                     {
@@ -2663,6 +3333,12 @@
                         "x": "2130",
                         "y": "324",
                         "size": 18
+                    },
+                    {
+                        "map":"Tech Boosts",
+                        "x":"566",
+                        "y":"108",
+                        "size": 22
                     }
                 ]
             },
@@ -2688,6 +3364,12 @@
                         "x": "1144",
                         "y": "1808",
                         "size": 18
+                    },
+                    {
+                        "map":"Tech Boosts",
+                        "x":"566",
+                        "y": "199",
+                        "size": 22
                     }
                 ]
             },
@@ -2713,6 +3395,12 @@
                         "x": "1140",
                         "y": "1972",
                         "size": 18
+                    },
+                    {
+                        "map":"Tech Boosts",
+                        "x":"566",
+                        "y": "290",
+                        "size": 22
                     }
                 ]
             },
@@ -2738,6 +3426,12 @@
                         "x": "1500",
                         "y": "1181",
                         "size": 18
+                    },
+                    {
+                        "map":"Tech Boosts",
+                        "x":"566",
+                        "y": "335",
+                        "size": 22
                     }
                 ]
             },
@@ -2747,7 +3441,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era, education"
+                    "renaissance Era, writing, education"
                 ],
                 "sections": [
                     {
@@ -2763,6 +3457,12 @@
                         "x": "1617",
                         "y": "1953",
                         "size": 18
+                    },
+                    {
+                        "map":"Tech Boosts",
+                        "x":"566",
+                        "y": "472",
+                        "size": 22
                     }
                 ]
             },
@@ -2791,8 +3491,8 @@
                     },
                     {
                         "map":"Tech Boosts",
-                        "x":"1007",
-                        "y": "400",
+                        "x":"566",
+                        "y": "153",
                         "size": 22
                     }
                 ]
@@ -2822,8 +3522,8 @@
                     },
                     {
                         "map":"Tech Boosts",
-                        "x":"1007",
-                        "y": "400",
+                        "x":"566",
+                        "y": "245",
                         "size": 22
                     }
                 ]
@@ -2853,8 +3553,8 @@
                     },
                     {
                         "map":"Tech Boosts",
-                        "x":"1007",
-                        "y": "400",
+                        "x":"566",
+                        "y": "381",
                         "size": 22
                     }
                 ]
@@ -2884,8 +3584,8 @@
                     },
                     {
                         "map":"Tech Boosts",
-                        "x":"1007",
-                        "y": "400",
+                        "x":"566",
+                        "y": "426",
                         "size": 22
                     }
                 ]
@@ -3509,6 +4209,12 @@
                         "x": "1027",
                         "y": "1285",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 645,
+                        "size": 22
                     }
                 ]
             },
@@ -3534,6 +4240,12 @@
                         "x": "1205",
                         "y": "100",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 691,
+                        "size": 22
                     }
                 ]
             },
@@ -3559,6 +4271,12 @@
                         "x": "830",
                         "y": "1006",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 828,
+                        "size": 22
                     }
                 ]
             },
@@ -3584,6 +4302,12 @@
                         "x": "698",
                         "y": "2220",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 918,
+                        "size": 22
                     }
                 ]
             },
@@ -3609,6 +4333,12 @@
                         "x": "1078",
                         "y": "924",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 599,
+                        "size": 22
                     }
                 ]
             },
@@ -3634,6 +4364,12 @@
                         "x": "2028",
                         "y": "2033",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 736,
+                        "size": 22
                     }
                 ]
             },
@@ -3659,6 +4395,12 @@
                         "x": "438",
                         "y": "663",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 782,
+                        "size": 22
                     }
                 ]
             },
@@ -3684,6 +4426,12 @@
                         "x": "2488",
                         "y": "185",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 874,
+                        "size": 22
                     }
                 ]
             },
@@ -4312,7 +5060,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            ""
         ],
         "children": [
             {
@@ -4337,6 +5085,12 @@
                         "x": "798",
                         "y": "2117",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1069,
+                        "size": 22
                     }
                 ]
             },
@@ -4362,6 +5116,12 @@
                         "x": "718",
                         "y": "1932",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1205,
+                        "size": 22
                     }
                 ]
             },
@@ -4387,6 +5147,12 @@
                         "x": "2368",
                         "y": "1033",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1251,
+                        "size": 22
                     }
                 ]
             },
@@ -4412,6 +5178,12 @@
                         "x": "970",
                         "y": "995",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1341,
+                        "size": 22
                     }
                 ]
             },
@@ -4437,6 +5209,12 @@
                         "x": "2297",
                         "y": "1464",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1023,
+                        "size": 22
                     }
                 ]
             },
@@ -4462,6 +5240,12 @@
                         "x": "1424",
                         "y": "2000",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1115,
+                        "size": 22
                     }
                 ]
             },
@@ -4487,6 +5271,12 @@
                         "x": "743",
                         "y": "1921",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1160,
+                        "size": 22
                     }
                 ]
             },
@@ -4510,8 +5300,14 @@
                     {
                         "map": "Modern Era",
                         "x": "1530",
-                        "y": "2408",
+                        "y": "2407",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 566,
+                        "y": 1296,
+                        "size": 22
                     }
                 ]
             },
@@ -5246,6 +6042,12 @@
                         "x": "1988",
                         "y": "647",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 154,
+                        "size": 22
                     }
                 ]
             },
@@ -5271,6 +6073,12 @@
                         "x": "1560",
                         "y": "1687",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 200,
+                        "size": 22
                     }
                 ]
             },
@@ -5296,6 +6104,12 @@
                         "x": "897",
                         "y": "1393",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 245,
+                        "size": 22
                     }
                 ]
             },
@@ -5321,6 +6135,12 @@
                         "x": "1259",
                         "y": "338",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 291,
+                        "size": 22
                     }
                 ]
             },
@@ -5346,6 +6166,12 @@
                         "x": "2214",
                         "y": "169",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 382,
+                        "size": 22
                     }
                 ]
             },
@@ -5355,7 +6181,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "suffrage", "totalitarianism", "class struggle"
                 ],
                 "sections": [
                     {
@@ -5371,6 +6197,12 @@
                         "x": "1985",
                         "y": "567",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 109,
+                        "size": 22
                     }
                 ]
             },
@@ -5396,6 +6228,12 @@
                         "x": "1017",
                         "y": "852",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 337,
+                        "size": 22
                     }
                 ]
             },
@@ -5421,6 +6259,12 @@
                         "x": "738",
                         "y": "479",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 426,
+                        "size": 22
                     }
                 ]
             },
@@ -5937,7 +6781,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "information era"
         ],
         "children": [
             {
@@ -5962,6 +6806,12 @@
                         "x": "2340",
                         "y": "1254",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 560,
+                        "size": 22
                     }
                 ]
             },
@@ -5971,7 +6821,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "drama poetry, humanism, radio"
                 ],
                 "sections": [
                     {
@@ -5987,6 +6837,12 @@
                         "x": "1945",
                         "y": "1576",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 648,
+                        "size": 22
                     }
                 ]
             },
@@ -5996,7 +6852,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information Era, lasers, []", "information Era, guidance systems, []", "information Era, advanced flight, []"
                 ],
                 "sections": [
                     {
@@ -6012,6 +6868,12 @@
                         "x": "1461",
                         "y": "1871",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 694,
+                        "size": 22
                     }
                 ]
             },
@@ -6021,7 +6883,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "computers"
                 ],
                 "sections": [
                     {
@@ -6037,6 +6899,12 @@
                         "x": "1552",
                         "y": "566",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 739,
+                        "size": 22
                     }
                 ]
             },
@@ -6046,7 +6914,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "combustion"
                 ],
                 "sections": [
                     {
@@ -6062,6 +6930,12 @@
                         "x": "2082",
                         "y": "2192",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 830,
+                        "size": 22
                     }
                 ]
             },
@@ -6071,7 +6945,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6087,6 +6961,12 @@
                         "x": "1044",
                         "y": "617",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 921,
+                        "size": 22
                     }
                 ]
             },
@@ -6096,7 +6976,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "globalization"
                 ],
                 "sections": [
                     {
@@ -6112,6 +6992,12 @@
                         "x": "223",
                         "y": "343",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 605,
+                        "size": 22
                     }
                 ]
             },
@@ -6121,7 +7007,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "apprenticeship, industrialization, nuclear fission, []", "apprenticeship, industrialization, nuclear fission, electricity"
                 ],
                 "sections": [
                     {
@@ -6140,8 +7026,8 @@
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"100",
+                        "x": "992",
+                        "y":"785",
                         "size": 22
                     }
                 ]
@@ -6152,7 +7038,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "radio, mining"
                 ],
                 "sections": [
                     {
@@ -6168,6 +7054,12 @@
                         "x": "1379",
                         "y": "1811",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 875,
+                        "size": 22
                     }
                 ]
             },
@@ -6697,7 +7589,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "future era"
         ],
         "children": [
             {
@@ -6706,7 +7598,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6719,9 +7611,15 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "153",
-                        "y": "528",
+                        "x": "992",
+                        "y": "900",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 1043,
+                        "size": 22
                     }
                 ]
             },
@@ -6731,7 +7629,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6747,6 +7645,12 @@
                         "x": "1164",
                         "y": "1004",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 1087,
+                        "size": 22
                     }
                 ]
             },
@@ -6756,7 +7660,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6772,6 +7676,12 @@
                         "x": "895",
                         "y": "1380",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 1134,
+                        "size": 22
                     }
                 ]
             },
@@ -6781,7 +7691,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6797,6 +7707,12 @@
                         "x": "2387",
                         "y": "1569",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 1180,
+                        "size": 22
                     }
                 ]
             },
@@ -6806,7 +7722,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6822,6 +7738,12 @@
                         "x": "777",
                         "y": "1511",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 1226,
+                        "size": 22
                     }
                 ]
             },
@@ -6831,7 +7753,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6847,6 +7769,12 @@
                         "x": "823",
                         "y": "1831",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 1272,
+                        "size": 22
                     }
                 ]
             },
@@ -6856,7 +7784,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -6872,6 +7800,12 @@
                         "x": "1570",
                         "y": "79",
                         "size": 18
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 1318,
+                        "size": 22
                     }
                 ]
             },
