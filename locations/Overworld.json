@@ -467,7 +467,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "[]"
                 ],
                 "sections": [
                     {
@@ -545,6 +545,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -576,6 +578,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -607,6 +611,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -638,6 +644,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -669,6 +677,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -700,6 +710,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "mining"
                 ],
@@ -731,6 +743,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -762,6 +776,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "mining"
                 ],
@@ -793,8 +809,19 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[irrigation], [mining], [construction], ",
+                    "[irrigation], [mining], [animal husbandry], ",
+                    "[irrigation], [mining], [sailing], ",
+                    "[irrigation], [animal husbandry], [construction], ",
+                    "[irrigation], [animal husbandry], [sailing], ",
+                    "[irrigation], [sailing], [construction], ",
+                    "[mining], [sailing], [construction], ",
+                    "[mining], [animal husbandry], [construction], ",
+                    "[mining], [sailing], [animal husbandry], ",
+                    "[construction], [sailing], [animal husbandry], "
                 ],
                 "sections": [
                     {
@@ -824,8 +851,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[cartography],"
                 ],
                 "sections": [
                     {
@@ -855,6 +884,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -886,8 +917,26 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "currency",
+                    "bronze working",
+                    "celestial navigation",
+                    "writing",
+                    "apprenticeship",
+                    "flight",
+                    "games and recreation",
+                    "drama poetry",
+                    "[currency], astrology",
+                    "[currency], mathematics",
+                    "[currency], buttress",
+                    "[currency], steam power",
+                    "[currency], rocketry",
+                    "[currency], state workforce",
+                    "[currency], mysticism",
+                    "[currency], natural history",
+                    "[currency], urbanization"
                 ],
                 "sections": [
                     {
@@ -917,6 +966,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -948,6 +999,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     " "
                 ],
@@ -990,6 +1043,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "Progressive Era, sailing"
                 ],
@@ -1021,6 +1076,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "Progressive Era, foreign trade"
                 ],
@@ -1052,6 +1109,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "Progressive Era, animal husbandry"
                 ],
@@ -1083,8 +1142,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    "Progressive Era, mining"
+                    "Progressive Era, mining, bronze working"
                 ],
                 "sections": [
                     {
@@ -1114,6 +1175,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "Progressive Era, sailing"
                 ],
@@ -1145,6 +1208,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "currency, bronze working, celestial navigation",
                     "currency, bronze working, writing",
@@ -1744,6 +1809,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "Progressive Era, the wheel"
                 ],
@@ -1775,6 +1842,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "Progressive Era, masonry"
                 ],
@@ -1806,8 +1875,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    ""
+                    "construction"
                 ],
                 "sections": [
                     {
@@ -1837,8 +1908,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[]"
                 ],
                 "sections": [
                     {
@@ -1868,8 +1941,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[]"
                 ],
                 "sections": [
                     {
@@ -1899,8 +1974,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[classical Era], bronze working"
                 ],
                 "sections": [
                     {
@@ -1930,8 +2007,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[]"
                 ],
                 "sections": [
                     {
@@ -1961,8 +2040,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "classical Era, writing"
                 ],
                 "sections": [
                     {
@@ -1992,8 +2073,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "astrology, []"
                 ],
                 "sections": [
                     {
@@ -2024,7 +2107,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2049,7 +2132,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2074,7 +2157,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2099,7 +2182,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2124,7 +2207,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2149,7 +2232,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2174,7 +2257,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2199,7 +2282,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2224,7 +2307,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2249,7 +2332,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2274,7 +2357,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2299,7 +2382,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2324,7 +2407,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2349,7 +2432,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2374,7 +2457,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2399,7 +2482,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Progressive Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2426,7 +2509,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            ""
         ],
         "children": [
             {
@@ -2434,6 +2517,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, []"
                 ],
@@ -2465,6 +2550,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, bronze working"
                 ],
@@ -2496,6 +2583,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, mining"
                 ],
@@ -2533,6 +2622,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, archery"
                 ],
@@ -2564,6 +2655,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, writing, []"
                 ],
@@ -2595,6 +2688,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, feudalism"
                 ],
@@ -2626,6 +2721,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, engineering"
                 ],
@@ -2657,6 +2754,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "medieval Era, divine right", "medieval Era, exploration, [divine right]", "medieval Era, reformed church, [divine right]"
                 ],
@@ -2688,8 +2787,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "medieval Era, shipbuilding, []"
                 ],
                 "sections": [
                     {
@@ -2719,8 +2820,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[medieval Era]"
                 ],
                 "sections": [
                     {
@@ -2750,8 +2853,11 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "medieval Era",
+                    "[medieval Era], classical Era"
                 ],
                 "sections": [
                     {
@@ -2781,8 +2887,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[medieval Era]"
                 ],
                 "sections": [
                     {
@@ -2812,8 +2920,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[medieval Era], foreign trade, currency"
                 ],
                 "sections": [
                     {
@@ -2843,8 +2953,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[medieval Era], currency"
                 ],
                 "sections": [
                     {
@@ -2874,8 +2986,11 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "medieval Era, theology, astrology",
+                    "[medieval Era], theology, astrology, classical Era"
                 ],
                 "sections": [
                     {
@@ -3316,6 +3431,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, celestial navigation"
                 ],
@@ -3347,6 +3464,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, construction"
                 ],
@@ -3378,6 +3497,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, guilds"
                 ],
@@ -3409,6 +3530,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, military engineering"
                 ],
@@ -3440,6 +3563,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, writing, education"
                 ],
@@ -3471,6 +3596,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, gunpowder"
                 ],
@@ -3502,6 +3629,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, education, []"
                 ],
@@ -3533,6 +3662,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, machinery"
                 ],
@@ -3564,6 +3695,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "renaissance Era, military engineering"
                 ],
@@ -3595,8 +3728,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "renaissance Era, cartography,celestial navigation"
                 ],
                 "sections": [
                     {
@@ -3626,8 +3761,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "medieval Era, drama poetry, []"
                 ],
                 "sections": [
                     {
@@ -3657,8 +3794,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "diplomatic service, []"
                 ],
                 "sections": [
                     {
@@ -3688,8 +3827,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "astrology, []"
                 ],
                 "sections": [
                     {
@@ -3719,8 +3860,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[], currency"
                 ],
                 "sections": [
                     {
@@ -3750,8 +3893,12 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[], writing, currency",
+                    "[], writing, drama poetry",
+                    "[], drama poetry, currency" 
                 ],
                 "sections": [
                     {
@@ -4192,6 +4339,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, apprenticeship"
                 ],
@@ -4223,6 +4372,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, enlightenment"
                 ],
@@ -4254,6 +4405,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, military engineering"
                 ],
@@ -4285,6 +4438,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, stirrups"
                 ],
@@ -4316,6 +4471,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, mass production, celestial navigation"
                 ],
@@ -4347,6 +4504,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, urbanization"
                 ],
@@ -4378,6 +4537,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, banking"
                 ],
@@ -4409,6 +4570,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "industrial Era, military engineering, mining"
                 ],
@@ -4440,8 +4603,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    "industrial Era"
+                    "astronomy"
                 ],
                 "sections": [
                     {
@@ -4471,8 +4636,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    "industrial Era"
+                    "[industrial Era], celestial navigation, currency, writing, bronze working, apprenticeship, flight, games and recreation, drama poetry"
                 ],
                 "sections": [
                     {
@@ -4502,8 +4669,13 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[], industrial Era, diplomatic service",
+                    "[], industrial Era, defensive tactics",
+                    "[], industrial Era, nationalism",
+                    "[], industrial Era, mobilization"
                 ],
                 "sections": [
                     {
@@ -4533,8 +4705,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[industrial Era], humanism, drama poetry"
                 ],
                 "sections": [
                     {
@@ -4564,8 +4738,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[industrial Era], humanism, drama poetry"
                 ],
                 "sections": [
                     {
@@ -4595,8 +4771,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "ballistics, [industrial Era]"
                 ],
                 "sections": [
                     {
@@ -4626,8 +4804,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "industrial Era"
                 ],
                 "sections": [
                     {
@@ -5068,6 +5248,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, []"
                 ],
@@ -5099,6 +5281,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, military science"
                 ],
@@ -5130,6 +5314,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, mining, steam power, industrialization"
                 ],
@@ -5161,6 +5347,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, mining, apprenticeship, industrialization"
                 ],
@@ -5192,6 +5380,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, mercantilism, celestial navigation"
                 ],
@@ -5223,6 +5413,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, conservation, []"
                 ],
@@ -5254,6 +5446,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, civil service, []"
                 ],
@@ -5285,6 +5479,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "modern Era, Natural History, Humanism, [], drama poetry"
                 ],
@@ -5316,8 +5512,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    ""
+                    "[], urbanization"
                 ],
                 "sections": [
                     {
@@ -5347,8 +5545,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[modern Era], currnecy, banking, economics"
                 ],
                 "sections": [
                     {
@@ -5378,8 +5578,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[modern Era], writing, education, chemistry"
                 ],
                 "sections": [
                     {
@@ -5409,8 +5611,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[modern Era], radio"
                 ],
                 "sections": [
                     {
@@ -5440,8 +5644,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[modern Era], nationalism"
                 ],
                 "sections": [
                     {
@@ -5471,8 +5677,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[modern Era], sanitation"
                 ],
                 "sections": [
                     {
@@ -5502,8 +5710,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[modern Era], bronze working, military engineering, military science"
                 ],
                 "sections": [
                     {
@@ -5533,8 +5743,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[modern Era], apprenticeship, industrialization"
                 ],
                 "sections": [
                     {
@@ -6025,6 +6237,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "flight"
                 ],
@@ -6056,6 +6270,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -6087,6 +6303,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "craftsmanship, apprenticeship, electricity, industrialization"
                 ],
@@ -6118,6 +6336,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "mobilization, nationalism"
                 ],
@@ -6149,6 +6369,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "refining"
                 ],
@@ -6180,6 +6402,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "suffrage", "totalitarianism", "class struggle"
                 ],
@@ -6211,6 +6435,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -6242,6 +6468,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "flight"
                 ],
@@ -6273,8 +6501,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[atomic Era], nuclear fission"
                 ],
                 "sections": [
                     {
@@ -6304,8 +6534,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[atomic Era], games and recreation"
                 ],
                 "sections": [
                     {
@@ -6335,8 +6567,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[], drama poetry, humanism"
                 ],
                 "sections": [
                     {
@@ -6366,8 +6600,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "flight, cartography, shipbuilding, [atomic Era]"
                 ],
                 "sections": [
                     {
@@ -6397,8 +6633,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[atomic Era], rocketry"
                 ],
                 "sections": [
                     {
@@ -6789,6 +7027,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -6820,6 +7060,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "drama poetry, humanism, radio"
                 ],
@@ -6851,6 +7093,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "information Era, lasers, []", "information Era, guidance systems, []", "information Era, advanced flight, []"
                 ],
@@ -6882,6 +7126,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "computers"
                 ],
@@ -6913,6 +7159,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "combustion"
                 ],
@@ -6944,6 +7192,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -6975,6 +7225,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "globalization"
                 ],
@@ -7006,6 +7258,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "apprenticeship, industrialization, nuclear fission, []", "apprenticeship, industrialization, nuclear fission, electricity"
                 ],
@@ -7037,6 +7291,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "radio, mining"
                 ],
@@ -7068,8 +7324,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[information Era], flight, advanced flight"
                 ],
                 "sections": [
                     {
@@ -7089,7 +7347,7 @@
                     {
                         "map": "Civic Boosts",
                         "x": "997",
-                        "y": "564",
+                        "y": "612",
                         "size": 22
                     }
                 ]
@@ -7099,8 +7357,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[information Era], telecommunications"
                 ],
                 "sections": [
                     {
@@ -7120,7 +7380,7 @@
                     {
                         "map": "Civic Boosts",
                         "x": "997",
-                        "y": "612",
+                        "y": "658",
                         "size": 22
                     }
                 ]
@@ -7130,8 +7390,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
-                    " "
+                    "[information Era], satellites"
                 ],
                 "sections": [
                     {
@@ -7151,7 +7413,7 @@
                     {
                         "map": "Civic Boosts",
                         "x": "997",
-                        "y": "658",
+                        "y": "564",
                         "size": 22
                     }
                 ]
@@ -7597,6 +7859,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -7628,6 +7892,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -7659,6 +7925,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -7690,6 +7958,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -7721,6 +7991,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -7752,6 +8024,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],
@@ -7783,6 +8057,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
+                "visibility_rules":[],
+
                 "access_rules": [
                     "diplomatic service, []"
                 ],

@@ -145,7 +145,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/entertain1.png",
-      "codes": "games recreation"
+      "codes": "games and recreation"
         },
         {"img": "images/items/entertain2.png",
       "codes": "natural history"
@@ -268,6 +268,7 @@
         "codes": "disCount",
         "loop": false,
         "allow_disabled": true,
+        
         "img": "images/items/disCount.png",
 		"max_quantity": 18
     }
