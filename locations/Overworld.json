@@ -920,23 +920,8 @@
                 "visibility_rules":[],
 
                 "access_rules": [
-                    "currency",
-                    "bronze working",
-                    "celestial navigation",
-                    "writing",
-                    "apprenticeship",
-                    "flight",
-                    "games and recreation",
-                    "drama poetry",
-                    "[currency], astrology",
-                    "[currency], mathematics",
-                    "[currency], buttress",
-                    "[currency], steam power",
-                    "[currency], rocketry",
-                    "[currency], state workforce",
-                    "[currency], mysticism",
-                    "[currency], natural history",
-                    "[currency], urbanization"
+                    "[district], districtool",
+                    "district"
                 ],
                 "sections": [
                     {
@@ -1059,9 +1044,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1193",
-                        "y": "1831",
-                        "size": 18
+                        "x": "550",
+                        "y": "150",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1092,9 +1077,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "495",
-                        "y": "736",
-                        "size": 18
+                        "x": "550",
+                        "y": "317",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1125,9 +1110,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1259",
-                        "y": "68",
-                        "size": 18
+                        "x": "550",
+                        "y": "401",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1158,9 +1143,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "2340",
-                        "y": "1559",
-                        "size": 18
+                        "x": "550",
+                        "y": "570",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1191,9 +1176,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1449",
-                        "y": "495",
-                        "size": 18
+                        "x": "989",
+                        "y": "66",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1211,575 +1196,10 @@
                 "visibility_rules":[],
 
                 "access_rules": [
-                    "currency, bronze working, celestial navigation",
-                    "currency, bronze working, writing",
-                    "currency, bronze working, apprenticeship",
-                    "currency, bronze working, flight",
-                    "currency, bronze working, games and recreation",
-                    "currency, bronze working, drama poetry",
-                    "currency, celestial navigation, writing",
-                    "currency, celestial navigation, apprenticeship",
-                    "currency, celestial navigation, flight",
-                    "currency, celestial navigation, games and recreation",
-                    "currency, celestial navigation, drama poetry",
-                    "currency, writing, apprenticeship",
-                    "currency, writing, flight",
-                    "currency, writing, games and recreation",
-                    "currency, writing, drama poetry",
-                    "currency, apprenticeship, flight",
-                    "currency, apprenticeship, games and recreation",
-                    "currency, apprenticeship, drama poetry",
-                    "currency, flight, games and recreation",
-                    "currency, flight, drama poetry",
-                    "currency, games and recreation, drama poetry",
-                    "bronze working, celestial navigation, apprenticeship",
-                    "bronze working, celestial navigation, writing",
-                    "bronze working, celestial navigation, flight",
-                    "bronze working, celestial navigation, games and recreation",
-                    "bronze working, celestial navigation, drama poetry",
-                    "bronze working, writing, apprenticeship",
-                    "bronze working, writing, flight",
-                    "bronze working, writing, games and recreation",
-                    "bronze working, writing, drama poetry",
-                    "bronze working, apprenticeship, flight",
-                    "bronze working, apprenticeship, games and recreation",
-                    "bronze working, apprenticeship, drama poetry",
-                    "bronze working, flight, games and recreation",
-                    "bronze working, flight, drama poetry",
-                    "bronze working, games and recreation, drama poetry",
-                    "celestial navigation, writing, apprenticeship",
-                    "celestial navigation, writing, flight",
-                    "celestial navigation, writing, games and recreation",
-                    "celestial navigation, writing, drama poetry",
-                    "celestial navigation, apprenticeship, flight",
-                    "celestial navigation, apprenticeship, games and recreation",
-                    "celestial navigation, apprenticeship, drama poetry",
-                    "celestial navigation, flight, games and recreation",
-                    "celestial navigation, flight, drama poetry",
-                    "celestial navigation, games and recreation, drama poetry",
-                    "writing, apprenticeship, flight",
-                    "writing, apprenticeship, games and recreation",
-                    "writing, apprenticeship, drama poetry",
-                    "writing, flight, games and recreation",
-                    "writing, flight, drama poetry",
-                    "writing, games and recreation, drama poetry",
-                    "apprenticeship, flight, games and recreation",
-                    "apprenticeship, flight, drama poetry",
-                    "apprenticeship, games and recreation, drama poetry",
-                    "flight, games and recreation, drama poetry",
-
-                    "currency, bronze working, [celestial navigation], astrology",
-                    "currency, bronze working, [writing], astrology",
-                    "currency, bronze working, [apprenticeship], astrology",
-                    "currency, bronze working, [flight], astrology",
-                    "currency, bronze working, [games and recreation], astrology",
-                    "currency, bronze working, [drama poetry], astrology",
-                    "currency, celestial navigation, [writing], astrology",
-                    "currency, celestial navigation, [apprenticeship], astrology",
-                    "currency, celestial navigation, [flight], astrology",
-                    "currency, celestial navigation, [games and recreation], astrology",
-                    "currency, celestial navigation, [drama poetry], astrology",
-                    "currency, writing, [apprenticeship], astrology",
-                    "currency, writing, [flight], astrology",
-                    "currency, writing, [games and recreation], astrology",
-                    "currency, writing, [drama poetry], astrology",
-                    "currency, apprenticeship, [flight], astrology",
-                    "currency, apprenticeship, [games and recreation], astrology",
-                    "currency, apprenticeship, [drama poetry], astrology",
-                    "currency, flight, [games and recreation], astrology",
-                    "currency, flight, [drama poetry], astrology",
-                    "currency, games and recreation, [drama poetry], astrology",
-                    "bronze working, celestial navigation, [apprenticeship], astrology",
-                    "bronze working, celestial navigation, [writing], astrology",
-                    "bronze working, celestial navigation, [flight], astrology",
-                    "bronze working, celestial navigation, [games and recreation], astrology",
-                    "bronze working, celestial navigation, [drama poetry], astrology",
-                    "bronze working, writing, [apprenticeship], astrology",
-                    "bronze working, writing, [flight], astrology",
-                    "bronze working, writing, [games and recreation], astrology",
-                    "bronze working, writing, [drama poetry], astrology",
-                    "bronze working, apprenticeship, [flight], astrology",
-                    "bronze working, apprenticeship, [games and recreation], astrology",
-                    "bronze working, apprenticeship, [drama poetry], astrology",
-                    "bronze working, flight, [games and recreation], astrology",
-                    "bronze working, flight, [drama poetry], astrology",
-                    "bronze working, games and recreation, drama poetry], astrology",
-                    "celestial navigation, writing, [apprenticeship], astrology",
-                    "celestial navigation, writing, [flight], astrology",
-                    "celestial navigation, writing, [games and recreation], astrology",
-                    "celestial navigation, writing, [drama poetry], astrology",
-                    "celestial navigation, apprenticeship, [flight], astrology",
-                    "celestial navigation, apprenticeship, [games and recreation], astrology",
-                    "celestial navigation, apprenticeship, [drama poetry], astrology",
-                    "celestial navigation, flight, [games and recreation], astrology",
-                    "celestial navigation, flight, [drama poetry], astrology",
-                    "celestial navigation, games and recreation, [drama poetry], astrology",
-                    "writing, apprenticeship, [flight], astrology",
-                    "writing, apprenticeship, [games and recreation], astrology",
-                    "writing, apprenticeship, [drama poetry], astrology",
-                    "writing, flight, [games and recreation], astrology",
-                    "writing, flight, [drama poetry], astrology",
-                    "writing, games and recreation, [drama poetry], astrology",
-                    "apprenticeship, flight, [games and recreation], astrology",
-                    "apprenticeship, flight, [drama poetry], astrology",
-                    "apprenticeship, games and recreation, [drama poetry], astrology",
-                    "flight, games and recreation, [drama poetry], astrology",
-
-                    "currency, bronze working, [celestial navigation], mathematics",
-                    "currency, bronze working, [writing], mathematics",
-                    "currency, bronze working, [apprenticeship], mathematics",
-                    "currency, bronze working, [flight], mathematics",
-                    "currency, bronze working, [games and recreation], mathematics",
-                    "currency, bronze working, [drama poetry], mathematics",
-                    "currency, celestial navigation, [writing], mathematics",
-                    "currency, celestial navigation, [apprenticeship], mathematics",
-                    "currency, celestial navigation, [flight], mathematics",
-                    "currency, celestial navigation, [games and recreation], mathematics",
-                    "currency, celestial navigation, [drama poetry], mathematics",
-                    "currency, writing, [apprenticeship], mathematics",
-                    "currency, writing, [flight], mathematics",
-                    "currency, writing, [games and recreation], mathematics",
-                    "currency, writing, [drama poetry], mathematics",
-                    "currency, apprenticeship, [flight], mathematics",
-                    "currency, apprenticeship, [games and recreation], mathematics",
-                    "currency, apprenticeship, [drama poetry], mathematics",
-                    "currency, flight, [games and recreation], mathematics",
-                    "currency, flight, [drama poetry], mathematics",
-                    "currency, games and recreation, [drama poetry], mathematics",
-                    "bronze working, celestial navigation, [apprenticeship], mathematics",
-                    "bronze working, celestial navigation, [writing], mathematics",
-                    "bronze working, celestial navigation, [flight], mathematics",
-                    "bronze working, celestial navigation, [games and recreation], mathematics",
-                    "bronze working, celestial navigation, [drama poetry], mathematics",
-                    "bronze working, writing, [apprenticeship], mathematics",
-                    "bronze working, writing, [flight], mathematics",
-                    "bronze working, writing, [games and recreation], mathematics",
-                    "bronze working, writing, [drama poetry], mathematics",
-                    "bronze working, apprenticeship, [flight], mathematics",
-                    "bronze working, apprenticeship, [games and recreation], mathematics",
-                    "bronze working, apprenticeship, [drama poetry], mathematics",
-                    "bronze working, flight, [games and recreation], mathematics",
-                    "bronze working, flight, [drama poetry], mathematics",
-                    "bronze working, games and recreation, drama poetry], mathematics",
-                    "celestial navigation, writing, [apprenticeship], mathematics",
-                    "celestial navigation, writing, [flight], mathematics",
-                    "celestial navigation, writing, [games and recreation], mathematics",
-                    "celestial navigation, writing, [drama poetry], mathematics",
-                    "celestial navigation, apprenticeship, [flight], mathematics",
-                    "celestial navigation, apprenticeship, [games and recreation], mathematics",
-                    "celestial navigation, apprenticeship, [drama poetry], mathematics",
-                    "celestial navigation, flight, [games and recreation], mathematics",
-                    "celestial navigation, flight, [drama poetry], mathematics",
-                    "celestial navigation, games and recreation, [drama poetry], mathematics",
-                    "writing, apprenticeship, [flight], mathematics",
-                    "writing, apprenticeship, [games and recreation], mathematics",
-                    "writing, apprenticeship, [drama poetry], mathematics",
-                    "writing, flight, [games and recreation], mathematics",
-                    "writing, flight, [drama poetry], mathematics",
-                    "writing, games and recreation, [drama poetry], mathematics",
-                    "apprenticeship, flight, [games and recreation], mathematics",
-                    "apprenticeship, flight, [drama poetry], mathematics",
-                    "apprenticeship, games and recreation, [drama poetry], mathematics",
-                    "flight, games and recreation, [drama poetry], mathematics",
-
-                    "currency, bronze working, [celestial navigation], buttress",
-                    "currency, bronze working, [writing], buttress",
-                    "currency, bronze working, [apprenticeship], buttress",
-                    "currency, bronze working, [flight], buttress",
-                    "currency, bronze working, [games and recreation], buttress",
-                    "currency, bronze working, [drama poetry], buttress",
-                    "currency, celestial navigation, [writing], buttress",
-                    "currency, celestial navigation, [apprenticeship], buttress",
-                    "currency, celestial navigation, [flight], buttress",
-                    "currency, celestial navigation, [games and recreation], buttress",
-                    "currency, celestial navigation, [drama poetry], buttress",
-                    "currency, writing, [apprenticeship], buttress",
-                    "currency, writing, [flight], buttress",
-                    "currency, writing, [games and recreation], buttress",
-                    "currency, writing, [drama poetry], buttress",
-                    "currency, apprenticeship, [flight], buttress",
-                    "currency, apprenticeship, [games and recreation], buttress",
-                    "currency, apprenticeship, [drama poetry], buttress",
-                    "currency, flight, [games and recreation], buttress",
-                    "currency, flight, [drama poetry], buttress",
-                    "currency, games and recreation, [drama poetry], buttress",
-                    "bronze working, celestial navigation, [apprenticeship], buttress",
-                    "bronze working, celestial navigation, [writing], buttress",
-                    "bronze working, celestial navigation, [flight], buttress",
-                    "bronze working, celestial navigation, [games and recreation], buttress",
-                    "bronze working, celestial navigation, [drama poetry], buttress",
-                    "bronze working, writing, [apprenticeship], buttress",
-                    "bronze working, writing, [flight], buttress",
-                    "bronze working, writing, [games and recreation], buttress",
-                    "bronze working, writing, [drama poetry], buttress",
-                    "bronze working, apprenticeship, [flight], buttress",
-                    "bronze working, apprenticeship, [games and recreation], buttress",
-                    "bronze working, apprenticeship, [drama poetry], buttress",
-                    "bronze working, flight, [games and recreation], buttress",
-                    "bronze working, flight, [drama poetry], buttress",
-                    "bronze working, games and recreation, drama poetry], buttress",
-                    "celestial navigation, writing, [apprenticeship], buttress",
-                    "celestial navigation, writing, [flight], buttress",
-                    "celestial navigation, writing, [games and recreation], buttress",
-                    "celestial navigation, writing, [drama poetry], buttress",
-                    "celestial navigation, apprenticeship, [flight], buttress",
-                    "celestial navigation, apprenticeship, [games and recreation], buttress",
-                    "celestial navigation, apprenticeship, [drama poetry], buttress",
-                    "celestial navigation, flight, [games and recreation], buttress",
-                    "celestial navigation, flight, [drama poetry], buttress",
-                    "celestial navigation, games and recreation, [drama poetry], buttress",
-                    "writing, apprenticeship, [flight], buttress",
-                    "writing, apprenticeship, [games and recreation], buttress",
-                    "writing, apprenticeship, [drama poetry], buttress",
-                    "writing, flight, [games and recreation], buttress",
-                    "writing, flight, [drama poetry], buttress",
-                    "writing, games and recreation, [drama poetry], buttress",
-                    "apprenticeship, flight, [games and recreation], buttress",
-                    "apprenticeship, flight, [drama poetry], buttress",
-                    "apprenticeship, games and recreation, [drama poetry], buttress",
-                    "flight, games and recreation, [drama poetry], buttress",
-
-                    "currency, bronze working, [celestial navigation], steam power",
-                    "currency, bronze working, [writing], steam power",
-                    "currency, bronze working, [apprenticeship], steam power",
-                    "currency, bronze working, [flight], steam power",
-                    "currency, bronze working, [games and recreation], steam power",
-                    "currency, bronze working, [drama poetry], steam power",
-                    "currency, celestial navigation, [writing], steam power",
-                    "currency, celestial navigation, [apprenticeship], steam power",
-                    "currency, celestial navigation, [flight], steam power",
-                    "currency, celestial navigation, [games and recreation], steam power",
-                    "currency, celestial navigation, [drama poetry], steam power",
-                    "currency, writing, [apprenticeship], steam power",
-                    "currency, writing, [flight], steam power",
-                    "currency, writing, [games and recreation], steam power",
-                    "currency, writing, [drama poetry], steam power",
-                    "currency, apprenticeship, [flight], steam power",
-                    "currency, apprenticeship, [games and recreation], steam power",
-                    "currency, apprenticeship, [drama poetry], steam power",
-                    "currency, flight, [games and recreation], steam power",
-                    "currency, flight, [drama poetry], steam power",
-                    "currency, games and recreation, [drama poetry], steam power",
-                    "bronze working, celestial navigation, [apprenticeship], steam power",
-                    "bronze working, celestial navigation, [writing], steam power",
-                    "bronze working, celestial navigation, [flight], steam power",
-                    "bronze working, celestial navigation, [games and recreation], steam power",
-                    "bronze working, celestial navigation, [drama poetry], steam power",
-                    "bronze working, writing, [apprenticeship], steam power",
-                    "bronze working, writing, [flight], steam power",
-                    "bronze working, writing, [games and recreation], steam power",
-                    "bronze working, writing, [drama poetry], steam power",
-                    "bronze working, apprenticeship, [flight], steam power",
-                    "bronze working, apprenticeship, [games and recreation], steam power",
-                    "bronze working, apprenticeship, [drama poetry], steam power",
-                    "bronze working, flight, [games and recreation], steam power",
-                    "bronze working, flight, [drama poetry], steam power",
-                    "bronze working, games and recreation, drama poetry], steam power",
-                    "celestial navigation, writing, [apprenticeship], steam power",
-                    "celestial navigation, writing, [flight], steam power",
-                    "celestial navigation, writing, [games and recreation], steam power",
-                    "celestial navigation, writing, [drama poetry], steam power",
-                    "celestial navigation, apprenticeship, [flight], steam power",
-                    "celestial navigation, apprenticeship, [games and recreation], steam power",
-                    "celestial navigation, apprenticeship, [drama poetry], steam power",
-                    "celestial navigation, flight, [games and recreation], steam power",
-                    "celestial navigation, flight, [drama poetry], steam power",
-                    "celestial navigation, games and recreation, [drama poetry], steam power",
-                    "writing, apprenticeship, [flight], steam power",
-                    "writing, apprenticeship, [games and recreation], steam power",
-                    "writing, apprenticeship, [drama poetry], steam power",
-                    "writing, flight, [games and recreation], steam power",
-                    "writing, flight, [drama poetry], steam power",
-                    "writing, games and recreation, [drama poetry], steam power",
-                    "apprenticeship, flight, [games and recreation], steam power",
-                    "apprenticeship, flight, [drama poetry], steam power",
-                    "apprenticeship, games and recreation, [drama poetry], steam power",
-                    "flight, games and recreation, [drama poetry], steam power",
-
-                    "currency, bronze working, [celestial navigation], rocketry",
-                    "currency, bronze working, [writing], rocketry",
-                    "currency, bronze working, [apprenticeship], rocketry",
-                    "currency, bronze working, [flight], rocketry",
-                    "currency, bronze working, [games and recreation], rocketry",
-                    "currency, bronze working, [drama poetry], rocketry",
-                    "currency, celestial navigation, [writing], rocketry",
-                    "currency, celestial navigation, [apprenticeship], rocketry",
-                    "currency, celestial navigation, [flight], rocketry",
-                    "currency, celestial navigation, [games and recreation], rocketry",
-                    "currency, celestial navigation, [drama poetry], rocketry",
-                    "currency, writing, [apprenticeship], rocketry",
-                    "currency, writing, [flight], rocketry",
-                    "currency, writing, [games and recreation], rocketry",
-                    "currency, writing, [drama poetry], rocketry",
-                    "currency, apprenticeship, [flight], rocketry",
-                    "currency, apprenticeship, [games and recreation], rocketry",
-                    "currency, apprenticeship, [drama poetry], rocketry",
-                    "currency, flight, [games and recreation], rocketry",
-                    "currency, flight, [drama poetry], rocketry",
-                    "currency, games and recreation, [drama poetry], rocketry",
-                    "bronze working, celestial navigation, [apprenticeship], rocketry",
-                    "bronze working, celestial navigation, [writing], rocketry",
-                    "bronze working, celestial navigation, [flight], rocketry",
-                    "bronze working, celestial navigation, [games and recreation], rocketry",
-                    "bronze working, celestial navigation, [drama poetry], rocketry",
-                    "bronze working, writing, [apprenticeship], rocketry",
-                    "bronze working, writing, [flight], rocketry",
-                    "bronze working, writing, [games and recreation], rocketry",
-                    "bronze working, writing, [drama poetry], rocketry",
-                    "bronze working, apprenticeship, [flight], rocketry",
-                    "bronze working, apprenticeship, [games and recreation], rocketry",
-                    "bronze working, apprenticeship, [drama poetry], rocketry",
-                    "bronze working, flight, [games and recreation], rocketry",
-                    "bronze working, flight, [drama poetry], rocketry",
-                    "bronze working, games and recreation, drama poetry], rocketry",
-                    "celestial navigation, writing, [apprenticeship], rocketry",
-                    "celestial navigation, writing, [flight], rocketry",
-                    "celestial navigation, writing, [games and recreation], rocketry",
-                    "celestial navigation, writing, [drama poetry], rocketry",
-                    "celestial navigation, apprenticeship, [flight], rocketry",
-                    "celestial navigation, apprenticeship, [games and recreation], rocketry",
-                    "celestial navigation, apprenticeship, [drama poetry], rocketry",
-                    "celestial navigation, flight, [games and recreation], rocketry",
-                    "celestial navigation, flight, [drama poetry], rocketry",
-                    "celestial navigation, games and recreation, [drama poetry], rocketry",
-                    "writing, apprenticeship, [flight], rocketry",
-                    "writing, apprenticeship, [games and recreation], rocketry",
-                    "writing, apprenticeship, [drama poetry], rocketry",
-                    "writing, flight, [games and recreation], rocketry",
-                    "writing, flight, [drama poetry], rocketry",
-                    "writing, games and recreation, [drama poetry], rocketry",
-                    "apprenticeship, flight, [games and recreation], rocketry",
-                    "apprenticeship, flight, [drama poetry], rocketry",
-                    "apprenticeship, games and recreation, [drama poetry], rocketry",
-                    "flight, games and recreation, [drama poetry], rocketry",
-
-                    "currency, bronze working, [celestial navigation], state workforce",
-                    "currency, bronze working, [writing], state workforce",
-                    "currency, bronze working, [apprenticeship], state workforce",
-                    "currency, bronze working, [flight], state workforce",
-                    "currency, bronze working, [games and recreation], state workforce",
-                    "currency, bronze working, [drama poetry], state workforce",
-                    "currency, celestial navigation, [writing], state workforce",
-                    "currency, celestial navigation, [apprenticeship], state workforce",
-                    "currency, celestial navigation, [flight], state workforce",
-                    "currency, celestial navigation, [games and recreation], state workforce",
-                    "currency, celestial navigation, [drama poetry], state workforce",
-                    "currency, writing, [apprenticeship], state workforce",
-                    "currency, writing, [flight], state workforce",
-                    "currency, writing, [games and recreation], state workforce",
-                    "currency, writing, [drama poetry], state workforce",
-                    "currency, apprenticeship, [flight], state workforce",
-                    "currency, apprenticeship, [games and recreation], state workforce",
-                    "currency, apprenticeship, [drama poetry], state workforce",
-                    "currency, flight, [games and recreation], state workforce",
-                    "currency, flight, [drama poetry], state workforce",
-                    "currency, games and recreation, [drama poetry], state workforce",
-                    "bronze working, celestial navigation, [apprenticeship], state workforce",
-                    "bronze working, celestial navigation, [writing], state workforce",
-                    "bronze working, celestial navigation, [flight], state workforce",
-                    "bronze working, celestial navigation, [games and recreation], state workforce",
-                    "bronze working, celestial navigation, [drama poetry], state workforce",
-                    "bronze working, writing, [apprenticeship], state workforce",
-                    "bronze working, writing, [flight], state workforce",
-                    "bronze working, writing, [games and recreation], state workforce",
-                    "bronze working, writing, [drama poetry], state workforce",
-                    "bronze working, apprenticeship, [flight], state workforce",
-                    "bronze working, apprenticeship, [games and recreation], state workforce",
-                    "bronze working, apprenticeship, [drama poetry], state workforce",
-                    "bronze working, flight, [games and recreation], state workforce",
-                    "bronze working, flight, [drama poetry], state workforce",
-                    "bronze working, games and recreation, drama poetry], state workforce",
-                    "celestial navigation, writing, [apprenticeship], state workforce",
-                    "celestial navigation, writing, [flight], state workforce",
-                    "celestial navigation, writing, [games and recreation], state workforce",
-                    "celestial navigation, writing, [drama poetry], state workforce",
-                    "celestial navigation, apprenticeship, [flight], state workforce",
-                    "celestial navigation, apprenticeship, [games and recreation], state workforce",
-                    "celestial navigation, apprenticeship, [drama poetry], state workforce",
-                    "celestial navigation, flight, [games and recreation], state workforce",
-                    "celestial navigation, flight, [drama poetry], state workforce",
-                    "celestial navigation, games and recreation, [drama poetry], state workforce",
-                    "writing, apprenticeship, [flight], state workforce",
-                    "writing, apprenticeship, [games and recreation], state workforce",
-                    "writing, apprenticeship, [drama poetry], state workforce",
-                    "writing, flight, [games and recreation], state workforce",
-                    "writing, flight, [drama poetry], state workforce",
-                    "writing, games and recreation, [drama poetry], state workforce",
-                    "apprenticeship, flight, [games and recreation], state workforce",
-                    "apprenticeship, flight, [drama poetry], state workforce",
-                    "apprenticeship, games and recreation, [drama poetry], state workforce",
-                    "flight, games and recreation, [drama poetry], state workforce",
-
-                    "currency, bronze working, [celestial navigation], mysticism",
-                    "currency, bronze working, [writing], mysticism",
-                    "currency, bronze working, [apprenticeship], mysticism",
-                    "currency, bronze working, [flight], mysticism",
-                    "currency, bronze working, [games and recreation], mysticism",
-                    "currency, bronze working, [drama poetry], mysticism",
-                    "currency, celestial navigation, [writing], mysticism",
-                    "currency, celestial navigation, [apprenticeship], mysticism",
-                    "currency, celestial navigation, [flight], mysticism",
-                    "currency, celestial navigation, [games and recreation], mysticism",
-                    "currency, celestial navigation, [drama poetry], mysticism",
-                    "currency, writing, [apprenticeship], mysticism",
-                    "currency, writing, [flight], mysticism",
-                    "currency, writing, [games and recreation], mysticism",
-                    "currency, writing, [drama poetry], mysticism",
-                    "currency, apprenticeship, [flight], mysticism",
-                    "currency, apprenticeship, [games and recreation], mysticism",
-                    "currency, apprenticeship, [drama poetry], mysticism",
-                    "currency, flight, [games and recreation], mysticism",
-                    "currency, flight, [drama poetry], mysticism",
-                    "currency, games and recreation, [drama poetry], mysticism",
-                    "bronze working, celestial navigation, [apprenticeship], mysticism",
-                    "bronze working, celestial navigation, [writing], mysticism",
-                    "bronze working, celestial navigation, [flight], mysticism",
-                    "bronze working, celestial navigation, [games and recreation], mysticism",
-                    "bronze working, celestial navigation, [drama poetry], mysticism",
-                    "bronze working, writing, [apprenticeship], mysticism",
-                    "bronze working, writing, [flight], mysticism",
-                    "bronze working, writing, [games and recreation], mysticism",
-                    "bronze working, writing, [drama poetry], mysticism",
-                    "bronze working, apprenticeship, [flight], mysticism",
-                    "bronze working, apprenticeship, [games and recreation], mysticism",
-                    "bronze working, apprenticeship, [drama poetry], mysticism",
-                    "bronze working, flight, [games and recreation], mysticism",
-                    "bronze working, flight, [drama poetry], mysticism",
-                    "bronze working, games and recreation, drama poetry], mysticism",
-                    "celestial navigation, writing, [apprenticeship], mysticism",
-                    "celestial navigation, writing, [flight], mysticism",
-                    "celestial navigation, writing, [games and recreation], mysticism",
-                    "celestial navigation, writing, [drama poetry], mysticism",
-                    "celestial navigation, apprenticeship, [flight], mysticism",
-                    "celestial navigation, apprenticeship, [games and recreation], mysticism",
-                    "celestial navigation, apprenticeship, [drama poetry], mysticism",
-                    "celestial navigation, flight, [games and recreation], mysticism",
-                    "celestial navigation, flight, [drama poetry], mysticism",
-                    "celestial navigation, games and recreation, [drama poetry], mysticism",
-                    "writing, apprenticeship, [flight], mysticism",
-                    "writing, apprenticeship, [games and recreation], mysticism",
-                    "writing, apprenticeship, [drama poetry], mysticism",
-                    "writing, flight, [games and recreation], mysticism",
-                    "writing, flight, [drama poetry], mysticism",
-                    "writing, games and recreation, [drama poetry], mysticism",
-                    "apprenticeship, flight, [games and recreation], mysticism",
-                    "apprenticeship, flight, [drama poetry], mysticism",
-                    "apprenticeship, games and recreation, [drama poetry], mysticism",
-                    "flight, games and recreation, [drama poetry], mysticism",
-
-                    "currency, bronze working, [celestial navigation], natural history",
-                    "currency, bronze working, [writing], natural history",
-                    "currency, bronze working, [apprenticeship], natural history",
-                    "currency, bronze working, [flight], natural history",
-                    "currency, bronze working, [games and recreation], natural history",
-                    "currency, bronze working, [drama poetry], natural history",
-                    "currency, celestial navigation, [writing], natural history",
-                    "currency, celestial navigation, [apprenticeship], natural history",
-                    "currency, celestial navigation, [flight], natural history",
-                    "currency, celestial navigation, [games and recreation], natural history",
-                    "currency, celestial navigation, [drama poetry], natural history",
-                    "currency, writing, [apprenticeship], natural history",
-                    "currency, writing, [flight], natural history",
-                    "currency, writing, [games and recreation], natural history",
-                    "currency, writing, [drama poetry], natural history",
-                    "currency, apprenticeship, [flight], natural history",
-                    "currency, apprenticeship, [games and recreation], natural history",
-                    "currency, apprenticeship, [drama poetry], natural history",
-                    "currency, flight, [games and recreation], natural history",
-                    "currency, flight, [drama poetry], natural history",
-                    "currency, games and recreation, [drama poetry], natural history",
-                    "bronze working, celestial navigation, [apprenticeship], natural history",
-                    "bronze working, celestial navigation, [writing], natural history",
-                    "bronze working, celestial navigation, [flight], natural history",
-                    "bronze working, celestial navigation, [games and recreation], natural history",
-                    "bronze working, celestial navigation, [drama poetry], natural history",
-                    "bronze working, writing, [apprenticeship], natural history",
-                    "bronze working, writing, [flight], natural history",
-                    "bronze working, writing, [games and recreation], natural history",
-                    "bronze working, writing, [drama poetry], natural history",
-                    "bronze working, apprenticeship, [flight], natural history",
-                    "bronze working, apprenticeship, [games and recreation], natural history",
-                    "bronze working, apprenticeship, [drama poetry], natural history",
-                    "bronze working, flight, [games and recreation], natural history",
-                    "bronze working, flight, [drama poetry], natural history",
-                    "bronze working, games and recreation, drama poetry], natural history",
-                    "celestial navigation, writing, [apprenticeship], natural history",
-                    "celestial navigation, writing, [flight], natural history",
-                    "celestial navigation, writing, [games and recreation], natural history",
-                    "celestial navigation, writing, [drama poetry], natural history",
-                    "celestial navigation, apprenticeship, [flight], natural history",
-                    "celestial navigation, apprenticeship, [games and recreation], natural history",
-                    "celestial navigation, apprenticeship, [drama poetry], natural history",
-                    "celestial navigation, flight, [games and recreation], natural history",
-                    "celestial navigation, flight, [drama poetry], natural history",
-                    "celestial navigation, games and recreation, [drama poetry], natural history",
-                    "writing, apprenticeship, [flight], natural history",
-                    "writing, apprenticeship, [games and recreation], natural history",
-                    "writing, apprenticeship, [drama poetry], natural history",
-                    "writing, flight, [games and recreation], natural history",
-                    "writing, flight, [drama poetry], natural history",
-                    "writing, games and recreation, [drama poetry], natural history",
-                    "apprenticeship, flight, [games and recreation], natural history",
-                    "apprenticeship, flight, [drama poetry], natural history",
-                    "apprenticeship, games and recreation, [drama poetry], natural history",
-                    "flight, games and recreation, [drama poetry], natural history",
-
-                    "currency, bronze working, [celestial navigation], urbanization",
-                    "currency, bronze working, [writing], urbanization",
-                    "currency, bronze working, [apprenticeship], urbanization",
-                    "currency, bronze working, [flight], urbanization",
-                    "currency, bronze working, [games and recreation], urbanization",
-                    "currency, bronze working, [drama poetry], urbanization",
-                    "currency, celestial navigation, [writing], urbanization",
-                    "currency, celestial navigation, [apprenticeship], urbanization",
-                    "currency, celestial navigation, [flight], urbanization",
-                    "currency, celestial navigation, [games and recreation], urbanization",
-                    "currency, celestial navigation, [drama poetry], urbanization",
-                    "currency, writing, [apprenticeship], urbanization",
-                    "currency, writing, [flight], urbanization",
-                    "currency, writing, [games and recreation], urbanization",
-                    "currency, writing, [drama poetry], urbanization",
-                    "currency, apprenticeship, [flight], urbanization",
-                    "currency, apprenticeship, [games and recreation], urbanization",
-                    "currency, apprenticeship, [drama poetry], urbanization",
-                    "currency, flight, [games and recreation], urbanization",
-                    "currency, flight, [drama poetry], urbanization",
-                    "currency, games and recreation, [drama poetry], urbanization",
-                    "bronze working, celestial navigation, [apprenticeship], urbanization",
-                    "bronze working, celestial navigation, [writing], urbanization",
-                    "bronze working, celestial navigation, [flight], urbanization",
-                    "bronze working, celestial navigation, [games and recreation], urbanization",
-                    "bronze working, celestial navigation, [drama poetry], urbanization",
-                    "bronze working, writing, [apprenticeship], urbanization",
-                    "bronze working, writing, [flight], urbanization",
-                    "bronze working, writing, [games and recreation], urbanization",
-                    "bronze working, writing, [drama poetry], urbanization",
-                    "bronze working, apprenticeship, [flight], urbanization",
-                    "bronze working, apprenticeship, [games and recreation], urbanization",
-                    "bronze working, apprenticeship, [drama poetry], urbanization",
-                    "bronze working, flight, [games and recreation], urbanization",
-                    "bronze working, flight, [drama poetry], urbanization",
-                    "bronze working, games and recreation, drama poetry], urbanization",
-                    "celestial navigation, writing, [apprenticeship], urbanization",
-                    "celestial navigation, writing, [flight], urbanization",
-                    "celestial navigation, writing, [games and recreation], urbanization",
-                    "celestial navigation, writing, [drama poetry], urbanization",
-                    "celestial navigation, apprenticeship, [flight], urbanization",
-                    "celestial navigation, apprenticeship, [games and recreation], urbanization",
-                    "celestial navigation, apprenticeship, [drama poetry], urbanization",
-                    "celestial navigation, flight, [games and recreation], urbanization",
-                    "celestial navigation, flight, [drama poetry], urbanization",
-                    "celestial navigation, games and recreation, [drama poetry], urbanization",
-                    "writing, apprenticeship, [flight], urbanization",
-                    "writing, apprenticeship, [games and recreation], urbanization",
-                    "writing, apprenticeship, [drama poetry], urbanization",
-                    "writing, flight, [games and recreation], urbanization",
-                    "writing, flight, [drama poetry], urbanization",
-                    "writing, games and recreation, [drama poetry], urbanization",
-                    "apprenticeship, flight, [games and recreation], urbanization",
-                    "apprenticeship, flight, [drama poetry], urbanization",
-                    "apprenticeship, games and recreation, [drama poetry], urbanization",
-                    "flight, games and recreation, [drama poetry], urbanization"
+                    "district:3",
+                    "[district:3], districtool:3",
+                    "[district:3], districtool:2, district:1",
+                    "[district:3], districtool:1, district:2"
                 ],
                 "sections": [
                     {
@@ -1792,9 +1212,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "684",
-                        "y": "177",
-                        "size": 18
+                        "x": "989",
+                        "y": "234",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1825,9 +1245,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "227",
-                        "y": "447",
-                        "size": 18
+                        "x": "989",
+                        "y": "485",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1858,9 +1278,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1423",
-                        "y": "2484",
-                        "size": 18
+                        "x": "989",
+                        "y": "653",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -1891,9 +1311,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1113",
-                        "y": "581",
-                        "size": 18
+                        "x": "609",
+                        "y": "861",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -1924,9 +1344,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "2436",
-                        "y": "1200",
-                        "size": 18
+                        "x": "609",
+                        "y": "1086",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -1957,9 +1377,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1829",
-                        "y": "91",
-                        "size": 18
+                        "x": "609",
+                        "y": "1197",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -1990,9 +1410,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1439",
-                        "y": "1471",
-                        "size": 18
+                        "x": "1110",
+                        "y": "777",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2023,9 +1443,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1331",
-                        "y": "365",
-                        "size": 18
+                        "x": "1110",
+                        "y": "945",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2056,9 +1476,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "2175",
-                        "y": "847",
-                        "size": 18
+                        "x": "1110",
+                        "y": "1113",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2089,9 +1509,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1746",
-                        "y": "349",
-                        "size": 18
+                        "x": "1110",
+                        "y": "1281",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2120,9 +1540,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1457",
-                        "y": "2203",
-                        "size": 18
+                        "x": "262",
+                        "y": "116",
+                        "size": 36
                     }
                 ]
             },
@@ -2145,9 +1565,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "392",
-                        "y": "1129",
-                        "size": 18
+                        "x": "262",
+                        "y": "284",
+                        "size": 36
                     }
                 ]
             },
@@ -2170,9 +1590,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "599",
-                        "y": "267",
-                        "size": 18
+                        "x": "262",
+                        "y": "368",
+                        "size": 36
                     }
                 ]
             },
@@ -2195,9 +1615,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1081",
-                        "y": "1455",
-                        "size": 18
+                        "x": "262",
+                        "y": "536",
+                        "size": 36
                     }
                 ]
             },
@@ -2220,9 +1640,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "2064",
-                        "y": "1303",
-                        "size": 18
+                        "x": "702",
+                        "y": "33",
+                        "size": 36
                     }
                 ]
             },
@@ -2245,9 +1665,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "2069",
-                        "y": "954",
-                        "size": 18
+                        "x": "702",
+                        "y": "201",
+                        "size": 36
                     }
                 ]
             },
@@ -2270,9 +1690,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1158",
-                        "y": "451",
-                        "size": 18
+                        "x": "702",
+                        "y": "453",
+                        "size": 36
                     }
                 ]
             },
@@ -2295,9 +1715,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "513",
-                        "y": "472",
-                        "size": 18
+                        "x": "702",
+                        "y": "621",
+                        "size": 36
                     }
                 ]
             },
@@ -2320,9 +1740,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1916",
-                        "y": "611",
-                        "size": 18
+                        "x": "272",
+                        "y": "828",
+                        "size": 36
                     }
                 ]
             },
@@ -2345,9 +1765,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1507",
-                        "y": "1404",
-                        "size": 18
+                        "x": "272",
+                        "y": "996",
+                        "size": 36
                     }
                 ]
             },
@@ -2370,9 +1790,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1469",
-                        "y": "1699",
-                        "size": 18
+                        "x": "272",
+                        "y": "1164",
+                        "size": 36
                     }
                 ]
             },
@@ -2395,9 +1815,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "461",
-                        "y": "2437",
-                        "size": 18
+                        "x": "773",
+                        "y": "744",
+                        "size": 36
                     }
                 ]
             },
@@ -2420,9 +1840,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "2300",
-                        "y": "1276",
-                        "size": 18
+                        "x": "773",
+                        "y": "912",
+                        "size": 36
                     }
                 ]
             },
@@ -2445,9 +1865,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "678",
-                        "y": "104",
-                        "size": 18
+                        "x": "773",
+                        "y": "1080",
+                        "size": 36
                     }
                 ]
             },
@@ -2470,9 +1890,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "2211",
-                        "y": "2244",
-                        "size": 18
+                        "x": "773",
+                        "y": "1248",
+                        "size": 36
                     }
                 ]
             },
@@ -2495,9 +1915,9 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "20",
-                        "y": "500",
-                        "size": 18
+                        "x": 0,
+                        "y": "715",
+                        "size": 100
                     }
                 ]
             }
@@ -2533,9 +1953,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1",
-                        "y": "10",
-                        "size": 18
+                        "x": "567",
+                        "y": "67",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2566,9 +1986,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "306",
-                        "y": "549",
-                        "size": 18
+                        "x": "567",
+                        "y": "151",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2599,9 +2019,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1064",
-                        "y": "2063",
-                        "size": 18
+                        "x": "567",
+                        "y": "319",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2638,9 +2058,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1681",
-                        "y": "454",
-                        "size": 18
+                        "x": "567",
+                        "y": "655",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2671,9 +2091,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1",
-                        "y": "1185",
-                        "size": 18
+                        "x": "1006",
+                        "y": "235",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2704,9 +2124,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1336",
-                        "y": "2039",
-                        "size": 18
+                        "x": "1006",
+                        "y": "403",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2737,9 +2157,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "873",
-                        "y": "2100",
-                        "size": 18
+                        "x": "1006",
+                        "y": "487",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2770,9 +2190,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "2451",
-                        "y": "1857",
-                        "size": 18
+                        "x": "1006",
+                        "y": "571",
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -2803,9 +2223,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "440",
-                        "y": "1776",
-                        "size": 18
+                        "x": "592",
+                        "y": "864",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2836,9 +2256,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1862",
-                        "y": "834",
-                        "size": 18
+                        "x": "592",
+                        "y": "948",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2870,9 +2290,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1825",
-                        "y": "535",
-                        "size": 18
+                        "x": "592",
+                        "y": "1116",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2903,9 +2323,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1815",
-                        "y": "300",
-                        "size": 18
+                        "x": "1095",
+                        "y": "780",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2936,9 +2356,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "543",
-                        "y": "2413",
-                        "size": 18
+                        "x": "1095",
+                        "y": "948",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -2969,9 +2389,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "928",
-                        "y": "594",
-                        "size": 18
+                        "x": "1095",
+                        "y": "1116",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -3003,9 +2423,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1105",
-                        "y": "1132",
-                        "size": 18
+                        "x": "1095",
+                        "y": "1284",
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -3034,9 +2454,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1663",
-                        "y": "1788",
-                        "size": 18
+                        "x": "280",
+                        "y": "34",
+                        "size": 36
                     }
                 ]
             },
@@ -3059,9 +2479,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "2107",
-                        "y": "2308",
-                        "size": 18
+                        "x": "280",
+                        "y": "118",
+                        "size": 36
                     }
                 ]
             },
@@ -3084,9 +2504,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1723",
-                        "y": "1548",
-                        "size": 18
+                        "x": "280",
+                        "y": "286",
+                        "size": 36
                     }
                 ]
             },
@@ -3109,9 +2529,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "96",
-                        "y": "1813",
-                        "size": 18
+                        "x": "280",
+                        "y": "622",
+                        "size": 36
                     }
                 ]
             },
@@ -3134,9 +2554,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "2304",
-                        "y": "2148",
-                        "size": 18
+                        "x": "720",
+                        "y": "202",
+                        "size": 36
                     }
                 ]
             },
@@ -3159,9 +2579,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "2297",
-                        "y": "1331",
-                        "size": 18
+                        "x": "720",
+                        "y": "370",
+                        "size": 36
                     }
                 ]
             },
@@ -3184,9 +2604,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "577",
-                        "y": "1103",
-                        "size": 18
+                        "x": "720",
+                        "y": "454",
+                        "size": 36
                     }
                 ]
             },
@@ -3209,9 +2629,9 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "2030",
-                        "y": "1695",
-                        "size": 18
+                        "x": "720",
+                        "y": "538",
+                        "size": 36
                     }
                 ]
             },
@@ -3236,7 +2656,7 @@
                         "map": "Medieval Era",
                         "x": "1212",
                         "y": "329",
-                        "size": 18
+                        "size": 36
                     }
                 ]
             },
@@ -3261,7 +2681,7 @@
                         "map": "Medieval Era",
                         "x": "1620",
                         "y": "2233",
-                        "size": 18
+                        "size": 36
                     }
                 ]
             },
@@ -3286,7 +2706,7 @@
                         "map": "Medieval Era",
                         "x": "2167",
                         "y": "2387",
-                        "size": 18
+                        "size": 36
                     }
                 ]
             },
@@ -3311,7 +2731,7 @@
                         "map": "Medieval Era",
                         "x": "1667",
                         "y": "298",
-                        "size": 18
+                        "size": 36
                     }
                 ]
             },
@@ -3336,7 +2756,7 @@
                         "map": "Medieval Era",
                         "x": "983",
                         "y": "2180",
-                        "size": 18
+                        "size": 36
                     }
                 ]
             },
@@ -3361,7 +2781,7 @@
                         "map": "Medieval Era",
                         "x": "1401",
                         "y": "1080",
-                        "size": 18
+                        "size": 36
                     }
                 ]
             },
@@ -3386,7 +2806,7 @@
                         "map": "Medieval Era",
                         "x": "665",
                         "y": "508",
-                        "size": 18
+                        "size": 36
                     }
                 ]
             },
@@ -3411,7 +2831,7 @@
                         "map": "Medieval Era",
                         "x": "1284",
                         "y": "424",
-                        "size": 18
+                        "size": 100
                     }
                 ]
             }
@@ -3449,7 +2869,7 @@
                         "map": "Renaissance Era",
                         "x": "2130",
                         "y": "324",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3482,7 +2902,7 @@
                         "map": "Renaissance Era",
                         "x": "1144",
                         "y": "1808",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3515,7 +2935,7 @@
                         "map": "Renaissance Era",
                         "x": "1140",
                         "y": "1972",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3548,7 +2968,7 @@
                         "map": "Renaissance Era",
                         "x": "1500",
                         "y": "1181",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3581,7 +3001,7 @@
                         "map": "Renaissance Era",
                         "x": "1617",
                         "y": "1953",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3614,7 +3034,7 @@
                         "map": "Renaissance Era",
                         "x": "1791",
                         "y": "498",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3647,7 +3067,7 @@
                         "map": "Renaissance Era",
                         "x": "1027",
                         "y": "2480",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3680,7 +3100,7 @@
                         "map": "Renaissance Era",
                         "x": "459",
                         "y": "2363",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3713,7 +3133,7 @@
                         "map": "Renaissance Era",
                         "x": "559",
                         "y": "94",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Tech Boosts",
@@ -3746,7 +3166,7 @@
                         "map": "Renaissance Era",
                         "x": "1981",
                         "y": "2431",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Civic Boosts",
@@ -3779,7 +3199,7 @@
                         "map": "Renaissance Era",
                         "x": "334",
                         "y": "295",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Civic Boosts",
@@ -3812,7 +3232,7 @@
                         "map": "Renaissance Era",
                         "x": "558",
                         "y": "193",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Civic Boosts",
@@ -3845,7 +3265,7 @@
                         "map": "Renaissance Era",
                         "x": "558",
                         "y": "1426",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Civic Boosts",
@@ -3878,7 +3298,7 @@
                         "map": "Renaissance Era",
                         "x": "558",
                         "y": "404",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Civic Boosts",
@@ -3913,7 +3333,7 @@
                         "map": "Renaissance Era",
                         "x": "558",
                         "y": "1899",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map":"Civic Boosts",
@@ -3944,7 +3364,7 @@
                         "map": "Renaissance Era",
                         "x": "1862",
                         "y": "2345",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -3969,7 +3389,7 @@
                         "map": "Renaissance Era",
                         "x": "2414",
                         "y": "2030",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -3994,7 +3414,7 @@
                         "map": "Renaissance Era",
                         "x": "1825",
                         "y": "359",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4019,7 +3439,7 @@
                         "map": "Renaissance Era",
                         "x": "1305",
                         "y": "1950",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4044,7 +3464,7 @@
                         "map": "Renaissance Era",
                         "x": "345",
                         "y": "772",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4069,7 +3489,7 @@
                         "map": "Renaissance Era",
                         "x": "49",
                         "y": "2043",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4094,7 +3514,7 @@
                         "map": "Renaissance Era",
                         "x": "276",
                         "y": "183",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4119,7 +3539,7 @@
                         "map": "Renaissance Era",
                         "x": "167",
                         "y": "595",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4144,7 +3564,7 @@
                         "map": "Renaissance Era",
                         "x": "1043",
                         "y": "455",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4169,7 +3589,7 @@
                         "map": "Renaissance Era",
                         "x": "2355",
                         "y": "2471",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4194,7 +3614,7 @@
                         "map": "Renaissance Era",
                         "x": "1427",
                         "y": "2441",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4219,7 +3639,7 @@
                         "map": "Renaissance Era",
                         "x": "1911",
                         "y": "410",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4244,7 +3664,7 @@
                         "map": "Renaissance Era",
                         "x": "1665",
                         "y": "1541",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4269,7 +3689,7 @@
                         "map": "Renaissance Era",
                         "x": "1744",
                         "y": "899",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4294,7 +3714,7 @@
                         "map": "Renaissance Era",
                         "x": "2001",
                         "y": "1905",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4319,7 +3739,7 @@
                         "map": "Renaissance Era",
                         "x": "2185",
                         "y": "260",
-                        "size": 18
+                        "size": 40
                     }
                 ]
             }
@@ -4357,7 +3777,7 @@
                         "map": "Industrial Era",
                         "x": "1027",
                         "y": "1285",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4390,7 +3810,7 @@
                         "map": "Industrial Era",
                         "x": "1205",
                         "y": "100",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4423,7 +3843,7 @@
                         "map": "Industrial Era",
                         "x": "830",
                         "y": "1006",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4456,7 +3876,7 @@
                         "map": "Industrial Era",
                         "x": "698",
                         "y": "2220",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4489,7 +3909,7 @@
                         "map": "Industrial Era",
                         "x": "1078",
                         "y": "924",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4522,7 +3942,7 @@
                         "map": "Industrial Era",
                         "x": "2028",
                         "y": "2033",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4555,7 +3975,7 @@
                         "map": "Industrial Era",
                         "x": "438",
                         "y": "663",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4588,7 +4008,7 @@
                         "map": "Industrial Era",
                         "x": "2488",
                         "y": "185",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -4621,7 +4041,7 @@
                         "map": "Industrial Era",
                         "x": "401",
                         "y": "75",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -4639,7 +4059,14 @@
                 "visibility_rules":[],
 
                 "access_rules": [
-                    "[industrial Era], celestial navigation, currency, writing, bronze working, apprenticeship, flight, games and recreation, drama poetry"
+                    "district:7",
+                    "[district:7], district:6, districtool:1",
+                    "[district:7], district:5, districtool:2",
+                    "[district:7], district:4, districtool:3",
+                    "[district:7], district:3, districtool:4",
+                    "[district:7], district:2, districtool:5",
+                    "[district:7], district:1, districtool:6",
+                    "[district:7], districtool:7"
                 ],
                 "sections": [
                     {
@@ -4654,7 +4081,7 @@
                         "map": "Industrial Era",
                         "x": "1289",
                         "y": "1127",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -4690,7 +4117,7 @@
                         "map": "Industrial Era",
                         "x": "1123",
                         "y": "2352",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -4723,7 +4150,7 @@
                         "map": "Industrial Era",
                         "x": "2363",
                         "y": "614",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -4756,7 +4183,7 @@
                         "map": "Industrial Era",
                         "x": "1404",
                         "y": "118",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -4789,7 +4216,7 @@
                         "map": "Industrial Era",
                         "x": "884",
                         "y": "768",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -4822,7 +4249,7 @@
                         "map": "Industrial Era",
                         "x": "1042",
                         "y": "592",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -4853,7 +4280,7 @@
                         "map": "Industrial Era",
                         "x": "976",
                         "y": "2405",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4878,7 +4305,7 @@
                         "map": "Industrial Era",
                         "x": "318",
                         "y": "323",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4903,7 +4330,7 @@
                         "map": "Industrial Era",
                         "x": "449",
                         "y": "342",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4928,7 +4355,7 @@
                         "map": "Industrial Era",
                         "x": "2276",
                         "y": "879",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4953,7 +4380,7 @@
                         "map": "Industrial Era",
                         "x": "2331",
                         "y": "2193",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -4978,7 +4405,7 @@
                         "map": "Industrial Era",
                         "x": "2308",
                         "y": "2092",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5003,7 +4430,7 @@
                         "map": "Industrial Era",
                         "x": "396",
                         "y": "2330",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5028,7 +4455,7 @@
                         "map": "Industrial Era",
                         "x": "1887",
                         "y": "2387",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5053,7 +4480,7 @@
                         "map": "Industrial Era",
                         "x": "1064",
                         "y": "2052",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5078,7 +4505,7 @@
                         "map": "Industrial Era",
                         "x": "1978",
                         "y": "1428",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5103,7 +4530,7 @@
                         "map": "Industrial Era",
                         "x": "1255",
                         "y": "2390",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5128,7 +4555,7 @@
                         "map": "Industrial Era",
                         "x": "133",
                         "y": "977",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5153,7 +4580,7 @@
                         "map": "Industrial Era",
                         "x": "1712",
                         "y": "1028",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5178,7 +4605,7 @@
                         "map": "Industrial Era",
                         "x": "1354",
                         "y": "2320",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5203,7 +4630,7 @@
                         "map": "Industrial Era",
                         "x": "977",
                         "y": "2097",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5228,7 +4655,7 @@
                         "map": "Industrial Era",
                         "x": "20",
                         "y": "500",
-                        "size": 18
+                        "size": 40
                     }
                 ]
             }
@@ -5266,7 +4693,7 @@
                         "map": "Modern Era",
                         "x": "798",
                         "y": "2117",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5299,7 +4726,7 @@
                         "map": "Modern Era",
                         "x": "718",
                         "y": "1932",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5332,7 +4759,7 @@
                         "map": "Modern Era",
                         "x": "2368",
                         "y": "1033",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5365,7 +4792,7 @@
                         "map": "Modern Era",
                         "x": "970",
                         "y": "995",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5398,7 +4825,7 @@
                         "map": "Modern Era",
                         "x": "2297",
                         "y": "1464",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5431,7 +4858,7 @@
                         "map": "Modern Era",
                         "x": "1424",
                         "y": "2000",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5464,7 +4891,7 @@
                         "map": "Modern Era",
                         "x": "743",
                         "y": "1921",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5497,7 +4924,7 @@
                         "map": "Modern Era",
                         "x": "1530",
                         "y": "2407",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -5530,7 +4957,7 @@
                         "map": "Modern Era",
                         "x": "2396",
                         "y": "23",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5563,7 +4990,7 @@
                         "map": "Modern Era",
                         "x": "1957",
                         "y": "1758",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5596,7 +5023,7 @@
                         "map": "Modern Era",
                         "x": "1755",
                         "y": "1571",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5629,7 +5056,7 @@
                         "map": "Modern Era",
                         "x": "409",
                         "y": "1945",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5662,7 +5089,7 @@
                         "map": "Modern Era",
                         "x": "2200",
                         "y": "1713",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5695,7 +5122,7 @@
                         "map": "Modern Era",
                         "x": "2480",
                         "y": "1447",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5728,7 +5155,7 @@
                         "map": "Modern Era",
                         "x": "558",
                         "y": "1236",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5761,7 +5188,7 @@
                         "map": "Modern Era",
                         "x": "558",
                         "y": "1387",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -5792,7 +5219,7 @@
                         "map": "Modern Era",
                         "x": "1616",
                         "y": "1887",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5817,7 +5244,7 @@
                         "map": "Modern Era",
                         "x": "509",
                         "y": "325",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5842,7 +5269,7 @@
                         "map": "Modern Era",
                         "x": "1007",
                         "y": "528",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5867,7 +5294,7 @@
                         "map": "Modern Era",
                         "x": "1640",
                         "y": "1382",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5892,7 +5319,7 @@
                         "map": "Modern Era",
                         "x": "329",
                         "y": "154",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5917,7 +5344,7 @@
                         "map": "Modern Era",
                         "x": "1946",
                         "y": "697",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5942,7 +5369,7 @@
                         "map": "Modern Era",
                         "x": "731",
                         "y": "2367",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5967,7 +5394,7 @@
                         "map": "Modern Era",
                         "x": "582",
                         "y": "1339",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -5992,7 +5419,7 @@
                         "map": "Modern Era",
                         "x": "1897",
                         "y": "60",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6017,7 +5444,7 @@
                         "map": "Modern Era",
                         "x": "621",
                         "y": "847",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6042,7 +5469,7 @@
                         "map": "Modern Era",
                         "x": "830",
                         "y": "1320",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6067,7 +5494,7 @@
                         "map": "Modern Era",
                         "x": "1329",
                         "y": "561",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6092,7 +5519,7 @@
                         "map": "Modern Era",
                         "x": "1549",
                         "y": "137",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6117,7 +5544,7 @@
                         "map": "Modern Era",
                         "x": "1305",
                         "y": "135",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6142,7 +5569,7 @@
                         "map": "Modern Era",
                         "x": "763",
                         "y": "155",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6167,7 +5594,7 @@
                         "map": "Modern Era",
                         "x": "1590",
                         "y": "809",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6192,7 +5619,7 @@
                         "map": "Modern Era",
                         "x": "260",
                         "y": "2432",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6217,7 +5644,7 @@
                         "map": "Modern Era",
                         "x": "1058",
                         "y": "1049",
-                        "size": 18
+                        "size": 40
                     }
                 ]
             }
@@ -6255,7 +5682,7 @@
                         "map": "Atomic Era",
                         "x": "1988",
                         "y": "647",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6288,7 +5715,7 @@
                         "map": "Atomic Era",
                         "x": "1560",
                         "y": "1687",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6321,7 +5748,7 @@
                         "map": "Atomic Era",
                         "x": "897",
                         "y": "1393",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6354,7 +5781,7 @@
                         "map": "Atomic Era",
                         "x": "1259",
                         "y": "338",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6387,7 +5814,7 @@
                         "map": "Atomic Era",
                         "x": "2214",
                         "y": "169",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6420,7 +5847,7 @@
                         "map": "Atomic Era",
                         "x": "1985",
                         "y": "567",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6453,7 +5880,7 @@
                         "map": "Atomic Era",
                         "x": "1017",
                         "y": "852",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6486,7 +5913,7 @@
                         "map": "Atomic Era",
                         "x": "738",
                         "y": "479",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -6519,7 +5946,7 @@
                         "map": "Atomic Era",
                         "x": "1878",
                         "y": "1420",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -6552,7 +5979,7 @@
                         "map": "Atomic Era",
                         "x": "2444",
                         "y": "153",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -6585,7 +6012,7 @@
                         "map": "Atomic Era",
                         "x": "492",
                         "y": "2031",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -6618,7 +6045,7 @@
                         "map": "Atomic Era",
                         "x": "412",
                         "y": "2312",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -6651,7 +6078,7 @@
                         "map": "Atomic Era",
                         "x": "983",
                         "y": "1934",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -6682,7 +6109,7 @@
                         "map": "Atomic Era",
                         "x": "422",
                         "y": "1456",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6707,7 +6134,7 @@
                         "map": "Atomic Era",
                         "x": "975",
                         "y": "2172",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6732,7 +6159,7 @@
                         "map": "Atomic Era",
                         "x": "2146",
                         "y": "894",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6757,7 +6184,7 @@
                         "map": "Atomic Era",
                         "x": "1953",
                         "y": "2458",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6782,7 +6209,7 @@
                         "map": "Atomic Era",
                         "x": "446",
                         "y": "130",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6807,7 +6234,7 @@
                         "map": "Atomic Era",
                         "x": "1991",
                         "y": "2485",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6832,7 +6259,7 @@
                         "map": "Atomic Era",
                         "x": "2298",
                         "y": "1671",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6857,7 +6284,7 @@
                         "map": "Atomic Era",
                         "x": "2474",
                         "y": "1375",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6882,7 +6309,7 @@
                         "map": "Atomic Era",
                         "x": "2119",
                         "y": "1481",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6907,7 +6334,7 @@
                         "map": "Atomic Era",
                         "x": "1732",
                         "y": "1804",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6932,7 +6359,7 @@
                         "map": "Atomic Era",
                         "x": "2399",
                         "y": "259",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6957,7 +6384,7 @@
                         "map": "Atomic Era",
                         "x": "1773",
                         "y": "399",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -6982,7 +6409,7 @@
                         "map": "Atomic Era",
                         "x": "2469",
                         "y": "2340",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7007,7 +6434,7 @@
                         "map": "Atomic Era",
                         "x": "2050",
                         "y": "877",
-                        "size": 18
+                        "size": 40
                     }
                 ]
             }
@@ -7045,7 +6472,7 @@
                         "map": "Information Era",
                         "x": "2340",
                         "y": "1254",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7078,7 +6505,7 @@
                         "map": "Information Era",
                         "x": "1945",
                         "y": "1576",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7111,7 +6538,7 @@
                         "map": "Information Era",
                         "x": "1461",
                         "y": "1871",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7144,7 +6571,7 @@
                         "map": "Information Era",
                         "x": "1552",
                         "y": "566",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7177,7 +6604,7 @@
                         "map": "Information Era",
                         "x": "2082",
                         "y": "2192",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7210,7 +6637,7 @@
                         "map": "Information Era",
                         "x": "1044",
                         "y": "617",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7243,7 +6670,7 @@
                         "map": "Information Era",
                         "x": "223",
                         "y": "343",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7276,7 +6703,7 @@
                         "map": "Information Era",
                         "x": "851",
                         "y": "2091",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7309,7 +6736,7 @@
                         "map": "Information Era",
                         "x": "1379",
                         "y": "1811",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7342,7 +6769,7 @@
                         "map": "Information Era",
                         "x": "997",
                         "y": "700",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -7375,7 +6802,7 @@
                         "map": "Information Era",
                         "x": "1387",
                         "y": "1269",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -7408,7 +6835,7 @@
                         "map": "Information Era",
                         "x": "2065",
                         "y": "2342",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
@@ -7439,7 +6866,7 @@
                         "map": "Information Era",
                         "x": "2433",
                         "y": "141",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7464,7 +6891,7 @@
                         "map": "Information Era",
                         "x": "962",
                         "y": "120",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7489,7 +6916,7 @@
                         "map": "Information Era",
                         "x": "1150",
                         "y": "378",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7514,7 +6941,7 @@
                         "map": "Information Era",
                         "x": "644",
                         "y": "1912",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7539,7 +6966,7 @@
                         "map": "Information Era",
                         "x": "1567",
                         "y": "1746",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7564,7 +6991,7 @@
                         "map": "Information Era",
                         "x": "2266",
                         "y": "1810",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7589,7 +7016,7 @@
                         "map": "Information Era",
                         "x": "1455",
                         "y": "415",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7614,7 +7041,7 @@
                         "map": "Information Era",
                         "x": "272",
                         "y": "460",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7639,7 +7066,7 @@
                         "map": "Information Era",
                         "x": "1158",
                         "y": "769",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7664,7 +7091,7 @@
                         "map": "Information Era",
                         "x": "257",
                         "y": "226",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7689,7 +7116,7 @@
                         "map": "Information Era",
                         "x": "1879",
                         "y": "989",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7714,7 +7141,7 @@
                         "map": "Information Era",
                         "x": "954",
                         "y": "1525",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7739,7 +7166,7 @@
                         "map": "Information Era",
                         "x": "1250",
                         "y": "2063",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7764,7 +7191,7 @@
                         "map": "Information Era",
                         "x": "767",
                         "y": "2115",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7789,7 +7216,7 @@
                         "map": "Information Era",
                         "x": "14",
                         "y": "1349",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7814,7 +7241,7 @@
                         "map": "Information Era",
                         "x": "1713",
                         "y": "954",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -7839,7 +7266,7 @@
                         "map": "Information Era",
                         "x": "20",
                         "y": "500",
-                        "size": 18
+                        "size": 40
                     }
                 ]
             }
@@ -7877,7 +7304,7 @@
                         "map": "Future Era",
                         "x": "992",
                         "y": "900",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7910,7 +7337,7 @@
                         "map": "Future Era",
                         "x": "1164",
                         "y": "1004",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7943,7 +7370,7 @@
                         "map": "Future Era",
                         "x": "895",
                         "y": "1380",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -7976,7 +7403,7 @@
                         "map": "Future Era",
                         "x": "2387",
                         "y": "1569",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -8009,7 +7436,7 @@
                         "map": "Future Era",
                         "x": "777",
                         "y": "1511",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -8042,7 +7469,7 @@
                         "map": "Future Era",
                         "x": "823",
                         "y": "1831",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -8075,7 +7502,7 @@
                         "map": "Future Era",
                         "x": "1570",
                         "y": "79",
-                        "size": 18
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
@@ -8106,7 +7533,7 @@
                         "map": "Future Era",
                         "x": "2195",
                         "y": "159",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8131,7 +7558,7 @@
                         "map": "Future Era",
                         "x": "279",
                         "y": "1405",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8156,7 +7583,7 @@
                         "map": "Future Era",
                         "x": "2254",
                         "y": "382",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8181,7 +7608,7 @@
                         "map": "Future Era",
                         "x": "524",
                         "y": "594",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8206,7 +7633,7 @@
                         "map": "Future Era",
                         "x": "1910",
                         "y": "572",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8231,7 +7658,7 @@
                         "map": "Future Era",
                         "x": "2366",
                         "y": "735",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8256,7 +7683,7 @@
                         "map": "Future Era",
                         "x": "588",
                         "y": "441",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8281,7 +7708,7 @@
                         "map": "Future Era",
                         "x": "1733",
                         "y": "66",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8306,7 +7733,7 @@
                         "map": "Future Era",
                         "x": "152",
                         "y": "1901",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8331,7 +7758,7 @@
                         "map": "Future Era",
                         "x": "1173",
                         "y": "366",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8356,7 +7783,7 @@
                         "map": "Future Era",
                         "x": "1621",
                         "y": "472",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8381,7 +7808,7 @@
                         "map": "Future Era",
                         "x": "157",
                         "y": "1041",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8406,7 +7833,7 @@
                         "map": "Future Era",
                         "x": "674",
                         "y": "138",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8431,7 +7858,7 @@
                         "map": "Future Era",
                         "x": "1818",
                         "y": "321",
-                        "size": 18
+                        "size": 28
                     }
                 ]
             },
@@ -8456,1306 +7883,12 @@
                         "map": "Future Era",
                         "x": "20",
                         "y": "500",
-                        "size": 18
+                        "size": 40
                     }
                 ]
             }
         ]
     }
     ]
-},
-    {
-        "name": "Overworld",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
-        "children": [
-            {
-                "name": "Ancient Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Pottery",
-                        "ref": "Ancient Era/Pottery/"
-                    },
-                    {
-                        "name": "Animal Husbandry",
-                        "ref": "Ancient Era/Animal Husbandry/"
-                    },
-                    {
-                        "name": "Mining",
-                        "ref": "Ancient Era/Mining/"
-                    },
-                    {
-                        "name": "Sailing",
-                        "ref": "Ancient Era/Sailing/"
-                    },
-                    {
-                        "name": "Astrology",
-                        "ref": "Ancient Era/Astrology/"
-                    },
-                    {
-                        "name": "Irigation",
-                        "ref": "Ancient Era/Irigation/"
-                    },
-                    {
-                        "name": "Writing",
-                        "ref": "Ancient Era/Writing/"
-                    },
-                    {
-                        "name": "Archery",
-                        "ref": "Ancient Era/Archery/"
-                    },
-                    {
-                        "name": "Masonry",
-                        "ref": "Ancient Era/Masonry/"
-                    },
-                    {
-                        "name": "Bronze Working",
-                        "ref": "Ancient Era/Bronze Working/"
-                    },
-                    {
-                        "name": "Wheel",
-                        "ref": "Ancient Era/Wheel/"
-                    },
-                    {
-                        "name": "Code Of Laws",
-                        "ref": "Ancient Era/Code Of Laws/"
-                    },
-                    {
-                        "name": "Craftmanship",
-                        "ref": "Ancient Era/Craftmanship/"
-                    },
-                    {
-                        "name": "Foreign Trade",
-                        "ref": "Ancient Era/Foreign Trade/"
-                    },
-                    {
-                        "name": "Military Tradition",
-                        "ref": "Ancient Era/Military Tradition/"
-                    },
-                    {
-                        "name": "State Workforce",
-                        "ref": "Ancient Era/State Workforce/"
-                    },
-                    {
-                        "name": "Early Empire",
-                        "ref": "Ancient Era/Early Empire/"
-                    },
-                    {
-                        "name": "Mysticism",
-                        "ref": "Ancient Era/Mysticism/"
-                    },
-                    {
-                        "name": "Goody Huts1",
-                        "ref": "Ancient Era/Goody Huts/1"
-                    },
-                    {
-                        "name": "Goody Huts2",
-                        "ref": "Ancient Era/Goody Huts/2"
-                    },
-                    {
-                        "name": "Goody Huts3",
-                        "ref": "Ancient Era/Goody Huts/3"
-                    },
-                    {
-                        "name": "Goody Huts4",
-                        "ref": "Ancient Era/Goody Huts/4"
-                    },
-                    {
-                        "name": "Goody Huts5",
-                        "ref": "Ancient Era/Goody Huts/5"
-                    },
-                    {
-                        "name": "Goody Huts6",
-                        "ref": "Ancient Era/Goody Huts/6"
-                    },
-                    {
-                        "name": "Goody Huts7",
-                        "ref": "Ancient Era/Goody Huts/7"
-                    },
-                    {
-                        "name": "Goody Huts8",
-                        "ref": "Ancient Era/Goody Huts/8"
-                    },
-                    {
-                        "name": "Goody Huts9",
-                        "ref": "Ancient Era/Goody Huts/9"
-                    },
-                    {
-                        "name": "Goody Huts10",
-                        "ref": "Ancient Era/Goody Huts/10"
-                    },
-                    {
-                        "name": "BOOST SAILING",
-                        "ref": "Ancient Era/BOOST SAILING/"
-                    },
-                    {
-                        "name": "BOOST ASTROLOGY",
-                        "ref": "Ancient Era/BOOST ASTROLOGY/"
-                    },
-                    {
-                        "name": "BOOST IRRIGATION",
-                        "ref": "Ancient Era/BOOST IRRIGATION/"
-                    },
-                    {
-                        "name": "BOOST ARCHERY",
-                        "ref": "Ancient Era/BOOST ARCHERY/"
-                    },
-                    {
-                        "name": "BOOST WRITING",
-                        "ref": "Ancient Era/BOOST WRITING/"
-                    },
-                    {
-                        "name": "BOOST MASONRY",
-                        "ref": "Ancient Era/BOOST MASONRY/"
-                    },
-                    {
-                        "name": "BOOST BRONZE_WORKING",
-                        "ref": "Ancient Era/BOOST BRONZE_WORKING/"
-                    },
-                    {
-                        "name": "BOOST THE_WHEEL",
-                        "ref": "Ancient Era/BOOST THE_WHEEL/"
-                    },
-                    {
-                        "name": "BOOST CRAFTSMANSHIP",
-                        "ref": "Ancient Era/BOOST CRAFTSMANSHIP/"
-                    },
-                    {
-                        "name": "BOOST FOREIGN_TRADE",
-                        "ref": "Ancient Era/BOOST FOREIGN_TRADE/"
-                    },
-                    {
-                        "name": "BOOST MILITARY_TRADITION",
-                        "ref": "Ancient Era/BOOST MILITARY_TRADITION/"
-                    },
-                    {
-                        "name": "BOOST STATE_WORKFORCE",
-                        "ref": "Ancient Era/BOOST STATE_WORKFORCE/"
-                    },
-                    {
-                        "name": "BOOST EARLY_EMPIRE",
-                        "ref": "Ancient Era/BOOST EARLY_EMPIRE/"
-                    },
-                    {
-                        "name": "BOOST MYSTICISM",
-                        "ref": "Ancient Era/BOOST MYSTICISM/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "833",
-                        "y": "1936",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Atomic Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST ADVANCED_FLIGHT",
-                        "ref": "Atomic Era/BOOST ADVANCED_FLIGHT/"
-                    },
-                    {
-                        "name": "BOOST ROCKETRY",
-                        "ref": "Atomic Era/BOOST ROCKETRY/"
-                    },
-                    {
-                        "name": "BOOST ADVANCED_BALLISTICS",
-                        "ref": "Atomic Era/BOOST ADVANCED_BALLISTICS/"
-                    },
-                    {
-                        "name": "BOOST COMBINED_ARMS",
-                        "ref": "Atomic Era/BOOST COMBINED_ARMS/"
-                    },
-                    {
-                        "name": "BOOST PLASTICS",
-                        "ref": "Atomic Era/BOOST PLASTICS/"
-                    },
-                    {
-                        "name": "BOOST COMPUTERS",
-                        "ref": "Atomic Era/BOOST COMPUTERS/"
-                    },
-                    {
-                        "name": "BOOST NUCLEAR_FISSION",
-                        "ref": "Atomic Era/BOOST NUCLEAR_FISSION/"
-                    },
-                    {
-                        "name": "BOOST SYNTHETIC_MATERIALS",
-                        "ref": "Atomic Era/BOOST SYNTHETIC_MATERIALS/"
-                    },
-                    {
-                        "name": "BOOST COLD_WAR",
-                        "ref": "Atomic Era/BOOST COLD_WAR/"
-                    },
-                    {
-                        "name": "BOOST PROFESSIONAL_SPORTS",
-                        "ref": "Atomic Era/BOOST PROFESSIONAL_SPORTS/"
-                    },
-                    {
-                        "name": "BOOST CULTURAL_HERITAGE",
-                        "ref": "Atomic Era/BOOST CULTURAL_HERITAGE/"
-                    },
-                    {
-                        "name": "BOOST RAPID_DEPLOYMENT",
-                        "ref": "Atomic Era/BOOST RAPID_DEPLOYMENT/"
-                    },
-                    {
-                        "name": "BOOST SPACE_RACE",
-                        "ref": "Atomic Era/BOOST SPACE_RACE/"
-                    },
-                    {
-                        "name": "Advanced Flight",
-                        "ref": "Atomic Era/Advanced Flight/"
-                    },
-                    {
-                        "name": "Rocketry",
-                        "ref": "Atomic Era/Rocketry/"
-                    },
-                    {
-                        "name": "Advanced Ballistics",
-                        "ref": "Atomic Era/Advanced Ballistics/"
-                    },
-                    {
-                        "name": "Combined Arms",
-                        "ref": "Atomic Era/Combined Arms/"
-                    },
-                    {
-                        "name": "Plastics",
-                        "ref": "Atomic Era/Plastics/"
-                    },
-                    {
-                        "name": "Computers",
-                        "ref": "Atomic Era/Computers/"
-                    },
-                    {
-                        "name": "Nuclear Fission",
-                        "ref": "Atomic Era/Nuclear Fission/"
-                    },
-                    {
-                        "name": "Synthetic Materials",
-                        "ref": "Atomic Era/Synthetic Materials/"
-                    },
-                    {
-                        "name": "Cultural Heritage",
-                        "ref": "Atomic Era/Cultural Heritage/"
-                    },
-                    {
-                        "name": "Cold War",
-                        "ref": "Atomic Era/Cold War/"
-                    },
-                    {
-                        "name": "Professional Sports",
-                        "ref": "Atomic Era/Professional Sports/"
-                    },
-                    {
-                        "name": "Rapid Deployment",
-                        "ref": "Atomic Era/Rapid Deployment/"
-                    },
-                    {
-                        "name": "Space Race",
-                        "ref": "Atomic Era/Space Race/"
-                    },
-                    {
-                        "name": "Atomic Era",
-                        "ref": "Atomic Era/Atomic Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "1771",
-                        "y": "1695",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Classical Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST CELESTIAL_NAVIGATION",
-                        "ref": "Classical Era/BOOST CELESTIAL_NAVIGATION/"
-                    },
-                    {
-                        "name": "BOOST CURRENCY",
-                        "ref": "Classical Era/BOOST CURRENCY/"
-                    },
-                    {
-                        "name": "BOOST HORSEBACK_RIDING",
-                        "ref": "Classical Era/BOOST HORSEBACK_RIDING/"
-                    },
-                    {
-                        "name": "BOOST IRON_WORKING",
-                        "ref": "Classical Era/BOOST IRON_WORKING/"
-                    },
-                    {
-                        "name": "BOOST SHIPBUILDING",
-                        "ref": "Classical Era/BOOST SHIPBUILDING/"
-                    },
-                    {
-                        "name": "BOOST MATHEMATICS",
-                        "ref": "Classical Era/BOOST MATHEMATICS/"
-                    },
-                    {
-                        "name": "BOOST CONSTRUCTION",
-                        "ref": "Classical Era/BOOST CONSTRUCTION/"
-                    },
-                    {
-                        "name": "BOOST ENGINEERING",
-                        "ref": "Classical Era/BOOST ENGINEERING/"
-                    },
-                    {
-                        "name": "BOOST GAMES_RECREATION",
-                        "ref": "Classical Era/BOOST GAMES_RECREATION/"
-                    },
-                    {
-                        "name": "BOOST POLITICAL_PHILOSOPHY",
-                        "ref": "Classical Era/BOOST POLITICAL_PHILOSOPHY/"
-                    },
-                    {
-                        "name": "BOOST DRAMA_POETRY",
-                        "ref": "Classical Era/BOOST DRAMA_POETRY/"
-                    },
-                    {
-                        "name": "BOOST MILITARY_TRAINING",
-                        "ref": "Classical Era/BOOST MILITARY_TRAINING/"
-                    },
-                    {
-                        "name": "BOOST DEFENSIVE_TACTICS",
-                        "ref": "Classical Era/BOOST DEFENSIVE_TACTICS/"
-                    },
-                    {
-                        "name": "BOOST RECORDED_HISTORY",
-                        "ref": "Classical Era/BOOST RECORDED_HISTORY/"
-                    },
-                    {
-                        "name": "BOOST THEOLOGY",
-                        "ref": "Classical Era/BOOST THEOLOGY/"
-                    },
-                    {
-                        "name": "Celestial Navigation",
-                        "ref": "Classical Era/Celestial Navigation/"
-                    },
-                    {
-                        "name": "Currency",
-                        "ref": "Classical Era/Currency/"
-                    },
-                    {
-                        "name": "Horseback Riding",
-                        "ref": "Classical Era/Horseback Riding/"
-                    },
-                    {
-                        "name": "Iron Working",
-                        "ref": "Classical Era/Iron Working/"
-                    },
-                    {
-                        "name": "Shipbuilding",
-                        "ref": "Classical Era/Shipbuilding/"
-                    },
-                    {
-                        "name": "Mathematics",
-                        "ref": "Classical Era/Mathematics/"
-                    },
-                    {
-                        "name": "Construction",
-                        "ref": "Classical Era/Construction/"
-                    },
-                    {
-                        "name": "Engineering",
-                        "ref": "Classical Era/Engineering/"
-                    },
-                    {
-                        "name": "Games And Recreation",
-                        "ref": "Classical Era/Games And Recreation/"
-                    },
-                    {
-                        "name": "Political Philosophy",
-                        "ref": "Classical Era/Political Philosophy/"
-                    },
-                    {
-                        "name": "Drama And Poetry",
-                        "ref": "Classical Era/Drama And Poetry/"
-                    },
-                    {
-                        "name": "Military Training",
-                        "ref": "Classical Era/Military Training/"
-                    },
-                    {
-                        "name": "Defensive Tactics",
-                        "ref": "Classical Era/Defensive Tactics/"
-                    },
-                    {
-                        "name": "Recorded History",
-                        "ref": "Classical Era/Recorded History/"
-                    },
-                    {
-                        "name": "Theology",
-                        "ref": "Classical Era/Theology/"
-                    },
-                    {
-                        "name": "Classical Era",
-                        "ref": "Classical Era/Classical Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "2368",
-                        "y": "45",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Future Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST NUCLEAR_FUSION",
-                        "ref": "Future Era/BOOST NUCLEAR_FUSION/"
-                    },
-                    {
-                        "name": "BOOST BUTTRESS",
-                        "ref": "Future Era/BOOST BUTTRESS/"
-                    },
-                    {
-                        "name": "BOOST REFINING",
-                        "ref": "Future Era/BOOST REFINING/"
-                    },
-                    {
-                        "name": "BOOST SEASTEADS",
-                        "ref": "Future Era/BOOST SEASTEADS/"
-                    },
-                    {
-                        "name": "BOOST ADVANCED_AI",
-                        "ref": "Future Era/BOOST ADVANCED_AI/"
-                    },
-                    {
-                        "name": "BOOST ADVANCED_POWER_CELLS",
-                        "ref": "Future Era/BOOST ADVANCED_POWER_CELLS/"
-                    },
-                    {
-                        "name": "BOOST CYBERNETICS",
-                        "ref": "Future Era/BOOST CYBERNETICS/"
-                    },
-                    {
-                        "name": "BOOST SMART_MATERIALS",
-                        "ref": "Future Era/BOOST SMART_MATERIALS/"
-                    },
-                    {
-                        "name": "BOOST PREDICTIVE_SYSTEMS",
-                        "ref": "Future Era/BOOST PREDICTIVE_SYSTEMS/"
-                    },
-                    {
-                        "name": "BOOST OFFWORLD_MISSION",
-                        "ref": "Future Era/BOOST OFFWORLD_MISSION/"
-                    },
-                    {
-                        "name": "Seasteads",
-                        "ref": "Future Era/Seasteads/"
-                    },
-                    {
-                        "name": "Advanced AI",
-                        "ref": "Future Era/Advanced AI/"
-                    },
-                    {
-                        "name": "Advanced Power Cells",
-                        "ref": "Future Era/Advanced Power Cells/"
-                    },
-                    {
-                        "name": "Offworld Mission",
-                        "ref": "Future Era/Offworld Mission/"
-                    },
-                    {
-                        "name": "Smart Materials",
-                        "ref": "Future Era/Smart Materials/"
-                    },
-                    {
-                        "name": "Predictive Systems",
-                        "ref": "Future Era/Predictive Systems/"
-                    },
-                    {
-                        "name": "Future Tech",
-                        "ref": "Future Era/Future Tech/"
-                    },
-                    {
-                        "name": "Cybernetics",
-                        "ref": "Future Era/Cybernetics/"
-                    },
-                    {
-                        "name": "Smart Power Doctrine",
-                        "ref": "Future Era/Smart Power Doctrine/"
-                    },
-                    {
-                        "name": "Global Warming Mitigation",
-                        "ref": "Future Era/Global Warming Mitigation/"
-                    },
-                    {
-                        "name": "Future Civic",
-                        "ref": "Future Era/Future Civic/"
-                    },
-                    {
-                        "name": "Information Warfare",
-                        "ref": "Future Era/Information Warfare/"
-                    },
-                    {
-                        "name": "Exodus Imperative",
-                        "ref": "Future Era/Exodus Imperative/"
-                    },
-                    {
-                        "name": "Cultural Hegemony",
-                        "ref": "Future Era/Cultural Hegemony/"
-                    },
-                    {
-                        "name": "Future Era",
-                        "ref": "Future Era/Future Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "2435",
-                        "y": "1298",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Industrial Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST INDUSTRIALIZATION",
-                        "ref": "Industrial Era/BOOST INDUSTRIALIZATION/"
-                    },
-                    {
-                        "name": "BOOST SCIENTIFIC_THEORY",
-                        "ref": "Industrial Era/BOOST SCIENTIFIC_THEORY/"
-                    },
-                    {
-                        "name": "BOOST BALLISTICS",
-                        "ref": "Industrial Era/BOOST BALLISTICS/"
-                    },
-                    {
-                        "name": "BOOST MILITARY_SCIENCE",
-                        "ref": "Industrial Era/BOOST MILITARY_SCIENCE/"
-                    },
-                    {
-                        "name": "BOOST STEAM_POWER",
-                        "ref": "Industrial Era/BOOST STEAM_POWER/"
-                    },
-                    {
-                        "name": "BOOST SANITATION",
-                        "ref": "Industrial Era/BOOST SANITATION/"
-                    },
-                    {
-                        "name": "BOOST ECONOMICS",
-                        "ref": "Industrial Era/BOOST ECONOMICS/"
-                    },
-                    {
-                        "name": "BOOST RIFLING",
-                        "ref": "Industrial Era/BOOST RIFLING/"
-                    },
-                    {
-                        "name": "BOOST COLONIALISM",
-                        "ref": "Industrial Era/BOOST COLONIALISM/"
-                    },
-                    {
-                        "name": "BOOST CIVIL_ENGINEERING",
-                        "ref": "Industrial Era/BOOST CIVIL_ENGINEERING/"
-                    },
-                    {
-                        "name": "BOOST NATIONALISM",
-                        "ref": "Industrial Era/BOOST NATIONALISM/"
-                    },
-                    {
-                        "name": "BOOST OPERA_BALLET",
-                        "ref": "Industrial Era/BOOST OPERA_BALLET/"
-                    },
-                    {
-                        "name": "BOOST NATURAL_HISTORY",
-                        "ref": "Industrial Era/BOOST NATURAL_HISTORY/"
-                    },
-                    {
-                        "name": "BOOST SCORCHED_EARTH",
-                        "ref": "Industrial Era/BOOST SCORCHED_EARTH/"
-                    },
-                    {
-                        "name": "BOOST URBANIZATION",
-                        "ref": "Industrial Era/BOOST URBANIZATION/"
-                    },
-                    {
-                        "name": "Industrialization",
-                        "ref": "Industrial Era/Industrialization/"
-                    },
-                    {
-                        "name": "Scientific Theory",
-                        "ref": "Industrial Era/Scientific Theory/"
-                    },
-                    {
-                        "name": "Ballistics",
-                        "ref": "Industrial Era/Ballistics/"
-                    },
-                    {
-                        "name": "Military Science",
-                        "ref": "Industrial Era/Military Science/"
-                    },
-                    {
-                        "name": "Steam Power",
-                        "ref": "Industrial Era/Steam Power/"
-                    },
-                    {
-                        "name": "Sanitation",
-                        "ref": "Industrial Era/Sanitation/"
-                    },
-                    {
-                        "name": "Economics",
-                        "ref": "Industrial Era/Economics/"
-                    },
-                    {
-                        "name": "Rifling",
-                        "ref": "Industrial Era/Rifling/"
-                    },
-                    {
-                        "name": "Colonialism",
-                        "ref": "Industrial Era/Colonialism/"
-                    },
-                    {
-                        "name": "Civil Engineering",
-                        "ref": "Industrial Era/Civil Engineering/"
-                    },
-                    {
-                        "name": "Nationalism",
-                        "ref": "Industrial Era/Nationalism/"
-                    },
-                    {
-                        "name": "Opera And Ballet",
-                        "ref": "Industrial Era/Opera And Ballet/"
-                    },
-                    {
-                        "name": "Natural History",
-                        "ref": "Industrial Era/Natural History/"
-                    },
-                    {
-                        "name": "Urbanization",
-                        "ref": "Industrial Era/Urbanization/"
-                    },
-                    {
-                        "name": "Scorched Earth",
-                        "ref": "Industrial Era/Scorched Earth/"
-                    },
-                    {
-                        "name": "Industrial Era",
-                        "ref": "Industrial Era/Industrial Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "347",
-                        "y": "964",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Information Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST TELECOMMUNICATIONS",
-                        "ref": "Information Era/BOOST TELECOMMUNICATIONS/"
-                    },
-                    {
-                        "name": "BOOST SATELLITES",
-                        "ref": "Information Era/BOOST SATELLITES/"
-                    },
-                    {
-                        "name": "BOOST GUIDANCE_SYSTEMS",
-                        "ref": "Information Era/BOOST GUIDANCE_SYSTEMS/"
-                    },
-                    {
-                        "name": "BOOST LASERS",
-                        "ref": "Information Era/BOOST LASERS/"
-                    },
-                    {
-                        "name": "BOOST COMPOSITES",
-                        "ref": "Information Era/BOOST COMPOSITES/"
-                    },
-                    {
-                        "name": "BOOST STEALTH_TECHNOLOGY",
-                        "ref": "Information Era/BOOST STEALTH_TECHNOLOGY/"
-                    },
-                    {
-                        "name": "BOOST ROBOTICS",
-                        "ref": "Information Era/BOOST ROBOTICS/"
-                    },
-                    {
-                        "name": "BOOST NANOTECHNOLOGY",
-                        "ref": "Information Era/BOOST NANOTECHNOLOGY/"
-                    },
-                    {
-                        "name": "BOOST GLOBALIZATION",
-                        "ref": "Information Era/BOOST GLOBALIZATION/"
-                    },
-                    {
-                        "name": "BOOST SOCIAL_MEDIA",
-                        "ref": "Information Era/BOOST SOCIAL_MEDIA/"
-                    },
-                    {
-                        "name": "BOOST ENVIRONMENTALISM",
-                        "ref": "Information Era/BOOST ENVIRONMENTALISM/"
-                    },
-                    {
-                        "name": "Telecommunications",
-                        "ref": "Information Era/Telecommunications/"
-                    },
-                    {
-                        "name": "Satellites",
-                        "ref": "Information Era/Satellites/"
-                    },
-                    {
-                        "name": "Guidance Systems",
-                        "ref": "Information Era/Guidance Systems/"
-                    },
-                    {
-                        "name": "Lasers",
-                        "ref": "Information Era/Lasers/"
-                    },
-                    {
-                        "name": "Composites",
-                        "ref": "Information Era/Composites/"
-                    },
-                    {
-                        "name": "Stealth Technology",
-                        "ref": "Information Era/Stealth Technology/"
-                    },
-                    {
-                        "name": "Robotics",
-                        "ref": "Information Era/Robotics/"
-                    },
-                    {
-                        "name": "Nuclear Fusion",
-                        "ref": "Information Era/Nuclear Fusion/"
-                    },
-                    {
-                        "name": "Nanotechnology",
-                        "ref": "Information Era/Nanotechnology/"
-                    },
-                    {
-                        "name": "Environmentalism",
-                        "ref": "Information Era/Environmentalism/"
-                    },
-                    {
-                        "name": "Globalization",
-                        "ref": "Information Era/Globalization/"
-                    },
-                    {
-                        "name": "Social Media",
-                        "ref": "Information Era/Social Media/"
-                    },
-                    {
-                        "name": "Near Future Governance",
-                        "ref": "Information Era/Near Future Governance/"
-                    },
-                    {
-                        "name": "Venture Politics",
-                        "ref": "Information Era/Venture Politics/"
-                    },
-                    {
-                        "name": "Distributed Sovereignty",
-                        "ref": "Information Era/Distributed Sovereignty/"
-                    },
-                    {
-                        "name": "Optimization Imperative",
-                        "ref": "Information Era/Optimization Imperative/"
-                    },
-                    {
-                        "name": "Information Era",
-                        "ref": "Information Era/Information Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "756",
-                        "y": "1037",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Medieval Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST MILITARY_TACTICS",
-                        "ref": "Medieval Era/BOOST MILITARY_TACTICS/"
-                    },
-                    {
-                        "name": "BOOST APPRENTICESHIP",
-                        "ref": "Medieval Era/BOOST APPRENTICESHIP/"
-                    },
-                    {
-                        "name": "BOOST MACHINERY",
-                        "ref": "Medieval Era/BOOST MACHINERY/"
-                    },
-                    {
-                        "name": "BOOST EDUCATION",
-                        "ref": "Medieval Era/BOOST EDUCATION/"
-                    },
-                    {
-                        "name": "BOOST STIRRUPS",
-                        "ref": "Medieval Era/BOOST STIRRUPS/"
-                    },
-                    {
-                        "name": "BOOST MILITARY_ENGINEERING",
-                        "ref": "Medieval Era/BOOST MILITARY_ENGINEERING/"
-                    },
-                    {
-                        "name": "BOOST CASTLES",
-                        "ref": "Medieval Era/BOOST CASTLES/"
-                    },
-                    {
-                        "name": "BOOST NAVAL_TRADITION",
-                        "ref": "Medieval Era/BOOST NAVAL_TRADITION/"
-                    },
-                    {
-                        "name": "BOOST FEUDALISM",
-                        "ref": "Medieval Era/BOOST FEUDALISM/"
-                    },
-                    {
-                        "name": "BOOST CIVIL_SERVICE",
-                        "ref": "Medieval Era/BOOST CIVIL_SERVICE/"
-                    },
-                    {
-                        "name": "BOOST MERCENARIES",
-                        "ref": "Medieval Era/BOOST MERCENARIES/"
-                    },
-                    {
-                        "name": "BOOST MEDIEVAL_FAIRES",
-                        "ref": "Medieval Era/BOOST MEDIEVAL_FAIRES/"
-                    },
-                    {
-                        "name": "BOOST GUILDS",
-                        "ref": "Medieval Era/BOOST GUILDS/"
-                    },
-                    {
-                        "name": "BOOST DIVINE_RIGHT",
-                        "ref": "Medieval Era/BOOST DIVINE_RIGHT/"
-                    },
-                    {
-                        "name": "Buttress",
-                        "ref": "Medieval Era/Buttress/"
-                    },
-                    {
-                        "name": "Military Tactics",
-                        "ref": "Medieval Era/Military Tactics/"
-                    },
-                    {
-                        "name": "Apprenticeship",
-                        "ref": "Medieval Era/Apprenticeship/"
-                    },
-                    {
-                        "name": "Machinery",
-                        "ref": "Medieval Era/Machinery/"
-                    },
-                    {
-                        "name": "Education",
-                        "ref": "Medieval Era/Education/"
-                    },
-                    {
-                        "name": "Stirrups",
-                        "ref": "Medieval Era/Stirrups/"
-                    },
-                    {
-                        "name": "Military Engineering",
-                        "ref": "Medieval Era/Military Engineering/"
-                    },
-                    {
-                        "name": "Castles",
-                        "ref": "Medieval Era/Castles/"
-                    },
-                    {
-                        "name": "Naval Tradition",
-                        "ref": "Medieval Era/Naval Tradition/"
-                    },
-                    {
-                        "name": "Feudalism",
-                        "ref": "Medieval Era/Feudalism/"
-                    },
-                    {
-                        "name": "Civil Service",
-                        "ref": "Medieval Era/Civil Service/"
-                    },
-                    {
-                        "name": "Mercenaries",
-                        "ref": "Medieval Era/Mercenaries/"
-                    },
-                    {
-                        "name": "Medieval Fairies",
-                        "ref": "Medieval Era/Medieval Fairies/"
-                    },
-                    {
-                        "name": "Guilds",
-                        "ref": "Medieval Era/Guilds/"
-                    },
-                    {
-                        "name": "Divine Rights",
-                        "ref": "Medieval Era/Divine Rights/"
-                    },
-                    {
-                        "name": "Medieval Era",
-                        "ref": "Medieval Era/Medieval Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "1321",
-                        "y": "968",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Modern Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST FLIGHT",
-                        "ref": "Modern Era/BOOST FLIGHT/"
-                    },
-                    {
-                        "name": "BOOST REPLACEABLE_PARTS",
-                        "ref": "Modern Era/BOOST REPLACEABLE_PARTS/"
-                    },
-                    {
-                        "name": "BOOST STEEL",
-                        "ref": "Modern Era/BOOST STEEL/"
-                    },
-                    {
-                        "name": "BOOST ELECTRICITY",
-                        "ref": "Modern Era/BOOST ELECTRICITY/"
-                    },
-                    {
-                        "name": "BOOST RADIO",
-                        "ref": "Modern Era/BOOST RADIO/"
-                    },
-                    {
-                        "name": "BOOST CHEMISTRY",
-                        "ref": "Modern Era/BOOST CHEMISTRY/"
-                    },
-                    {
-                        "name": "BOOST COMBUSTION",
-                        "ref": "Modern Era/BOOST COMBUSTION/"
-                    },
-                    {
-                        "name": "BOOST CONSERVATION",
-                        "ref": "Modern Era/BOOST CONSERVATION/"
-                    },
-                    {
-                        "name": "BOOST CAPITALISM",
-                        "ref": "Modern Era/BOOST CAPITALISM/"
-                    },
-                    {
-                        "name": "BOOST NUCLEAR_PROGRAM",
-                        "ref": "Modern Era/BOOST NUCLEAR_PROGRAM/"
-                    },
-                    {
-                        "name": "BOOST MASS_MEDIA",
-                        "ref": "Modern Era/BOOST MASS_MEDIA/"
-                    },
-                    {
-                        "name": "BOOST MOBILIZATION",
-                        "ref": "Modern Era/BOOST MOBILIZATION/"
-                    },
-                    {
-                        "name": "BOOST SUFFRAGE",
-                        "ref": "Modern Era/BOOST SUFFRAGE/"
-                    },
-                    {
-                        "name": "BOOST TOTALITARIANISM",
-                        "ref": "Modern Era/BOOST TOTALITARIANISM/"
-                    },
-                    {
-                        "name": "BOOST CLASS_STRUGGLE",
-                        "ref": "Modern Era/BOOST CLASS_STRUGGLE/"
-                    },
-                    {
-                        "name": "Flight",
-                        "ref": "Modern Era/Flight/"
-                    },
-                    {
-                        "name": "Replaceable Parts",
-                        "ref": "Modern Era/Replaceable Parts/"
-                    },
-                    {
-                        "name": "Steel",
-                        "ref": "Modern Era/Steel/"
-                    },
-                    {
-                        "name": "Refining",
-                        "ref": "Modern Era/Refining/"
-                    },
-                    {
-                        "name": "Electricity",
-                        "ref": "Modern Era/Electricity/"
-                    },
-                    {
-                        "name": "Radio",
-                        "ref": "Modern Era/Radio/"
-                    },
-                    {
-                        "name": "Chemistry",
-                        "ref": "Modern Era/Chemistry/"
-                    },
-                    {
-                        "name": "Combustion",
-                        "ref": "Modern Era/Combustion/"
-                    },
-                    {
-                        "name": "Conservation",
-                        "ref": "Modern Era/Conservation/"
-                    },
-                    {
-                        "name": "Mass Media",
-                        "ref": "Modern Era/Mass Media/"
-                    },
-                    {
-                        "name": "Mobilization",
-                        "ref": "Modern Era/Mobilization/"
-                    },
-                    {
-                        "name": "Capitalism",
-                        "ref": "Modern Era/Capitalism/"
-                    },
-                    {
-                        "name": "Ideology",
-                        "ref": "Modern Era/Ideology/"
-                    },
-                    {
-                        "name": "Nuclear Program",
-                        "ref": "Modern Era/Nuclear Program/"
-                    },
-                    {
-                        "name": "Suffrage",
-                        "ref": "Modern Era/Suffrage/"
-                    },
-                    {
-                        "name": "Totalitarianism",
-                        "ref": "Modern Era/Totalitarianism/"
-                    },
-                    {
-                        "name": "Class Struggle",
-                        "ref": "Modern Era/Class Struggle/"
-                    },
-                    {
-                        "name": "Modern Era",
-                        "ref": "Modern Era/Modern Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "2372",
-                        "y": "856",
-                        "size": 18
-                    }
-                ]
-            },
-            {
-                "name": "Renaissance Era",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "BOOST CARTOGRAPHY",
-                        "ref": "Renaissance Era/BOOST CARTOGRAPHY/"
-                    },
-                    {
-                        "name": "BOOST MASS_PRODUCTION",
-                        "ref": "Renaissance Era/BOOST MASS_PRODUCTION/"
-                    },
-                    {
-                        "name": "BOOST BANKING",
-                        "ref": "Renaissance Era/BOOST BANKING/"
-                    },
-                    {
-                        "name": "BOOST GUNPOWDER",
-                        "ref": "Renaissance Era/BOOST GUNPOWDER/"
-                    },
-                    {
-                        "name": "BOOST PRINTING",
-                        "ref": "Renaissance Era/BOOST PRINTING/"
-                    },
-                    {
-                        "name": "BOOST SQUARE_RIGGING",
-                        "ref": "Renaissance Era/BOOST SQUARE_RIGGING/"
-                    },
-                    {
-                        "name": "BOOST ASTRONOMY",
-                        "ref": "Renaissance Era/BOOST ASTRONOMY/"
-                    },
-                    {
-                        "name": "BOOST METAL_CASTING",
-                        "ref": "Renaissance Era/BOOST METAL_CASTING/"
-                    },
-                    {
-                        "name": "BOOST SIEGE_TACTICS",
-                        "ref": "Renaissance Era/BOOST SIEGE_TACTICS/"
-                    },
-                    {
-                        "name": "BOOST EXPLORATION",
-                        "ref": "Renaissance Era/BOOST EXPLORATION/"
-                    },
-                    {
-                        "name": "BOOST HUMANISM",
-                        "ref": "Renaissance Era/BOOST HUMANISM/"
-                    },
-                    {
-                        "name": "BOOST DIPLOMATIC_SERVICE",
-                        "ref": "Renaissance Era/BOOST DIPLOMATIC_SERVICE/"
-                    },
-                    {
-                        "name": "BOOST REFORMED_CHURCH",
-                        "ref": "Renaissance Era/BOOST REFORMED_CHURCH/"
-                    },
-                    {
-                        "name": "BOOST MERCANTILISM",
-                        "ref": "Renaissance Era/BOOST MERCANTILISM/"
-                    },
-                    {
-                        "name": "BOOST THE_ENLIGHTENMENT",
-                        "ref": "Renaissance Era/BOOST THE_ENLIGHTENMENT/"
-                    },
-                    {
-                        "name": "Cartography",
-                        "ref": "Renaissance Era/Cartography/"
-                    },
-                    {
-                        "name": "Mass Production",
-                        "ref": "Renaissance Era/Mass Production/"
-                    },
-                    {
-                        "name": "Banking",
-                        "ref": "Renaissance Era/Banking/"
-                    },
-                    {
-                        "name": "Gunpowder",
-                        "ref": "Renaissance Era/Gunpowder/"
-                    },
-                    {
-                        "name": "Printing",
-                        "ref": "Renaissance Era/Printing/"
-                    },
-                    {
-                        "name": "Square Rigging",
-                        "ref": "Renaissance Era/Square Rigging/"
-                    },
-                    {
-                        "name": "Astronomy",
-                        "ref": "Renaissance Era/Astronomy/"
-                    },
-                    {
-                        "name": "Metal Casting",
-                        "ref": "Renaissance Era/Metal Casting/"
-                    },
-                    {
-                        "name": "Siege Tactics",
-                        "ref": "Renaissance Era/Siege Tactics/"
-                    },
-                    {
-                        "name": "Exploration",
-                        "ref": "Renaissance Era/Exploration/"
-                    },
-                    {
-                        "name": "Humanism",
-                        "ref": "Renaissance Era/Humanism/"
-                    },
-                    {
-                        "name": "Diplomatic Service",
-                        "ref": "Renaissance Era/Diplomatic Service/"
-                    },
-                    {
-                        "name": "Reformed Church",
-                        "ref": "Renaissance Era/Reformed Church/"
-                    },
-                    {
-                        "name": "Mercantilism",
-                        "ref": "Renaissance Era/Mercantilism/"
-                    },
-                    {
-                        "name": "Enlightenment",
-                        "ref": "Renaissance Era/Enlightenment/"
-                    },
-                    {
-                        "name": "Renaissance Era",
-                        "ref": "Renaissance Era/Renaissance Era/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": "1136",
-                        "y": "1502",
-                        "size": 18
-                    }
-                ]
-            }
-        ]
-    }
+}
 ]

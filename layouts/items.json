@@ -22,7 +22,7 @@
                                 "Progressive Era"
                             ],
                             [
-                                "disCount"
+                                
                             ],
                             [
                                 "Campus",
@@ -42,11 +42,16 @@
                             [
                                 "Aerodrome",
                                 "Space Port",
-                                "Government/Diplo Quarter"
+                                "Diplo Quarter"
                             ],
                             [
-                                "Preserve"
-
+                                "Preserve",
+                                "Dam",
+                                "Government Plaza"
+                            ],
+                            [
+                                "Canal",
+                                "Aqueduct"
                             ]
                         ]
                     }
