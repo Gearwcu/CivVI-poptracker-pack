@@ -11,12 +11,12 @@
                 "content": [
                     {
                         "type": "itemgrid",
-                        "item_margin": "2, 2",
+                        "item_margin": "3, 3",
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 55,
-                        "item_width": 55,
+                        "item_height": 70,
+                        "item_width": 70,
                         "rows": [
                             [
                                 "Progressive Era"
@@ -30,24 +30,24 @@
                                 "Holy Site"
                             ],
                             [
-                                "Encampment",
-                                "Commercial Hub",
-                                "Harbor"
-                            ],
-                            [
-                                "Industrial Zone",
-                                "Neighborhood",
-                                "Entertainment Complex"
-                            ],
-                            [
-                                "Aerodrome",
                                 "Space Port",
+                                "Commercial Hub",
+                                "Industrial Zone"
+                            ],
+                            [
+                                "Harbor",
+                                "Entertainment Complex",
                                 "Diplo Quarter"
                             ],
                             [
-                                "Preserve",
-                                "Dam",
+                                "Aerodrome",
+                                "Encampment",
                                 "Government Plaza"
+                            ],
+                            [
+                                "Preserve",
+                                "Neighborhood",
+                                "Dam"
                             ],
                             [
                                 "Canal",

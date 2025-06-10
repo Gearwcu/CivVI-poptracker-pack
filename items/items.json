@@ -3,7 +3,7 @@
     
     {
       "name": "Campus",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Campus",
       "loop": false,
       "allow_disabled": true,
@@ -21,7 +21,7 @@
     },
     {
       "name": "Theater Square",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Theater",
       "loop": false,
       "allow_disabled": true,
@@ -39,7 +39,7 @@
     },
     {
       "name": "Holy Site",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Holy Site",
       "loop": false,
       "allow_disabled": true,
@@ -54,7 +54,7 @@
     },
     {
       "name": "Encampment",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Encampment",
       "loop": false,
       "allow_disabled": true,
@@ -72,7 +72,7 @@
     },
     {
       "name": "Commercial Hub",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Commercial Hub",
       "loop": false,
       "allow_disabled": true,
@@ -90,7 +90,7 @@
     },
     {
       "name": "Harbor",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Harbor",
       "loop": false,
       "allow_disabled": true,
@@ -105,7 +105,7 @@
     },
     {
       "name": "Industrial Zone",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Industrial Zone",
       "loop": false,
       "allow_disabled": true,
@@ -126,7 +126,7 @@
     },
     {
       "name": "Preserve",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Preserve",
       "loop": false,
       "allow_disabled": true,
@@ -140,8 +140,8 @@
       ]
     },
     {
-      "name": "Entertainment Complex",
-      "type": "progressive_toggle",
+      "name": "Entainment Complex",
+      "type": "progressive",
       "codes": "Entertainment Complex",
       "loop": false,
       "allow_disabled": true,
@@ -159,7 +159,7 @@
     },
     {
       "name": "Neighborhood",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Neighborhood",
       "loop": false,
       "allow_disabled": true,
@@ -177,7 +177,7 @@
     },
     {
       "name": "Aerodrome",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Aerodrome",
       "loop": false,
       "allow_disabled": true,
@@ -192,7 +192,7 @@
     },
     {
       "name": "Diplomatic Quarter",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Diplo Quarter",
       "loop": false,
       "allow_disabled": true,
@@ -207,7 +207,7 @@
     },
     {
       "name": "Space Port",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Space Port",
       "loop": false,
       "allow_disabled": true,
@@ -233,29 +233,29 @@
       "name": "Dam",
       "type": "toggle",
       "codes": "Dam",
-      "img": "images/items/space2.png"
+      "img": "images/items/Dam.png"
     },
     {
       "name": "Government Plaza",
       "type": "toggle",
       "codes": "Government Plaza",
-      "img": "images/items/space2.png"
+      "img": "images/items/GovernmentPlaza.png"
     },
     {
       "name": "Canal",
       "type": "toggle",
       "codes": "Canal",
-      "img": "images/items/space2.png"
+      "img": "images/items/Canal.png"
     },
     {
       "name": "Aqueduct",
       "type": "toggle",
       "codes": "Aqueduct",
-      "img": "images/items/space2.png"
+      "img": "images/items/Aqueduct.png"
     },
     {
       "name": "progressive Era",
-      "type": "progressive_toggle",
+      "type": "progressive",
       "codes": "Progressive Era",
       "loop": false,
       "allow_disabled": false,
