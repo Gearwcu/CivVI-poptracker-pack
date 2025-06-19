@@ -1196,10 +1196,10 @@
                 "visibility_rules":[],
 
                 "access_rules": [
-                    "district:3",
-                    "[district:3], districtool:3",
-                    "[district:3], districtool:2, district:1",
-                    "[district:3], districtool:1, district:2"
+                    "district:3, [Classical Era]",
+                    "[district:3], districtool:3, [Classical Era]",
+                    "[district:3], districtool:2, district:1, [Classical Era]",
+                    "[district:3], districtool:1, district:2, [Classical Era]"
                 ],
                 "sections": [
                     {
@@ -1527,7 +1527,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1552,7 +1552,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1577,7 +1577,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1602,7 +1602,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1627,7 +1627,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1652,7 +1652,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1677,7 +1677,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1702,7 +1702,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1727,7 +1727,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1752,7 +1752,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1777,7 +1777,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1802,7 +1802,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1827,7 +1827,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1852,7 +1852,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1877,7 +1877,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -1902,7 +1902,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "classical era"
                 ],
                 "sections": [
                     {
@@ -2022,12 +2022,6 @@
                         "x": "567",
                         "y": "319",
                         "size": 28
-                    },
-                    {
-                        "map": "Tech Boosts",
-                        "x": 115,
-                        "y": 872,
-                        "size": 22
                     },
                     {
                         "map": "Tech Boosts",
@@ -2441,7 +2435,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2466,7 +2460,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2491,7 +2485,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2516,7 +2510,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2541,7 +2535,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2566,7 +2560,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2591,7 +2585,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2616,7 +2610,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2641,7 +2635,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2654,8 +2648,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1212",
-                        "y": "329",
+                        "x": "256",
+                        "y": "832",
                         "size": 36
                     }
                 ]
@@ -2666,7 +2660,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2679,8 +2673,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1620",
-                        "y": "2233",
+                        "x": "256",
+                        "y": "916",
                         "size": 36
                     }
                 ]
@@ -2691,7 +2685,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2704,8 +2698,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "2167",
-                        "y": "2387",
+                        "x": "256",
+                        "y": "1085",
                         "size": 36
                     }
                 ]
@@ -2716,7 +2710,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2729,8 +2723,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1667",
-                        "y": "298",
+                        "x": "755",
+                        "y": "745",
                         "size": 36
                     }
                 ]
@@ -2741,7 +2735,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2754,8 +2748,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "983",
-                        "y": "2180",
+                        "x": "755",
+                        "y": "916",
                         "size": 36
                     }
                 ]
@@ -2766,7 +2760,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2779,8 +2773,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1401",
-                        "y": "1080",
+                        "x": "755",
+                        "y": "1084",
                         "size": 36
                     }
                 ]
@@ -2791,7 +2785,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2804,8 +2798,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "665",
-                        "y": "508",
+                        "x": "755",
+                        "y": "1254",
                         "size": 36
                     }
                 ]
@@ -2816,7 +2810,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "medieval Era"
                 ],
                 "sections": [
                     {
@@ -2829,8 +2823,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1284",
-                        "y": "424",
+                        "x": 0,
+                        "y": "715",
                         "size": 100
                     }
                 ]
@@ -2867,8 +2861,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "2130",
-                        "y": "324",
+                        "x": "518",
+                        "y": "67",
                         "size": 28
                     },
                     {
@@ -2900,8 +2894,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1144",
-                        "y": "1808",
+                        "x": "518",
+                        "y": "151",
                         "size": 28
                     },
                     {
@@ -2933,8 +2927,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1140",
-                        "y": "1972",
+                        "x": "518",
+                        "y": "319",
                         "size": 28
                     },
                     {
@@ -2966,8 +2960,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1500",
-                        "y": "1181",
+                        "x": "518",
+                        "y": "401",
                         "size": 28
                     },
                     {
@@ -2999,8 +2993,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1617",
-                        "y": "1953",
+                        "x": "518",
+                        "y": "655",
                         "size": 28
                     },
                     {
@@ -3032,8 +3026,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1791",
-                        "y": "498",
+                        "x": "958",
+                        "y": "66",
                         "size": 28
                     },
                     {
@@ -3065,8 +3059,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1027",
-                        "y": "2480",
+                        "x": "958",
+                        "y": "235",
                         "size": 28
                     },
                     {
@@ -3098,8 +3092,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "459",
-                        "y": "2363",
+                        "x": "958",
+                        "y": "403",
                         "size": 28
                     },
                     {
@@ -3131,8 +3125,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "559",
-                        "y": "94",
+                        "x": "958",
+                        "y": "571",
                         "size": 28
                     },
                     {
@@ -3164,8 +3158,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1981",
-                        "y": "2431",
+                        "x": "567",
+                        "y": "784",
                         "size": 28
                     },
                     {
@@ -3197,8 +3191,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "334",
-                        "y": "295",
+                        "x": "567",
+                        "y": "953",
                         "size": 28
                     },
                     {
@@ -3230,8 +3224,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "558",
-                        "y": "193",
+                        "x": "567",
+                        "y": "1120",
                         "size": 28
                     },
                     {
@@ -3263,8 +3257,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "558",
-                        "y": "1426",
+                        "x": "567",
+                        "y": "1287",
                         "size": 28
                     },
                     {
@@ -3296,8 +3290,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "558",
-                        "y": "404",
+                        "x": "1070",
+                        "y": "952",
                         "size": 28
                     },
                     {
@@ -3331,8 +3325,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "558",
-                        "y": "1899",
+                        "x": "1070",
+                        "y": "1120",
                         "size": 28
                     },
                     {
@@ -3362,8 +3356,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1862",
-                        "y": "2345",
+                        "x": "231",
+                        "y": "33",
                         "size": 28
                     }
                 ]
@@ -3387,8 +3381,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "2414",
-                        "y": "2030",
+                        "x": "231",
+                        "y": "117",
                         "size": 28
                     }
                 ]
@@ -3412,8 +3406,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1825",
-                        "y": "359",
+                        "x": "231",
+                        "y": "285",
                         "size": 28
                     }
                 ]
@@ -3437,8 +3431,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1305",
-                        "y": "1950",
+                        "x": "231",
+                        "y": "369",
                         "size": 28
                     }
                 ]
@@ -3462,8 +3456,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "345",
-                        "y": "772",
+                        "x": "231",
+                        "y": "621",
                         "size": 28
                     }
                 ]
@@ -3487,8 +3481,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "49",
-                        "y": "2043",
+                        "x": "672",
+                        "y": "33",
                         "size": 28
                     }
                 ]
@@ -3512,8 +3506,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "276",
-                        "y": "183",
+                        "x": "672",
+                        "y": "201",
                         "size": 28
                     }
                 ]
@@ -3537,8 +3531,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "167",
-                        "y": "595",
+                        "x": "672",
+                        "y": "369",
                         "size": 28
                     }
                 ]
@@ -3562,8 +3556,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1043",
-                        "y": "455",
+                        "x": "672",
+                        "y": "537",
                         "size": 28
                     }
                 ]
@@ -3587,8 +3581,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "2355",
-                        "y": "2471",
+                        "x": "233",
+                        "y": "750",
                         "size": 28
                     }
                 ]
@@ -3612,8 +3606,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1427",
-                        "y": "2441",
+                        "x": "233",
+                        "y": "918",
                         "size": 28
                     }
                 ]
@@ -3637,8 +3631,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1911",
-                        "y": "410",
+                        "x": "233",
+                        "y": "1086",
                         "size": 28
                     }
                 ]
@@ -3662,8 +3656,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1665",
-                        "y": "1541",
+                        "x": "233",
+                        "y": "1254",
                         "size": 28
                     }
                 ]
@@ -3687,8 +3681,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "1744",
-                        "y": "899",
+                        "x": "733",
+                        "y": "918",
                         "size": 28
                     }
                 ]
@@ -3712,8 +3706,8 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "2001",
-                        "y": "1905",
+                        "x": "733",
+                        "y": "1086",
                         "size": 28
                     }
                 ]
@@ -3737,9 +3731,9 @@
                 "map_locations": [
                     {
                         "map": "Renaissance Era",
-                        "x": "2185",
-                        "y": "260",
-                        "size": 40
+                        "x": "0",
+                        "y": "715",
+                        "size": 100
                     }
                 ]
             }
@@ -3775,8 +3769,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1027",
-                        "y": "1285",
+                        "x": "524",
+                        "y": "154",
                         "size": 28
                     },
                     {
@@ -3808,8 +3802,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1205",
-                        "y": "100",
+                        "x": "524",
+                        "y": "236",
                         "size": 28
                     },
                     {
@@ -3841,8 +3835,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "830",
-                        "y": "1006",
+                        "x": "524",
+                        "y": "404",
                         "size": 28
                     },
                     {
@@ -3874,8 +3868,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "698",
-                        "y": "2220",
+                        "x": "524",
+                        "y": "573",
                         "size": 28
                     },
                     {
@@ -3907,8 +3901,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1078",
-                        "y": "924",
+                        "x": "970",
+                        "y": "70",
                         "size": 28
                     },
                     {
@@ -3940,8 +3934,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "2028",
-                        "y": "2033",
+                        "x": "970",
+                        "y": "238",
                         "size": 28
                     },
                     {
@@ -3973,8 +3967,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "438",
-                        "y": "663",
+                        "x": "970",
+                        "y": "322",
                         "size": 28
                     },
                     {
@@ -4006,8 +4000,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "2488",
-                        "y": "185",
+                        "x": "970",
+                        "y": "490",
                         "size": 28
                     },
                     {
@@ -4039,8 +4033,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "401",
-                        "y": "75",
+                        "x": "570",
+                        "y": "788",
                         "size": 28
                     },
                     {
@@ -4059,14 +4053,14 @@
                 "visibility_rules":[],
 
                 "access_rules": [
-                    "district:7",
-                    "[district:7], district:6, districtool:1",
-                    "[district:7], district:5, districtool:2",
-                    "[district:7], district:4, districtool:3",
-                    "[district:7], district:3, districtool:4",
-                    "[district:7], district:2, districtool:5",
-                    "[district:7], district:1, districtool:6",
-                    "[district:7], districtool:7"
+                    "district:7, [Industrial Era]",
+                    "[district:7], district:6, districtool:1, [Industrial Era]",
+                    "[district:7], district:5, districtool:2, [Industrial Era]",
+                    "[district:7], district:4, districtool:3, [Industrial Era]",
+                    "[district:7], district:3, districtool:4, [Industrial Era]",
+                    "[district:7], district:2, districtool:5, [Industrial Era]",
+                    "[district:7], district:1, districtool:6, [Industrial Era]",
+                    "[district:7], districtool:7, [Industrial Era]"
                 ],
                 "sections": [
                     {
@@ -4079,8 +4073,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1289",
-                        "y": "1127",
+                        "x": "570",
+                        "y": "956",
                         "size": 28
                     },
                     {
@@ -4115,8 +4109,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1123",
-                        "y": "2352",
+                        "x": "570",
+                        "y": "1040",
                         "size": 28
                     },
                     {
@@ -4148,8 +4142,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "2363",
-                        "y": "614",
+                        "x": "570",
+                        "y": "1208",
                         "size": 28
                     },
                     {
@@ -4181,8 +4175,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1404",
-                        "y": "118",
+                        "x": "1066",
+                        "y": "788",
                         "size": 28
                     },
                     {
@@ -4214,8 +4208,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "884",
-                        "y": "768",
+                        "x": "1066",
+                        "y": "1208",
                         "size": 28
                     },
                     {
@@ -4247,8 +4241,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1042",
-                        "y": "592",
+                        "x": "1066",
+                        "y": "956",
                         "size": 28
                     },
                     {
@@ -4278,8 +4272,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "976",
-                        "y": "2405",
+                        "x": "240",
+                        "y": "120",
                         "size": 28
                     }
                 ]
@@ -4303,8 +4297,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "318",
-                        "y": "323",
+                        "x": "240",
+                        "y": "204",
                         "size": 28
                     }
                 ]
@@ -4328,8 +4322,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "449",
-                        "y": "342",
+                        "x": "240",
+                        "y": "372",
                         "size": 28
                     }
                 ]
@@ -4353,8 +4347,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "2276",
-                        "y": "879",
+                        "x": "240",
+                        "y": "540",
                         "size": 28
                     }
                 ]
@@ -4378,8 +4372,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "2331",
-                        "y": "2193",
+                        "x": "682",
+                        "y": "35",
                         "size": 28
                     }
                 ]
@@ -4403,8 +4397,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "2308",
-                        "y": "2092",
+                        "x": "682",
+                        "y": "203",
                         "size": 28
                     }
                 ]
@@ -4428,8 +4422,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "396",
-                        "y": "2330",
+                        "x": "682",
+                        "y": "287",
                         "size": 28
                     }
                 ]
@@ -4453,8 +4447,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1887",
-                        "y": "2387",
+                        "x": "682",
+                        "y": "455",
                         "size": 28
                     }
                 ]
@@ -4478,8 +4472,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1064",
-                        "y": "2052",
+                        "x": "230",
+                        "y": "754",
                         "size": 28
                     }
                 ]
@@ -4503,8 +4497,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1978",
-                        "y": "1428",
+                        "x": "230",
+                        "y": "922",
                         "size": 28
                     }
                 ]
@@ -4528,8 +4522,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1255",
-                        "y": "2390",
+                        "x": "230",
+                        "y": "1006",
                         "size": 28
                     }
                 ]
@@ -4553,8 +4547,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "133",
-                        "y": "977",
+                        "x": "230",
+                        "y": "1174",
                         "size": 28
                     }
                 ]
@@ -4578,8 +4572,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1712",
-                        "y": "1028",
+                        "x": "730",
+                        "y": "754",
                         "size": 28
                     }
                 ]
@@ -4603,8 +4597,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "1354",
-                        "y": "2320",
+                        "x": "730",
+                        "y": "922",
                         "size": 28
                     }
                 ]
@@ -4628,8 +4622,8 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "977",
-                        "y": "2097",
+                        "x": "730",
+                        "y": "1174",
                         "size": 28
                     }
                 ]
@@ -4653,9 +4647,9 @@
                 "map_locations": [
                     {
                         "map": "Industrial Era",
-                        "x": "20",
-                        "y": "500",
-                        "size": 40
+                        "x": "0",
+                        "y": "715",
+                        "size": 100
                     }
                 ]
             }
