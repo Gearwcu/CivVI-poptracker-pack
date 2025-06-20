@@ -30,9 +30,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "137",
-                        "y": "225",
-                        "size": 18
+                        "x": 115,
+                        "y": 296,
+                        "size": 28
                     }
                 ]
             },
@@ -55,9 +55,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "137",
-                        "y": "285",
-                        "size": 18
+                        "x": 115,
+                        "y": 380,
+                        "size": 28
                     }
                 ]
             },
@@ -80,9 +80,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "137",
-                        "y": "406",
-                        "size": 18
+                        "x": 115,
+                        "y": 548,
+                        "size": 28
                     }
                 ]
             },
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "481",
-                        "y": "44",
-                        "size": 18
+                        "x": 556,
+                        "y": 50,
+                        "size": 28
                     }
                 ]
             },
@@ -130,9 +130,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "481",
-                        "y": "105",
-                        "size": 18
+                        "x": 556,
+                        "y": 132,
+                        "size": 28
                     }
                 ]
             },
@@ -155,9 +155,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "481",
-                        "y": "165",
-                        "size": 18
+                        "x": 556,
+                        "y": 214,
+                        "size": 28
                     }
                 ]
             },
@@ -180,9 +180,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "481",
-                        "y": "225",
-                        "size": 18
+                        "x": 556,
+                        "y": 296,
+                        "size": 28
                     }
                 ]
             },
@@ -205,9 +205,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "481",
-                        "y": "285",
-                        "size": 18
+                        "x": 556,
+                        "y": 379,
+                        "size": 28
                     }
                 ]
             },
@@ -230,9 +230,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "796",
-                        "y": "346",
-                        "size": 18
+                        "x": 995,
+                        "y": 461,
+                        "size": 28
                     }
                 ]
             },
@@ -255,9 +255,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "796",
-                        "y": "406",
-                        "size": 18
+                        "x": 995,
+                        "y": 543,
+                        "size": 28
                     }
                 ]
             },
@@ -280,9 +280,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "796",
-                        "y": "466",
-                        "size": 18
+                        "x": 995,
+                        "y": 626,
+                        "size": 28
                     }
                 ]
             },
@@ -305,9 +305,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "132",
-                        "y": "737",
-                        "size": 18
+                        "x": 52,
+                        "y": 993,
+                        "size": 28
                     }
                 ]
             },
@@ -330,9 +330,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "490",
-                        "y": "614",
-                        "size": 18
+                        "x": 553,
+                        "y": 828,
+                        "size": 28
                     }
                 ]
             },
@@ -355,9 +355,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "490",
-                        "y": "857",
-                        "size": 18
+                        "x": 553,
+                        "y": 1158,
+                        "size": 28
                     }
                 ]
             },
@@ -380,9 +380,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "852",
-                        "y": "553",
-                        "size": 18
+                        "x": 1052,
+                        "y": 746,
+                        "size": 28
                     }
                 ]
             },
@@ -405,9 +405,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "852",
-                        "y": "736",
-                        "size": 18
+                        "x": 1052,
+                        "y": 993,
+                        "size": 28
                     }
                 ]
             },
@@ -430,9 +430,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "852",
-                        "y": "796",
-                        "size": 18
+                        "x": 1052,
+                        "y": 1076,
+                        "size": 28
                     }
                 ]
             },
@@ -455,9 +455,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "852",
-                        "y": "918",
-                        "size": 18
+                        "x": 1052,
+                        "y": 1241,
+                        "size": 28
                     }
                 ]
             },
@@ -468,6 +468,9 @@
                 "overlay_background": "#000000",
                 "access_rules": [
                     "[]"
+                ],
+                "visibility_rules":[
+                    "goodyhutsrando"
                 ],
                 "sections": [
                     {
@@ -534,9 +537,9 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "900",
-                        "y": "100",
-                        "size": 18
+                        "x": 1052,
+                        "y": 200,
+                        "size": 35
                     }
                 ]
             },
@@ -545,7 +548,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -561,14 +564,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "600",
-                        "y": "44",
-                        "size": 18
+                        "x": 842,
+                        "y": 83,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"112",
+                        "x": 115,
+                        "y":112,
                         "size": 22
                     }
                 ]
@@ -578,7 +581,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -594,14 +597,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "600",
-                        "y": "104",
-                        "size": 18
+                        "x": 842,
+                        "y": 165,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"155",
+                        "x": 115,
+                        "y":155,
                         "size": 22
                     }
                 ]
@@ -611,7 +614,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -627,14 +630,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "600",
-                        "y": "164",
-                        "size": 18
+                        "x": 842,
+                        "y": 248,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"199",
+                        "x": 115,
+                        "y":199,
                         "size": 22
                     }
                 ]
@@ -644,7 +647,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -660,14 +663,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "600",
-                        "y": "285",
-                        "size": 18
+                        "x": 842,
+                        "y": 330,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"290",
+                        "x": 115,
+                        "y":290,
                         "size": 22
                     }
                 ]
@@ -677,7 +680,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -693,14 +696,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "600",
-                        "y": "225",
-                        "size": 18
+                        "x": 842,
+                        "y": 413,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"244",
+                        "x": 115,
+                        "y":244,
                         "size": 22
                     }
                 ]
@@ -710,7 +713,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "mining"
@@ -726,14 +729,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "917",
-                        "y": "345",
-                        "size": 18
+                        "x": 1282,
+                        "y": 496,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"336",
+                        "x": 115,
+                        "y":336,
                         "size": 22
                     }
                 ]
@@ -743,7 +746,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -759,14 +762,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "917",
-                        "y": "406",
-                        "size": 18
+                        "x": 1282,
+                        "y": 578,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"381",
+                        "x": 115,
+                        "y":381,
                         "size": 22
                     }
                 ]
@@ -776,7 +779,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "mining"
@@ -792,14 +795,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "917",
-                        "y": "466",
-                        "size": 18
+                        "x": 1282,
+                        "y": 661,
+                        "size": 28
                     },
                     {
                         "map": "Tech Boosts",
-                        "x": "115",
-                        "y":"427",
+                        "x": 115,
+                        "y":427,
                         "size": 22
                     }
                 ]
@@ -809,7 +812,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[irrigation], [mining], [construction], ",
@@ -834,14 +837,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "643",
-                        "y": "614",
-                        "size": 18
+                        "x": 888,
+                        "y": 861,
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"112",
+                        "x": 115,
+                        "y":112,
                         "size": 22
                     }
                 ]
@@ -851,7 +854,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[cartography],"
@@ -867,14 +870,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "643",
-                        "y": "857",
-                        "size": 18
+                        "x": 888,
+                        "y": 1191,
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"156",
+                        "x": 115,
+                        "y":156,
                         "size": 22
                     }
                 ]
@@ -884,7 +887,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -900,14 +903,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "950",
-                        "y": "553",
-                        "size": 18
+                        "x": 1383,
+                        "y": 778,
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"201",
+                        "x": 115,
+                        "y":201,
                         "size": 22
                     }
                 ]
@@ -917,7 +920,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[district], districtool",
@@ -934,14 +937,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "950",
-                        "y": "736",
-                        "size": 18
+                        "x": 1383,
+                        "y": 1026,
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"246",
+                        "x": 115,
+                        "y":246,
                         "size": 22
                     }
                 ]
@@ -951,7 +954,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -967,14 +970,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "950",
-                        "y": "796",
-                        "size": 18
+                        "x": 1383,
+                        "y": 1108,
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"292",
+                        "x": 115,
+                        "y":292,
                         "size": 22
                     }
                 ]
@@ -984,7 +987,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     " "
@@ -1000,14 +1003,14 @@
                 "map_locations": [
                     {
                         "map": "Ancient Era",
-                        "x": "950",
-                        "y": "918",
-                        "size": 18
+                        "x": 1383,
+                        "y": 1273,
+                        "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"339",
+                        "x": 115,
+                        "y":339,
                         "size": 22
                     }
                 ]
@@ -1028,7 +1031,8 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"
+                ],
 
                 "access_rules": [
                     "Progressive Era, sailing"
@@ -1044,8 +1048,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "550",
-                        "y": "150",
+                        "x": 550,
+                        "y": 150,
                         "size": 28
                     },
                     {
@@ -1061,7 +1065,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "Progressive Era, foreign trade"
@@ -1077,8 +1081,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "550",
-                        "y": "317",
+                        "x": 550,
+                        "y": 317,
                         "size": 28
                     },
                     {
@@ -1094,7 +1098,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "Progressive Era, animal husbandry"
@@ -1110,8 +1114,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "550",
-                        "y": "401",
+                        "x": 550,
+                        "y": 401,
                         "size": 28
                     },
                     {
@@ -1127,7 +1131,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "Progressive Era, mining, bronze working"
@@ -1143,8 +1147,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "550",
-                        "y": "570",
+                        "x": 550,
+                        "y": 570,
                         "size": 28
                     },
                     {
@@ -1160,7 +1164,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "Progressive Era, sailing"
@@ -1176,8 +1180,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "989",
-                        "y": "66",
+                        "x": 989,
+                        "y": 66,
                         "size": 28
                     },
                     {
@@ -1193,7 +1197,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "district:3, [Classical Era]",
@@ -1212,8 +1216,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "989",
-                        "y": "234",
+                        "x": 989,
+                        "y": 234,
                         "size": 28
                     },
                     {
@@ -1229,7 +1233,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "Progressive Era, the wheel"
@@ -1245,8 +1249,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "989",
-                        "y": "485",
+                        "x": 989,
+                        "y": 485,
                         "size": 28
                     },
                     {
@@ -1262,7 +1266,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "Progressive Era, masonry"
@@ -1278,8 +1282,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "989",
-                        "y": "653",
+                        "x": 989,
+                        "y": 653,
                         "size": 28
                     },
                     {
@@ -1295,7 +1299,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "construction"
@@ -1311,14 +1315,14 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "609",
-                        "y": "861",
+                        "x": 609,
+                        "y": 861,
                         "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"554",
+                        "x": 115,
+                        "y":554,
                         "size": 22
                     }
                 ]
@@ -1328,7 +1332,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[]"
@@ -1344,14 +1348,14 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "609",
-                        "y": "1086",
+                        "x": 609,
+                        "y": 1086,
                         "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"599",
+                        "x": 115,
+                        "y":599,
                         "size": 22
                     }
                 ]
@@ -1361,7 +1365,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[]"
@@ -1377,14 +1381,14 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "609",
-                        "y": "1197",
+                        "x": 609,
+                        "y": 1197,
                         "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"645",
+                        "x": 115,
+                        "y":645,
                         "size": 22
                     }
                 ]
@@ -1394,7 +1398,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[classical Era], bronze working"
@@ -1410,14 +1414,14 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1110",
-                        "y": "777",
+                        "x": 1110,
+                        "y": 777,
                         "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"691",
+                        "x": 115,
+                        "y":691,
                         "size": 22
                     }
                 ]
@@ -1427,7 +1431,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[]"
@@ -1443,14 +1447,14 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1110",
-                        "y": "945",
+                        "x": 1110,
+                        "y": 945,
                         "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"736",
+                        "x": 115,
+                        "y":736,
                         "size": 22
                     }
                 ]
@@ -1460,7 +1464,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "classical Era, writing"
@@ -1476,14 +1480,14 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1110",
-                        "y": "1113",
+                        "x": 1110,
+                        "y": 1113,
                         "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"781",
+                        "x": 115,
+                        "y":781,
                         "size": 22
                     }
                 ]
@@ -1493,7 +1497,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "astrology, []"
@@ -1509,14 +1513,14 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "1110",
-                        "y": "1281",
+                        "x": 1110,
+                        "y": 1281,
                         "size": 28
                     },
                     {
                         "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"827",
+                        "x": 115,
+                        "y":827,
                         "size": 22
                     }
                 ]
@@ -1540,8 +1544,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "262",
-                        "y": "116",
+                        "x": 262,
+                        "y": 116,
                         "size": 36
                     }
                 ]
@@ -1565,8 +1569,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "262",
-                        "y": "284",
+                        "x": 262,
+                        "y": 284,
                         "size": 36
                     }
                 ]
@@ -1590,8 +1594,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "262",
-                        "y": "368",
+                        "x": 262,
+                        "y": 368,
                         "size": 36
                     }
                 ]
@@ -1615,8 +1619,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "262",
-                        "y": "536",
+                        "x": 262,
+                        "y": 536,
                         "size": 36
                     }
                 ]
@@ -1640,8 +1644,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "702",
-                        "y": "33",
+                        "x": 702,
+                        "y": 33,
                         "size": 36
                     }
                 ]
@@ -1665,8 +1669,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "702",
-                        "y": "201",
+                        "x": 702,
+                        "y": 201,
                         "size": 36
                     }
                 ]
@@ -1690,8 +1694,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "702",
-                        "y": "453",
+                        "x": 702,
+                        "y": 453,
                         "size": 36
                     }
                 ]
@@ -1715,8 +1719,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "702",
-                        "y": "621",
+                        "x": 702,
+                        "y": 621,
                         "size": 36
                     }
                 ]
@@ -1740,8 +1744,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "272",
-                        "y": "828",
+                        "x": 272,
+                        "y": 828,
                         "size": 36
                     }
                 ]
@@ -1765,8 +1769,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "272",
-                        "y": "996",
+                        "x": 272,
+                        "y": 996,
                         "size": 36
                     }
                 ]
@@ -1790,8 +1794,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "272",
-                        "y": "1164",
+                        "x": 272,
+                        "y": 1164,
                         "size": 36
                     }
                 ]
@@ -1815,8 +1819,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "773",
-                        "y": "744",
+                        "x": 773,
+                        "y": 744,
                         "size": 36
                     }
                 ]
@@ -1840,8 +1844,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "773",
-                        "y": "912",
+                        "x": 773,
+                        "y": 912,
                         "size": 36
                     }
                 ]
@@ -1865,8 +1869,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "773",
-                        "y": "1080",
+                        "x": 773,
+                        "y": 1080,
                         "size": 36
                     }
                 ]
@@ -1890,8 +1894,8 @@
                 "map_locations": [
                     {
                         "map": "Classical Era",
-                        "x": "773",
-                        "y": "1248",
+                        "x": 773,
+                        "y": 1248,
                         "size": 36
                     }
                 ]
@@ -1916,7 +1920,7 @@
                     {
                         "map": "Classical Era",
                         "x": 0,
-                        "y": "715",
+                        "y": 715,
                         "size": 100
                     }
                 ]
@@ -1937,7 +1941,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, []"
@@ -1953,8 +1957,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "567",
-                        "y": "67",
+                        "x": 567,
+                        "y": 67,
                         "size": 28
                     },
                     {
@@ -1970,7 +1974,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, bronze working"
@@ -1986,8 +1990,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "567",
-                        "y": "151",
+                        "x": 567,
+                        "y": 151,
                         "size": 28
                     },
                     {
@@ -2003,7 +2007,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, mining"
@@ -2019,8 +2023,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "567",
-                        "y": "319",
+                        "x": 567,
+                        "y": 319,
                         "size": 28
                     },
                     {
@@ -2036,7 +2040,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, archery"
@@ -2052,8 +2056,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "567",
-                        "y": "655",
+                        "x": 567,
+                        "y": 655,
                         "size": 28
                     },
                     {
@@ -2069,7 +2073,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, writing, []"
@@ -2085,8 +2089,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1006",
-                        "y": "235",
+                        "x": 1006,
+                        "y": 235,
                         "size": 28
                     },
                     {
@@ -2102,7 +2106,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, feudalism"
@@ -2118,8 +2122,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1006",
-                        "y": "403",
+                        "x": 1006,
+                        "y": 403,
                         "size": 28
                     },
                     {
@@ -2135,7 +2139,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, engineering"
@@ -2151,8 +2155,8 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1006",
-                        "y": "487",
+                        "x": 1006,
+                        "y": 487,
                         "size": 28
                     },
                     {
@@ -2168,10 +2172,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, divine right", "medieval Era, exploration, [divine right]", "medieval Era, reformed church, [divine right]"
+                    "[medieval Era], divine right", "[medieval Era], exploration", "[medieval Era], reformed church"
                 ],
                 "sections": [
                     {
@@ -2184,7 +2188,7 @@
                 "map_locations": [
                     {
                         "map": "Medieval Era",
-                        "x": "1006",
+                        "x": 1006,
                         "y": "571",
                         "size": 28
                     },
@@ -2201,7 +2205,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, shipbuilding, []"
@@ -2234,7 +2238,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[medieval Era]"
@@ -2267,7 +2271,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era",
@@ -2301,7 +2305,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[medieval Era]"
@@ -2334,7 +2338,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[medieval Era], foreign trade, currency"
@@ -2367,7 +2371,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[medieval Era], currency"
@@ -2400,7 +2404,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, theology, astrology",
@@ -2845,7 +2849,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, celestial navigation"
@@ -2878,7 +2882,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, construction"
@@ -2911,7 +2915,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, guilds"
@@ -2944,7 +2948,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, military engineering"
@@ -2977,7 +2981,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, writing, education"
@@ -3010,7 +3014,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, gunpowder"
@@ -3043,7 +3047,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, education, []"
@@ -3076,7 +3080,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, machinery"
@@ -3109,7 +3113,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, military engineering"
@@ -3142,7 +3146,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "renaissance Era, cartography,celestial navigation"
@@ -3175,7 +3179,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "medieval Era, drama poetry, []"
@@ -3208,7 +3212,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -3241,7 +3245,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "astrology, []"
@@ -3274,7 +3278,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[], currency"
@@ -3307,7 +3311,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[], writing, currency",
@@ -3753,7 +3757,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, apprenticeship"
@@ -3786,7 +3790,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, enlightenment"
@@ -3819,7 +3823,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, military engineering"
@@ -3852,7 +3856,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, stirrups"
@@ -3885,7 +3889,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, mass production, celestial navigation"
@@ -3918,7 +3922,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, urbanization"
@@ -3951,7 +3955,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, banking"
@@ -3984,7 +3988,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era, military engineering, mining"
@@ -4017,7 +4021,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "astronomy"
@@ -4050,7 +4054,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "district:7, [Industrial Era]",
@@ -4090,7 +4094,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[], industrial Era, diplomatic service",
@@ -4126,7 +4130,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[industrial Era], humanism, drama poetry"
@@ -4159,7 +4163,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[industrial Era], humanism, drama poetry"
@@ -4192,7 +4196,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "ballistics, [industrial Era]"
@@ -4225,7 +4229,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "industrial Era"
@@ -4669,7 +4673,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, []"
@@ -4685,8 +4689,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "798",
-                        "y": "2117",
+                        "x": "500",
+                        "y": "152",
                         "size": 28
                     },
                     {
@@ -4702,7 +4706,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, military science"
@@ -4718,8 +4722,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "718",
-                        "y": "1932",
+                        "x": "500",
+                        "y": "318",
                         "size": 28
                     },
                     {
@@ -4735,7 +4739,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, mining, steam power, industrialization"
@@ -4751,8 +4755,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "2368",
-                        "y": "1033",
+                        "x": "500",
+                        "y": "403",
                         "size": 28
                     },
                     {
@@ -4768,7 +4772,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, mining, apprenticeship, industrialization"
@@ -4784,8 +4788,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "970",
-                        "y": "995",
+                        "x": "500",
+                        "y": "571",
                         "size": 28
                     },
                     {
@@ -4801,7 +4805,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, mercantilism, celestial navigation"
@@ -4817,8 +4821,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "2297",
-                        "y": "1464",
+                        "x": "934",
+                        "y": "67",
                         "size": 28
                     },
                     {
@@ -4834,7 +4838,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, conservation, []"
@@ -4850,8 +4854,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1424",
-                        "y": "2000",
+                        "x": "934",
+                        "y": "151",
                         "size": 28
                     },
                     {
@@ -4867,7 +4871,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, civil service, []"
@@ -4883,8 +4887,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "743",
-                        "y": "1921",
+                        "x": "934",
+                        "y": "235",
                         "size": 28
                     },
                     {
@@ -4900,7 +4904,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "modern Era, Natural History, Humanism, [], drama poetry"
@@ -4916,8 +4920,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1530",
-                        "y": "2407",
+                        "x": "934",
+                        "y": "487",
                         "size": 28
                     },
                     {
@@ -4933,7 +4937,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[], urbanization"
@@ -4949,8 +4953,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "2396",
-                        "y": "23",
+                        "x": "500",
+                        "y": "785",
                         "size": 28
                     },
                     {
@@ -4966,7 +4970,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[modern Era], currnecy, banking, economics"
@@ -4982,8 +4986,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1957",
-                        "y": "1758",
+                        "x": "1000",
+                        "y": "869",
                         "size": 28
                     },
                     {
@@ -4999,7 +5003,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[modern Era], writing, education, chemistry"
@@ -5015,8 +5019,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1755",
-                        "y": "1571",
+                        "x": "1500",
+                        "y": "869",
                         "size": 28
                     },
                     {
@@ -5032,7 +5036,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[modern Era], radio"
@@ -5048,8 +5052,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "409",
-                        "y": "1945",
+                        "x": "500",
+                        "y": "953",
                         "size": 28
                     },
                     {
@@ -5065,7 +5069,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[modern Era], nationalism"
@@ -5081,8 +5085,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "2200",
-                        "y": "1713",
+                        "x": "500",
+                        "y": "1121",
                         "size": 28
                     },
                     {
@@ -5098,7 +5102,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[modern Era], sanitation"
@@ -5114,8 +5118,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "2480",
-                        "y": "1447",
+                        "x": "1500",
+                        "y": "1037",
                         "size": 28
                     },
                     {
@@ -5131,7 +5135,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[modern Era], bronze working, military engineering, military science"
@@ -5147,8 +5151,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "558",
-                        "y": "1236",
+                        "x": "1500",
+                        "y": "1205",
                         "size": 28
                     },
                     {
@@ -5164,7 +5168,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[modern Era], apprenticeship, industrialization"
@@ -5180,8 +5184,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "558",
-                        "y": "1387",
+                        "x": "1500",
+                        "y": "1289",
                         "size": 28
                     },
                     {
@@ -5211,8 +5215,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1616",
-                        "y": "1887",
+                        "x": "210",
+                        "y": "120",
                         "size": 28
                     }
                 ]
@@ -5236,8 +5240,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "509",
-                        "y": "325",
+                        "x": "210",
+                        "y": "288",
                         "size": 28
                     }
                 ]
@@ -5261,8 +5265,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1007",
-                        "y": "528",
+                        "x": "210",
+                        "y": "372",
                         "size": 28
                     }
                 ]
@@ -5286,8 +5290,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1640",
-                        "y": "1382",
+                        "x": "210",
+                        "y": "540",
                         "size": 28
                     }
                 ]
@@ -5311,8 +5315,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "329",
-                        "y": "154",
+                        "x": "652",
+                        "y": "36",
                         "size": 28
                     }
                 ]
@@ -5336,8 +5340,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1946",
-                        "y": "697",
+                        "x": "652",
+                        "y": "120",
                         "size": 28
                     }
                 ]
@@ -5361,8 +5365,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "731",
-                        "y": "2367",
+                        "x": "652",
+                        "y": "204",
                         "size": 28
                     }
                 ]
@@ -5386,8 +5390,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "582",
-                        "y": "1339",
+                        "x": "652",
+                        "y": "456",
                         "size": 28
                     }
                 ]
@@ -5411,8 +5415,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1897",
-                        "y": "60",
+                        "x": "167",
+                        "y": "750",
                         "size": 28
                     }
                 ]
@@ -5436,8 +5440,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "621",
-                        "y": "847",
+                        "x": "167",
+                        "y": "918",
                         "size": 28
                     }
                 ]
@@ -5461,8 +5465,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "830",
-                        "y": "1320",
+                        "x": "167",
+                        "y": "1086",
                         "size": 28
                     }
                 ]
@@ -5486,8 +5490,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1329",
-                        "y": "561",
+                        "x": "666",
+                        "y": "834",
                         "size": 28
                     }
                 ]
@@ -5511,8 +5515,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1549",
-                        "y": "137",
+                        "x": "666",
+                        "y": "918",
                         "size": 28
                     }
                 ]
@@ -5536,8 +5540,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1305",
-                        "y": "135",
+                        "x": "1166",
+                        "y": "834",
                         "size": 28
                     }
                 ]
@@ -5561,8 +5565,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "763",
-                        "y": "155",
+                        "x": "1166",
+                        "y": "1006",
                         "size": 28
                     }
                 ]
@@ -5586,8 +5590,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1590",
-                        "y": "809",
+                        "x": "1166",
+                        "y": "1172",
                         "size": 28
                     }
                 ]
@@ -5611,8 +5615,8 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "260",
-                        "y": "2432",
+                        "x": "1166",
+                        "y": "1254",
                         "size": 28
                     }
                 ]
@@ -5636,9 +5640,9 @@
                 "map_locations": [
                     {
                         "map": "Modern Era",
-                        "x": "1058",
-                        "y": "1049",
-                        "size": 40
+                        "x": "0",
+                        "y": "700",
+                        "size": 100
                     }
                 ]
             }
@@ -5650,7 +5654,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "atomic Era "
+            ""
         ],
         "children": [
             {
@@ -5658,7 +5662,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "flight"
@@ -5674,8 +5678,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1988",
-                        "y": "647",
+                        "x": "482",
+                        "y": "148",
                         "size": 28
                     },
                     {
@@ -5691,7 +5695,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -5707,8 +5711,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1560",
-                        "y": "1687",
+                        "x": "482",
+                        "y": "232",
                         "size": 28
                     },
                     {
@@ -5724,7 +5728,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "craftsmanship, apprenticeship, electricity, industrialization"
@@ -5740,8 +5744,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "897",
-                        "y": "1393",
+                        "x": "482",
+                        "y": "316",
                         "size": 28
                     },
                     {
@@ -5757,7 +5761,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "mobilization, nationalism"
@@ -5773,8 +5777,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1259",
-                        "y": "338",
+                        "x": "482",
+                        "y": "400",
                         "size": 28
                     },
                     {
@@ -5790,7 +5794,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "refining"
@@ -5806,8 +5810,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2214",
-                        "y": "169",
+                        "x": "482",
+                        "y": "484",
                         "size": 28
                     },
                     {
@@ -5823,10 +5827,10 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "suffrage", "totalitarianism", "class struggle"
+                    "[atomic era], suffrage", "[atomic era], totalitarianism", "[atomic era], class struggle"
                 ],
                 "sections": [
                     {
@@ -5839,8 +5843,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1985",
-                        "y": "567",
+                        "x": "925",
+                        "y": "64",
                         "size": 28
                     },
                     {
@@ -5856,7 +5860,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -5872,8 +5876,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1017",
-                        "y": "852",
+                        "x": "925",
+                        "y": "400",
                         "size": 28
                     },
                     {
@@ -5889,7 +5893,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "flight"
@@ -5905,8 +5909,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "738",
-                        "y": "479",
+                        "x": "925",
+                        "y": "484",
                         "size": 28
                     },
                     {
@@ -5922,7 +5926,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[atomic Era], nuclear fission"
@@ -5938,8 +5942,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1878",
-                        "y": "1420",
+                        "x": "540",
+                        "y": "948",
                         "size": 28
                     },
                     {
@@ -5955,7 +5959,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[atomic Era], games and recreation"
@@ -5971,8 +5975,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2444",
-                        "y": "153",
+                        "x": "540",
+                        "y": "1200",
                         "size": 28
                     },
                     {
@@ -5988,7 +5992,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[], drama poetry, humanism"
@@ -6004,8 +6008,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "492",
-                        "y": "2031",
+                        "x": "540",
+                        "y": "780",
                         "size": 28
                     },
                     {
@@ -6021,7 +6025,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "flight, cartography, shipbuilding, [atomic Era]"
@@ -6037,8 +6041,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "412",
-                        "y": "2312",
+                        "x": "1036",
+                        "y": "948",
                         "size": 28
                     },
                     {
@@ -6054,7 +6058,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[atomic Era], rocketry"
@@ -6070,8 +6074,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "983",
-                        "y": "1934",
+                        "x": "1036",
+                        "y": "1116",
                         "size": 28
                     },
                     {
@@ -6088,7 +6092,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "atomic era"
                 ],
                 "sections": [
                     {
@@ -6101,8 +6105,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "422",
-                        "y": "1456",
+                        "x": "197",
+                        "y": "114",
                         "size": 28
                     }
                 ]
@@ -6113,7 +6117,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6126,8 +6130,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "975",
-                        "y": "2172",
+                        "x": "197",
+                        "y": "198",
                         "size": 28
                     }
                 ]
@@ -6138,7 +6142,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6151,8 +6155,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2146",
-                        "y": "894",
+                        "x": "197",
+                        "y": "282",
                         "size": 28
                     }
                 ]
@@ -6163,7 +6167,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6176,8 +6180,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1953",
-                        "y": "2458",
+                        "x": "197",
+                        "y": "366",
                         "size": 28
                     }
                 ]
@@ -6188,7 +6192,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6201,8 +6205,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "446",
-                        "y": "130",
+                        "x": "197",
+                        "y": "450",
                         "size": 28
                     }
                 ]
@@ -6213,7 +6217,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6226,8 +6230,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1991",
-                        "y": "2485",
+                        "x": "637",
+                        "y": "30",
                         "size": 28
                     }
                 ]
@@ -6238,7 +6242,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6251,8 +6255,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2298",
-                        "y": "1671",
+                        "x": "637",
+                        "y": "366",
                         "size": 28
                     }
                 ]
@@ -6263,7 +6267,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6276,8 +6280,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2474",
-                        "y": "1375",
+                        "x": "637",
+                        "y": "450",
                         "size": 28
                     }
                 ]
@@ -6288,7 +6292,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6301,8 +6305,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2119",
-                        "y": "1481",
+                        "x": "200",
+                        "y": "750",
                         "size": 28
                     }
                 ]
@@ -6313,7 +6317,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6326,8 +6330,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1732",
-                        "y": "1804",
+                        "x": "200",
+                        "y": "918",
                         "size": 28
                     }
                 ]
@@ -6338,7 +6342,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6351,8 +6355,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2399",
-                        "y": "259",
+                        "x": "200",
+                        "y": "1170",
                         "size": 28
                     }
                 ]
@@ -6363,7 +6367,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6376,8 +6380,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "1773",
-                        "y": "399",
+                        "x": "702",
+                        "y": "918",
                         "size": 28
                     }
                 ]
@@ -6388,7 +6392,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "atomic era "
                 ],
                 "sections": [
                     {
@@ -6401,8 +6405,8 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2469",
-                        "y": "2340",
+                        "x": "702",
+                        "y": "1086",
                         "size": 28
                     }
                 ]
@@ -6413,7 +6417,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " atomic era"
                 ],
                 "sections": [
                     {
@@ -6426,9 +6430,9 @@
                 "map_locations": [
                     {
                         "map": "Atomic Era",
-                        "x": "2050",
-                        "y": "877",
-                        "size": 40
+                        "x": 0,
+                        "y": "718",
+                        "size": 100
                     }
                 ]
             }
@@ -6440,7 +6444,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "information era"
+            ""
         ],
         "children": [
             {
@@ -6448,7 +6452,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -6464,8 +6468,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "2340",
-                        "y": "1254",
+                        "x": "480",
+                        "y": "65",
                         "size": 28
                     },
                     {
@@ -6481,7 +6485,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "drama poetry, humanism, radio"
@@ -6497,8 +6501,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1945",
-                        "y": "1576",
+                        "x": "480",
+                        "y": "233",
                         "size": 28
                     },
                     {
@@ -6514,7 +6518,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "information Era, lasers, []", "information Era, guidance systems, []", "information Era, advanced flight, []"
@@ -6530,8 +6534,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1461",
-                        "y": "1871",
+                        "x": "480",
+                        "y": "317",
                         "size": 28
                     },
                     {
@@ -6547,7 +6551,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "computers"
@@ -6563,8 +6567,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1552",
-                        "y": "566",
+                        "x": "480",
+                        "y": "401",
                         "size": 28
                     },
                     {
@@ -6580,7 +6584,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "combustion"
@@ -6596,8 +6600,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "2082",
-                        "y": "2192",
+                        "x": "480",
+                        "y": "485",
                         "size": 28
                     },
                     {
@@ -6613,7 +6617,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -6629,8 +6633,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1044",
-                        "y": "617",
+                        "x": "480",
+                        "y": "569",
                         "size": 28
                     },
                     {
@@ -6646,7 +6650,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "globalization"
@@ -6662,8 +6666,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "223",
-                        "y": "343",
+                        "x": "920",
+                        "y": "149",
                         "size": 28
                     },
                     {
@@ -6679,7 +6683,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "apprenticeship, industrialization, nuclear fission, []", "apprenticeship, industrialization, nuclear fission, electricity"
@@ -6695,8 +6699,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "851",
-                        "y": "2091",
+                        "x": "920",
+                        "y": "401",
                         "size": 28
                     },
                     {
@@ -6712,7 +6716,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "radio, mining"
@@ -6728,8 +6732,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1379",
-                        "y": "1811",
+                        "x": "920",
+                        "y": "485",
                         "size": 28
                     },
                     {
@@ -6745,7 +6749,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[information Era], flight, advanced flight"
@@ -6761,8 +6765,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "997",
-                        "y": "700",
+                        "x": 508,
+                        "y": "1038",
                         "size": 28
                     },
                     {
@@ -6778,7 +6782,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[information Era], telecommunications"
@@ -6794,8 +6798,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1387",
-                        "y": "1269",
+                        "x": 508,
+                        "y": "1206",
                         "size": 28
                     },
                     {
@@ -6811,7 +6815,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "[information Era], satellites"
@@ -6827,8 +6831,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "2065",
-                        "y": "2342",
+                        "x": 508,
+                        "y": 870,
                         "size": 28
                     },
                     {
@@ -6845,7 +6849,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " information era"
                 ],
                 "sections": [
                     {
@@ -6858,8 +6862,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "2433",
-                        "y": "141",
+                        "x": "194",
+                        "y": "31",
                         "size": 28
                     }
                 ]
@@ -6870,7 +6874,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -6883,8 +6887,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "962",
-                        "y": "120",
+                        "x": "194",
+                        "y": "199",
                         "size": 28
                     }
                 ]
@@ -6895,7 +6899,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -6908,8 +6912,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1150",
-                        "y": "378",
+                        "x": "194",
+                        "y": "283",
                         "size": 28
                     }
                 ]
@@ -6920,7 +6924,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -6933,8 +6937,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "644",
-                        "y": "1912",
+                        "x": "194",
+                        "y": "367",
                         "size": 28
                     }
                 ]
@@ -6945,7 +6949,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -6958,8 +6962,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1567",
-                        "y": "1746",
+                        "x": "194",
+                        "y": "451",
                         "size": 28
                     }
                 ]
@@ -6970,7 +6974,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -6983,8 +6987,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "2266",
-                        "y": "1810",
+                        "x": "194",
+                        "y": "535",
                         "size": 28
                     }
                 ]
@@ -6995,7 +6999,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7008,8 +7012,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1455",
-                        "y": "415",
+                        "x": "634",
+                        "y": "115",
                         "size": 28
                     }
                 ]
@@ -7020,7 +7024,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7033,8 +7037,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "272",
-                        "y": "460",
+                        "x": "634",
+                        "y": "367",
                         "size": 28
                     }
                 ]
@@ -7045,7 +7049,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7058,8 +7062,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1158",
-                        "y": "769",
+                        "x": "634",
+                        "y": "451",
                         "size": 28
                     }
                 ]
@@ -7070,7 +7074,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7083,8 +7087,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "257",
-                        "y": "226",
+                        "x": "172",
+                        "y": "838",
                         "size": 28
                     }
                 ]
@@ -7095,7 +7099,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7108,8 +7112,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1879",
-                        "y": "989",
+                        "x": "172",
+                        "y": "1006",
                         "size": 28
                     }
                 ]
@@ -7120,7 +7124,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7133,8 +7137,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "954",
-                        "y": "1525",
+                        "x": "172",
+                        "y": "1174",
                         "size": 28
                     }
                 ]
@@ -7145,7 +7149,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7158,8 +7162,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1250",
-                        "y": "2063",
+                        "x": "672",
+                        "y": "921",
                         "size": 28
                     }
                 ]
@@ -7170,7 +7174,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7183,8 +7187,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "767",
-                        "y": "2115",
+                        "x": "672",
+                        "y": "1006",
                         "size": 28
                     }
                 ]
@@ -7195,7 +7199,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7208,8 +7212,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "14",
-                        "y": "1349",
+                        "x": "672",
+                        "y": "1090",
                         "size": 28
                     }
                 ]
@@ -7220,7 +7224,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7233,8 +7237,8 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "1713",
-                        "y": "954",
+                        "x": "672",
+                        "y": "1174",
                         "size": 28
                     }
                 ]
@@ -7245,7 +7249,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "information era "
                 ],
                 "sections": [
                     {
@@ -7258,9 +7262,9 @@
                 "map_locations": [
                     {
                         "map": "Information Era",
-                        "x": "20",
-                        "y": "500",
-                        "size": 40
+                        "x": "0",
+                        "y": "700",
+                        "size": 100
                     }
                 ]
             }
@@ -7272,7 +7276,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "future era"
+            ""
         ],
         "children": [
             {
@@ -7280,7 +7284,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7296,8 +7300,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "992",
-                        "y": "900",
+                        "x": "563",
+                        "y": "85",
                         "size": 28
                     },
                     {
@@ -7313,7 +7317,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7329,8 +7333,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "1164",
-                        "y": "1004",
+                        "x": "563",
+                        "y": "169",
                         "size": 28
                     },
                     {
@@ -7346,7 +7350,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7362,8 +7366,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "895",
-                        "y": "1380",
+                        "x": "563",
+                        "y": "253",
                         "size": 28
                     },
                     {
@@ -7379,7 +7383,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7395,8 +7399,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "2387",
-                        "y": "1569",
+                        "x": "563",
+                        "y": "589",
                         "size": 28
                     },
                     {
@@ -7412,7 +7416,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7428,8 +7432,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "777",
-                        "y": "1511",
+                        "x": "563",
+                        "y": "421",
                         "size": 28
                     },
                     {
@@ -7445,7 +7449,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7461,8 +7465,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "823",
-                        "y": "1831",
+                        "x": "563",
+                        "y": "505",
                         "size": 28
                     },
                     {
@@ -7478,7 +7482,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":[],
+                "visibility_rules":["boostsanity"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7494,8 +7498,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "1570",
-                        "y": "79",
+                        "x": "563",
+                        "y": "337",
                         "size": 28
                     },
                     {
@@ -7512,7 +7516,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era"
                 ],
                 "sections": [
                     {
@@ -7525,8 +7529,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "2195",
-                        "y": "159",
+                        "x": "277",
+                        "y": "52",
                         "size": 28
                     }
                 ]
@@ -7537,7 +7541,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era "
                 ],
                 "sections": [
                     {
@@ -7550,8 +7554,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "279",
-                        "y": "1405",
+                        "x": "277",
+                        "y": "136",
                         "size": 28
                     }
                 ]
@@ -7562,7 +7566,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era "
                 ],
                 "sections": [
                     {
@@ -7575,8 +7579,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "2254",
-                        "y": "382",
+                        "x": "277",
+                        "y": "220",
                         "size": 28
                     }
                 ]
@@ -7587,7 +7591,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era "
                 ],
                 "sections": [
                     {
@@ -7600,8 +7604,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "524",
-                        "y": "594",
+                        "x": "277",
+                        "y": "304",
                         "size": 28
                     }
                 ]
@@ -7612,7 +7616,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era "
                 ],
                 "sections": [
                     {
@@ -7625,8 +7629,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "1910",
-                        "y": "572",
+                        "x": "277",
+                        "y": "388",
                         "size": 28
                     }
                 ]
@@ -7637,7 +7641,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era "
                 ],
                 "sections": [
                     {
@@ -7650,8 +7654,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "2366",
-                        "y": "735",
+                        "x": "277",
+                        "y": "472",
                         "size": 28
                     }
                 ]
@@ -7662,7 +7666,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era "
                 ],
                 "sections": [
                     {
@@ -7675,8 +7679,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "588",
-                        "y": "441",
+                        "x": "277",
+                        "y": "640",
                         "size": 28
                     }
                 ]
@@ -7687,7 +7691,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " future era"
                 ],
                 "sections": [
                     {
@@ -7700,8 +7704,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "1733",
-                        "y": "66",
+                        "x": "277",
+                        "y": "556",
                         "size": 28
                     }
                 ]
@@ -7712,7 +7716,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " future era"
                 ],
                 "sections": [
                     {
@@ -7725,8 +7729,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "152",
-                        "y": "1901",
+                        "x": "267",
+                        "y": "913",
                         "size": 28
                     }
                 ]
@@ -7737,7 +7741,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "future era "
                 ],
                 "sections": [
                     {
@@ -7750,8 +7754,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "1173",
-                        "y": "366",
+                        "x": "267",
+                        "y": "829",
                         "size": 28
                     }
                 ]
@@ -7762,7 +7766,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " future era"
                 ],
                 "sections": [
                     {
@@ -7775,8 +7779,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "1621",
-                        "y": "472",
+                        "x": "267",
+                        "y": "745",
                         "size": 28
                     }
                 ]
@@ -7787,7 +7791,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " future era"
                 ],
                 "sections": [
                     {
@@ -7800,8 +7804,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "157",
-                        "y": "1041",
+                        "x": "267",
+                        "y": "997",
                         "size": 28
                     }
                 ]
@@ -7812,7 +7816,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " future era"
                 ],
                 "sections": [
                     {
@@ -7825,8 +7829,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "674",
-                        "y": "138",
+                        "x": "267",
+                        "y": "1081",
                         "size": 28
                     }
                 ]
@@ -7837,7 +7841,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " future era"
                 ],
                 "sections": [
                     {
@@ -7850,8 +7854,8 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "1818",
-                        "y": "321",
+                        "x": "267",
+                        "y": "1165",
                         "size": 28
                     }
                 ]
@@ -7862,7 +7866,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    " future era"
                 ],
                 "sections": [
                     {
@@ -7875,9 +7879,9 @@
                 "map_locations": [
                     {
                         "map": "Future Era",
-                        "x": "20",
-                        "y": "500",
-                        "size": 40
+                        "x": 0,
+                        "y": "722",
+                        "size": 100
                     }
                 ]
             }

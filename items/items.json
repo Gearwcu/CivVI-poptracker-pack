@@ -287,6 +287,26 @@
         "codes": "future Era"
         }
       ]
+    },
+    {
+      "name": "Boostsanity",
+      "type": "toggle",
+      "codes": "boostsanity",
+      "img": "images/settings/Boosts.png"
+    },
+    {
+      "name": "Progstyle",
+      // doesn't do anything yet
+      "type": "toggle",
+      "codes": "progstyle",
+      "img": "images/settings/progs.png"
+    },
+    {
+      "name": "Goodyhutsrando",
+      "type": "toggle",
+      "codes": "goodyhutsrando",
+      "img": "images/settings/huts.png"
     }
+
   ]
   
