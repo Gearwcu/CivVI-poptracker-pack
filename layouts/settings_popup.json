@@ -8,11 +8,9 @@
 				"type": "itemgrid",
 				"item_margin": "2, 0",
 				"h_alignment": "left",
-				"item_size": "200,95",
+				"item_size": "150,95",
 				"rows": [
-					[ "boostsanity"],
-					[ "Progstyle"],
-                    ["Goodyhutsrando"]
+					[ "boostsanity", "Progstyle","Goodyhutsrando"]
 				]
 			}
 		]

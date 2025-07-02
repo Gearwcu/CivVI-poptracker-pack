@@ -24,6 +24,8 @@ require("scripts/layouts_import")
 
 -- Locations
 require("scripts/locations_import")
+-- Logic
+require("scripts/Layoutlogic")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.26.0" then

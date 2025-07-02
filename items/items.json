@@ -254,7 +254,7 @@
       "img": "images/items/Aqueduct.png"
     },
     {
-      "name": "progressive Era",
+      "name": "Progressive Era",
       "type": "progressive",
       "codes": "Progressive Era",
       "loop": false,
@@ -295,7 +295,7 @@
       "img": "images/settings/Boosts.png"
     },
     {
-      "name": "Progstyle",
+      "name": "Progression Style",
       "type": "progressive",
       "codes": "progstyle",
       "allow_disabled": false,
