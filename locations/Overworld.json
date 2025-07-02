@@ -1035,7 +1035,7 @@
                 ],
 
                 "access_rules": [
-                    "Progressive Era, sailing"
+                    "sailing"
                 ],
                 "sections": [
                     {
@@ -1068,7 +1068,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "Progressive Era, foreign trade"
+                    "foreign trade"
                 ],
                 "sections": [
                     {
@@ -1101,7 +1101,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "Progressive Era, animal husbandry"
+                    "animal husbandry"
                 ],
                 "sections": [
                     {
@@ -1134,7 +1134,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "Progressive Era, mining, bronze working"
+                    "mining, bronze working"
                 ],
                 "sections": [
                     {
@@ -1167,7 +1167,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "Progressive Era, sailing"
+                    "sailing"
                 ],
                 "sections": [
                     {
@@ -1236,7 +1236,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "Progressive Era, the wheel"
+                    "the wheel"
                 ],
                 "sections": [
                     {
@@ -1269,7 +1269,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "Progressive Era, masonry"
+                    "masonry"
                 ],
                 "sections": [
                     {
@@ -1401,7 +1401,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[classical Era], bronze working"
+                    "bronze working"
                 ],
                 "sections": [
                     {
@@ -1467,7 +1467,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "classical Era, writing"
+                    "writing"
                 ],
                 "sections": [
                     {
@@ -1887,7 +1887,6 @@
                     {
                         "name": "",
                         "access_rules": [],
-                        "visibility_rules": [],
                         "item_count": 1
                     }
                 ],
@@ -1908,6 +1907,7 @@
                 "access_rules": [
                     "classical era"
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",
@@ -1944,7 +1944,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, []"
+                    "[]"
                 ],
                 "sections": [
                     {
@@ -1977,7 +1977,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, bronze working"
+                    "bronze working"
                 ],
                 "sections": [
                     {
@@ -2010,7 +2010,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, mining"
+                    "mining"
                 ],
                 "sections": [
                     {
@@ -2043,7 +2043,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, archery"
+                    "archery"
                 ],
                 "sections": [
                     {
@@ -2076,7 +2076,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, writing, []"
+                    "writing, []"
                 ],
                 "sections": [
                     {
@@ -2109,7 +2109,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, feudalism"
+                    "feudalism"
                 ],
                 "sections": [
                     {
@@ -2142,7 +2142,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, engineering"
+                    "engineering"
                 ],
                 "sections": [
                     {
@@ -2175,7 +2175,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[medieval Era], divine right", "[medieval Era], exploration", "[medieval Era], reformed church"
+                    "divine right", "exploration", "reformed church"
                 ],
                 "sections": [
                     {
@@ -2208,7 +2208,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, shipbuilding, []"
+                    "shipbuilding, []"
                 ],
                 "sections": [
                     {
@@ -2241,7 +2241,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[medieval Era]"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2274,8 +2274,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era",
-                    "[medieval Era], classical Era"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2308,7 +2307,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[medieval Era]"
+                    ""
                 ],
                 "sections": [
                     {
@@ -2341,7 +2340,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[medieval Era], foreign trade, currency"
+                    "foreign trade, currency"
                 ],
                 "sections": [
                     {
@@ -2374,7 +2373,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[medieval Era], currency"
+                    "currency"
                 ],
                 "sections": [
                     {
@@ -2407,8 +2406,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, theology, astrology",
-                    "[medieval Era], theology, astrology, classical Era"
+                    "theology, astrology"
                 ],
                 "sections": [
                     {
@@ -2816,6 +2814,7 @@
                 "access_rules": [
                     "medieval Era"
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",
@@ -2852,7 +2851,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, celestial navigation"
+                    "celestial navigation"
                 ],
                 "sections": [
                     {
@@ -2885,7 +2884,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, construction"
+                    "construction"
                 ],
                 "sections": [
                     {
@@ -2918,7 +2917,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, guilds"
+                    "guilds"
                 ],
                 "sections": [
                     {
@@ -2951,7 +2950,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, military engineering"
+                    "military engineering"
                 ],
                 "sections": [
                     {
@@ -2984,7 +2983,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, writing, education"
+                    "writing, education"
                 ],
                 "sections": [
                     {
@@ -3017,7 +3016,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, gunpowder"
+                    "gunpowder"
                 ],
                 "sections": [
                     {
@@ -3050,7 +3049,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, education, []"
+                    "education, []"
                 ],
                 "sections": [
                     {
@@ -3083,7 +3082,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, machinery"
+                    "machinery"
                 ],
                 "sections": [
                     {
@@ -3116,7 +3115,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, military engineering"
+                    "military engineering"
                 ],
                 "sections": [
                     {
@@ -3149,7 +3148,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "renaissance Era, cartography,celestial navigation"
+                    "cartography,celestial navigation"
                 ],
                 "sections": [
                     {
@@ -3182,7 +3181,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "medieval Era, drama poetry, []"
+                    "drama poetry, []"
                 ],
                 "sections": [
                     {
@@ -3724,6 +3723,7 @@
                 "access_rules": [
                     "renaissance Era"
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",
@@ -3760,7 +3760,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, apprenticeship"
+                    "apprenticeship"
                 ],
                 "sections": [
                     {
@@ -3793,7 +3793,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, enlightenment"
+                    "enlightenment"
                 ],
                 "sections": [
                     {
@@ -3826,7 +3826,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, military engineering"
+                    "military engineering"
                 ],
                 "sections": [
                     {
@@ -3859,7 +3859,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, stirrups"
+                    "stirrups"
                 ],
                 "sections": [
                     {
@@ -3892,7 +3892,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, mass production, celestial navigation"
+                    "mass production, celestial navigation"
                 ],
                 "sections": [
                     {
@@ -3925,7 +3925,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, urbanization"
+                    "urbanization"
                 ],
                 "sections": [
                     {
@@ -3958,7 +3958,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, banking"
+                    "banking"
                 ],
                 "sections": [
                     {
@@ -3991,7 +3991,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era, military engineering, mining"
+                    "military engineering, mining"
                 ],
                 "sections": [
                     {
@@ -4057,14 +4057,14 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "district:7, [Industrial Era]",
-                    "[district:7], district:6, districtool:1, [Industrial Era]",
-                    "[district:7], district:5, districtool:2, [Industrial Era]",
-                    "[district:7], district:4, districtool:3, [Industrial Era]",
-                    "[district:7], district:3, districtool:4, [Industrial Era]",
-                    "[district:7], district:2, districtool:5, [Industrial Era]",
-                    "[district:7], district:1, districtool:6, [Industrial Era]",
-                    "[district:7], districtool:7, [Industrial Era]"
+                    "district:7",
+                    "[district:7], district:6, districtool:1",
+                    "[district:7], district:5, districtool:2",
+                    "[district:7], district:4, districtool:3",
+                    "[district:7], district:3, districtool:4",
+                    "[district:7], district:2, districtool:5",
+                    "[district:7], district:1, districtool:6",
+                    "[district:7], districtool:7"
                 ],
                 "sections": [
                     {
@@ -4097,10 +4097,10 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[], industrial Era, diplomatic service",
-                    "[], industrial Era, defensive tactics",
-                    "[], industrial Era, nationalism",
-                    "[], industrial Era, mobilization"
+                    "[], diplomatic service",
+                    "[], defensive tactics",
+                    "[], nationalism",
+                    "[], mobilization"
                 ],
                 "sections": [
                     {
@@ -4133,7 +4133,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[industrial Era], humanism, drama poetry"
+                    "humanism, drama poetry"
                 ],
                 "sections": [
                     {
@@ -4166,7 +4166,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[industrial Era], humanism, drama poetry"
+                    "humanism, drama poetry"
                 ],
                 "sections": [
                     {
@@ -4199,7 +4199,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "ballistics, [industrial Era]"
+                    "ballistics"
                 ],
                 "sections": [
                     {
@@ -4232,7 +4232,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era"
+                    "","[yes this is in logic]"
                 ],
                 "sections": [
                     {
@@ -4640,6 +4640,7 @@
                 "access_rules": [
                     "industrial Era"
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",
@@ -4676,7 +4677,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, []"
+                    "industrial era, []"
                 ],
                 "sections": [
                     {
@@ -4709,7 +4710,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, military science"
+                    "military science"
                 ],
                 "sections": [
                     {
@@ -4742,7 +4743,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, mining, steam power, industrialization"
+                    "mining, steam power, industrialization"
                 ],
                 "sections": [
                     {
@@ -4775,7 +4776,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, mining, apprenticeship, industrialization"
+                    "mining, apprenticeship, industrialization"
                 ],
                 "sections": [
                     {
@@ -4808,7 +4809,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, mercantilism, celestial navigation"
+                    "mercantilism, celestial navigation"
                 ],
                 "sections": [
                     {
@@ -4841,7 +4842,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, conservation, []"
+                    "conservation, []"
                 ],
                 "sections": [
                     {
@@ -4874,7 +4875,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, civil service, []"
+                    "civil service, []"
                 ],
                 "sections": [
                     {
@@ -4907,7 +4908,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "modern Era, Natural History, Humanism, [], drama poetry"
+                    "Natural History, Humanism, [], drama poetry"
                 ],
                 "sections": [
                     {
@@ -4973,7 +4974,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[modern Era], currnecy, banking, economics"
+                    "currnecy, banking, economics"
                 ],
                 "sections": [
                     {
@@ -5006,7 +5007,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[modern Era], writing, education, chemistry"
+                    "writing, education, chemistry"
                 ],
                 "sections": [
                     {
@@ -5039,7 +5040,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[modern Era], radio"
+                    "radio"
                 ],
                 "sections": [
                     {
@@ -5072,7 +5073,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[modern Era], nationalism"
+                    "nationalism"
                 ],
                 "sections": [
                     {
@@ -5105,7 +5106,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[modern Era], sanitation"
+                    "sanitation"
                 ],
                 "sections": [
                     {
@@ -5138,7 +5139,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[modern Era], bronze working, military engineering, military science"
+                    "bronze working, military engineering, military science"
                 ],
                 "sections": [
                     {
@@ -5171,7 +5172,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[modern Era], apprenticeship, industrialization"
+                    "apprenticeship, industrialization"
                 ],
                 "sections": [
                     {
@@ -5629,6 +5630,7 @@
                 "access_rules": [
                     "modern Era"
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",
@@ -5830,7 +5832,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[atomic era], suffrage", "[atomic era], totalitarianism", "[atomic era], class struggle"
+                    "suffrage", "totalitarianism", "class struggle"
                 ],
                 "sections": [
                     {
@@ -5929,7 +5931,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[atomic Era], nuclear fission"
+                    "nuclear fission"
                 ],
                 "sections": [
                     {
@@ -5962,7 +5964,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[atomic Era], games and recreation"
+                    "games and recreation"
                 ],
                 "sections": [
                     {
@@ -6028,7 +6030,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "flight, cartography, shipbuilding, [atomic Era]"
+                    "flight, cartography, shipbuilding"
                 ],
                 "sections": [
                     {
@@ -6061,7 +6063,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[atomic Era], rocketry"
+                    "rocketry"
                 ],
                 "sections": [
                     {
@@ -6419,6 +6421,7 @@
                 "access_rules": [
                     " atomic era"
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",
@@ -6521,7 +6524,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "information Era, lasers, []", "information Era, guidance systems, []", "information Era, advanced flight, []"
+                    "lasers, []", "guidance systems, []", "advanced flight, []"
                 ],
                 "sections": [
                     {
@@ -6686,7 +6689,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "apprenticeship, industrialization, nuclear fission, []", "apprenticeship, industrialization, nuclear fission, electricity"
+                    "apprenticeship, industrialization, nuclear fission, [electricity]"
                 ],
                 "sections": [
                     {
@@ -6752,7 +6755,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[information Era], flight, advanced flight"
+                    "flight, advanced flight"
                 ],
                 "sections": [
                     {
@@ -6785,7 +6788,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[information Era], telecommunications"
+                    "telecommunications"
                 ],
                 "sections": [
                     {
@@ -6818,7 +6821,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[information Era], satellites"
+                    "satellites"
                 ],
                 "sections": [
                     {
@@ -7251,6 +7254,7 @@
                 "access_rules": [
                     "information era "
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",
@@ -7868,6 +7872,7 @@
                 "access_rules": [
                     " future era"
                 ],
+                "visibility_rules": ["PEra"],
                 "sections": [
                     {
                         "name": "",

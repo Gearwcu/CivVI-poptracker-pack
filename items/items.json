@@ -296,10 +296,20 @@
     },
     {
       "name": "Progstyle",
-      // doesn't do anything yet
-      "type": "toggle",
+      "type": "progressive",
       "codes": "progstyle",
-      "img": "images/settings/progs.png"
+      "allow_disabled": false,
+      "stages":[
+        {"img": "images/settings/progs.png",
+        "codes": "None"
+        },
+        {"img": "images/settings/circle.png",
+        "codes": "PDistricts"
+        },
+        {"img": "images/settings/huts.png",
+        "codes": "PEra"
+        }
+      ]
     },
     {
       "name": "Goodyhutsrando",
