@@ -42,16 +42,14 @@ end
 
 
 function onClear(slot_data)
-    if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
-    end
+    print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     CUR_INDEX = -1
     SLOT_DATA = slot_data
     -- reset locations
     for _, v in pairs(LOCATION_MAPPING) do
         if v[1] then
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: clearing location %s", v[1]))
+                --print(string.format("onClear: clearing location %s", v[1]))
             end
             local obj = Tracker:FindObjectForCode(v[1])
             if obj then
@@ -69,7 +67,7 @@ function onClear(slot_data)
     for _, v in pairs(ITEM_MAPPING) do
         if v[1] and v[2] then
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: clearing item %s of type %s", v[1], v[2]))
+                --(string.format("onClear: clearing item %s of type %s", v[1], v[2]))
             end
             local obj = Tracker:FindObjectForCode(v[1])
             if obj then
@@ -93,7 +91,7 @@ function onClear(slot_data)
     -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
     --     autoFill(slot_data)
     -- end
-    print(PLAYER_ID, TEAM_NUMBER)
+    --print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
@@ -101,16 +99,20 @@ function onClear(slot_data)
         Archipelago:Get({HINTS_ID})
     end
     --settingFill
-    Tracker:FindObjectForCode("Progstyle").CurrentStage = slot_data.progression_style
+    Tracker:FindObjectForCode("Progstyle").CurrentStage = slot_data.progression_style + 1
     -- look for the existence of boost locations?
 end
 
 function onItem(index, item_id, item_name, player_number)
+    
+	
+	
     if index <= CUR_INDEX then
         return
     end
     local is_local = player_number == Archipelago.PlayerNumber
     CUR_INDEX = index;
+    --print(string.format("called onItem: %s, %s, %s, %s, %s", index, item_id, item_name, player_number, CUR_INDEX))
     local item = ITEM_MAPPING[item_id]
     if not item or not item[1] then
         --print(string.format("onItem: could not find item mapping for id %s", item_id))
@@ -122,16 +124,20 @@ function onItem(index, item_id, item_name, player_number)
         local item_obj = Tracker:FindObjectForCode(item_code)
         if item_obj then
             if item_obj.Type == "toggle" then
-                -- print("toggle")
+                --print("toggle")
                 item_obj.Active = true
             elseif item_obj.Type == "progressive" then
-                -- print("progressive")
-                item_obj.Active = true
+                --print("progressive")
+                if item_obj.Active then
+				    item_obj.CurrentStage = item_obj.CurrentStage + 1
+			    else
+				    item_obj.Active = true
+			    end
             elseif item_obj.Type == "consumable" then
-                -- print("consumable")
+                --print("consumable")
                 item_obj.AcquiredCount = item_obj.AcquiredCount + item_obj.Increment * (tonumber(item_pair[3]) or 1)
             elseif item_obj.Type == "progressive_toggle" then
-                -- print("progressive_toggle")
+                --print("progressive_toggle")
                 if item_obj.Active then
                     item_obj.CurrentStage = item_obj.CurrentStage + 1
                 else

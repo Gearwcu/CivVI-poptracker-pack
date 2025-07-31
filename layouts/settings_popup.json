@@ -5,13 +5,44 @@
 		"margin": "8,25",
 		"content": [
 			{
-				"type": "itemgrid",
+				"type": "group",
+				"header": "Boostsanity",
 				"item_margin": "2, 0",
 				"h_alignment": "left",
-				"item_size": "150,95",
-				"rows": [
-					[ "boostsanity", "Progstyle","Goodyhutsrando"]
+				"content":[
+					{
+						"type": "item",
+						"item": "boostsanity",
+						"max_width": 100
+					}
+				]		
+			},
+			{
+				"type": "group",
+				"header": "Progression style",
+				"item_margin": "2, 0",
+				"h_alignment": "left"	,
+				"content":[
+					{
+						"type": "item",
+						"item": "progstyle",
+						"max_width": 100
+					}
 				]
+			},
+			{
+				"type": "group",
+				"header": "Goody Huts",
+				"item_margin": "2, 0",
+				"h_alignment": "left",
+				"content":[
+					{
+						"type": "item",
+						"item": "Goodyhutsrando",
+						"max_width": 100
+					}
+				]
+							
 			}
 		]
 	}

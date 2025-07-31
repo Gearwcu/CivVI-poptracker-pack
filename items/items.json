@@ -27,7 +27,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/theater1.png",
-      "codes": "drama poetry, district"
+      "codes": "drama and poetry, district"
         },
         {"img": "images/items/theater2.png",
       "codes": "humanism"
@@ -193,15 +193,17 @@
     {
       "name": "Diplomatic Quarter",
       "type": "progressive",
-      "codes": "Diplo Quarter",
       "loop": false,
+      "codes": "Diplo Quarter",
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/diplo1.png",
-        "codes": "mathematics, districtool"
+        "codes": "mathematics",
+        "inherit_codes": false
         },
         {"img": "images/items/diplo2.png",
-        "codes": "diplomatic service"
+        "codes": "diplomatic service",
+        "inherit_codes": false
         }
       ]
     },
@@ -238,7 +240,7 @@
     {
       "name": "Government Plaza",
       "type": "toggle",
-      "codes": "Government Plaza",
+      "codes": "Government Plaza, state workforce",
       "img": "images/items/GovernmentPlaza.png"
     },
     {
@@ -259,6 +261,7 @@
       "codes": "Progressive Era",
       "loop": false,
       "allow_disabled": false,
+      "initial_stage_idx": 0,
       "stages":[
         {"img": "images/items/era1.png"
         },
@@ -272,7 +275,7 @@
         "codes": "renaissance Era"
         },
         {"img": "images/items/era5.png",
-        "codes": "industrial era"
+        "codes": "industrial Era"
         },
         {"img": "images/items/era6.png",
         "codes": "modern Era"
@@ -316,7 +319,396 @@
       "type": "toggle",
       "codes": "goodyhutsrando",
       "img": "images/settings/huts.png"
+    },
+    {
+      "name": "mining",
+      "type": "toggle",
+      "codes": "mining"
+    },
+    {
+      "name": "bronze working",
+      "type": "toggle",
+      "codes": "bronze working"
+    },
+    {
+      "name": "astrology",
+      "type": "toggle",
+      "codes": "astrology"
+    },
+    {
+      "name": "writing",
+      "type": "toggle",
+      "codes": "writing"
+    },
+    {
+      "name": "irrigation",
+      "type": "toggle",
+      "codes": "irrigation"
+    },
+    {
+      "name": "sailing",
+      "type": "toggle",
+      "codes": "sailing"
+    },
+    {
+      "name": "animal husbandry",
+      "type": "toggle",
+      "codes": "animal husbandry"
+    },
+    {
+      "name": "foreign trade",
+      "type": "toggle",
+      "codes": "foreign trade"
+    },
+    {
+        "name": "celestial navigation",
+        "type": "toggle",
+        "codes": "celestial navigation"
+    },    
+    {
+        "name": "currency",
+        "type": "toggle",
+        "codes": "currency"
+    },
+    {
+        "name": "mathematics",
+        "type": "toggle",
+        "codes": "mathematics"
+    },
+    {
+        "name": "shipbuilding",
+        "type": "toggle",
+        "codes": "shipbuilding"
+    },
+    {
+        "name": "games and recreation",
+        "type": "toggle",
+        "codes": "games and recreation"
+    },
+    {
+        "name": "political philosophy",
+        "type": "toggle",
+        "codes": "political philosophy"
+    },
+    {
+        "name": "drama and poetry",
+        "type": "toggle",
+        "codes": "drama and poetry"
+    },
+        {
+        "name": "theology",
+        "type": "toggle",
+        "codes": "theology"
+    },
+        {
+        "name": "apprenticeship",
+        "type": "toggle",
+        "codes": "apprenticeship"
+    },
+        {
+        "name": "education",
+        "type": "toggle",
+        "codes": "education"
+    },
+        {
+        "name": "military engineering",
+        "type": "toggle",
+        "codes": "military engineering"
+    },
+        {
+        "name": "divine right",
+        "type": "toggle",
+        "codes": "divine right"
+    },
+        {
+        "name": "mass production",
+        "type": "toggle",
+        "codes": "mass production"
+    },
+        {
+        "name": "banking",
+        "type": "toggle",
+        "codes": "banking"
+    },
+        {
+        "name": "exploration",
+        "type": "toggle",
+        "codes": "exploration"
+    },
+        {
+        "name": "humanism",
+        "type": "toggle",
+        "codes": "humanism"
+    },
+        {
+        "name": "reformed church",
+        "type": "toggle",
+        "codes": "reformed church"
+    },
+        {
+        "name": "diplomatic service",
+        "type": "toggle",
+        "codes": "diplomatic service"
+    },
+        {
+        "name": "cartography",
+        "type": "toggle",
+        "codes": "cartography"
+    },
+        {
+        "name": "industrialization",
+        "type": "toggle",
+        "codes": "industrialization"
+    },
+        {
+        "name": "military science",
+        "type": "toggle",
+        "codes": "military science"
+    },
+        {
+        "name": "economics",
+        "type": "toggle",
+        "codes": "economics"
+    },
+        {
+        "name": "nationalism",
+        "type": "toggle",
+        "codes": "nationalism"
+    },
+        {
+        "name": "natural history",
+        "type": "toggle",
+        "codes": "natural history"
+    },
+        {
+        "name": "flight",
+        "type": "toggle",
+        "codes": "flight"
+    },
+        {
+        "name": "refining",
+        "type": "toggle",
+        "codes": "refining"
+    },
+        {
+        "name": "electricity",
+        "type": "toggle",
+        "codes": "electricity"
+    },
+        {
+        "name": "radio",
+        "type": "toggle",
+        "codes": "radio"
+    },
+        {
+        "name": "chemistry",
+        "type": "toggle",
+        "codes": "chemistry"
+    },
+        {
+        "name": "suffrage",
+        "type": "toggle",
+        "codes": "suffrage"
+    },
+        {
+        "name": "totalitarianism",
+        "type": "toggle",
+        "codes": "totalitarianism"
+    },
+        {
+        "name": "class struggle",
+        "type": "toggle",
+        "codes": "class struggle"
+    },
+        {
+        "name": "advanced flight",
+        "type": "toggle",
+        "codes": "advanced flight"
+    },
+        {
+        "name": "rocketry",
+        "type": "toggle",
+        "codes": "rocketry"
+    },
+        {
+        "name": "combined arms",
+        "type": "toggle",
+        "codes": "combined arms"
+    },
+        {
+        "name": "plastics",
+        "type": "toggle",
+        "codes": "plastics"
+    },
+        {
+        "name": "nuclear fission",
+        "type": "toggle",
+        "codes": "nuclear fission"
+    },
+        {
+        "name": "professional sports",
+        "type": "toggle",
+        "codes": "professional sports"
+    },
+        {
+        "name": "satellites",
+        "type": "toggle",
+        "codes": "satellites"
+    },
+        {
+        "name": "nanotechnology",
+        "type": "toggle",
+        "codes": "nanotechnology"
+    },
+        {
+        "name": "smart materials",
+        "type": "toggle",
+        "codes": "smart materials"
+    },
+        {
+        "name": "corporate libertarianism",
+        "type": "toggle",
+        "codes": "corporate libertarianism"
+    },
+        {
+        "name": "digital democracy",
+        "type": "toggle",
+        "codes": "digital democracy"
+    },
+        {
+        "name": "synthetic technocracy",
+        "type": "toggle",
+        "codes": "synthetic technocracy"
+    },
+        {
+        "name": "lasers",
+        "type": "toggle",
+        "codes": "lasers"
+    },
+        {
+        "name": "guidance systems",
+        "type": "toggle",
+        "codes": "guidance systems"
+    },
+        {
+        "name": "computers",
+        "type": "toggle",
+        "codes": "computers"
+    },
+        {
+        "name": "combustion",
+        "type": "toggle",
+        "codes": "combustion"
+    },
+        {
+        "name": "globalization",
+        "type": "toggle",
+        "codes": "globalization"
+    },
+        {
+        "name": "telecommunications",
+        "type": "toggle",
+        "codes": "telecommunications"
+    },
+        {
+        "name": "mobilization",
+        "type": "toggle",
+        "codes": "mobilization"
+    },
+        {
+        "name": "mercantilism",
+        "type": "toggle",
+        "codes": "mercantilism"
+    },
+        {
+        "name": "conservation",
+        "type": "toggle",
+        "codes": "conservation"
+    },
+        {
+        "name": "civil service",
+        "type": "toggle",
+        "codes": "civil service"
+    },
+        {
+        "name": "urbanization",
+        "type": "toggle",
+        "codes": "urbanization"
+    },
+        {
+        "name": "sanitation",
+        "type": "toggle",
+        "codes": "sanitation"
+    },
+        {
+        "name": "the enlightenment",
+        "type": "toggle",
+        "codes": "the enlightenment"
+    },
+        {
+        "name": "stirrups",
+        "type": "toggle",
+        "codes": "stirrups"
+    },
+        {
+        "name": "astronomy",
+        "type": "toggle",
+        "codes": "astronomy"
+    },
+        {
+        "name": "defensive tactics",
+        "type": "toggle",
+        "codes": "defensive tactics"
+    },
+        {
+        "name": "ballistics",
+        "type": "toggle",
+        "codes": "ballistics"
+    },
+        {
+        "name": "machinery",
+        "type": "toggle",
+        "codes": "machinery"
+    },
+        {
+        "name": "gunpowder",
+        "type": "toggle",
+        "codes": "gunpowder"
+    },
+        {
+        "name": "update",
+        "type": "toggle",
+        "codes": "update"
+    },
+        {
+        "name": "guilds",
+        "type": "toggle",
+        "codes": "guilds"
+    },
+        {
+        "name": "construction",
+        "type": "toggle",
+        "codes": "construction"
+    },
+        {
+        "name": "archery",
+        "type": "toggle",
+        "codes": "archery"
+    },
+        {
+        "name": "feudalism",
+        "type": "toggle",
+        "codes": "feudalism"
+    },
+        {
+        "name": "masonry",
+        "type": "toggle",
+        "codes": "masonry"
+    },
+        {
+        "name": "the wheel",
+        "type": "toggle",
+        "codes": "the wheel"
     }
-
   ]
   
