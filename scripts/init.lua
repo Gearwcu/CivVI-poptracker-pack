@@ -24,7 +24,6 @@ require("scripts/layouts_import")
 -- Locations
 require("scripts/locations_import")
 
-require("scripts/utils")
 -- Logic
 require("scripts/Layoutlogic")
 

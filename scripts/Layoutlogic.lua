@@ -1,6 +1,7 @@
 
 
 function updateLayout()
+    print("Call updateLayout")
     local style = Tracker:FindObjectForCode("PEra")
     local layoutString = "layouts/items"
     if style.CurrentStage ~= 0 then

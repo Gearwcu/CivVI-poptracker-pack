@@ -65,24 +65,25 @@ function onClear(slot_data)
     end
     -- reset items
     for _, v in pairs(ITEM_MAPPING) do
-        if v[1] and v[2] then
+        if v[1] then
+            item_table = v[1]
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                --(string.format("onClear: clearing item %s of type %s", v[1], v[2]))
+                print(string.format("onClear: clearing item %s of type %s", item_table[1], item_table[2]))
             end
-            local obj = Tracker:FindObjectForCode(v[1])
+            local obj = Tracker:FindObjectForCode(item_table[1])
             if obj then
-                if v[2] == "toggle" then
+                if item_table[2] == "toggle" then
                     obj.Active = false
-                elseif v[2] == "progressive" then
+                elseif item_table[2] == "progressive" then
                     obj.CurrentStage = 0
                     obj.Active = false
-                elseif v[2] == "consumable" then
+                elseif item_table[2] == "consumable" then
                     obj.AcquiredCount = 0
                 elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                    print(string.format("onClear: unknown item type %s for code %s", v[2], v[1]))
+                    print(string.format("onClear: unknown item type %s for code %s", item_table[2], item_table[1]))
                 end
             elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: could not find object for code %s", v[1]))
+                print(string.format("onClear: could not find object for code %s", item_table[1]))
             end
         end
     end
@@ -91,7 +92,7 @@ function onClear(slot_data)
     -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
     --     autoFill(slot_data)
     -- end
-    --print(PLAYER_ID, TEAM_NUMBER)
+    print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
@@ -129,10 +130,10 @@ function onItem(index, item_id, item_name, player_number)
             elseif item_obj.Type == "progressive" then
                 --print("progressive")
                 if item_obj.Active then
-				    item_obj.CurrentStage = item_obj.CurrentStage + 1
-			    else
-				    item_obj.Active = true
-			    end
+                    item_obj.CurrentStage = item_obj.CurrentStage + 1
+                else
+                    item_obj.Active = true
+                end
             elseif item_obj.Type == "consumable" then
                 --print("consumable")
                 item_obj.AcquiredCount = item_obj.AcquiredCount + item_obj.Increment * (tonumber(item_pair[3]) or 1)

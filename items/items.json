@@ -295,7 +295,8 @@
       "name": "Boostsanity",
       "type": "toggle",
       "codes": "boostsanity",
-      "img": "images/settings/Boosts.png"
+      "img": "images/settings/Boosts.png",
+      "initial_active_state": true
     },
     {
       "name": "Progression Style",
@@ -318,7 +319,15 @@
       "name": "Goodyhutsrando",
       "type": "toggle",
       "codes": "goodyhutsrando",
-      "img": "images/settings/huts.png"
+      "img": "images/settings/huts.png",
+      "initial_active_state": true
+    },
+    {
+      "name": "Excludedloc",
+      "type": "toggle",
+      "codes": "Exluded",
+      "img": "images/settings/circle.png",
+      "initial_active_state": false
     },
     {
       "name": "mining",
