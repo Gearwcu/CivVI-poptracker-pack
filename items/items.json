@@ -9,7 +9,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/Campus1.png",
-        "codes": "writing"
+        "codes": "writing, district"
         },
         {"img": "images/items/Campus2.png",
         "codes": "education"
@@ -27,7 +27,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/theater1.png",
-      "codes": "drama and poetry"
+      "codes": "drama and poetry, district"
         },
         {"img": "images/items/theater2.png",
       "codes": "humanism"
@@ -45,7 +45,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/holy1.png",
-        "codes": "astrology"
+        "codes": "astrology, districtool"
         },
         {"img": "images/items/holy2.png",
         "codes": "theology"
@@ -60,7 +60,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/encamp1.png",
-        "codes": "bronze working"
+        "codes": "bronze working, district"
         },
         {"img": "images/items/encamp2.png",
         "codes": "military engineering"
@@ -78,7 +78,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/commerce1.png",
-      "codes": "currency"
+      "codes": "currency, district"
         },
         {"img": "images/items/commerce2.png",
       "codes": "banking"
@@ -96,7 +96,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/harbor1.png",
-        "codes": "celestial navigation"
+        "codes": "celestial navigation, district"
         },
         {"img": "images/items/harbor2.png",
         "codes": "mass production"
@@ -111,7 +111,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/industry1.png",
-      "codes": "apprenticeship"
+      "codes": "apprenticeship, district"
         },
         {"img": "images/items/industry2.png",
       "codes": "industrialization"
@@ -132,7 +132,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/preserve1.png",
-      "codes": "mysticism"
+      "codes": "mysticism, districtool"
         },
         {"img": "images/items/preserve2.png",
       "codes": "conservation"
@@ -147,10 +147,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/entertain1.png",
-      "codes": "games and recreation"
+      "codes": "games and recreation, district"
         },
         {"img": "images/items/entertain2.png",
-      "codes": "natural history"
+      "codes": "natural history, districtool"
         },
         {"img": "images/items/entertain3.png",
       "codes": "professional sports"
@@ -165,7 +165,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/neighbor1.png",
-      "codes": "urbanization"
+      "codes": "urbanization, district"
         },
         {"img": "images/items/neighbor2.png",
       "codes": "replaceable parts"
@@ -183,7 +183,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/aerodome1.png",
-      "codes": "flight"
+      "codes": "flight, district"
         },
         {"img": "images/items/aerodome2.png",
       "codes": "advanced flight"
@@ -198,7 +198,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/diplo1.png",
-        "codes": "mathematics"
+        "codes": "mathematics, districtool"
         },
         {"img": "images/items/diplo2.png",
         "codes": "diplomatic service"
@@ -232,25 +232,25 @@
     {
       "name": "Dam",
       "type": "toggle",
-      "codes": "Dam",
+      "codes": "Dam, districtool",
       "img": "images/items/Dam.png"
     },
     {
       "name": "Government Plaza",
       "type": "toggle",
-      "codes": "Government Plaza",
+      "codes": "Government Plaza, districtool",
       "img": "images/items/GovernmentPlaza.png"
     },
     {
       "name": "Canal",
       "type": "toggle",
-      "codes": "Canal",
+      "codes": "Canal, districtool",
       "img": "images/items/Canal.png"
     },
     {
       "name": "Aqueduct",
       "type": "toggle",
-      "codes": "Aqueduct",
+      "codes": "Aqueduct, districtool",
       "img": "images/items/Aqueduct.png"
     },
     {
@@ -328,17 +328,17 @@
     {
       "name": "bronze working",
       "type": "toggle",
-      "codes": "bronze working"
+      "codes": "bronze working, district"
     },
     {
       "name": "astrology",
       "type": "toggle",
-      "codes": "astrology"
+      "codes": "astrology, districtool"
     },
     {
       "name": "writing",
       "type": "toggle",
-      "codes": "writing"
+      "codes": "writing, district"
     },
     {
       "name": "irrigation",
@@ -363,17 +363,17 @@
     {
         "name": "celestial navigation",
         "type": "toggle",
-        "codes": "celestial navigation"
+        "codes": "celestial navigation, district"
     },    
     {
         "name": "currency",
         "type": "toggle",
-        "codes": "currency"
+        "codes": "currency, district"
     },
     {
         "name": "mathematics",
         "type": "toggle",
-        "codes": "mathematics"
+        "codes": "mathematics, districtool"
     },
     {
         "name": "shipbuilding",
@@ -383,7 +383,7 @@
     {
         "name": "games and recreation",
         "type": "toggle",
-        "codes": "games and recreation"
+        "codes": "games and recreation, district"
     },
     {
         "name": "political philosophy",
@@ -393,7 +393,7 @@
     {
         "name": "drama and poetry",
         "type": "toggle",
-        "codes": "drama and poetry"
+        "codes": "drama and poetry, district"
     },
         {
         "name": "theology",
@@ -403,7 +403,7 @@
         {
         "name": "apprenticeship",
         "type": "toggle",
-        "codes": "apprenticeship"
+        "codes": "apprenticeship, district"
     },
         {
         "name": "education",
@@ -478,12 +478,12 @@
         {
         "name": "natural history",
         "type": "toggle",
-        "codes": "natural history"
+        "codes": "natural history, districtool"
     },
         {
         "name": "flight",
         "type": "toggle",
-        "codes": "flight"
+        "codes": "flight, district"
     },
         {
         "name": "refining",
@@ -633,7 +633,7 @@
         {
         "name": "urbanization",
         "type": "toggle",
-        "codes": "urbanization"
+        "codes": "urbanization, district"
     },
         {
         "name": "sanitation",
@@ -709,6 +709,11 @@
         "name": "the wheel",
         "type": "toggle",
         "codes": "the wheel"
+    },
+        {
+        "name": "mysticism",
+        "type": "toggle",
+        "codes": "mysticism, districtool"
     }
   ]
   
