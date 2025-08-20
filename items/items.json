@@ -9,7 +9,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/Campus1.png",
-        "codes": "writing, district"
+        "codes": "writing"
         },
         {"img": "images/items/Campus2.png",
         "codes": "education"
@@ -27,7 +27,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/theater1.png",
-      "codes": "drama and poetry, district"
+      "codes": "drama and poetry"
         },
         {"img": "images/items/theater2.png",
       "codes": "humanism"
@@ -45,7 +45,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/holy1.png",
-        "codes": "astrology, districtool"
+        "codes": "astrology"
         },
         {"img": "images/items/holy2.png",
         "codes": "theology"
@@ -60,7 +60,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/encamp1.png",
-        "codes": "bronze working, district"
+        "codes": "bronze working"
         },
         {"img": "images/items/encamp2.png",
         "codes": "military engineering"
@@ -78,7 +78,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/commerce1.png",
-      "codes": "currency, district"
+      "codes": "currency"
         },
         {"img": "images/items/commerce2.png",
       "codes": "banking"
@@ -96,7 +96,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/harbor1.png",
-        "codes": "celestial navigation, district"
+        "codes": "celestial navigation"
         },
         {"img": "images/items/harbor2.png",
         "codes": "mass production"
@@ -111,7 +111,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/industry1.png",
-      "codes": "apprenticeship, district"
+      "codes": "apprenticeship"
         },
         {"img": "images/items/industry2.png",
       "codes": "industrialization"
@@ -132,7 +132,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/preserve1.png",
-      "codes": "mysticism, districtool"
+      "codes": "mysticism"
         },
         {"img": "images/items/preserve2.png",
       "codes": "conservation"
@@ -147,10 +147,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/entertain1.png",
-      "codes": "games and recreation, district"
+      "codes": "games and recreation"
         },
         {"img": "images/items/entertain2.png",
-      "codes": "natural history, districtool"
+      "codes": "natural history"
         },
         {"img": "images/items/entertain3.png",
       "codes": "professional sports"
@@ -165,7 +165,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/neighbor1.png",
-      "codes": "urbanization, districtool"
+      "codes": "urbanization"
         },
         {"img": "images/items/neighbor2.png",
       "codes": "replaceable parts"
@@ -183,7 +183,7 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/aerodome1.png",
-      "codes": "flight, district"
+      "codes": "flight"
         },
         {"img": "images/items/aerodome2.png",
       "codes": "advanced flight"
@@ -198,12 +198,10 @@
       "allow_disabled": true,
       "stages":[
         {"img": "images/items/diplo1.png",
-        "codes": "mathematics",
-        "inherit_codes": false
+        "codes": "mathematics"
         },
         {"img": "images/items/diplo2.png",
-        "codes": "diplomatic service",
-        "inherit_codes": false
+        "codes": "diplomatic service"
         }
       ]
     },
@@ -240,7 +238,7 @@
     {
       "name": "Government Plaza",
       "type": "toggle",
-      "codes": "Government Plaza, state workforce",
+      "codes": "Government Plaza",
       "img": "images/items/GovernmentPlaza.png"
     },
     {
@@ -307,26 +305,19 @@
         {"img": "images/settings/progs.png",
         "codes": "None"
         },
-        {"img": "images/settings/circle.png",
+        {"img": "images/settings/districts.png",
         "codes": "PDistricts"
         },
-        {"img": "images/settings/huts.png",
+        {"img": "images/settings/Eras.png",
         "codes": "PEra"
         }
       ]
     },
     {
-      "name": "Goodyhutsrando",
+      "name": "Excluded",
       "type": "toggle",
-      "codes": "goodyhutsrando",
+      "codes": "Excluded",
       "img": "images/settings/huts.png",
-      "initial_active_state": true
-    },
-    {
-      "name": "Excludedloc",
-      "type": "toggle",
-      "codes": "Exluded",
-      "img": "images/settings/circle.png",
       "initial_active_state": false
     },
     {

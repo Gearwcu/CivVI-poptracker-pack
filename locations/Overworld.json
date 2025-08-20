@@ -470,7 +470,7 @@
                     "[]"
                 ],
                 "visibility_rules":[
-                    "goodyhutsrando, Exluded"
+                    "Excluded"
                 ],
                 "sections": [
                     {
@@ -539,11 +539,9 @@
                         "map": "Ancient Era",
                         "x": 1052,
                         "y": 200,
-                        "size": 35
+                        "size": 41
                     }
                 ]
-            }
-        ]
             },
             {
                 "name": "Classical Era",
@@ -551,7 +549,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "[mining], [bronze working], [astrology], [writing], [irrigation], [sailing], [animal husbandry], [state workforce], [foreign trade]"
+            "[mining], [bronze working], [astrology], [writing], [irrigation], [sailing], [animal husbandry], [Government Plaza], [foreign trade]"
         ],
         "children": [
             {
@@ -953,9 +951,8 @@
                         "size": 100
                     }
                 ]
-            }
-        ]
-    },
+            },
+        
     {
         "name": "Medieval Era",
         "chest_unopened_img": "/images/items/close.png",
@@ -1365,9 +1362,8 @@
                         "size": 100
                     }
                 ]
-            }
-        ]
-    },
+            },
+        
     {
         "name": "Renaissance Era",
         "chest_unopened_img": "/images/items/close.png",
@@ -1777,9 +1773,7 @@
                         "size": 100
                     }
                 ]
-            }
-        ]
-    },
+            },
     {
         "name": "Industrial Era",
         "chest_unopened_img": "/images/items/close.png",
@@ -2189,9 +2183,7 @@
                         "size": 100
                     }
                 ]
-            }
-        ]
-    },
+            },        
     {
         "name": "Modern Era",
         "chest_unopened_img": "/images/items/close.png",
@@ -2651,9 +2643,7 @@
                         "size": 100
                     }
                 ]
-            }
-        ]
-    },
+            },     
     {
         "name": "Atomic Era",
         "chest_unopened_img": "/images/items/close.png",
@@ -3013,9 +3003,7 @@
                         "size": 100
                     }
                 ]
-            }
-        ]
-    },
+            },
     {
         "name": "Information Era",
         "chest_unopened_img": "/images/items/close.png",
@@ -3450,9 +3438,7 @@
                         "size": 100
                     }
                 ]
-            }
-        ]
-    },        
+            },        
     {
         "name": "Future Era",
         "chest_unopened_img": "/images/items/close.png",
@@ -3838,6 +3824,24 @@
                     }
                 ]
             }
+        ]
+    }
+    ]
+    } 
+    ]
+    }
+    ]
+    }
+        ]
+    }
+        ]
+    }
+    ]
+        }
+        ]
+            }
+    ]
+    }
         ]
     },
     {
@@ -4627,7 +4631,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[]"
@@ -4660,7 +4664,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[]"
@@ -4726,7 +4730,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[]"
@@ -4792,7 +4796,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "astrology, []"
@@ -5138,7 +5142,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[]"
@@ -5171,7 +5175,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[]"
@@ -5237,7 +5241,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[]"
@@ -5303,7 +5307,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "astrology, []"
@@ -5347,7 +5351,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[]"
@@ -5479,7 +5483,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "writing, []"
@@ -5611,7 +5615,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "shipbuilding, []"
@@ -6051,7 +6055,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "education, []"
@@ -6183,7 +6187,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "drama and poetry, []"
@@ -6216,7 +6220,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "civil service, []"
@@ -6249,7 +6253,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "astrology, []"
@@ -6282,7 +6286,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[], currency"
@@ -6315,7 +6319,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[], writing",
@@ -6703,7 +6707,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[], diplomatic service",
@@ -6882,7 +6886,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "renaissance Era, []"
@@ -7047,7 +7051,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "conservation, []"
@@ -7080,7 +7084,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "civil service, []"
@@ -7113,7 +7117,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "Natural History, Humanism, [], drama and poetry"
@@ -7146,7 +7150,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[], urbanization"
@@ -7455,7 +7459,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7620,7 +7624,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7752,7 +7756,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "[], drama and poetry, humanism"
@@ -7862,7 +7866,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -7928,7 +7932,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "lasers, [], information Era", "guidance systems, [], information Era", "advanced flight, [], information Era"
@@ -8028,7 +8032,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8274,7 +8278,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8307,7 +8311,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8340,7 +8344,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8373,7 +8377,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8406,7 +8410,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8439,7 +8443,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8472,7 +8476,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Exluded"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "diplomatic service, []"
@@ -8502,7 +8506,4 @@
             }
         ]
     }
-     
-    ]
-}
 ]

@@ -13,7 +13,7 @@
 					{
 						"type": "item",
 						"item": "boostsanity",
-						"max_width": 100
+						"max_width": 150
 					}
 				]		
 			},
@@ -26,20 +26,20 @@
 					{
 						"type": "item",
 						"item": "progstyle",
-						"max_width": 100
+						"max_width": 150
 					}
 				]
 			},
 			{
 				"type": "group",
-				"header": "Goody Huts",
+				"header": "Excluded Locations",
 				"item_margin": "2, 0",
 				"h_alignment": "left",
 				"content":[
 					{
 						"type": "item",
-						"item": "Goodyhutsrando",
-						"max_width": 100
+						"item": "Excluded",
+						"max_width": 150
 					}
 				]
 							
