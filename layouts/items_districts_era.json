@@ -1,0 +1,62 @@
+{
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 3",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 70,
+                        "item_width": 70,
+                        "rows": [
+                            [
+                                "Progressive Era"
+                            ],
+                            [
+                                
+                            ],
+                            [
+                                "Campus",
+                                "Theater",
+                                "Holy Site"
+                            ],
+                            [
+                                "Space Port",
+                                "Commercial Hub",
+                                "Industrial Zone"
+                            ],
+                            [
+                                "Harbor",
+                                "Entertainment Complex",
+                                "Diplo Quarter"
+                            ],
+                            [
+                                "Aerodrome",
+                                "Encampment",
+                                "Government Plaza"
+                            ],
+                            [
+                                "Preserve",
+                                "Neighborhood",
+                                "Dam"
+                            ],
+                            [
+                                "Canal",
+                                "Aqueduct"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

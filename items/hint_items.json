@@ -6,7 +6,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_conservation_"
     },
     {
@@ -16,7 +15,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_archery_"
     },
     {
@@ -26,7 +24,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_humanism_"
     },
     {
@@ -36,7 +33,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_nationalism_"
     },
     {
@@ -46,7 +42,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_mathematics_"
     },
     {
@@ -56,7 +51,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_iron_working_"
     },
     {
@@ -66,7 +60,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_offworld_mission_"
     },
     {
@@ -76,7 +69,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_iron_working_"
     },
     {
@@ -86,7 +78,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_chemistry_"
     },
     {
@@ -96,7 +87,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_5"
     },
     {
@@ -106,7 +96,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_8"
     },
     {
@@ -116,7 +105,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_castles_"
     },
     {
@@ -126,7 +114,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_machinery_"
     },
     {
@@ -136,7 +123,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_electricity_"
     },
     {
@@ -146,7 +132,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_telecommunications_"
     },
     {
@@ -156,7 +141,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_games_recreation_"
     },
     {
@@ -166,7 +150,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_rapid_deployment_"
     },
     {
@@ -176,7 +159,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_machinery_"
     },
     {
@@ -186,7 +168,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_recorded_history_"
     },
     {
@@ -196,7 +177,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_steel_"
     },
     {
@@ -206,7 +186,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_flight_"
     },
     {
@@ -216,7 +195,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_globalization_"
     },
     {
@@ -226,7 +204,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_masonry_"
     },
     {
@@ -236,7 +213,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_totalitarianism_"
     },
     {
@@ -246,7 +222,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_military_training_"
     },
     {
@@ -256,7 +231,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_lasers_"
     },
     {
@@ -266,7 +240,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_robotics_"
     },
     {
@@ -276,7 +249,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_rocketry_"
     },
     {
@@ -286,7 +258,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_celestial_navigation_"
     },
     {
@@ -296,7 +267,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_reformed_church_"
     },
     {
@@ -306,7 +276,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_nuclear_program_"
     },
     {
@@ -316,7 +285,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_venture_politics_"
     },
     {
@@ -326,7 +294,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_mobilization_"
     },
     {
@@ -336,7 +303,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_pottery_"
     },
     {
@@ -346,7 +312,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_the_enlightenment_"
     },
     {
@@ -356,7 +321,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_refining_"
     },
     {
@@ -366,7 +330,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_sanitation_"
     },
     {
@@ -376,7 +339,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_naval_tradition_"
     },
     {
@@ -386,7 +348,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_nuclear_program_"
     },
     {
@@ -396,7 +357,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_smart_materials_"
     },
     {
@@ -406,7 +366,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_sanitation_"
     },
     {
@@ -416,7 +375,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_urbanization_"
     },
     {
@@ -426,7 +384,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_near_future_governance_"
     },
     {
@@ -436,7 +393,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_renaissance_era_"
     },
     {
@@ -446,7 +402,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_drama_and_poetry_"
     },
     {
@@ -456,7 +411,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_gunpowder_"
     },
     {
@@ -466,7 +420,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_guidance_systems_"
     },
     {
@@ -476,7 +429,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_global_warming_mitigation_"
     },
     {
@@ -486,7 +438,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_composites_"
     },
     {
@@ -496,7 +447,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_social_media_"
     },
     {
@@ -506,7 +456,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_medieval_faires_"
     },
     {
@@ -516,7 +465,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_capitalism_"
     },
     {
@@ -526,7 +474,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_cultural_heritage_"
     },
     {
@@ -536,7 +483,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_education_"
     },
     {
@@ -546,7 +492,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_metal_casting_"
     },
     {
@@ -556,7 +501,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_class_struggle_"
     },
     {
@@ -566,7 +510,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_civil_service_"
     },
     {
@@ -576,7 +519,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_reformed_church_"
     },
     {
@@ -586,7 +528,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_wheel_"
     },
     {
@@ -596,7 +537,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_state_workforce_"
     },
     {
@@ -606,7 +546,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_globalization_"
     },
     {
@@ -616,7 +555,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_7"
     },
     {
@@ -626,7 +564,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_divine_rights_"
     },
     {
@@ -636,7 +573,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_square_rigging_"
     },
     {
@@ -646,7 +582,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_engineering_"
     },
     {
@@ -656,7 +591,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_chemistry_"
     },
     {
@@ -666,7 +600,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_cold_war_"
     },
     {
@@ -676,7 +609,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_printing_"
     },
     {
@@ -686,7 +618,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_combined_arms_"
     },
     {
@@ -696,7 +627,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_castles_"
     },
     {
@@ -706,7 +636,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_sailing_"
     },
     {
@@ -716,7 +645,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_nanotechnology_"
     },
     {
@@ -726,7 +654,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_craftsmanship_"
     },
     {
@@ -736,7 +663,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_apprenticeship_"
     },
     {
@@ -746,7 +672,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_stealth_technology_"
     },
     {
@@ -756,7 +681,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_mass_media_"
     },
     {
@@ -766,7 +690,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_colonialism_"
     },
     {
@@ -776,7 +699,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_banking_"
     },
     {
@@ -786,7 +708,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_nationalism_"
     },
     {
@@ -796,7 +717,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_scorched_earth_"
     },
     {
@@ -806,7 +726,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_metal_casting_"
     },
     {
@@ -816,7 +735,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_civil_service_"
     },
     {
@@ -826,7 +744,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_banking_"
     },
     {
@@ -836,7 +753,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_stirrups_"
     },
     {
@@ -846,7 +762,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_bronze_working_"
     },
     {
@@ -856,7 +771,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_cybernetics_"
     },
     {
@@ -866,7 +780,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_rifling_"
     },
     {
@@ -876,7 +789,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_combined_arms_"
     },
     {
@@ -886,7 +798,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_astronomy_"
     },
     {
@@ -896,7 +807,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_military_science_"
     },
     {
@@ -906,7 +816,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_replaceable_parts_"
     },
     {
@@ -916,7 +825,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_steam_power_"
     },
     {
@@ -926,7 +834,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_guilds_"
     },
     {
@@ -936,7 +843,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_cultural_hegemony_"
     },
     {
@@ -946,7 +852,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_scorched_earth_"
     },
     {
@@ -956,7 +861,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_advanced_flight_"
     },
     {
@@ -966,7 +870,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_capitalism_"
     },
     {
@@ -976,7 +879,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_information_era_"
     },
     {
@@ -986,7 +888,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_steam_power_"
     },
     {
@@ -996,7 +897,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_economics_"
     },
     {
@@ -1006,7 +906,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_mercantilism_"
     },
     {
@@ -1016,7 +915,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_smart_power_doctrine_"
     },
     {
@@ -1026,7 +924,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_siege_tactics_"
     },
     {
@@ -1036,7 +933,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_radio_"
     },
     {
@@ -1046,7 +942,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_horseback_riding_"
     },
     {
@@ -1056,7 +951,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_engineering_"
     },
     {
@@ -1066,7 +960,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_10"
     },
     {
@@ -1076,7 +969,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_cartography_"
     },
     {
@@ -1086,7 +978,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_mercenaries_"
     },
     {
@@ -1096,7 +987,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_predictive_systems_"
     },
     {
@@ -1106,7 +996,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_radio_"
     },
     {
@@ -1116,7 +1005,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_theology_"
     },
     {
@@ -1126,7 +1014,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_advanced_ballistics_"
     },
     {
@@ -1136,7 +1023,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_astrology_"
     },
     {
@@ -1146,7 +1032,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_code_of_laws_"
     },
     {
@@ -1156,7 +1041,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_plastics_"
     },
     {
@@ -1166,7 +1050,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_nuclear_fusion_"
     },
     {
@@ -1176,7 +1059,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_suffrage_"
     },
     {
@@ -1186,7 +1068,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_military_training_"
     },
     {
@@ -1196,7 +1077,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_classical_era_"
     },
     {
@@ -1206,7 +1086,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_feudalism_"
     },
     {
@@ -1216,7 +1095,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_civil_engineering_"
     },
     {
@@ -1226,7 +1104,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_diplomatic_service_"
     },
     {
@@ -1236,7 +1113,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_9"
     },
     {
@@ -1246,7 +1122,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_buttress_"
     },
     {
@@ -1256,7 +1131,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_craftmanship_"
     },
     {
@@ -1266,7 +1140,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_foreign_trade_"
     },
     {
@@ -1276,7 +1149,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_early_empire_"
     },
     {
@@ -1286,7 +1158,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_celestial_navigation_"
     },
     {
@@ -1296,7 +1167,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_writing_"
     },
     {
@@ -1306,7 +1176,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_space_race_"
     },
     {
@@ -1316,7 +1185,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_telecommunications_"
     },
     {
@@ -1326,7 +1194,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_distributed_sovereignty_"
     },
     {
@@ -1336,7 +1203,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_atomic_era_"
     },
     {
@@ -1346,7 +1212,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_nuclear_fusion_"
     },
     {
@@ -1356,7 +1221,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_optimization_imperative_"
     },
     {
@@ -1366,7 +1230,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_printing_"
     },
     {
@@ -1376,7 +1239,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_1"
     },
     {
@@ -1386,7 +1248,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_satellites_"
     },
     {
@@ -1396,7 +1257,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_square_rigging_"
     },
     {
@@ -1406,7 +1266,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_foreign_trade_"
     },
     {
@@ -1416,7 +1275,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_guidance_systems_"
     },
     {
@@ -1426,7 +1284,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_mercantilism_"
     },
     {
@@ -1436,7 +1293,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_modern_era_"
     },
     {
@@ -1446,7 +1302,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_combustion_"
     },
     {
@@ -1456,7 +1311,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_lasers_"
     },
     {
@@ -1466,7 +1320,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_drama_poetry_"
     },
     {
@@ -1476,7 +1329,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_sailing_"
     },
     {
@@ -1486,7 +1338,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_civil_engineering_"
     },
     {
@@ -1496,7 +1347,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_social_media_"
     },
     {
@@ -1506,7 +1356,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_theology_"
     },
     {
@@ -1516,7 +1365,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_guilds_"
     },
     {
@@ -1526,7 +1374,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_6"
     },
     {
@@ -1536,7 +1383,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_professional_sports_"
     },
     {
@@ -1546,7 +1392,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_2"
     },
     {
@@ -1556,7 +1401,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_ideology_"
     },
     {
@@ -1566,7 +1410,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_industrialization_"
     },
     {
@@ -1576,7 +1419,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_colonialism_"
     },
     {
@@ -1586,7 +1428,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_opera_ballet_"
     },
     {
@@ -1596,7 +1437,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_steel_"
     },
     {
@@ -1606,7 +1446,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_military_engineering_"
     },
     {
@@ -1616,7 +1455,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_replaceable_parts_"
     },
     {
@@ -1626,7 +1464,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_economics_"
     },
     {
@@ -1636,7 +1473,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_computers_"
     },
     {
@@ -1646,7 +1482,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_advanced_power_cells_"
     },
     {
@@ -1656,7 +1491,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_exploration_"
     },
     {
@@ -1666,7 +1500,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_ballistics_"
     },
     {
@@ -1676,7 +1509,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_bronze_working_"
     },
     {
@@ -1686,7 +1518,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_stirrups_"
     },
     {
@@ -1696,7 +1527,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_environmentalism_"
     },
     {
@@ -1706,7 +1536,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_apprenticeship_"
     },
     {
@@ -1716,7 +1545,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_advanced_ballistics_"
     },
     {
@@ -1726,7 +1554,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_seasteads_"
     },
     {
@@ -1736,7 +1563,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_4"
     },
     {
@@ -1746,7 +1572,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_mysticism_"
     },
     {
@@ -1756,7 +1581,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_rapid_deployment_"
     },
     {
@@ -1766,7 +1590,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_refining_"
     },
     {
@@ -1776,7 +1599,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_offworld_mission_"
     },
     {
@@ -1786,7 +1608,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_mass_production_"
     },
     {
@@ -1796,7 +1617,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_totalitarianism_"
     },
     {
@@ -1806,7 +1626,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_rifling_"
     },
     {
@@ -1816,7 +1635,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_mobilization_"
     },
     {
@@ -1826,7 +1644,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_military_science_"
     },
     {
@@ -1836,7 +1653,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_space_race_"
     },
     {
@@ -1846,7 +1662,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_political_philosophy_"
     },
     {
@@ -1856,7 +1671,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_medieval_fairies_"
     },
     {
@@ -1866,7 +1680,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_advanced_ai_"
     },
     {
@@ -1876,7 +1689,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_mysticism_"
     },
     {
@@ -1886,7 +1698,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_construction_"
     },
     {
@@ -1896,7 +1707,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_feudalism_"
     },
     {
@@ -1906,7 +1716,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_currency_"
     },
     {
@@ -1916,7 +1725,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_stealth_technology_"
     },
     {
@@ -1926,7 +1734,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_mass_media_"
     },
     {
@@ -1936,7 +1743,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_future_era_"
     },
     {
@@ -1946,7 +1752,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_computers_"
     },
     {
@@ -1956,7 +1761,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_flight_"
     },
     {
@@ -1966,7 +1770,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_future_tech_"
     },
     {
@@ -1976,7 +1779,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_siege_tactics_"
     },
     {
@@ -1986,7 +1788,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_military_tactics_"
     },
     {
@@ -1996,7 +1797,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_defensive_tactics_"
     },
     {
@@ -2006,7 +1806,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_the_wheel_"
     },
     {
@@ -2016,7 +1815,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_professional_sports_"
     },
     {
@@ -2026,7 +1824,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_scientific_theory_"
     },
     {
@@ -2036,7 +1833,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_natural_history_"
     },
     {
@@ -2046,7 +1842,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_diplomatic_service_"
     },
     {
@@ -2056,7 +1851,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_military_engineering_"
     },
     {
@@ -2066,7 +1860,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_currency_"
     },
     {
@@ -2076,7 +1869,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_smart_materials_"
     },
     {
@@ -2086,7 +1878,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_industrialization_"
     },
     {
@@ -2096,7 +1887,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_education_"
     },
     {
@@ -2106,7 +1896,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_humanism_"
     },
     {
@@ -2116,7 +1905,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_astrology_"
     },
     {
@@ -2126,7 +1914,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_advanced_flight_"
     },
     {
@@ -2136,7 +1923,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_electricity_"
     },
     {
@@ -2146,7 +1932,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_medieval_era_"
     },
     {
@@ -2156,7 +1941,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_mercenaries_"
     },
     {
@@ -2166,7 +1950,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_exodus_imperative_"
     },
     {
@@ -2176,7 +1959,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_advanced_ai_"
     },
     {
@@ -2186,7 +1968,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_seasteads_"
     },
     {
@@ -2196,7 +1977,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_military_tactics_"
     },
     {
@@ -2206,7 +1986,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_synthetic_materials_"
     },
     {
@@ -2216,7 +1995,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_boost_astronomy_"
     },
     {
@@ -2226,7 +2004,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_enlightenment_"
     },
     {
@@ -2236,7 +2013,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_mathematics_"
     },
     {
@@ -2246,7 +2022,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_future_civic_"
     },
     {
@@ -2256,7 +2031,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_class_struggle_"
     },
     {
@@ -2266,7 +2040,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_naval_tradition_"
     },
     {
@@ -2276,7 +2049,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_natural_history_"
     },
     {
@@ -2286,7 +2058,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_boost_conservation_"
     },
     {
@@ -2296,7 +2067,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_urbanization_"
     },
     {
@@ -2306,7 +2076,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_satellites_"
     },
     {
@@ -2316,7 +2085,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_military_tradition_"
     },
     {
@@ -2326,7 +2094,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_construction_"
     },
     {
@@ -2336,7 +2103,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_irrigation_"
     },
     {
@@ -2346,7 +2112,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_synthetic_materials_"
     },
     {
@@ -2356,7 +2121,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_goody_huts_3"
     },
     {
@@ -2366,7 +2130,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_boost_scientific_theory_"
     },
     {
@@ -2376,7 +2139,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_nuclear_fission_"
     },
     {
@@ -2386,7 +2148,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_cold_war_"
     },
     {
@@ -2396,7 +2157,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_ballistics_"
     },
     {
@@ -2406,7 +2166,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_animal_husbandry_"
     },
     {
@@ -2416,7 +2175,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_composites_"
     },
     {
@@ -2426,7 +2184,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_shipbuilding_"
     },
     {
@@ -2436,7 +2193,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_defensive_tactics_"
     },
     {
@@ -2446,7 +2202,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_plastics_"
     },
     {
@@ -2456,7 +2211,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_horseback_riding_"
     },
     {
@@ -2466,7 +2220,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_boost_divine_right_"
     },
     {
@@ -2476,7 +2229,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_mass_production_"
     },
     {
@@ -2486,7 +2238,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_irigation_"
     },
     {
@@ -2496,7 +2247,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_suffrage_"
     },
     {
@@ -2506,7 +2256,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_environmentalism_"
     },
     {
@@ -2516,7 +2265,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_recorded_history_"
     },
     {
@@ -2526,7 +2274,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_military_tradition_"
     },
     {
@@ -2536,7 +2283,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_cartography_"
     },
     {
@@ -2546,7 +2292,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "medieval_era_buttress_"
     },
     {
@@ -2556,7 +2301,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_boost_rocketry_"
     },
     {
@@ -2566,7 +2310,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_boost_robotics_"
     },
     {
@@ -2576,7 +2319,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_boost_shipbuilding_"
     },
     {
@@ -2586,7 +2328,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_nuclear_fission_"
     },
     {
@@ -2596,7 +2337,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_gunpowder_"
     },
     {
@@ -2606,7 +2346,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_boost_advanced_power_cells_"
     },
     {
@@ -2616,7 +2355,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_opera_and_ballet_"
     },
     {
@@ -2626,7 +2364,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_political_philosophy_"
     },
     {
@@ -2636,7 +2373,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "classical_era_games_and_recreation_"
     },
     {
@@ -2646,7 +2382,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "atomic_era_cultural_heritage_"
     },
     {
@@ -2656,7 +2391,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_archery_"
     },
     {
@@ -2666,7 +2400,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "information_era_nanotechnology_"
     },
     {
@@ -2676,7 +2409,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "renaissance_era_exploration_"
     },
     {
@@ -2686,7 +2418,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_information_warfare_"
     },
     {
@@ -2696,7 +2427,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_early_empire_"
     },
     {
@@ -2706,7 +2436,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "modern_era_combustion_"
     },
     {
@@ -2716,7 +2445,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_masonry_"
     },
     {
@@ -2726,7 +2454,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_cybernetics_"
     },
     {
@@ -2736,7 +2463,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_state_workforce_"
     },
     {
@@ -2746,7 +2472,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_boost_writing_"
     },
     {
@@ -2756,7 +2481,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "industrial_era_industrial_era_"
     },
     {
@@ -2766,7 +2490,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "future_era_predictive_systems_"
     },
     {
@@ -2776,7 +2499,6 @@
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
-        "overlay_align": true,
         "codes": "ancient_era_mining_"
     }
 ]

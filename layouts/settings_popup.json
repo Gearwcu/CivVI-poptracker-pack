@@ -1,21 +1,49 @@
 {
-    "settings_popup": {
-        "type": "array",
-        "margin": "5",
-        "content": [
-            {
-                "type": "group",
-                "header": "Autofill Settings",
-                "description": "Enable/Disable the automatic fill of the settings panel from for connected Slot_Data",
-                "header_background": "#3e4b57",
-                "content": [
-                    {
-                        "type": "item",
-                        "margin": "5,1,5,5",
-                        "item": "autofill_settings"
-                    }
-                ]
-            }
-        ]
-    }
+	"settings_popup": {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "8,25",
+		"content": [
+			{
+				"type": "group",
+				"header": "Boostsanity",
+				"item_margin": "2, 0",
+				"h_alignment": "left",
+				"content":[
+					{
+						"type": "item",
+						"item": "boostsanity",
+						"max_width": 150
+					}
+				]		
+			},
+			{
+				"type": "group",
+				"header": "Progression style",
+				"item_margin": "2, 0",
+				"h_alignment": "left"	,
+				"content":[
+					{
+						"type": "item",
+						"item": "progstyle",
+						"max_width": 150
+					}
+				]
+			},
+			{
+				"type": "group",
+				"header": "Excluded Locations",
+				"item_margin": "2, 0",
+				"h_alignment": "left",
+				"content":[
+					{
+						"type": "item",
+						"item": "Excluded",
+						"max_width": 150
+					}
+				]
+							
+			}
+		]
+	}
 }

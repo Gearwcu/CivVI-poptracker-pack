@@ -1,0 +1,111 @@
+{
+    "Eras": {
+        "type": "tabbed",
+        "tabs":[
+            {
+                "title": "Ancient Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ancient Era"
+                    ]
+                }
+            },
+            {
+                "title": "Classical Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Classical Era"
+                    ]
+                }
+            },
+            {
+                "title": "Medieval Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Medieval Era"
+                    ]
+                }
+            },
+            {
+                "title": "Renaissance Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Renaissance Era"
+                    ]
+                }
+            },
+            {
+                "title": "Industrial Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Industrial Era"
+                    ]
+                }
+            },
+            {
+                "title": "Modern Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Modern Era"
+                    ]
+                }
+            },
+            {
+                "title": "Atomic Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Atomic Era"
+                    ]
+                }
+            },
+            {
+                "title": "Information Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Information Era"
+                    ]
+                }
+            },
+            {
+                "title": "Future Era",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Future Era"
+                    ]
+                }
+            }
+            ]
+        },
+    "Boosts": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Tech Boosts",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tech Boosts"
+                    ]
+                }
+            },
+            {
+                "title": "Civic Boosts",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Civic Boosts"
+                    ]
+                }
+            }
+        ]
+    }
+}
