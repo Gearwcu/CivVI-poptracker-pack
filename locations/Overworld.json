@@ -5186,7 +5186,9 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "divine right", "exploration", "reformed church"
+                    "[divine right]", "[exploration]", "[reformed church]",
+                    "suffrage","totalitarianism","class struggle"
+                    // this represents the logic as of january 26
                 ],
                 "sections": [
                     {
@@ -5252,7 +5254,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    ""
+                    "classical Era"
                 ],
                 "sections": [
                     {
@@ -5285,7 +5287,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    ""
+                    "classical Era"
                 ],
                 "sections": [
                     {
@@ -5626,7 +5628,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "gunpowder"
+                    "gunpowder, military engineering, mining"
                 ],
                 "sections": [
                     {
@@ -6039,7 +6041,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "military engineering"
+                    "military engineering, siege tactics, bronze working"
                 ],
                 "sections": [
                     {
@@ -6072,8 +6074,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "stirrups",
-                    "stirrups, [bronze working]"
+                    "stirrups, bronze working, mining"
                 ],
                 "sections": [
                     {
@@ -6446,7 +6447,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    ""
+                    "industrial Era"
                 ],
                 "sections": [
                     {
@@ -6523,7 +6524,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "military science"
+                    "military science, mining"
                 ],
                 "sections": [
                     {
@@ -7029,8 +7030,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "flight",
-                    "flight, refining"
+                    "flight, refining, mining"
                 ],
                 "sections": [
                     {
@@ -7426,7 +7426,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "rocketry"
+                    "rocketry, [atomic Era]"
                 ],
                 "sections": [
                     {
@@ -7602,8 +7602,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "combustion",
-                    "combustion, [refining]"
+                    "combustion, refining"
                 ],
                 "sections": [
                     {
@@ -7702,10 +7701,6 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "apprenticeship",
-                    "industrialization", 
-                    "nuclear fission", 
-                    "electricity",
                     "apprenticeship, industrialization, nuclear fission, [electricity]"
                 ],
                 "sections": [
