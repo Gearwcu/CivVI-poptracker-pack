@@ -1,18 +1,12 @@
 {
     "name": "Civilization VI Archipelago",
     "game_name": "Civilization VI",
-    "package_version": "0.1.0",
-    "package_uid": "civilization vi_ap",
+    "package_version": "1.0.0",
+    "package_uid": "civilization vi ap",
     "author": "Gearwcu",
     "variants": {
         "Map Tracker": {
             "display_name": "Map Tracker",
-            "flags": [
-                "ap"
-            ]
-        },
-        "Items Only": {
-            "display_name": "Items Only",
             "flags": [
                 "ap"
             ]

@@ -5186,16 +5186,25 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "[divine right]", "[exploration]", "[reformed church]",
-                    "suffrage","totalitarianism","class struggle"
-                    // this represents the logic as of january 26
                 ],
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": [
+                            "divine right", "exploration", "reformed church"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Wrong ap logic",
+                        "access_rules": [
+                            "{suffrage}","{totalitarianism}","{class struggle}"
+                        // this represents the logic as of january 26
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1,
+                        "clear_as_group": true
                     }
                 ],
                 "map_locations": [
