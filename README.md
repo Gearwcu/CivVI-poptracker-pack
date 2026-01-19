@@ -14,3 +14,7 @@ One more thing there are also buttons in the settings for:
 Excluded locations are missable boosts and goody huts that will have only filler items
 
 Most importantly Auto Tracking works for it all!
+
+WIP
+Firstly mostly focused on boostsanity being enabled
+Expect a few bugs
