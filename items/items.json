@@ -302,15 +302,15 @@
       "codes": "progstyle",
       "allow_disabled": false,
       "stages":[
-        {"img": "images/settings/progs.png",
+        {"img": "images/settings/districts.png",
         "codes": "PDistricts",
         "inherit_codes": false
         },
-        {"img": "images/settings/districts.png",
+        {"img": "images/settings/Eras.png",
         "codes": "PEra",
         "inherit_codes": false
         },
-        {"img": "images/settings/Eras.png",
+        {"img": "images/settings/progs.png",
         "codes": "None",
         "inherit_codes": false
         }

@@ -558,7 +558,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -583,7 +585,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -608,7 +612,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -633,7 +639,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -658,7 +666,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -683,7 +693,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -708,7 +720,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -733,7 +747,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -758,7 +774,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -783,7 +801,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -808,7 +828,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -833,7 +855,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -858,7 +882,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -883,7 +909,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -908,7 +936,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -932,7 +962,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -968,7 +1000,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -993,7 +1027,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1018,7 +1054,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1043,7 +1081,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1068,7 +1108,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1093,7 +1135,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1118,7 +1162,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1143,7 +1189,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1168,7 +1216,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1193,7 +1243,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1218,7 +1270,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1243,7 +1297,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1268,7 +1324,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1293,7 +1351,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1318,7 +1378,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1343,7 +1405,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "medieval Era"
+                    "medieval Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -1379,7 +1443,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1404,7 +1470,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1429,7 +1497,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1454,7 +1524,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1479,7 +1551,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1504,7 +1578,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1529,7 +1605,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1554,7 +1632,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1579,7 +1659,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1604,7 +1686,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1629,7 +1713,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1654,7 +1740,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1679,7 +1767,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1704,7 +1794,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1729,7 +1821,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1754,7 +1848,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "renaissance Era"
+                    "renaissance Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -1789,7 +1885,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1814,7 +1912,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1839,7 +1939,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1864,7 +1966,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1889,7 +1993,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1914,7 +2020,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1939,7 +2047,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1964,7 +2074,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -1989,7 +2101,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2014,7 +2128,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2039,7 +2155,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2064,7 +2182,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2089,7 +2209,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2114,7 +2236,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2139,7 +2263,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2164,7 +2290,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "industrial Era"
+                    "industrial Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -2199,7 +2327,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2224,7 +2354,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2249,7 +2381,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2274,7 +2408,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2299,7 +2435,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2324,7 +2462,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2349,7 +2489,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2374,7 +2516,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2399,7 +2543,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2424,7 +2570,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2449,7 +2597,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2474,7 +2624,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2499,7 +2651,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2524,7 +2678,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2549,7 +2705,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2574,7 +2732,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2599,7 +2759,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2624,7 +2786,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "modern Era"
+                    "modern Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -2659,7 +2823,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "atomic Era"
+                    "atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2684,7 +2850,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    "atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2709,7 +2877,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2734,7 +2904,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2759,7 +2931,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2784,7 +2958,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2809,7 +2985,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2834,7 +3012,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2859,7 +3039,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2884,7 +3066,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2909,7 +3093,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2934,7 +3120,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -2959,7 +3147,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "atomic Era "
+                    "atomic Era, PEra "
                 ],
                 "sections": [
                     {
@@ -2984,7 +3172,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era"
+                    " atomic Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -3019,7 +3209,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " information Era"
+                    " information Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3044,7 +3236,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3069,7 +3261,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3094,7 +3286,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3119,7 +3311,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3144,7 +3336,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3169,7 +3361,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3194,7 +3386,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3219,7 +3411,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3244,7 +3436,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3269,7 +3461,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3294,7 +3486,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3319,7 +3511,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3344,7 +3536,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3369,7 +3561,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3394,7 +3586,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3419,7 +3611,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "information Era "
+                    "information Era, PEra "
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -3454,7 +3646,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era"
+                    "future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3479,7 +3673,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era "
+                    "future Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3504,7 +3698,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era "
+                    "future Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3529,7 +3723,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era "
+                    "future Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3554,7 +3748,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era "
+                    "future Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3579,7 +3773,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era "
+                    "future Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3604,7 +3798,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era "
+                    "future Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3629,7 +3823,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " future Era"
+                    " future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3654,7 +3850,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " future Era"
+                    " future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3679,7 +3877,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "future Era "
+                    "future Era, PEra "
                 ],
                 "sections": [
                     {
@@ -3704,7 +3902,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " future Era"
+                    " future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3729,7 +3929,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " future Era"
+                    " future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3754,7 +3956,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " future Era"
+                    " future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3779,7 +3983,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " future Era"
+                    " future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -3804,7 +4010,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " future Era"
+                    " future Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "visibility_rules": ["PEra"],
                 "sections": [
@@ -4354,7 +4562,7 @@
                     {
                         "map": "Tech Boosts",
                         "x": 115,
-                        "y": 552,
+                        "y": 599,
                         "size": 22
                     }
                 ]
@@ -4598,7 +4806,7 @@
                     {
                         "map": "Tech Boosts",
                         "x": 115,
-                        "y": 599,
+                        "y": 552,
                         "size": 22
                     }
                 ]
@@ -4677,7 +4885,7 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
+                "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
                     "masonry"
@@ -5263,7 +5471,9 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -5296,7 +5506,9 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "classical Era"
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
@@ -6456,11 +6668,11 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "industrial Era"
+                    "{industrial Era, PEra}"
                 ],
                 "sections": [
                     {
-                        "name": "",
+                        "name": "ool until reach Industrial techs",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -6500,7 +6712,7 @@
                 "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
-                    "renaissance Era, []"
+                    "renaissance Era, PEra, []"
                 ],
                 "sections": [
                     {
@@ -7435,7 +7647,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "rocketry, [atomic Era]"
+                    "rocketry, [atomic Era, PEra]"
                 ],
                 "sections": [
                     {
@@ -7545,7 +7757,13 @@
                 "visibility_rules":["boostsanity, Excluded"],
 
                 "access_rules": [
-                    "lasers, [], information Era", "guidance systems, [], information Era", "advanced flight, [], information Era"
+                    "lasers, [], information Era, PEra",
+                    "None",
+                    "PDistricts", "guidance systems, [], information Era, PEra",
+                    "None",
+                    "PDistricts", "advanced flight, [], information Era, PEra",
+                    "None",
+                    "PDistricts"
                 ],
                 "sections": [
                     {
