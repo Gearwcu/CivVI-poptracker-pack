@@ -303,13 +303,16 @@
       "allow_disabled": false,
       "stages":[
         {"img": "images/settings/progs.png",
-        "codes": "None"
+        "codes": "PDistricts",
+        "inherit_codes": false
         },
         {"img": "images/settings/districts.png",
-        "codes": "PDistricts"
+        "codes": "PEra",
+        "inherit_codes": false
         },
         {"img": "images/settings/Eras.png",
-        "codes": "PEra"
+        "codes": "None",
+        "inherit_codes": false
         }
       ]
     },
@@ -324,6 +327,11 @@
       "name": "mining",
       "type": "toggle",
       "codes": "mining"
+    },
+    {
+      "name": "state workforce",
+      "type": "toggle",
+      "codes": "state workforce"
     },
     {
       "name": "bronze working",

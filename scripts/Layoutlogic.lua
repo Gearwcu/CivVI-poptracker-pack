@@ -3,12 +3,12 @@
 function updateLayout()
     print("Call updateLayout")
     local style = Tracker:FindObjectForCode("PEra")
-    local layoutString = "layouts/items"
-    if style.CurrentStage ~= 0 then
-        layoutString = layoutString .. "_districts"
+    local layoutString = "layouts/items_districts"
+    if style.CurrentStage == 1 then
+        layoutString = layoutString .. "_era"
     end
     if style.CurrentStage > 1 then
-        layoutString = layoutString .. "_era"
+        layoutString = "layouts/items"
     end
     Tracker:AddLayouts(layoutString .. ".json")
 end

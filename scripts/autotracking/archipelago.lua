@@ -100,7 +100,7 @@ function onClear(slot_data)
         Archipelago:Get({HINTS_ID})
     end
     --settingFill
-    Tracker:FindObjectForCode("Progstyle").CurrentStage = slot_data.progression_style + 1
+    Tracker:FindObjectForCode("Progstyle").CurrentStage = slot_data.progression_style
     -- look for the existence of boost locations?
 end
 
