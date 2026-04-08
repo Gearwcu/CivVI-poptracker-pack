@@ -42,7 +42,7 @@ end
 
 
 function onClear(slot_data)
-    print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
+    --print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     CUR_INDEX = -1
     SLOT_DATA = slot_data
     -- reset locations
@@ -92,7 +92,7 @@ function onClear(slot_data)
     -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
     --     autoFill(slot_data)
     -- end
-    print(PLAYER_ID, TEAM_NUMBER)
+    -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
