@@ -2,19 +2,36 @@
 
 After playing Civilization VI in archipelago in asyncs and the like I got a bit sick of having to remember which techs I had and hadn't done. And having to open the UT every time I wanted to know what would be in logic next.
 
-Which is why I now present here a poptracker pack. Most of the logic I have build in and found a few logic bugs along the way (don't worry they were reported). If I do find a logic bug it will be shown in blue wi th a second location. 
+Which is why I now present here a poptracker pack. Most of the logic I have build in and found a few logic bugs along the way. If I do find a logic bug it will be shown in blue with a second location. 
 
-Other than that All of the Era logic is included although seeing which specific tech you need is difficult to support but that may come later. For now all eras you have will be shown in yellow for Out of logic (ool) if you don't have the prerequisite techs to move to the next era. Becaause clearly if you can enter the era you'd most likely be able to do those techs/civics.
+All of the (non-)progressive era logic is included although seeing which specific tech you need is difficult to support but that may come later. For now all eras you have will be shown in yellow for Out of logic (ool) if you don't have the prerequisite techs to move to the next era. Because clearly if you can enter the era you'd most likely be able to do those techs/civics.
 
-One more thing there are also buttons in the settings for:
+
+Most importantly Auto Tracking works for it all! so no more looking at the tracker to piece together which techs you've already done.
+
+WIP 
+also I would not call myself a coder so
+expect a few bugs
+
+
+## Requirements
+
+  [Poptracker](https://github.com/black-sliver/PopTracker) (Latest Version recommended)
+
+## Installation and Usage
+
+1. Download the pack from the releases page: [GitHub Releases](https://github.com/Gearwcu/CivVI-poptracker-pack/releases)
+2. Move `.zip` file into your popTracker packs folder
+3. Open Poptracker and select `Civilization VI Archipelago x.x`
+4. Click on the AP butten in the top left to start autotracking your slot by inputting your, Host and Playername (optionally password)
+
+ ## Features
+
+Autotracking for all locations and items with Districts (and progressive Eras) on the left
+ 
+In the settings in the top left (three bars with gear) there are:
 1. Boostsanity
 2. Progression Style
-3. Excluded Locations
+3. Excluded Locations (missable boosts and goody huts that will have only filler items)
 
-Excluded locations are missable boosts and goody huts that will have only filler items
-
-Most importantly Auto Tracking works for it all!
-
-WIP
-Firstly mostly focused on boostsanity being enabled
-Expect a few bugs
+Don't worry about this too much, everything is autotracked as well.
