@@ -4580,106 +4580,6 @@
                         "size": 22
                     }
                 ]
-            },
-            {
-                "name": "BOOST CELESTIAL_NAVIGATION",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"
-                ],
-
-                "access_rules": [
-                    "sailing"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Classical Era",
-                        "x": 550,
-                        "y": 150,
-                        "size": 28
-                    },
-                    {
-                        "map": "Tech Boosts",
-                        "x": 115,
-                        "y": 599,
-                        "size": 22
-                    }
-                ]
-            },
-            {
-                "name": "BOOST CURRENCY",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
-
-                "access_rules": [
-                    "foreign trade"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Classical Era",
-                        "x": 550,
-                        "y": 317,
-                        "size": 28
-                    },
-                    {
-                        "map": "Tech Boosts",
-                        "x": 115,
-                        "y": 690,
-                        "size": 22
-                    }
-                ]
-            },
-            {
-                "name": "BOOST HORSEBACK_RIDING",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
-
-                "access_rules": [
-                    "animal husbandry"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Classical Era",
-                        "x": 550,
-                        "y": 401,
-                        "size": 28
-                    },
-                    {
-                        "map": "Tech Boosts",
-                        "x": 115,
-                        "y": 736,
-                        "size": 22
-                    }
-                ]
             }
         ]
 
@@ -4722,7 +4622,7 @@
                     {
                         "map": "Tech Boosts",
                         "x": 115,
-                        "y": 552,
+                        "y": 598,
                         "size": 22
                     }
                 ]
@@ -8372,6 +8272,577 @@
                         "x": 992,
                         "y": 1318,
                         "size": 22
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prereqs",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            ""
+        ],
+        "children": [
+            {
+                "name": "Mining req",
+                "access_rules": [
+                    "mining"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "800",
+                        "y": "260",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Bronze working req",
+                "access_rules": [
+                    "bronze working"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "875",
+                        "y": "260",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Astrology req",
+                "access_rules": [
+                    "astrology"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "950",
+                        "y": "260",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Writing req",
+                "access_rules": [
+                    "writing"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "1025",
+                        "y": "260",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Irrigation req",
+                "access_rules": [
+                    "irrigation"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "1100",
+                        "y": "260",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Sailing req",
+                "access_rules": [
+                    "sailing"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "1175",
+                        "y": "260",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Animal husbandry req",
+                "access_rules": [
+                    "animal husbandry"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "800",
+                        "y": "330",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "State workforce req",
+                "access_rules": [
+                    "Government Plaza"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "875",
+                        "y": "330",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Foreign trade req",
+                "access_rules": [
+                    "foreign trade"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "950",
+                        "y": "330",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Celestial navigation req",
+                "access_rules": [
+                    "celestial navigation"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "50",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Currency req",
+                "access_rules": [
+                    "currency"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "125",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Mathematics req",
+                "access_rules": [
+                    "mathematics"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "200",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Shipbuilding req",
+                "access_rules": [
+                    "shipbuilding"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "275",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Games and recreation req",
+                "access_rules": [
+                    "games and recreation"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "350",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Political philosophy req",
+                "access_rules": [
+                    "political philosophy"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "425",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Drama and poetry req",
+                "access_rules": [
+                    "drama and poetry"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "500",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Theology req",
+                "access_rules": [
+                    "theology"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR1",
+                        "x": "575",
+                        "y": "740",
+                        "size": 45
+                    }
+                ]
+            },
+            {
+                "name": "Apprenticeship req",
+                "access_rules": [
+                    "apprenticeship"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Education req",
+                "access_rules": [
+                    "education"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Military engineering req",
+                "access_rules": [
+                    "military engineering"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Divine right req",
+                "access_rules": [
+                    "divine right"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Mass production req",
+                "access_rules": [
+                    "mass production"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Banking req",
+                "access_rules": [
+                    "banking"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Exploration req",
+                "access_rules": [
+                    "exploration"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Humanism req",
+                "access_rules": [
+                    "humanism"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Reformed church req",
+                "access_rules": [
+                    "reformed church"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Diplomatic service req",
+                "access_rules": [
+                    "diplomatic service"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
+                    }
+                ]
+            },
+            {
+                "name": "Cartography req",
+                "access_rules": [
+                    "cartography"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "EraR2",
+                        "x": "563",
+                        "y": "85",
+                        "size": 28
                     }
                 ]
             }
