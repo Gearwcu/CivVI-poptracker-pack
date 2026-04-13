@@ -984,6 +984,76 @@
                     }
                 ]
             },
+                        {
+                "name": "BOOST FEUDALISM",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "visibility_rules":["boostsanity"],
+
+                "access_rules": [
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "592",
+                        "y": "948",
+                        "size": 28
+                    },
+                    {
+                        "map": "Civic Boosts",
+                        "x": "115",
+                        "y":"1054",
+                        "size": 22
+                    }
+                ]
+            },
+            {
+                "name": "BOOST CIVIL_SERVICE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "visibility_rules":["boostsanity"],
+
+                "access_rules": [
+                    "classical Era, PEra",
+                    "None",
+                    "PDistricts"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Medieval Era",
+                        "x": "592",
+                        "y": "1116",
+                        "size": 28
+                    },
+                    {
+                        "map": "Civic Boosts",
+                        "x": "115",
+                        "y":"1100",
+                        "size": 22
+                    }
+                ]
+            },
         
     {
         "name": "Medieval Era",
@@ -2309,6 +2379,41 @@
                         "x": "0",
                         "y": "715",
                         "size": 100
+                    }
+                ]
+            },
+            {
+                "name": "BOOST URBANIZATION",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "visibility_rules":["boostsanity"],
+
+                "access_rules": [
+                    "[industrial Era], PEra",
+                    "None",
+                    "PDistricts"
+                ],
+                "sections": [
+                    {
+                        "name": "ool until reach Industrial techs",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Industrial Era",
+                        "x": "1066",
+                        "y": "956",
+                        "size": 28
+                    },
+                    {
+                        "map": "Civic Boosts",
+                        "x": "558",
+                        "y":"868",
+                        "size": 22
                     }
                 ]
             },        
@@ -3662,6 +3767,47 @@
                         "x": "0",
                         "y": "700",
                         "size": 100
+                    }
+                ]
+            },
+                        {
+                "name": "BOOST GUIDANCE_SYSTEMS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "visibility_rules":["boostsanity, Excluded"],
+
+                "access_rules": [
+                    "lasers, [], information Era, PEra",
+                    "guidance systems, [], information Era, PEra",
+                    "advanced flight, [], information Era, PEra",
+                    "lasers, [], None",
+                    "guidance systems, [], None",
+                    "advanced flight, [],None",
+                    "lasers, [], PDistricts",
+                    "guidance systems, [], PDistricts",
+                    "advanced flight, [], PDistricts"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Information Era",
+                        "x": "480",
+                        "y": "317",
+                        "size": 28
+                    },
+                    {
+                        "map": "Tech Boosts",
+                        "x": 992,
+                        "y": 694,
+                        "size": 22
                     }
                 ]
             },        
@@ -5341,8 +5487,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules":["boostsanity"],
 
-                "access_rules": [
-                ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "",
@@ -5407,76 +5552,6 @@
                         "map": "Civic Boosts",
                         "x": "115",
                         "y":"1009",
-                        "size": 22
-                    }
-                ]
-            },
-            {
-                "name": "BOOST FEUDALISM",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
-
-                "access_rules": [
-                    "classical Era, PEra",
-                    "None",
-                    "PDistricts"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Medieval Era",
-                        "x": "592",
-                        "y": "948",
-                        "size": 28
-                    },
-                    {
-                        "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"1054",
-                        "size": 22
-                    }
-                ]
-            },
-            {
-                "name": "BOOST CIVIL_SERVICE",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
-
-                "access_rules": [
-                    "classical Era, PEra",
-                    "None",
-                    "PDistricts"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Medieval Era",
-                        "x": "592",
-                        "y": "1116",
-                        "size": 28
-                    },
-                    {
-                        "map": "Civic Boosts",
-                        "x": "115",
-                        "y":"1100",
                         "size": 22
                     }
                 ]
@@ -6607,40 +6682,7 @@
                         "size": 22
                     }
                 ]
-            },
-            {
-                "name": "BOOST URBANIZATION",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "visibility_rules":["boostsanity"],
-
-                "access_rules": [
-                    "{industrial Era, PEra}"
-                ],
-                "sections": [
-                    {
-                        "name": "ool until reach Industrial techs",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Industrial Era",
-                        "x": "1066",
-                        "y": "956",
-                        "size": 28
-                    },
-                    {
-                        "map": "Civic Boosts",
-                        "x": "558",
-                        "y":"868",
-                        "size": 22
-                    }
-                ]
-            }
+            }            
         ]
     },
     {
@@ -7693,45 +7735,6 @@
                         "map": "Tech Boosts",
                         "x": 992,
                         "y": 648,
-                        "size": 22
-                    }
-                ]
-            },
-            {
-                "name": "BOOST GUIDANCE_SYSTEMS",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "visibility_rules":["boostsanity, Excluded"],
-
-                "access_rules": [
-                    "lasers, [], information Era, PEra",
-                    "None",
-                    "PDistricts", "guidance systems, [], information Era, PEra",
-                    "None",
-                    "PDistricts", "advanced flight, [], information Era, PEra",
-                    "None",
-                    "PDistricts"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Information Era",
-                        "x": "480",
-                        "y": "317",
-                        "size": 28
-                    },
-                    {
-                        "map": "Tech Boosts",
-                        "x": 992,
-                        "y": 694,
                         "size": 22
                     }
                 ]
