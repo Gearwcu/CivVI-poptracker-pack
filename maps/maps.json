@@ -70,5 +70,29 @@
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/BoostsC.png"
+    },
+    {
+        "name": "EraR1",
+        "location_size": 8,
+        "location_border_thickness": 1,
+        "shape": "diamond",
+        "img": "images/maps/Anclasreq.png",
+        "location_shape": "diamond"
+    },
+    {
+        "name": "EraR2",
+        "location_size": 8,
+        "location_border_thickness": 1,
+        "shape": "diamond",
+        "img": "images/maps/Medreindusreq.png",
+        "location_shape": "diamond"
+    },
+    {
+        "name": "EraR3",
+        "location_size": 8,
+        "location_border_thickness": 1,
+        "shape": "diamond",
+        "img": "images/maps/Modatominforeq.png",
+        "location_shape": "diamond"
     }
 ]

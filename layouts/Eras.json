@@ -107,5 +107,37 @@
                 }
             }
         ]
+    },
+    "EraR":{
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Ancient/Classical",
+                "content":{
+                    "type": "map",
+                    "maps": [
+                        "EraR1"
+                    ]
+                }
+            },
+            {
+                "title": "Medieval/Renaissance/Industrial",
+                "content":{
+                    "type": "map",
+                    "maps": [
+                        "EraR2"
+                    ]
+                }
+            },
+            {
+                "title": "Modern/Atomic/Information",
+                "content":{
+                    "type": "map",
+                    "maps": [
+                        "EraR3"
+                    ]
+                }
+            }
+        ]
     }
 }
