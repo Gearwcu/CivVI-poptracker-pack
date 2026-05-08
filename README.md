@@ -9,10 +9,6 @@ All of the (non-)progressive era logic is included although seeing which specifi
 
 Most importantly Auto Tracking works for it all! so no more looking at the tracker to piece together which techs you've already done.
 
-WIP 
-also I would not call myself a coder so
-expect a few bugs
-
 
 ## Requirements
 
@@ -26,6 +22,14 @@ expect a few bugs
 4. Click on the AP butten in the top left to start autotracking your slot by inputting your, Host and Playername (optionally password)
 
  ## Features
+
+ Tabs for Tracking you progress in the world:
+ 1. Techs seperated by Eras (with the required techs to reach the era in-logic in the top left)
+ 2. Boost seperated by Civic/Techs
+ 3. Logic tab for reaching eras, (These are NOT Checks)<br>
+    These are basically the important techs per era tracker (because they could not fit on the left),<br>
+    Green means you've received that tech, red means you haven't,<br>
+    Note: these are not autotracked to disappear
 
 Autotracking for all locations and items with Districts (and progressive Eras) on the left
  
