@@ -25,6 +25,7 @@ ITEM_MAPPING = {
 	[5041028] = {{"banking", "toggle"}},
 	[5041029] = {{"gunpowder", "toggle"}},
 	[5041032] = {{"astronomy", "toggle"}},
+	[5041034] = {{"siege tactics", "toggle"}},
 	[5041035] = {{"industrialization", "toggle"}},
 	[5041037] = {{"ballistics", "toggle"}},
 	[5041038] = {{"military science", "toggle"}},
