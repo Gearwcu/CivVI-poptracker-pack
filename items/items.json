@@ -722,6 +722,11 @@
         "name": "mysticism",
         "type": "toggle",
         "codes": "mysticism, districtool"
-    }
+    },
+        {
+          "name": "siege tactics",
+          "type": "toggle",
+          "codes": "siege tactics"
+        }
   ]
   
