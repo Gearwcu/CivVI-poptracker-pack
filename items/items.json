@@ -1,251 +1,16 @@
 [
     
     
+    
     {
-      "name": "Campus",
-      "type": "progressive",
-      "codes": "Campus",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/Campus1.png",
-        "codes": "writing, district"
-        },
-        {"img": "images/items/Campus2.png",
-        "codes": "education"
-        },
-        {"img": "images/items/Campus3.png",
+        "name": "chemistry",
+        "type": "toggle",
         "codes": "chemistry"
-        }
-      ]
     },
-    {
-      "name": "Theater Square",
-      "type": "progressive",
-      "codes": "Theater",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/theater1.png",
-      "codes": "drama and poetry, district"
-        },
-        {"img": "images/items/theater2.png",
-      "codes": "humanism"
-        },
-        {"img": "images/items/theater3.png",
-      "codes": "radio"
-        }
-      ]
-    },
-    {
-      "name": "Holy Site",
-      "type": "progressive",
-      "codes": "Holy Site",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/holy1.png",
-        "codes": "astrology, districtool"
-        },
-        {"img": "images/items/holy2.png",
-        "codes": "theology"
-        }
-      ]
-    },
-    {
-      "name": "Encampment",
-      "type": "progressive",
-      "codes": "Encampment",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/encamp1.png",
-        "codes": "bronze working, district"
-        },
-        {"img": "images/items/encamp2.png",
-        "codes": "military engineering"
-        },
-        {"img": "images/items/encamp3.png",
-        "codes": "military science"
-        }
-      ]
-    },
-    {
-      "name": "Commercial Hub",
-      "type": "progressive",
-      "codes": "Commercial Hub",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/commerce1.png",
-      "codes": "currency, district"
-        },
-        {"img": "images/items/commerce2.png",
-      "codes": "banking"
-        },
-        {"img": "images/items/commerce3.png",
-      "codes": "economics"
-        }
-      ]
-    },
-    {
-      "name": "Harbor",
-      "type": "progressive",
-      "codes": "Harbor",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/harbor1.png",
-        "codes": "celestial navigation, district"
-        },
-        {"img": "images/items/harbor2.png",
-        "codes": "mass production"
-        }
-      ]
-    },
-    {
-      "name": "Industrial Zone",
-      "type": "progressive",
-      "codes": "Industrial Zone",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/industry1.png",
-      "codes": "apprenticeship, district"
-        },
-        {"img": "images/items/industry2.png",
-      "codes": "industrialization"
-        },
-        {"img": "images/items/industry3.png",
-      "codes": "electricity"
-        },
-        {"img": "images/items/industry4.png",
-      "codes": "nuclear fission"
-        }
-      ]
-    },
-    {
-      "name": "Preserve",
-      "type": "progressive",
-      "codes": "Preserve",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/preserve1.png",
-      "codes": "mysticism, districtool"
-        },
-        {"img": "images/items/preserve2.png",
-      "codes": "conservation"
-        }
-      ]
-    },
-    {
-      "name": "Entainment Complex",
-      "type": "progressive",
-      "codes": "Entertainment Complex",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/entertain1.png",
-      "codes": "games and recreation, district"
-        },
-        {"img": "images/items/entertain2.png",
-      "codes": "natural history, districtool"
-        },
-        {"img": "images/items/entertain3.png",
-      "codes": "professional sports"
-        }
-      ]
-    },
-    {
-      "name": "Neighborhood",
-      "type": "progressive",
-      "codes": "Neighborhood",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/neighbor1.png",
-      "codes": "urbanization, district"
-        },
-        {"img": "images/items/neighbor2.png",
-      "codes": "replaceable parts"
-        },
-        {"img": "images/items/neighbor3.png",
-      "codes": "capitalism"
-        }
-      ]
-    },
-    {
-      "name": "Aerodrome",
-      "type": "progressive",
-      "codes": "Aerodrome",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/aerodome1.png",
-      "codes": "flight, district"
-        },
-        {"img": "images/items/aerodome2.png",
-      "codes": "advanced flight"
-        }
-      ]
-    },
-    {
-      "name": "Diplomatic Quarter",
-      "type": "progressive",
-      "loop": false,
-      "codes": "Diplo Quarter",
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/diplo1.png",
-        "codes": "mathematics, districtool"
-        },
-        {"img": "images/items/diplo2.png",
-        "codes": "diplomatic service"
-        }
-      ]
-    },
-    {
-      "name": "Space Port",
-      "type": "progressive",
-      "codes": "Space Port",
-      "loop": false,
-      "allow_disabled": true,
-      "stages":[
-        {"img": "images/items/space1.png",
-        "codes": "rocketry"
-        },
-        {"img": "images/items/space2.png",
-        "codes": "satellites"
-        },
-        {"img": "images/items/space3.png",
-        "codes": "nanotechnology"
-        },
-        {"img": "images/items/space4.png",
-        "codes": "smart materials"
-        },
-        {"img": "images/items/space5.png",
-        "codes": "offworld mission"
-        }
-      ]
-    },
-    {
-      "name": "Dam",
-      "type": "toggle",
-      "codes": "Dam, districtool",
-      "img": "images/items/Dam.png"
-    },
-    {
-      "name": "Government Plaza",
-      "type": "toggle",
-      "codes": "Government Plaza, districtool",
-      "img": "images/items/GovernmentPlaza.png"
-    },
-    {
-      "name": "Canal",
-      "type": "toggle",
-      "codes": "Canal, districtool",
-      "img": "images/items/Canal.png"
+        {
+        "name": "education",
+        "type": "toggle",
+        "codes": "education"
     },
     {
       "name": "Aqueduct",
@@ -414,11 +179,6 @@
         "codes": "apprenticeship, district"
     },
         {
-        "name": "education",
-        "type": "toggle",
-        "codes": "education"
-    },
-        {
         "name": "military engineering",
         "type": "toggle",
         "codes": "military engineering"
@@ -507,11 +267,6 @@
         "name": "radio",
         "type": "toggle",
         "codes": "radio"
-    },
-        {
-        "name": "chemistry",
-        "type": "toggle",
-        "codes": "chemistry"
     },
         {
         "name": "suffrage",
@@ -727,6 +482,474 @@
           "name": "siege tactics",
           "type": "toggle",
           "codes": "siege tactics"
+        },
+    {
+      "name": "Campus",
+      "type": "progressive",
+      "codes": "Campus",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/Campus1.png",
+        "codes": "writing, district"
+        },
+        {"img": "images/items/Campus2.png",
+        "codes": "education"
+        },
+        {"img": "images/items/Campus3.png",
+        "codes": "chemistry"
         }
+      ]
+    },
+    {
+      "name": "Campus2",
+      "type": "progressive_toggle",
+      "codes": "Campus2",
+      "stages":[
+        {"img": "images/items/Campus1.png",
+        "codes": "district"
+        },
+        {"img": "images/items/Campus2.png",
+        "codes": ""
+        },
+        {"img": "images/items/Campus3.png",
+        "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Theater Square",
+      "type": "progressive",
+      "codes": "Theater",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/theater1.png",
+      "codes": "drama and poetry, district"
+        },
+        {"img": "images/items/theater2.png",
+      "codes": "humanism"
+        },
+        {"img": "images/items/theater3.png",
+      "codes": "radio"
+        }
+      ]
+    },
+        {
+      "name": "Theater Square2",
+      "type": "progressive_toggle",
+      "codes": "Theater2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/theater1.png",
+      "codes": "district",
+      "inherit_codes": false
+        },
+        {"img": "images/items/theater2.png",
+      "codes": "",
+      "inherit_codes": false
+        },
+        {"img": "images/items/theater3.png",
+      "codes": "",
+      "inherit_codes": false
+        }
+      ]
+    },
+    {
+      "name": "Holy Site",
+      "type": "progressive",
+      "codes": "Holy Site",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/holy1.png",
+        "codes": "astrology, districtool"
+        },
+        {"img": "images/items/holy2.png",
+        "codes": "theology"
+        }
+      ]
+    },
+        {
+      "name": "Holy Site2",
+      "type": "progressive_toggle",
+      "codes": "Holy Site2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/holy1.png",
+        "codes": "districtool",
+        "inherit_codes": false
+        },
+        {"img": "images/items/holy2.png",
+        "codes": "",
+        "inherit_codes": false
+        }
+      ]
+    },
+    {
+      "name": "Encampment",
+      "type": "progressive",
+      "codes": "Encampment",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/encamp1.png",
+        "codes": "bronze working, district"
+        },
+        {"img": "images/items/encamp2.png",
+        "codes": "military engineering"
+        },
+        {"img": "images/items/encamp3.png",
+        "codes": "military science"
+        }
+      ]
+    },
+        {
+      "name": "Encampment2",
+      "type": "progressive_toggle",
+      "codes": "Encampment2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/encamp1.png",
+        "codes": "district",
+        "inherit_codes": false
+        },
+        {"img": "images/items/encamp2.png",
+        "codes": "",
+        "inherit_codes": false
+        },
+        {"img": "images/items/encamp3.png",
+        "codes": "",
+        "inherit_codes": false
+        }
+      ]
+    },
+    {
+      "name": "Commercial Hub",
+      "type": "progressive",
+      "codes": "Commercial Hub",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/commerce1.png",
+      "codes": "currency, district"
+        },
+        {"img": "images/items/commerce2.png",
+      "codes": "banking"
+        },
+        {"img": "images/items/commerce3.png",
+      "codes": "economics"
+        }
+      ]
+    },
+        {
+      "name": "Commercial Hub",
+      "type": "progressive_toggle",
+      "codes": "Commercial Hub2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/commerce1.png",
+      "codes": "district"
+        },
+        {"img": "images/items/commerce2.png",
+      "codes": ""
+        },
+        {"img": "images/items/commerce3.png",
+      "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Harbor",
+      "type": "progressive",
+      "codes": "Harbor",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/harbor1.png",
+        "codes": "celestial navigation, district"
+        },
+        {"img": "images/items/harbor2.png",
+        "codes": "mass production"
+        }
+      ]
+    },
+        {
+      "name": "Harbor2",
+      "type": "progressive_toggle",
+      "codes": "Harbor2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/harbor1.png",
+        "codes": "district"
+        },
+        {"img": "images/items/harbor2.png",
+        "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Industrial Zone",
+      "type": "progressive",
+      "codes": "Industrial Zone",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/industry1.png",
+      "codes": "apprenticeship, district"
+        },
+        {"img": "images/items/industry2.png",
+      "codes": "industrialization"
+        },
+        {"img": "images/items/industry3.png",
+      "codes": "electricity"
+        },
+        {"img": "images/items/industry4.png",
+      "codes": "nuclear fission"
+        }
+      ]
+    },
+        {
+      "name": "Industrial Zone2",
+      "type": "progressive_toggle",
+      "codes": "Industrial Zone2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/industry1.png",
+      "codes": "district"
+        },
+        {"img": "images/items/industry2.png",
+      "codes": ""
+        },
+        {"img": "images/items/industry3.png",
+      "codes": ""
+        },
+        {"img": "images/items/industry4.png",
+      "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Preserve",
+      "type": "progressive",
+      "codes": "Preserve",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/preserve1.png",
+      "codes": "mysticism, districtool"
+        },
+        {"img": "images/items/preserve2.png",
+      "codes": "conservation"
+        }
+      ]
+    },
+        {
+      "name": "Preserve",
+      "type": "progressive_toggle",
+      "codes": "Preserve2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/preserve1.png",
+      "codes": "districtool"
+        },
+        {"img": "images/items/preserve2.png",
+      "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Entainment Complex",
+      "type": "progressive",
+      "codes": "Entertainment Complex",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/entertain1.png",
+      "codes": "games and recreation, district"
+        },
+        {"img": "images/items/entertain2.png",
+      "codes": "natural history, districtool"
+        },
+        {"img": "images/items/entertain3.png",
+      "codes": "professional sports"
+        }
+      ]
+    },
+        {
+      "name": "Entainment Complex",
+      "type": "progressive_toggle",
+      "codes": "Entertainment Complex2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/entertain1.png",
+      "codes": "district"
+        },
+        {"img": "images/items/entertain2.png",
+      "codes": "districtool"
+        },
+        {"img": "images/items/entertain3.png",
+      "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Neighborhood",
+      "type": "progressive",
+      "codes": "Neighborhood",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/neighbor1.png",
+      "codes": "urbanization, district"
+        },
+        {"img": "images/items/neighbor2.png",
+      "codes": "replaceable parts"
+        },
+        {"img": "images/items/neighbor3.png",
+      "codes": "capitalism"
+        }
+      ]
+    },
+        {
+      "name": "Neighborhood",
+      "type": "progressive_toggle",
+      "codes": "Neighborhood2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/neighbor1.png",
+      "codes": "district"
+        },
+        {"img": "images/items/neighbor2.png",
+      "codes": ""
+        },
+        {"img": "images/items/neighbor3.png",
+      "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Aerodrome",
+      "type": "progressive",
+      "codes": "Aerodrome",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/aerodome1.png",
+      "codes": "flight, district"
+        },
+        {"img": "images/items/aerodome2.png",
+      "codes": "advanced flight"
+        }
+      ]
+    },
+        {
+      "name": "Aerodrome",
+      "type": "progressive_toggle",
+      "codes": "Aerodrome2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/aerodome1.png",
+      "codes": "district"
+        },
+        {"img": "images/items/aerodome2.png",
+      "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Diplomatic Quarter",
+      "type": "progressive",
+      "loop": false,
+      "codes": "Diplo Quarter",
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/diplo1.png",
+        "codes": "mathematics, districtool"
+        },
+        {"img": "images/items/diplo2.png",
+        "codes": "diplomatic service"
+        }
+      ]
+    },
+        {
+      "name": "Diplomatic Quarter",
+      "type": "progressive_toggle",
+      "loop": false,
+      "codes": "Diplo Quarter2",
+      "stages":[
+        {"img": "images/items/diplo1.png",
+        "codes": "districtool"
+        },
+        {"img": "images/items/diplo2.png",
+        "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Space Port",
+      "type": "progressive",
+      "codes": "Space Port",
+      "loop": false,
+      "allow_disabled": true,
+      "stages":[
+        {"img": "images/items/space1.png",
+        "codes": "rocketry"
+        },
+        {"img": "images/items/space2.png",
+        "codes": "satellites"
+        },
+        {"img": "images/items/space3.png",
+        "codes": "nanotechnology"
+        },
+        {"img": "images/items/space4.png",
+        "codes": "smart materials"
+        },
+        {"img": "images/items/space5.png",
+        "codes": "offworld mission"
+        }
+      ]
+    },
+        {
+      "name": "Space Port",
+      "type": "progressive_toggle",
+      "codes": "Space Port2",
+      "loop": false,
+      "stages":[
+        {"img": "images/items/space1.png",
+        "codes": ""
+        },
+        {"img": "images/items/space2.png",
+        "codes": ""
+        },
+        {"img": "images/items/space3.png",
+        "codes": ""
+        },
+        {"img": "images/items/space4.png",
+        "codes": ""
+        },
+        {"img": "images/items/space5.png",
+        "codes": ""
+        }
+      ]
+    },
+    {
+      "name": "Dam",
+      "type": "toggle",
+      "codes": "Dam, districtool",
+      "img": "images/items/Dam.png"
+    },
+    {
+      "name": "Government Plaza",
+      "type": "toggle",
+      "codes": "Government Plaza, districtool",
+      "img": "images/items/GovernmentPlaza.png"
+    },
+    {
+      "name": "Canal",
+      "type": "toggle",
+      "codes": "Canal, districtool",
+      "img": "images/items/Canal.png"
+    }
   ]
   

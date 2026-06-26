@@ -99,15 +99,12 @@ function onClear(slot_data)
         Archipelago:SetNotify({HINTS_ID})
         Archipelago:Get({HINTS_ID})
     end
+    
     --settingFill
     Tracker:FindObjectForCode("Progstyle").CurrentStage = slot_data.progression_style
-    -- look for the existence of boost locations?
 end
 
 function onItem(index, item_id, item_name, player_number)
-    
-	
-	
     if index <= CUR_INDEX then
         return
     end
@@ -127,6 +124,7 @@ function onItem(index, item_id, item_name, player_number)
             if item_obj.Type == "toggle" then
                 --print("toggle")
                 item_obj.Active = true
+                Trackdistrictprogress()
             elseif item_obj.Type == "progressive" then
                 --print("progressive")
                 if item_obj.Active then
@@ -214,6 +212,66 @@ end
 --        end
 --    end
 --end
+
+function Trackdistrictprogress()
+    --tracking for items.json case
+    --print("Distprogtest")
+    if Tracker:FindObjectForCode("Progstyle").CurrentStage == 2 then
+        districts = {
+            Tracker:FindObjectForCode("Campus2"),
+            Tracker:FindObjectForCode("Theater2"),
+            Tracker:FindObjectForCode("Space Port2"),
+            Tracker:FindObjectForCode("Commercial hub2"),
+            Tracker:FindObjectForCode("Industrial Zone2"),
+            Tracker:FindObjectForCode("Harbor2"),
+            Tracker:FindObjectForCode("Entertainment Complex2"),
+            Tracker:FindObjectForCode("Diplo Quarter2"),
+            Tracker:FindObjectForCode("Aerodrome2"),
+            Tracker:FindObjectForCode("Encampment2"),
+            Tracker:FindObjectForCode("Preserve2"),
+            Tracker:FindObjectForCode("Neighborhood2"),
+            Tracker:FindObjectForCode("Holy Site2")
+        }
+        local techs = {
+            {"writing", "education", "chemistry"},
+            {"drama and poetry", "humanism", "radio"},
+            {"rocketry", "satellites", "nanotechnology", "smart materials", "offworld mission"},
+            {"currency", "banking", "economics"},
+            {"apprenticeship", "industrialization", "electricity", "nuclear fission"},
+            {"celestial navigation", "mass production"},
+            {"games and recreation", "natural history", "professional sports"},
+            {"mathematics", "diplomatic service"},
+            {"flight", "advanced flight"},
+            {"bronze working", "military engineering", "military science"},
+            {"mysticism", "conservation"},
+            {"urbanization", "replaceable parts", "capitalism"},
+            {"astrology", "theology"}
+        }
+        for i=1, 13 do
+            local cons = true
+            for j=1, #techs[i] do
+                if Tracker:FindObjectForCode(techs[i][j]).Active then
+                    if j == 1 then
+                        --print("omg!")
+                        districts[i].Active = 1
+                    elseif cons then
+                        --print("uppies!")
+                        districts[i].CurrentStage = j - 1
+                    end
+                elseif j > 1 then
+                    cons = false
+                end
+                --if Tracker:FindObjectForCode("Education").Active then
+                --    print("uppies!")
+                --    i.CurrentStage = 1
+                --    if chemistry then
+                --        i.CurrentStage = 2
+                --    end
+                --end
+            end
+        end
+    end
+end
 
 function onNotify(key, value, old_value)
     print("onNotify", key, value, old_value)
