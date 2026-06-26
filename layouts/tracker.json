@@ -24,10 +24,12 @@
                 },
                 {
                     "type": "dock",
-                    "content": {
+                    "content": [
+                        {
                         "type": "layout",
                         "key": "tabbed_maps_vertical"
-                    }
+                        }
+                    ]
                 }
             ]
         }
