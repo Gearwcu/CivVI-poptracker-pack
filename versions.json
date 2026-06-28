@@ -1,11 +1,20 @@
 {
     "versions": [
         {
+            "package_version": "1.1.0",
+            "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.1.0/CivVI-poptracker-pack.zip",
+            "sha256": "51dfd870e52869e2859936449fb9399571dc141303731d926dfc37da89f4c094",
+            "changelog": [
+                "Versions.json added for auto-update",
+                "Fixes for autotracking in non-progressive districts"
+            ]
+        },
+        {
             "package_version": "1.0.2",
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.0.2/CivVI-poptracker-pack.zip",
             "sha256": "8e32c7fb1c208e9d663c0e0172afa37f9db05b5fd44eed7390cec385ea0f01d4",
             "changelog": [
-                "Placeholder"
+                "old version"
             ]
         },
         {
@@ -13,7 +22,7 @@
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.0.0/CivVI-poptracker-pack.zip",
             "sha256": "48c6635090bec99df7e75fba18115cc8a8f81f149774297c534f7569f37d9c82",
             "changelog": [
-                "Placeholder"
+                "old version"
             ]
         },
         {
@@ -21,7 +30,7 @@
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/0.2.2/CivVI-poptracker-pack.zip",
             "sha256": "7d44a713f8c136cc1bff6f7ae9cf0d36d87ab2002ec05ffdd9ae912e70f4b4a8",
             "changelog": [
-                "Placeholder"
+                "old version"
             ]
         },
         {
@@ -29,7 +38,7 @@
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/0.2.1/CivVI-poptracker-pack.zip",
             "sha256": "d5b0cab718233f7e60a46ec47188bfa53a58d6aee0d832938bf5a95fab1e9914",
             "changelog": [
-                "Placeholder"
+                "old version"
             ]
         },
         {
@@ -37,7 +46,7 @@
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/0.2.0/CivVI-poptracker-pack.zip",
             "sha256": "ced373c3f263a97669f9862bb02cfa334de068fbfb3e888da3d9cd0273c76d17",
             "changelog": [
-                "Placeholder"
+                "old version"
             ]
         }
     ]
