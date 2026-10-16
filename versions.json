@@ -3,9 +3,9 @@
         {
             "package_version": "1.1.1",
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.1.1/CivVI-poptracker-pack.zip",
-            "sha256": "",
+            "sha256": "7e133f772d8d96512767b007cbf2b309714f70e83ad49b65e03e7bf179c05863",
             "changelog": [
-                "renamed Wrong ap logic location on Boost Castles",
+                "Renamed Wrong ap logic location on Boost Castles",
                 "Fixed some typos"
             ]
         },
