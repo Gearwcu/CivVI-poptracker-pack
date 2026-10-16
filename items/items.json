@@ -502,7 +502,7 @@
       ]
     },
     {
-      "name": "Campus2",
+      "name": "Campus",
       "type": "progressive_toggle",
       "codes": "Campus2",
       "stages":[
@@ -536,7 +536,7 @@
       ]
     },
         {
-      "name": "Theater Square2",
+      "name": "Theater Square",
       "type": "progressive_toggle",
       "codes": "Theater2",
       "loop": false,
@@ -571,7 +571,7 @@
       ]
     },
         {
-      "name": "Holy Site2",
+      "name": "Holy Site",
       "type": "progressive_toggle",
       "codes": "Holy Site2",
       "loop": false,
@@ -605,7 +605,7 @@
       ]
     },
         {
-      "name": "Encampment2",
+      "name": "Encampment",
       "type": "progressive_toggle",
       "codes": "Encampment2",
       "loop": false,
@@ -675,7 +675,7 @@
       ]
     },
         {
-      "name": "Harbor2",
+      "name": "Harbor",
       "type": "progressive_toggle",
       "codes": "Harbor2",
       "loop": false,
@@ -710,7 +710,7 @@
       ]
     },
         {
-      "name": "Industrial Zone2",
+      "name": "Industrial Zone",
       "type": "progressive_toggle",
       "codes": "Industrial Zone2",
       "loop": false,

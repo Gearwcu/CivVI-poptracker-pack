@@ -217,6 +217,7 @@ function Trackdistrictprogress()
     --tracking for items.json case
     --print("Distprogtest")
     if Tracker:FindObjectForCode("Progstyle").CurrentStage == 2 then
+        --print("Distprogtest2")
         districts = {
             Tracker:FindObjectForCode("Campus2"),
             Tracker:FindObjectForCode("Theater2"),
@@ -261,13 +262,6 @@ function Trackdistrictprogress()
                 elseif j > 1 then
                     cons = false
                 end
-                --if Tracker:FindObjectForCode("Education").Active then
-                --    print("uppies!")
-                --    i.CurrentStage = 1
-                --    if chemistry then
-                --        i.CurrentStage = 2
-                --    end
-                --end
             end
         end
     end

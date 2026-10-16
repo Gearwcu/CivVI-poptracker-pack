@@ -1,6 +1,15 @@
 {
     "versions": [
         {
+            "package_version": "1.1.1",
+            "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.1.0/CivVI-poptracker-pack.zip",
+            "sha256": "51dfd870e52869e2859936449fb9399571dc141303731d926dfc37da89f4c094",
+            "changelog": [
+                "renamed Wrong ap logic location on Boost Castles",
+                "Fixed some typos"
+            ]
+        },
+        {
             "package_version": "1.1.0",
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.1.0/CivVI-poptracker-pack.zip",
             "sha256": "51dfd870e52869e2859936449fb9399571dc141303731d926dfc37da89f4c094",

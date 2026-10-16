@@ -1,2504 +1,1392 @@
 [
     {
-        "name": "modern_era_conservation_",
+        "name": "(Hint) Conservation",
         "type": "toggle",
-        "img": "images/items/modern_era_conservation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_conservation_"
     },
     {
-        "name": "ancient_era_boost_archery_",
+        "name": "(Hint) Boost Archery",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_archery_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_archery_"
     },
     {
-        "name": "renaissance_era_boost_humanism_",
+        "name": "(Hint) Boost Humanism",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_humanism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_humanism_"
     },
     {
-        "name": "industrial_era_nationalism_",
+        "name": "(Hint) Nationalism",
         "type": "toggle",
-        "img": "images/items/industrial_era_nationalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_nationalism_"
     },
     {
-        "name": "classical_era_mathematics_",
+        "name": "(Hint) Mathematics",
         "type": "toggle",
-        "img": "images/items/classical_era_mathematics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_mathematics_"
     },
     {
-        "name": "classical_era_iron_working_",
+        "name": "(Hint) Iron Working",
         "type": "toggle",
-        "img": "images/items/classical_era_iron_working_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_iron_working_"
     },
     {
-        "name": "future_era_boost_offworld_mission_",
+        "name": "(Hint) Boost Offworld Mission",
         "type": "toggle",
-        "img": "images/items/future_era_boost_offworld_mission_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_offworld_mission_"
     },
     {
-        "name": "classical_era_boost_iron_working_",
+        "name": "(Hint) Boost Iron Working",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_iron_working_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_iron_working_"
     },
     {
-        "name": "modern_era_chemistry_",
+        "name": "(Hint) Chemistry",
         "type": "toggle",
-        "img": "images/items/modern_era_chemistry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_chemistry_"
     },
     {
-        "name": "ancient_era_goody_huts_5",
+        "name": "(Hint) Goody Huts 5",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_5.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_5"
     },
     {
-        "name": "ancient_era_goody_huts_8",
+        "name": "(Hint) Goody Huts 8",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_8.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_8"
     },
     {
-        "name": "medieval_era_boost_castles_",
+        "name": "(Hint) Boost Castles",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_castles_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_castles_"
     },
     {
-        "name": "medieval_era_boost_machinery_",
+        "name": "(Hint) Boost Machinery",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_machinery_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_machinery_"
     },
     {
-        "name": "modern_era_boost_electricity_",
+        "name": "(Hint) Boost Electricity",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_electricity_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_electricity_"
     },
     {
-        "name": "information_era_telecommunications_",
+        "name": "(Hint) Telecommunications",
         "type": "toggle",
-        "img": "images/items/information_era_telecommunications_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_telecommunications_"
     },
     {
-        "name": "classical_era_boost_games_recreation_",
+        "name": "(Hint) Boost Games Recreation",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_games_recreation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_games_recreation_"
     },
     {
-        "name": "atomic_era_rapid_deployment_",
+        "name": "(Hint) Rapid Deployment",
         "type": "toggle",
-        "img": "images/items/atomic_era_rapid_deployment_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_rapid_deployment_"
     },
     {
-        "name": "medieval_era_machinery_",
+        "name": "(Hint) Machinery",
         "type": "toggle",
-        "img": "images/items/medieval_era_machinery_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_machinery_"
     },
     {
-        "name": "classical_era_boost_recorded_history_",
+        "name": "(Hint) Boost Recorded History",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_recorded_history_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_recorded_history_"
     },
     {
-        "name": "modern_era_boost_steel_",
+        "name": "(Hint) Boost Steel",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_steel_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_steel_"
     },
     {
-        "name": "modern_era_flight_",
+        "name": "(Hint) Flight",
         "type": "toggle",
-        "img": "images/items/modern_era_flight_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_flight_"
     },
     {
-        "name": "information_era_boost_globalization_",
+        "name": "(Hint) Boost Globalization",
         "type": "toggle",
-        "img": "images/items/information_era_boost_globalization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_globalization_"
     },
     {
-        "name": "ancient_era_masonry_",
+        "name": "(Hint) Masonry",
         "type": "toggle",
-        "img": "images/items/ancient_era_masonry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_masonry_"
     },
     {
-        "name": "modern_era_totalitarianism_",
+        "name": "(Hint) Totalitarianism",
         "type": "toggle",
-        "img": "images/items/modern_era_totalitarianism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_totalitarianism_"
     },
     {
-        "name": "classical_era_boost_military_training_",
+        "name": "(Hint) Boost Military Training",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_military_training_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_military_training_"
     },
     {
-        "name": "information_era_lasers_",
+        "name": "(Hint) Lasers",
         "type": "toggle",
-        "img": "images/items/information_era_lasers_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_lasers_"
     },
     {
-        "name": "information_era_robotics_",
+        "name": "(Hint) Robotics",
         "type": "toggle",
-        "img": "images/items/information_era_robotics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_robotics_"
     },
     {
-        "name": "atomic_era_rocketry_",
+        "name": "(Hint) Rocketry",
         "type": "toggle",
-        "img": "images/items/atomic_era_rocketry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_rocketry_"
     },
     {
-        "name": "classical_era_celestial_navigation_",
+        "name": "(Hint) Celestial Navigation",
         "type": "toggle",
-        "img": "images/items/classical_era_celestial_navigation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_celestial_navigation_"
     },
     {
-        "name": "renaissance_era_reformed_church_",
+        "name": "(Hint) Reformed Church",
         "type": "toggle",
-        "img": "images/items/renaissance_era_reformed_church_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_reformed_church_"
     },
     {
-        "name": "modern_era_nuclear_program_",
+        "name": "(Hint) Nuclear Program",
         "type": "toggle",
-        "img": "images/items/modern_era_nuclear_program_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_nuclear_program_"
     },
     {
-        "name": "information_era_venture_politics_",
+        "name": "(Hint) Venture Politics",
         "type": "toggle",
-        "img": "images/items/information_era_venture_politics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_venture_politics_"
     },
     {
-        "name": "modern_era_boost_mobilization_",
+        "name": "(Hint) Boost Mobilization",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_mobilization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_mobilization_"
     },
     {
-        "name": "ancient_era_pottery_",
+        "name": "(Hint) Pottery",
         "type": "toggle",
-        "img": "images/items/ancient_era_pottery_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_pottery_"
     },
     {
-        "name": "renaissance_era_boost_the_enlightenment_",
+        "name": "(Hint) Boost The Enlightenment",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_the_enlightenment_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_the_enlightenment_"
     },
     {
-        "name": "modern_era_refining_",
+        "name": "(Hint) Refining",
         "type": "toggle",
-        "img": "images/items/modern_era_refining_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_refining_"
     },
     {
-        "name": "industrial_era_sanitation_",
+        "name": "(Hint) Sanitation",
         "type": "toggle",
-        "img": "images/items/industrial_era_sanitation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_sanitation_"
     },
     {
-        "name": "medieval_era_boost_naval_tradition_",
+        "name": "(Hint) Boost Naval Tradition",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_naval_tradition_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_naval_tradition_"
     },
     {
-        "name": "modern_era_boost_nuclear_program_",
+        "name": "(Hint) Boost Nuclear Program",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_nuclear_program_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_nuclear_program_"
     },
     {
-        "name": "future_era_smart_materials_",
+        "name": "(Hint) Smart Materials",
         "type": "toggle",
-        "img": "images/items/future_era_smart_materials_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_smart_materials_"
     },
     {
-        "name": "industrial_era_boost_sanitation_",
+        "name": "(Hint) Boost Sanitation",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_sanitation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_sanitation_"
     },
     {
-        "name": "industrial_era_urbanization_",
+        "name": "(Hint) Urbanization",
         "type": "toggle",
-        "img": "images/items/industrial_era_urbanization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_urbanization_"
     },
     {
-        "name": "information_era_near_future_governance_",
+        "name": "(Hint) Near Future Governance",
         "type": "toggle",
-        "img": "images/items/information_era_near_future_governance_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_near_future_governance_"
     },
     {
-        "name": "renaissance_era_renaissance_era_",
+        "name": "(Hint) Renaissance Era",
         "type": "toggle",
-        "img": "images/items/renaissance_era_renaissance_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_renaissance_era_"
     },
     {
-        "name": "classical_era_drama_and_poetry_",
+        "name": "(Hint) Drama And Poetry",
         "type": "toggle",
-        "img": "images/items/classical_era_drama_and_poetry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_drama_and_poetry_"
     },
     {
-        "name": "renaissance_era_boost_gunpowder_",
+        "name": "(Hint) Boost Gunpowder",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_gunpowder_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_gunpowder_"
     },
     {
-        "name": "information_era_boost_guidance_systems_",
+        "name": "(Hint) Boost Guidance Systems",
         "type": "toggle",
-        "img": "images/items/information_era_boost_guidance_systems_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_guidance_systems_"
     },
     {
-        "name": "future_era_global_warming_mitigation_",
+        "name": "(Hint) Global Warming Mitigation",
         "type": "toggle",
-        "img": "images/items/future_era_global_warming_mitigation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_global_warming_mitigation_"
     },
     {
-        "name": "information_era_boost_composites_",
+        "name": "(Hint) Boost Composites",
         "type": "toggle",
-        "img": "images/items/information_era_boost_composites_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_composites_"
     },
     {
-        "name": "information_era_social_media_",
+        "name": "(Hint) Social Media",
         "type": "toggle",
-        "img": "images/items/information_era_social_media_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_social_media_"
     },
     {
-        "name": "medieval_era_boost_medieval_faires_",
+        "name": "(Hint) Boost Medieval Faires",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_medieval_faires_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_medieval_faires_"
     },
     {
-        "name": "modern_era_boost_capitalism_",
+        "name": "(Hint) Boost Capitalism",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_capitalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_capitalism_"
     },
     {
-        "name": "atomic_era_boost_cultural_heritage_",
+        "name": "(Hint) Boost Cultural Heritage",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_cultural_heritage_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_cultural_heritage_"
     },
     {
-        "name": "medieval_era_boost_education_",
+        "name": "(Hint) Boost Education",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_education_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_education_"
     },
     {
-        "name": "renaissance_era_metal_casting_",
+        "name": "(Hint) Metal Casting",
         "type": "toggle",
-        "img": "images/items/renaissance_era_metal_casting_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_metal_casting_"
     },
     {
-        "name": "modern_era_class_struggle_",
+        "name": "(Hint) Class Struggle",
         "type": "toggle",
-        "img": "images/items/modern_era_class_struggle_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_class_struggle_"
     },
     {
-        "name": "medieval_era_civil_service_",
+        "name": "(Hint) Civil Service",
         "type": "toggle",
-        "img": "images/items/medieval_era_civil_service_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_civil_service_"
     },
     {
-        "name": "renaissance_era_boost_reformed_church_",
+        "name": "(Hint) Boost Reformed Church",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_reformed_church_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_reformed_church_"
     },
     {
-        "name": "ancient_era_wheel_",
+        "name": "(Hint) Wheel",
         "type": "toggle",
-        "img": "images/items/ancient_era_wheel_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_wheel_"
     },
     {
-        "name": "ancient_era_state_workforce_",
+        "name": "(Hint) State Workforce",
         "type": "toggle",
-        "img": "images/items/ancient_era_state_workforce_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_state_workforce_"
     },
     {
-        "name": "information_era_globalization_",
+        "name": "(Hint) Globalization",
         "type": "toggle",
-        "img": "images/items/information_era_globalization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_globalization_"
     },
     {
-        "name": "ancient_era_goody_huts_7",
+        "name": "(Hint) Goody Huts 7",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_7.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_7"
     },
     {
-        "name": "medieval_era_divine_rights_",
+        "name": "(Hint) Divine Right",
         "type": "toggle",
-        "img": "images/items/medieval_era_divine_rights_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
-        "codes": "medieval_era_divine_rights_"
+        "codes": "medieval_era_divine_right_"
     },
     {
-        "name": "renaissance_era_square_rigging_",
+        "name": "(Hint) Square Rigging",
         "type": "toggle",
-        "img": "images/items/renaissance_era_square_rigging_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_square_rigging_"
     },
     {
-        "name": "classical_era_engineering_",
+        "name": "(Hint) Engineering",
         "type": "toggle",
-        "img": "images/items/classical_era_engineering_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_engineering_"
     },
     {
-        "name": "modern_era_boost_chemistry_",
+        "name": "(Hint) Boost Chemistry",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_chemistry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_chemistry_"
     },
     {
-        "name": "atomic_era_boost_cold_war_",
+        "name": "(Hint) Boost Cold War",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_cold_war_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_cold_war_"
     },
     {
-        "name": "renaissance_era_printing_",
+        "name": "(Hint) Printing",
         "type": "toggle",
-        "img": "images/items/renaissance_era_printing_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_printing_"
     },
     {
-        "name": "atomic_era_boost_combined_arms_",
+        "name": "(Hint) Boost Combined Arms",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_combined_arms_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_combined_arms_"
     },
     {
-        "name": "medieval_era_castles_",
+        "name": "(Hint) Castles",
         "type": "toggle",
-        "img": "images/items/medieval_era_castles_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_castles_"
     },
     {
-        "name": "ancient_era_sailing_",
+        "name": "(Hint) Sailing",
         "type": "toggle",
-        "img": "images/items/ancient_era_sailing_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_sailing_"
     },
     {
-        "name": "information_era_boost_nanotechnology_",
+        "name": "(Hint) Boost Nanotechnology",
         "type": "toggle",
-        "img": "images/items/information_era_boost_nanotechnology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_nanotechnology_"
     },
     {
-        "name": "ancient_era_boost_craftsmanship_",
+        "name": "(Hint) Boost Craftsmanship",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_craftsmanship_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_craftsmanship_"
     },
     {
-        "name": "medieval_era_boost_apprenticeship_",
+        "name": "(Hint) Boost Apprenticeship",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_apprenticeship_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_apprenticeship_"
     },
     {
-        "name": "information_era_boost_stealth_technology_",
+        "name": "(Hint) Boost Stealth Technology",
         "type": "toggle",
-        "img": "images/items/information_era_boost_stealth_technology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_stealth_technology_"
     },
     {
-        "name": "modern_era_boost_mass_media_",
+        "name": "(Hint) Boost Mass Media",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_mass_media_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_mass_media_"
     },
     {
-        "name": "industrial_era_colonialism_",
+        "name": "(Hint) Colonialism",
         "type": "toggle",
-        "img": "images/items/industrial_era_colonialism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_colonialism_"
     },
     {
-        "name": "renaissance_era_banking_",
+        "name": "(Hint) Banking",
         "type": "toggle",
-        "img": "images/items/renaissance_era_banking_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_banking_"
     },
     {
-        "name": "industrial_era_boost_nationalism_",
+        "name": "(Hint) Boost Nationalism",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_nationalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_nationalism_"
     },
     {
-        "name": "industrial_era_boost_scorched_earth_",
+        "name": "(Hint) Boost Scorched Earth",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_scorched_earth_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_scorched_earth_"
     },
     {
-        "name": "renaissance_era_boost_metal_casting_",
+        "name": "(Hint) Boost Metal Casting",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_metal_casting_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_metal_casting_"
     },
     {
-        "name": "medieval_era_boost_civil_service_",
+        "name": "(Hint) Boost Civil Service",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_civil_service_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_civil_service_"
     },
     {
-        "name": "renaissance_era_boost_banking_",
+        "name": "(Hint) Boost Banking",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_banking_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_banking_"
     },
     {
-        "name": "medieval_era_boost_stirrups_",
+        "name": "(Hint) Boost Stirrups",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_stirrups_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_stirrups_"
     },
     {
-        "name": "ancient_era_bronze_working_",
+        "name": "(Hint) Bronze Working",
         "type": "toggle",
-        "img": "images/items/ancient_era_bronze_working_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_bronze_working_"
     },
     {
-        "name": "future_era_boost_cybernetics_",
+        "name": "(Hint) Boost Cybernetics",
         "type": "toggle",
-        "img": "images/items/future_era_boost_cybernetics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_cybernetics_"
     },
     {
-        "name": "industrial_era_rifling_",
+        "name": "(Hint) Rifling",
         "type": "toggle",
-        "img": "images/items/industrial_era_rifling_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_rifling_"
     },
     {
-        "name": "atomic_era_combined_arms_",
+        "name": "(Hint) Combined Arms",
         "type": "toggle",
-        "img": "images/items/atomic_era_combined_arms_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_combined_arms_"
     },
     {
-        "name": "renaissance_era_astronomy_",
+        "name": "(Hint) Astronomy",
         "type": "toggle",
-        "img": "images/items/renaissance_era_astronomy_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_astronomy_"
     },
     {
-        "name": "industrial_era_military_science_",
+        "name": "(Hint) Military Science",
         "type": "toggle",
-        "img": "images/items/industrial_era_military_science_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_military_science_"
     },
     {
-        "name": "modern_era_replaceable_parts_",
+        "name": "(Hint) Replaceable Parts",
         "type": "toggle",
-        "img": "images/items/modern_era_replaceable_parts_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_replaceable_parts_"
     },
     {
-        "name": "industrial_era_steam_power_",
+        "name": "(Hint) Steam Power",
         "type": "toggle",
-        "img": "images/items/industrial_era_steam_power_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_steam_power_"
     },
     {
-        "name": "medieval_era_guilds_",
+        "name": "(Hint) Guilds",
         "type": "toggle",
-        "img": "images/items/medieval_era_guilds_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_guilds_"
     },
     {
-        "name": "future_era_cultural_hegemony_",
+        "name": "(Hint) Cultural Hegemony",
         "type": "toggle",
-        "img": "images/items/future_era_cultural_hegemony_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_cultural_hegemony_"
     },
     {
-        "name": "industrial_era_scorched_earth_",
+        "name": "(Hint) Scorched Earth",
         "type": "toggle",
-        "img": "images/items/industrial_era_scorched_earth_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_scorched_earth_"
     },
     {
-        "name": "atomic_era_advanced_flight_",
+        "name": "(Hint) Advanced Flight",
         "type": "toggle",
-        "img": "images/items/atomic_era_advanced_flight_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_advanced_flight_"
     },
     {
-        "name": "modern_era_capitalism_",
+        "name": "(Hint) Capitalism",
         "type": "toggle",
-        "img": "images/items/modern_era_capitalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_capitalism_"
     },
     {
-        "name": "information_era_information_era_",
+        "name": "(Hint) Information Era",
         "type": "toggle",
-        "img": "images/items/information_era_information_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_information_era_"
     },
     {
-        "name": "industrial_era_boost_steam_power_",
+        "name": "(Hint) Boost Steam Power",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_steam_power_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_steam_power_"
     },
     {
-        "name": "industrial_era_boost_economics_",
+        "name": "(Hint) Boost Economics",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_economics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_economics_"
     },
     {
-        "name": "renaissance_era_boost_mercantilism_",
+        "name": "(Hint) Boost Mercantilism",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_mercantilism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_mercantilism_"
     },
     {
-        "name": "future_era_smart_power_doctrine_",
+        "name": "(Hint) Smart Power Doctrine",
         "type": "toggle",
-        "img": "images/items/future_era_smart_power_doctrine_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_smart_power_doctrine_"
     },
     {
-        "name": "renaissance_era_boost_siege_tactics_",
+        "name": "(Hint) Boost Siege Tactics",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_siege_tactics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_siege_tactics_"
     },
     {
-        "name": "modern_era_radio_",
+        "name": "(Hint) Radio",
         "type": "toggle",
-        "img": "images/items/modern_era_radio_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_radio_"
     },
     {
-        "name": "classical_era_boost_horseback_riding_",
+        "name": "(Hint) Boost Horseback Riding",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_horseback_riding_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_horseback_riding_"
     },
     {
-        "name": "classical_era_boost_engineering_",
+        "name": "(Hint) Boost Engineering",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_engineering_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_engineering_"
     },
     {
-        "name": "ancient_era_goody_huts_10",
+        "name": "(Hint) Goody Huts 10",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_10.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_10"
     },
     {
-        "name": "renaissance_era_boost_cartography_",
+        "name": "(Hint) Boost Cartography",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_cartography_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_cartography_"
     },
     {
-        "name": "medieval_era_mercenaries_",
+        "name": "(Hint) Mercenaries",
         "type": "toggle",
-        "img": "images/items/medieval_era_mercenaries_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_mercenaries_"
     },
     {
-        "name": "future_era_boost_predictive_systems_",
+        "name": "(Hint) Boost Predictive Systems",
         "type": "toggle",
-        "img": "images/items/future_era_boost_predictive_systems_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_predictive_systems_"
     },
     {
-        "name": "modern_era_boost_radio_",
+        "name": "(Hint) Boost Radio",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_radio_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_radio_"
     },
     {
-        "name": "classical_era_boost_theology_",
+        "name": "(Hint) Boost Theology",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_theology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_theology_"
     },
     {
-        "name": "atomic_era_boost_advanced_ballistics_",
+        "name": "(Hint) Boost Advanced Ballistics",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_advanced_ballistics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_advanced_ballistics_"
     },
     {
-        "name": "ancient_era_astrology_",
+        "name": "(Hint) Astrology",
         "type": "toggle",
-        "img": "images/items/ancient_era_astrology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_astrology_"
     },
     {
-        "name": "ancient_era_code_of_laws_",
+        "name": "(Hint) Code Of Laws",
         "type": "toggle",
-        "img": "images/items/ancient_era_code_of_laws_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_code_of_laws_"
     },
     {
-        "name": "atomic_era_boost_plastics_",
+        "name": "(Hint) Boost Plastics",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_plastics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_plastics_"
     },
     {
-        "name": "future_era_boost_nuclear_fusion_",
+        "name": "(Hint) Boost Nuclear Fusion",
         "type": "toggle",
-        "img": "images/items/future_era_boost_nuclear_fusion_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_nuclear_fusion_"
     },
     {
-        "name": "modern_era_boost_suffrage_",
+        "name": "(Hint) Boost Suffrage",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_suffrage_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_suffrage_"
     },
     {
-        "name": "classical_era_military_training_",
+        "name": "(Hint) Military Training",
         "type": "toggle",
-        "img": "images/items/classical_era_military_training_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_military_training_"
     },
     {
-        "name": "classical_era_classical_era_",
+        "name": "(Hint) Classical Era",
         "type": "toggle",
-        "img": "images/items/classical_era_classical_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_classical_era_"
     },
     {
-        "name": "medieval_era_boost_feudalism_",
+        "name": "(Hint) Boost Feudalism",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_feudalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_feudalism_"
     },
     {
-        "name": "industrial_era_boost_civil_engineering_",
+        "name": "(Hint) Boost Civil Engineering",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_civil_engineering_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_civil_engineering_"
     },
     {
-        "name": "renaissance_era_boost_diplomatic_service_",
+        "name": "(Hint) Boost Diplomatic Service",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_diplomatic_service_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_diplomatic_service_"
     },
     {
-        "name": "ancient_era_goody_huts_9",
+        "name": "(Hint) Goody Huts 9",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_9.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_9"
     },
     {
-        "name": "future_era_boost_buttress_",
+        "name": "(Hint) Boost Buttress",
         "type": "toggle",
-        "img": "images/items/future_era_boost_buttress_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_buttress_"
     },
     {
-        "name": "ancient_era_craftmanship_",
+        "name": "(Hint) Craftmanship",
         "type": "toggle",
-        "img": "images/items/ancient_era_craftmanship_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_craftmanship_"
     },
     {
-        "name": "ancient_era_foreign_trade_",
+        "name": "(Hint) Foreign Trade",
         "type": "toggle",
-        "img": "images/items/ancient_era_foreign_trade_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_foreign_trade_"
     },
     {
-        "name": "ancient_era_early_empire_",
+        "name": "(Hint) Early Empire",
         "type": "toggle",
-        "img": "images/items/ancient_era_early_empire_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_early_empire_"
     },
     {
-        "name": "classical_era_boost_celestial_navigation_",
+        "name": "(Hint) Boost Celestial Navigation",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_celestial_navigation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_celestial_navigation_"
     },
     {
-        "name": "ancient_era_writing_",
+        "name": "(Hint) Writing",
         "type": "toggle",
-        "img": "images/items/ancient_era_writing_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_writing_"
     },
     {
-        "name": "atomic_era_boost_space_race_",
+        "name": "(Hint) Boost Space Race",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_space_race_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_space_race_"
     },
     {
-        "name": "information_era_boost_telecommunications_",
+        "name": "(Hint) Boost Telecommunications",
         "type": "toggle",
-        "img": "images/items/information_era_boost_telecommunications_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_telecommunications_"
     },
     {
-        "name": "information_era_distributed_sovereignty_",
+        "name": "(Hint) Distributed Sovereignty",
         "type": "toggle",
-        "img": "images/items/information_era_distributed_sovereignty_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_distributed_sovereignty_"
     },
     {
-        "name": "atomic_era_atomic_era_",
+        "name": "(Hint) Atomic Era",
         "type": "toggle",
-        "img": "images/items/atomic_era_atomic_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_atomic_era_"
     },
     {
-        "name": "information_era_nuclear_fusion_",
+        "name": "(Hint) Nuclear Fusion",
         "type": "toggle",
-        "img": "images/items/information_era_nuclear_fusion_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_nuclear_fusion_"
     },
     {
-        "name": "information_era_optimization_imperative_",
+        "name": "(Hint) Optimization Imperative",
         "type": "toggle",
-        "img": "images/items/information_era_optimization_imperative_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_optimization_imperative_"
     },
     {
-        "name": "renaissance_era_boost_printing_",
+        "name": "(Hint) Boost Printing",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_printing_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_printing_"
     },
     {
-        "name": "ancient_era_goody_huts_1",
+        "name": "(Hint) Goody Huts 1",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_1.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_1"
     },
     {
-        "name": "information_era_satellites_",
+        "name": "(Hint) Satellites",
         "type": "toggle",
-        "img": "images/items/information_era_satellites_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_satellites_"
     },
     {
-        "name": "renaissance_era_boost_square_rigging_",
+        "name": "(Hint) Boost Square Rigging",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_square_rigging_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_square_rigging_"
     },
     {
-        "name": "ancient_era_boost_foreign_trade_",
+        "name": "(Hint) Boost Foreign Trade",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_foreign_trade_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_foreign_trade_"
     },
     {
-        "name": "information_era_guidance_systems_",
+        "name": "(Hint) Guidance Systems",
         "type": "toggle",
-        "img": "images/items/information_era_guidance_systems_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_guidance_systems_"
     },
     {
-        "name": "renaissance_era_mercantilism_",
+        "name": "(Hint) Mercantilism",
         "type": "toggle",
-        "img": "images/items/renaissance_era_mercantilism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_mercantilism_"
     },
     {
-        "name": "modern_era_modern_era_",
+        "name": "(Hint) Modern Era",
         "type": "toggle",
-        "img": "images/items/modern_era_modern_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_modern_era_"
     },
     {
-        "name": "modern_era_boost_combustion_",
+        "name": "(Hint) Boost Combustion",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_combustion_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_combustion_"
     },
     {
-        "name": "information_era_boost_lasers_",
+        "name": "(Hint) Boost Lasers",
         "type": "toggle",
-        "img": "images/items/information_era_boost_lasers_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_lasers_"
     },
     {
-        "name": "classical_era_boost_drama_poetry_",
+        "name": "(Hint) Boost Drama Poetry",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_drama_poetry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_drama_poetry_"
     },
     {
-        "name": "ancient_era_boost_sailing_",
+        "name": "(Hint) Boost Sailing",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_sailing_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_sailing_"
     },
     {
-        "name": "industrial_era_civil_engineering_",
+        "name": "(Hint) Civil Engineering",
         "type": "toggle",
-        "img": "images/items/industrial_era_civil_engineering_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_civil_engineering_"
     },
     {
-        "name": "information_era_boost_social_media_",
+        "name": "(Hint) Boost Social Media",
         "type": "toggle",
-        "img": "images/items/information_era_boost_social_media_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_social_media_"
     },
     {
-        "name": "classical_era_theology_",
+        "name": "(Hint) Theology",
         "type": "toggle",
-        "img": "images/items/classical_era_theology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_theology_"
     },
     {
-        "name": "medieval_era_boost_guilds_",
+        "name": "(Hint) Boost Guilds",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_guilds_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_guilds_"
     },
     {
-        "name": "ancient_era_goody_huts_6",
+        "name": "(Hint) Goody Huts 6",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_6.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_6"
     },
     {
-        "name": "atomic_era_professional_sports_",
+        "name": "(Hint) Professional Sports",
         "type": "toggle",
-        "img": "images/items/atomic_era_professional_sports_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_professional_sports_"
     },
     {
-        "name": "ancient_era_goody_huts_2",
+        "name": "(Hint) Goody Huts 2",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_2.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_2"
     },
     {
-        "name": "modern_era_ideology_",
+        "name": "(Hint) Ideology",
         "type": "toggle",
-        "img": "images/items/modern_era_ideology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_ideology_"
     },
     {
-        "name": "industrial_era_boost_industrialization_",
+        "name": "(Hint) Boost Industrialization",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_industrialization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_industrialization_"
     },
     {
-        "name": "industrial_era_boost_colonialism_",
+        "name": "(Hint) Boost Colonialism",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_colonialism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_colonialism_"
     },
     {
-        "name": "industrial_era_boost_opera_ballet_",
+        "name": "(Hint) Boost Opera Ballet",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_opera_ballet_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_opera_ballet_"
     },
     {
-        "name": "modern_era_steel_",
+        "name": "(Hint) Steel",
         "type": "toggle",
-        "img": "images/items/modern_era_steel_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_steel_"
     },
     {
-        "name": "medieval_era_boost_military_engineering_",
+        "name": "(Hint) Boost Military Engineering",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_military_engineering_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_military_engineering_"
     },
     {
-        "name": "modern_era_boost_replaceable_parts_",
+        "name": "(Hint) Boost Replaceable Parts",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_replaceable_parts_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_replaceable_parts_"
     },
     {
-        "name": "industrial_era_economics_",
+        "name": "(Hint) Economics",
         "type": "toggle",
-        "img": "images/items/industrial_era_economics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_economics_"
     },
     {
-        "name": "atomic_era_computers_",
+        "name": "(Hint) Computers",
         "type": "toggle",
-        "img": "images/items/atomic_era_computers_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_computers_"
     },
     {
-        "name": "future_era_advanced_power_cells_",
+        "name": "(Hint) Advanced Power Cells",
         "type": "toggle",
-        "img": "images/items/future_era_advanced_power_cells_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_advanced_power_cells_"
     },
     {
-        "name": "renaissance_era_boost_exploration_",
+        "name": "(Hint) Boost Exploration",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_exploration_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_exploration_"
     },
     {
-        "name": "industrial_era_boost_ballistics_",
+        "name": "(Hint) Boost Ballistics",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_ballistics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_ballistics_"
     },
     {
-        "name": "ancient_era_boost_bronze_working_",
+        "name": "(Hint) Boost Bronze Working",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_bronze_working_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_bronze_working_"
     },
     {
-        "name": "medieval_era_stirrups_",
+        "name": "(Hint) Stirrups",
         "type": "toggle",
-        "img": "images/items/medieval_era_stirrups_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_stirrups_"
     },
     {
-        "name": "information_era_environmentalism_",
+        "name": "(Hint) Environmentalism",
         "type": "toggle",
-        "img": "images/items/information_era_environmentalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_environmentalism_"
     },
     {
-        "name": "medieval_era_apprenticeship_",
+        "name": "(Hint) Apprenticeship",
         "type": "toggle",
-        "img": "images/items/medieval_era_apprenticeship_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_apprenticeship_"
     },
     {
-        "name": "atomic_era_advanced_ballistics_",
+        "name": "(Hint) Advanced Ballistics",
         "type": "toggle",
-        "img": "images/items/atomic_era_advanced_ballistics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_advanced_ballistics_"
     },
     {
-        "name": "future_era_boost_seasteads_",
+        "name": "(Hint) Boost Seasteads",
         "type": "toggle",
-        "img": "images/items/future_era_boost_seasteads_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_seasteads_"
     },
     {
-        "name": "ancient_era_goody_huts_4",
+        "name": "(Hint) Goody Huts 4",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_4.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_4"
     },
     {
-        "name": "ancient_era_boost_mysticism_",
+        "name": "(Hint) Boost Mysticism",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_mysticism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_mysticism_"
     },
     {
-        "name": "atomic_era_boost_rapid_deployment_",
+        "name": "(Hint) Boost Rapid Deployment",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_rapid_deployment_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_rapid_deployment_"
     },
     {
-        "name": "future_era_boost_refining_",
+        "name": "(Hint) Boost Refining",
         "type": "toggle",
-        "img": "images/items/future_era_boost_refining_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_refining_"
     },
     {
-        "name": "future_era_offworld_mission_",
+        "name": "(Hint) Offworld Mission",
         "type": "toggle",
-        "img": "images/items/future_era_offworld_mission_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_offworld_mission_"
     },
     {
-        "name": "renaissance_era_boost_mass_production_",
+        "name": "(Hint) Boost Mass Production",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_mass_production_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_mass_production_"
     },
     {
-        "name": "modern_era_boost_totalitarianism_",
+        "name": "(Hint) Boost Totalitarianism",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_totalitarianism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_totalitarianism_"
     },
     {
-        "name": "industrial_era_boost_rifling_",
+        "name": "(Hint) Boost Rifling",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_rifling_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_rifling_"
     },
     {
-        "name": "modern_era_mobilization_",
+        "name": "(Hint) Mobilization",
         "type": "toggle",
-        "img": "images/items/modern_era_mobilization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_mobilization_"
     },
     {
-        "name": "industrial_era_boost_military_science_",
+        "name": "(Hint) Boost Military Science",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_military_science_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_military_science_"
     },
     {
-        "name": "atomic_era_space_race_",
+        "name": "(Hint) Space Race",
         "type": "toggle",
-        "img": "images/items/atomic_era_space_race_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_space_race_"
     },
     {
-        "name": "classical_era_boost_political_philosophy_",
+        "name": "(Hint) Boost Political Philosophy",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_political_philosophy_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_political_philosophy_"
     },
     {
-        "name": "medieval_era_medieval_fairies_",
+        "name": "(Hint) Medieval Fairies",
         "type": "toggle",
-        "img": "images/items/medieval_era_medieval_fairies_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_medieval_fairies_"
     },
     {
-        "name": "future_era_advanced_ai_",
+        "name": "(Hint) Advanced AI",
         "type": "toggle",
-        "img": "images/items/future_era_advanced_ai_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_advanced_ai_"
     },
     {
-        "name": "ancient_era_mysticism_",
+        "name": "(Hint) Mysticism",
         "type": "toggle",
-        "img": "images/items/ancient_era_mysticism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_mysticism_"
     },
     {
-        "name": "classical_era_construction_",
+        "name": "(Hint) Construction",
         "type": "toggle",
-        "img": "images/items/classical_era_construction_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_construction_"
     },
     {
-        "name": "medieval_era_feudalism_",
+        "name": "(Hint) Feudalism",
         "type": "toggle",
-        "img": "images/items/medieval_era_feudalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_feudalism_"
     },
     {
-        "name": "classical_era_boost_currency_",
+        "name": "(Hint) Boost Currency",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_currency_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_currency_"
     },
     {
-        "name": "information_era_stealth_technology_",
+        "name": "(Hint) Stealth Technology",
         "type": "toggle",
-        "img": "images/items/information_era_stealth_technology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_stealth_technology_"
     },
     {
-        "name": "modern_era_mass_media_",
+        "name": "(Hint) Mass Media",
         "type": "toggle",
-        "img": "images/items/modern_era_mass_media_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_mass_media_"
     },
     {
-        "name": "future_era_future_era_",
+        "name": "(Hint) Future Era",
         "type": "toggle",
-        "img": "images/items/future_era_future_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_future_era_"
     },
     {
-        "name": "atomic_era_boost_computers_",
+        "name": "(Hint) Boost Computers",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_computers_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_computers_"
     },
     {
-        "name": "modern_era_boost_flight_",
+        "name": "(Hint) Boost Flight",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_flight_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_flight_"
     },
     {
-        "name": "future_era_future_tech_",
+        "name": "(Hint) Future Tech",
         "type": "toggle",
-        "img": "images/items/future_era_future_tech_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_future_tech_"
     },
     {
-        "name": "renaissance_era_siege_tactics_",
+        "name": "(Hint) Siege Tactics",
         "type": "toggle",
-        "img": "images/items/renaissance_era_siege_tactics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_siege_tactics_"
     },
     {
-        "name": "medieval_era_military_tactics_",
+        "name": "(Hint) Military Tactics",
         "type": "toggle",
-        "img": "images/items/medieval_era_military_tactics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_military_tactics_"
     },
     {
-        "name": "classical_era_defensive_tactics_",
+        "name": "(Hint) Defensive Tactics",
         "type": "toggle",
-        "img": "images/items/classical_era_defensive_tactics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_defensive_tactics_"
     },
     {
-        "name": "ancient_era_boost_the_wheel_",
+        "name": "(Hint) Boost The Wheel",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_the_wheel_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_the_wheel_"
     },
     {
-        "name": "atomic_era_boost_professional_sports_",
+        "name": "(Hint) Boost Professional Sports",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_professional_sports_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_professional_sports_"
     },
     {
-        "name": "industrial_era_scientific_theory_",
+        "name": "(Hint) Scientific Theory",
         "type": "toggle",
-        "img": "images/items/industrial_era_scientific_theory_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_scientific_theory_"
     },
     {
-        "name": "industrial_era_boost_natural_history_",
+        "name": "(Hint) Boost Natural History",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_natural_history_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_natural_history_"
     },
     {
-        "name": "renaissance_era_diplomatic_service_",
+        "name": "(Hint) Diplomatic Service",
         "type": "toggle",
-        "img": "images/items/renaissance_era_diplomatic_service_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_diplomatic_service_"
     },
     {
-        "name": "medieval_era_military_engineering_",
+        "name": "(Hint) Military Engineering",
         "type": "toggle",
-        "img": "images/items/medieval_era_military_engineering_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_military_engineering_"
     },
     {
-        "name": "classical_era_currency_",
+        "name": "(Hint) Currency",
         "type": "toggle",
-        "img": "images/items/classical_era_currency_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_currency_"
     },
     {
-        "name": "future_era_boost_smart_materials_",
+        "name": "(Hint) Boost Smart Materials",
         "type": "toggle",
-        "img": "images/items/future_era_boost_smart_materials_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_smart_materials_"
     },
     {
-        "name": "industrial_era_industrialization_",
+        "name": "(Hint) Industrialization",
         "type": "toggle",
-        "img": "images/items/industrial_era_industrialization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_industrialization_"
     },
     {
-        "name": "medieval_era_education_",
+        "name": "(Hint) Education",
         "type": "toggle",
-        "img": "images/items/medieval_era_education_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_education_"
     },
     {
-        "name": "renaissance_era_humanism_",
+        "name": "(Hint) Humanism",
         "type": "toggle",
-        "img": "images/items/renaissance_era_humanism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_humanism_"
     },
     {
-        "name": "ancient_era_boost_astrology_",
+        "name": "(Hint) Boost Astrology",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_astrology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_astrology_"
     },
     {
-        "name": "atomic_era_boost_advanced_flight_",
+        "name": "(Hint) Boost Advanced Flight",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_advanced_flight_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_advanced_flight_"
     },
     {
-        "name": "modern_era_electricity_",
+        "name": "(Hint) Electricity",
         "type": "toggle",
-        "img": "images/items/modern_era_electricity_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_electricity_"
     },
     {
-        "name": "medieval_era_medieval_era_",
+        "name": "(Hint) Medieval Era",
         "type": "toggle",
-        "img": "images/items/medieval_era_medieval_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_medieval_era_"
     },
     {
-        "name": "medieval_era_boost_mercenaries_",
+        "name": "(Hint) Boost Mercenaries",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_mercenaries_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_mercenaries_"
     },
     {
-        "name": "future_era_exodus_imperative_",
+        "name": "(Hint) Exodus Imperative",
         "type": "toggle",
-        "img": "images/items/future_era_exodus_imperative_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_exodus_imperative_"
     },
     {
-        "name": "future_era_boost_advanced_ai_",
+        "name": "(Hint) Boost Advanced AI",
         "type": "toggle",
-        "img": "images/items/future_era_boost_advanced_ai_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_advanced_ai_"
     },
     {
-        "name": "future_era_seasteads_",
+        "name": "(Hint) Seasteads",
         "type": "toggle",
-        "img": "images/items/future_era_seasteads_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_seasteads_"
     },
     {
-        "name": "medieval_era_boost_military_tactics_",
+        "name": "(Hint) Boost Military Tactics",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_military_tactics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_military_tactics_"
     },
     {
-        "name": "atomic_era_synthetic_materials_",
+        "name": "(Hint) Synthetic Materials",
         "type": "toggle",
-        "img": "images/items/atomic_era_synthetic_materials_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_synthetic_materials_"
     },
     {
-        "name": "renaissance_era_boost_astronomy_",
+        "name": "(Hint) Boost Astronomy",
         "type": "toggle",
-        "img": "images/items/renaissance_era_boost_astronomy_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_boost_astronomy_"
     },
     {
-        "name": "renaissance_era_enlightenment_",
+        "name": "(Hint) Enlightenment",
         "type": "toggle",
-        "img": "images/items/renaissance_era_enlightenment_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_enlightenment_"
     },
     {
-        "name": "classical_era_boost_mathematics_",
+        "name": "(Hint) Boost Mathematics",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_mathematics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_mathematics_"
     },
     {
-        "name": "future_era_future_civic_",
+        "name": "(Hint) Future Civic",
         "type": "toggle",
-        "img": "images/items/future_era_future_civic_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_future_civic_"
     },
     {
-        "name": "modern_era_boost_class_struggle_",
+        "name": "(Hint) Boost Class Struggle",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_class_struggle_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_class_struggle_"
     },
     {
-        "name": "medieval_era_naval_tradition_",
+        "name": "(Hint) Naval Tradition",
         "type": "toggle",
-        "img": "images/items/medieval_era_naval_tradition_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_naval_tradition_"
     },
     {
-        "name": "industrial_era_natural_history_",
+        "name": "(Hint) Natural History",
         "type": "toggle",
-        "img": "images/items/industrial_era_natural_history_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_natural_history_"
     },
     {
-        "name": "modern_era_boost_conservation_",
+        "name": "(Hint) Boost Conservation",
         "type": "toggle",
-        "img": "images/items/modern_era_boost_conservation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_boost_conservation_"
     },
     {
-        "name": "industrial_era_boost_urbanization_",
+        "name": "(Hint) Boost Urbanization",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_urbanization_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_urbanization_"
     },
     {
-        "name": "information_era_boost_satellites_",
+        "name": "(Hint) Boost Satellites",
         "type": "toggle",
-        "img": "images/items/information_era_boost_satellites_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_satellites_"
     },
     {
-        "name": "ancient_era_military_tradition_",
+        "name": "(Hint) Military Tradition",
         "type": "toggle",
-        "img": "images/items/ancient_era_military_tradition_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_military_tradition_"
     },
     {
-        "name": "classical_era_boost_construction_",
+        "name": "(Hint) Boost Construction",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_construction_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_construction_"
     },
     {
-        "name": "ancient_era_boost_irrigation_",
+        "name": "(Hint) Boost Irrigation",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_irrigation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_irrigation_"
     },
     {
-        "name": "atomic_era_boost_synthetic_materials_",
+        "name": "(Hint) Boost Synthetic Materials",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_synthetic_materials_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_synthetic_materials_"
     },
     {
-        "name": "ancient_era_goody_huts_3",
+        "name": "(Hint) Goody Huts 3",
         "type": "toggle",
-        "img": "images/items/ancient_era_goody_huts_3.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_goody_huts_3"
     },
     {
-        "name": "industrial_era_boost_scientific_theory_",
+        "name": "(Hint) Boost Scientific Theory",
         "type": "toggle",
-        "img": "images/items/industrial_era_boost_scientific_theory_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_boost_scientific_theory_"
     },
     {
-        "name": "atomic_era_boost_nuclear_fission_",
+        "name": "(Hint) Boost Nuclear Fission",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_nuclear_fission_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_nuclear_fission_"
     },
     {
-        "name": "atomic_era_cold_war_",
+        "name": "(Hint) Cold War",
         "type": "toggle",
-        "img": "images/items/atomic_era_cold_war_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_cold_war_"
     },
     {
-        "name": "industrial_era_ballistics_",
+        "name": "(Hint) Ballistics",
         "type": "toggle",
-        "img": "images/items/industrial_era_ballistics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_ballistics_"
     },
     {
-        "name": "ancient_era_animal_husbandry_",
+        "name": "(Hint) Animal Husbandry",
         "type": "toggle",
-        "img": "images/items/ancient_era_animal_husbandry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_animal_husbandry_"
     },
     {
-        "name": "information_era_composites_",
+        "name": "(Hint) Composites",
         "type": "toggle",
-        "img": "images/items/information_era_composites_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_composites_"
     },
     {
-        "name": "classical_era_shipbuilding_",
+        "name": "(Hint) Shipbuilding",
         "type": "toggle",
-        "img": "images/items/classical_era_shipbuilding_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_shipbuilding_"
     },
     {
-        "name": "classical_era_boost_defensive_tactics_",
+        "name": "(Hint) Boost Defensive Tactics",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_defensive_tactics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_defensive_tactics_"
     },
     {
-        "name": "atomic_era_plastics_",
+        "name": "(Hint) Plastics",
         "type": "toggle",
-        "img": "images/items/atomic_era_plastics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_plastics_"
     },
     {
-        "name": "classical_era_horseback_riding_",
+        "name": "(Hint) Horseback Riding",
         "type": "toggle",
-        "img": "images/items/classical_era_horseback_riding_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_horseback_riding_"
     },
     {
-        "name": "medieval_era_boost_divine_right_",
+        "name": "(Hint) Boost Divine Right",
         "type": "toggle",
-        "img": "images/items/medieval_era_boost_divine_right_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_boost_divine_right_"
     },
     {
-        "name": "renaissance_era_mass_production_",
+        "name": "(Hint) Mass Production",
         "type": "toggle",
-        "img": "images/items/renaissance_era_mass_production_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_mass_production_"
     },
     {
-        "name": "ancient_era_irigation_",
+        "name": "(Hint) Irrigation",
         "type": "toggle",
-        "img": "images/items/ancient_era_irigation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_irigation_"
     },
     {
-        "name": "modern_era_suffrage_",
+        "name": "(Hint) Suffrage",
         "type": "toggle",
-        "img": "images/items/modern_era_suffrage_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_suffrage_"
     },
     {
-        "name": "information_era_boost_environmentalism_",
+        "name": "(Hint) Boost Environmentalism",
         "type": "toggle",
-        "img": "images/items/information_era_boost_environmentalism_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_environmentalism_"
     },
     {
-        "name": "classical_era_recorded_history_",
+        "name": "(Hint) Recorded History",
         "type": "toggle",
-        "img": "images/items/classical_era_recorded_history_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_recorded_history_"
     },
     {
-        "name": "ancient_era_boost_military_tradition_",
+        "name": "(Hint) Boost Military Tradition",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_military_tradition_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_military_tradition_"
     },
     {
-        "name": "renaissance_era_cartography_",
+        "name": "(Hint) Cartography",
         "type": "toggle",
-        "img": "images/items/renaissance_era_cartography_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_cartography_"
     },
     {
-        "name": "medieval_era_buttress_",
+        "name": "(Hint) Buttress",
         "type": "toggle",
-        "img": "images/items/medieval_era_buttress_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "medieval_era_buttress_"
     },
     {
-        "name": "atomic_era_boost_rocketry_",
+        "name": "(Hint) Boost Rocketry",
         "type": "toggle",
-        "img": "images/items/atomic_era_boost_rocketry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_boost_rocketry_"
     },
     {
-        "name": "information_era_boost_robotics_",
+        "name": "(Hint) Boost Robotics",
         "type": "toggle",
-        "img": "images/items/information_era_boost_robotics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_boost_robotics_"
     },
     {
-        "name": "classical_era_boost_shipbuilding_",
+        "name": "(Hint) Boost Shipbuilding",
         "type": "toggle",
-        "img": "images/items/classical_era_boost_shipbuilding_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_boost_shipbuilding_"
     },
     {
-        "name": "atomic_era_nuclear_fission_",
+        "name": "(Hint) Nuclear Fission",
         "type": "toggle",
-        "img": "images/items/atomic_era_nuclear_fission_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_nuclear_fission_"
     },
     {
-        "name": "renaissance_era_gunpowder_",
+        "name": "(Hint) Gunpowder",
         "type": "toggle",
-        "img": "images/items/renaissance_era_gunpowder_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_gunpowder_"
     },
     {
-        "name": "future_era_boost_advanced_power_cells_",
+        "name": "(Hint) Boost Advanced Power Cells",
         "type": "toggle",
-        "img": "images/items/future_era_boost_advanced_power_cells_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_boost_advanced_power_cells_"
     },
     {
-        "name": "industrial_era_opera_and_ballet_",
+        "name": "(Hint) Opera And Ballet",
         "type": "toggle",
-        "img": "images/items/industrial_era_opera_and_ballet_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_opera_and_ballet_"
     },
     {
-        "name": "classical_era_political_philosophy_",
+        "name": "(Hint) Political Philosophy",
         "type": "toggle",
-        "img": "images/items/classical_era_political_philosophy_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_political_philosophy_"
     },
     {
-        "name": "classical_era_games_and_recreation_",
+        "name": "(Hint) Games And Recreation",
         "type": "toggle",
-        "img": "images/items/classical_era_games_and_recreation_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "classical_era_games_and_recreation_"
     },
     {
-        "name": "atomic_era_cultural_heritage_",
+        "name": "(Hint) Cultural Heritage",
         "type": "toggle",
-        "img": "images/items/atomic_era_cultural_heritage_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "atomic_era_cultural_heritage_"
     },
     {
-        "name": "ancient_era_archery_",
+        "name": "(Hint) Archery",
         "type": "toggle",
-        "img": "images/items/ancient_era_archery_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_archery_"
     },
     {
-        "name": "information_era_nanotechnology_",
+        "name": "(Hint) Boost Nanotechnology",
         "type": "toggle",
-        "img": "images/items/information_era_nanotechnology_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "information_era_nanotechnology_"
     },
     {
-        "name": "renaissance_era_exploration_",
+        "name": "(Hint) Exploration",
         "type": "toggle",
-        "img": "images/items/renaissance_era_exploration_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "renaissance_era_exploration_"
     },
     {
-        "name": "future_era_information_warfare_",
+        "name": "(Hint) Information Warfare",
         "type": "toggle",
-        "img": "images/items/future_era_information_warfare_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_information_warfare_"
     },
     {
-        "name": "ancient_era_boost_early_empire_",
+        "name": "(Hint) Boost Early Empire",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_early_empire_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_early_empire_"
     },
     {
-        "name": "modern_era_combustion_",
+        "name": "(Hint) Combustion",
         "type": "toggle",
-        "img": "images/items/modern_era_combustion_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "modern_era_combustion_"
     },
     {
-        "name": "ancient_era_boost_masonry_",
+        "name": "(Hint) Boost Masonry",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_masonry_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_masonry_"
     },
     {
-        "name": "future_era_cybernetics_",
+        "name": "(Hint) Cybernetics",
         "type": "toggle",
-        "img": "images/items/future_era_cybernetics_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_cybernetics_"
     },
     {
-        "name": "ancient_era_boost_state_workforce_",
+        "name": "(Hint) Boost State Workforce",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_state_workforce_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_state_workforce_"
     },
     {
-        "name": "ancient_era_boost_writing_",
+        "name": "(Hint) Boost Writing",
         "type": "toggle",
-        "img": "images/items/ancient_era_boost_writing_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_boost_writing_"
     },
     {
-        "name": "industrial_era_industrial_era_",
+        "name": "(Hint) Industrial Era",
         "type": "toggle",
-        "img": "images/items/industrial_era_industrial_era_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "industrial_era_industrial_era_"
     },
     {
-        "name": "future_era_predictive_systems_",
+        "name": "(Hint) Boost Predictive Systems",
         "type": "toggle",
-        "img": "images/items/future_era_predictive_systems_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "future_era_predictive_systems_"
     },
     {
-        "name": "ancient_era_mining_",
+        "name": "(Hint) Mining",
         "type": "toggle",
-        "img": "images/items/ancient_era_mining_.png",
-        "img_mods": "",
-        "disabled_img": "",
-        "initial_active_state": false,
         "codes": "ancient_era_mining_"
     }
 ]

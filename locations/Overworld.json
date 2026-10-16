@@ -137,7 +137,7 @@
                 ]
             },
             {
-                "name": "Irigation",
+                "name": "Irrigation",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1443,7 +1443,7 @@
                 ]
             },
             {
-                "name": "Divine Rights",
+                "name": "Divine Right",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -3063,7 +3063,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " atomic Era, PEra",
+                    "atomic Era, PEra",
                     "None",
                     "PDistricts"
                 ],
@@ -5498,10 +5498,9 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Wrong ap logic",
+                        "name": "Broken Logic (pre-0.6.8)",
                         "access_rules": [
                             "{suffrage}","{totalitarianism}","{class struggle}"
-                        // this represents the logic as of january 26
                         ],
                         "visibility_rules": [],
                         "item_count": 1,
