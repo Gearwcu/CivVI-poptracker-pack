@@ -1,6 +1,16 @@
 {
     "versions": [
         {
+            "package_version": "1.1.2",
+            "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.1.2/CivVI-poptracker-pack.zip",
+            "sha256": "cb4ea469b2d5c6b656745be9ea975bebeeec34090822a31ca57b7837d5adc71d",
+            "changelog": [
+                "Fixed boost economics for 'none'",
+                "Fixed double counted districts for types of districts for 'none'",
+                "Fixed erroneous neighborhood district in logic with 'none'"
+            ]
+        },
+        {
             "package_version": "1.1.1",
             "download_url": "https://github.com/Gearwcu/CivVI-poptracker-pack/releases/download/1.1.1/CivVI-poptracker-pack.zip",
             "sha256": "7e133f772d8d96512767b007cbf2b309714f70e83ad49b65e03e7bf179c05863",
