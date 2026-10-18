@@ -393,6 +393,16 @@
         "type": "toggle",
         "codes": "urbanization, district"
     },
+            {
+        "name": "replaceable parts",
+        "type": "toggle",
+        "codes": "replaceable parts"
+    },
+            {
+        "name": "capitalism",
+        "type": "toggle",
+        "codes": "capitalism"
+    },
         {
         "name": "sanitation",
         "type": "toggle",
