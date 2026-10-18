@@ -94,11 +94,6 @@
       "codes": "mining"
     },
     {
-      "name": "state workforce",
-      "type": "toggle",
-      "codes": "state workforce"
-    },
-    {
       "name": "bronze working",
       "type": "toggle",
       "codes": "bronze working, district"
@@ -507,7 +502,7 @@
       "codes": "Campus2",
       "stages":[
         {"img": "images/items/Campus1.png",
-        "codes": "district"
+        "codes": ""
         },
         {"img": "images/items/Campus2.png",
         "codes": ""
@@ -542,16 +537,13 @@
       "loop": false,
       "stages":[
         {"img": "images/items/theater1.png",
-      "codes": "district",
-      "inherit_codes": false
+      "codes": ""
         },
         {"img": "images/items/theater2.png",
-      "codes": "",
-      "inherit_codes": false
+      "codes": ""
         },
         {"img": "images/items/theater3.png",
-      "codes": "",
-      "inherit_codes": false
+      "codes": ""
         }
       ]
     },
@@ -577,12 +569,10 @@
       "loop": false,
       "stages":[
         {"img": "images/items/holy1.png",
-        "codes": "districtool",
-        "inherit_codes": false
+        "codes": ""
         },
         {"img": "images/items/holy2.png",
-        "codes": "",
-        "inherit_codes": false
+        "codes": ""
         }
       ]
     },
@@ -611,7 +601,7 @@
       "loop": false,
       "stages":[
         {"img": "images/items/encamp1.png",
-        "codes": "district",
+        "codes": "",
         "inherit_codes": false
         },
         {"img": "images/items/encamp2.png",
@@ -649,7 +639,7 @@
       "loop": false,
       "stages":[
         {"img": "images/items/commerce1.png",
-      "codes": "district"
+      "codes": ""
         },
         {"img": "images/items/commerce2.png",
       "codes": ""
@@ -681,7 +671,7 @@
       "loop": false,
       "stages":[
         {"img": "images/items/harbor1.png",
-        "codes": "district"
+        "codes": ""
         },
         {"img": "images/items/harbor2.png",
         "codes": ""
@@ -716,7 +706,7 @@
       "loop": false,
       "stages":[
         {"img": "images/items/industry1.png",
-      "codes": "district"
+      "codes": ""
         },
         {"img": "images/items/industry2.png",
       "codes": ""
@@ -751,7 +741,7 @@
       "loop": false,
       "stages":[
         {"img": "images/items/preserve1.png",
-      "codes": "districtool"
+      "codes": ""
         },
         {"img": "images/items/preserve2.png",
       "codes": ""
@@ -783,10 +773,10 @@
       "loop": false,
       "stages":[
         {"img": "images/items/entertain1.png",
-      "codes": "district"
+      "codes": ""
         },
         {"img": "images/items/entertain2.png",
-      "codes": "districtool"
+      "codes": ""
         },
         {"img": "images/items/entertain3.png",
       "codes": ""
@@ -818,7 +808,7 @@
       "loop": false,
       "stages":[
         {"img": "images/items/neighbor1.png",
-      "codes": "district"
+      "codes": ""
         },
         {"img": "images/items/neighbor2.png",
       "codes": ""
@@ -850,7 +840,7 @@
       "loop": false,
       "stages":[
         {"img": "images/items/aerodome1.png",
-      "codes": "district"
+      "codes": ""
         },
         {"img": "images/items/aerodome2.png",
       "codes": ""
@@ -879,7 +869,7 @@
       "codes": "Diplo Quarter2",
       "stages":[
         {"img": "images/items/diplo1.png",
-        "codes": "districtool"
+        "codes": ""
         },
         {"img": "images/items/diplo2.png",
         "codes": ""

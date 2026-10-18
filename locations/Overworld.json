@@ -6416,7 +6416,7 @@
                 "visibility_rules":["boostsanity"],
 
                 "access_rules": [
-                    "banking"
+                    "currency, banking"
                 ],
                 "sections": [
                     {
